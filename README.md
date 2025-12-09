@@ -1,8 +1,30 @@
+# MultiAgent - Luisa's Branch
+
+> **Note**: This repository contains Luisa Mantilla's contributions to the larger MultiAgent project from HickeyLab. This is a personal branch showcasing specific work on parameter extraction, biological modeling agents, and multi-agent orchestration systems.
+
+**Original Project**: [HickeyLab/MultiAgent](https://github.com/HickeyLab/MultiAgent)
+**Branch Contributor**: Luisa Mantilla
+**Original Project Lead**: Faye Guo
+
+---
+
+## About This Branch
+
+This branch represents my individual contributions to the HickeyLab MultiAgent project, focusing on:
+- Parameter extraction pipeline from scientific literature
+- Biological modeling agent architecture
+- Multi-agent orchestration and expert systems
+- Vector database integration for knowledge management
+
+For the complete project with all team contributions, please visit the [main HickeyLab repository](https://github.com/HickeyLab/MultiAgent).
+
+---
+
 # ModelBuild
 
 *Multi-Agent Vivarium Pipeline for Influenza Modeling*
 
-**Author**: Faye Guo
+**Project Lead**: Faye Guo
 
 ---
 
@@ -292,6 +314,7 @@ The system is being tested with the tumor-tcell Vivarium repository reconstructi
 
 ### Team
 - **Faye Guo**: ModelBuild system developing
+- **Luisa Mantilla**: Parameter extraction pipeline, biological modeling agents, orchestration systems
 - **Bobby**: Biological mapping and Simulation Agent
 - **Kevin**: Vector database and paper curation
 
