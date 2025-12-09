@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "```plaintext\nNATURE CANCER                                                                                   ARTICLES\n\na\n\n2.0\n1.5\n1.0\n0.5\n0.0\n\nVolume Ag+ (relative)\n\n0     16     24     32     40     48     72     120\n                      time (h)\n\nb\n\n1000\n 800\n 600\n 400\n 200\n   0\n\nDistance to nearest Ag+ cell (µm)\n\n0     16     24     32     40     48     72     120\n                      time (h)\n\n1000\n 800\n 600\n 400\n 200\n   0\n\nDistance to nearest Ag+ cell (µm)\n\n0     16     24     32     40     48     72     120\n                      time (h)\n\nExtended Data Fig. 5 | Analysis of T cell mediated loss of Ag-presenting tumor cells over time. a, Relative GFP+ volume in tumors from imaging \nexperiments described in Fig. 2 quantified over time. Mean and SEM are depicted for n=5 mice (n=5 mice for time 0, 16, 24, and 32 h; n=4 for 40, 48, and \n72 h; n=3 for 120 h, from data obtained in all independent experiments. b, The distance between CFP+ bystander tumor cells and the closest GFP+ Ag+ \ntumor cell was determined at indicated time points from tumors described in Fig. 2 for n=2 mice. Data are obtained from two independent experiments, \nboxplot presenting the minimum, 25th percentile, median, 75th percentile and the maximum for total sample size per timepoint see Source Data \nED_Fig5_source table.\n\nNATURE CANCER | www.nature.com/natcancer\n```",
+  "model": "gpt-4o",
+  "page": 17,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 19.96,
+  "filename": "hoekstra_2020.pdf",
+  "doc_id": "hoekstra_2020"
+}

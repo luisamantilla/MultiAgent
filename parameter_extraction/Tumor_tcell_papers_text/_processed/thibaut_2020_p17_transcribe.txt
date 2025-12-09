@@ -1,0 +1,62 @@
+```plaintext
+NATURE CANCER                                                                                      ARTICLES
+
+a
+
+OVA+ Eμ-myc       Activated OT-I T cells
+
+2 weeks           2 days
+                  Flow
+                  cytometry
+
+Rag2-/-γc-/- mice
+
+b
+
+-10^0  10^0  10^1  10^2  10^3  10^4  10^5  10^6  10^7
+H2-Kb
+
+-10^0  10^0  10^1  10^2  10^3  10^4  10^5  10^6  10^7
+PD-L1
+
+no T cells
+WT OT-I
+
+c
+
+|          | H2-Kb (gMFI) |          |
+|----------|--------------|----------|
+|          | 40000        |          |
+|          | 30000        |          |
+|          | 20000        |          |
+|          | 10000        |          |
+| no T     | OT-I         |          |
+| cells    | T cells      |          |
+
+|          | H2-D1 (gMFI) |          |
+|----------|--------------|----------|
+|          | 40000        |          |
+|          | 30000        |          |
+|          | 20000        |          |
+|          | 10000        |          |
+| no T     | OT-I         |          |
+| cells    | T cells      |          |
+
+|          | PD-L1 (gMFI) |          |
+|----------|--------------|----------|
+|          | 40000        |          |
+|          | 30000        |          |
+|          | 20000        |          |
+|          | 10000        |          |
+| no T     | OT-I         |          |
+| cells    | T cells      |          |
+
+Extended Data Fig. 3 | NK cells are dispensable for tumor phenotypic changes upon T cell transfer. a, Experimental set-up. Rag2-/-γc-/- recipient mice 
+were injected i.v. with OVA-expressing Eμ-myc B lymphoma cells. On day 12-13, in vitro activated OT-I CD8+ T cells were injected i.v. Two days later, the 
+recipient bone marrow was harvested and analyzed by flow cytometry. b, Representative examples of histograms showing H2-Kb (left) and PD-L1 (right) 
+surface expression on tumor cells isolated from the bone marrow of mice that were left untreated (filled grey) or injected with OT-I T cells (line, blue). 
+c, H2-Kb (left), H2-D1 (middle) and PD-L1 (right) surface expression on tumor cells isolated from mice treated or not with OT-I T cells, as assessed by flow 
+cytometry. Each dot represents one mouse with n=4 mice per group. Red lines indicate mean values. (* P<0.05, two-tailed Mann-Whitney U-test).
+
+NATURE CANCER | www.nature.com/natcancer
+```

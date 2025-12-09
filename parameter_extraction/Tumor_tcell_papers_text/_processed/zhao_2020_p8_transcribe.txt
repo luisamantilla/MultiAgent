@@ -1,0 +1,80 @@
+```
+PLOS PATHOGENS
+
+Generate exhausted CD8+ T cells in vitro
+
+A
+
+No peptide     Single peptide     Repeat peptide
+
+CD160
+↑
+2.0%           3.5%               65%
+
+CD244
+↑
+6.3%           3.2%               22%
+
+PD-1
+↑
+0.6%           8.6%               99%
+
+Lag3
+↑
+0.2%           0.4%               95%
+
+Tim3
+↑
+0.4%           0.5%               59%
+
+TIGIT
+↑
+4.2%           6.0%               95%
+
+CD8+ →
+B
+
+% PD-1+
+0 20 40 60 80 100
+** ** **
+
+% Lag3+
+0 20 40 60 80 100
+** ** **
+
+% Tim-3+
+0 20 40 60 80 100
+**** **** ***
+
+% CD160+
+0 20 40 60 80 100
+**** **** ***
+
+% TIGIT+
+0 20 40 60 80 100
+*** ***
+
+% CD244+
+0 20 40 60 80 100
+**** ***
+
+■ No peptide
+■ Single peptide
+■ Repeat peptide
+
+C
+
+No peptide     Single peptide     Repeat peptide
+
+% Inhibitory receptors+
+0 20 40 60 80 100
+none single double triple quadruple
+
+0 20 40 60 80 100
+none single double triple quadruple
+
+0 20 40 60 80 100
+none single double triple quadruple
+
+PLOS Pathogens | https://doi.org/10.1371/journal.ppat.1008555 June 24, 2020 8 / 27
+```

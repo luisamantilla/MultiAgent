@@ -1,0 +1,77 @@
+c(0) = 5 \times 10^8 cell/cm^2. \tag{12}
+
+There is no data in [30] on the density of the tumor in day 5. We assume that this density is larger than c(0) but substantively smaller than the maximal capacity 10^9 cell/cm^2. We take
+
+c(5) = 5.05 \times 10^8 cell/cm^2, \tag{13}
+
+for J558-Ctrl with PICTL or J558-IL-27 with PICTL/IL-27, but
+
+c(5) = 5.1 \times 10^8 cell/cm^2, \tag{14}
+
+for J558-Ctrl with IL-10^-/PICTL or J558-IL-27 with IL-10^-/PICTL/IL-27, since the last two types of T cells do not generate I_{27}.
+
+From Figure 1a in [30], there were 1.1 \times 10^6 PICTL at day 1 and 2.6 \times 10^6 PICTL at day 5; 10^6 PICTL/IL-27 at day 1 and 5 \times 10^6 PICTL/IL-27 at day 5. We assume that these CD8^+ T cells occupy the volume of 10 mm^2 for the first 5 days. Hence
+
+T(1) = 1.1 \times 10^8 cell/cm^2, T(5) = 2.6 \times 10^8 cell/cm^2, \tag{15}
+
+for PICTL
+
+T(1) = 10^8 cell/cm^2, T(5) = 5 \times 10^8 cell/cm^2, \tag{16}
+
+for PICTL/IL-27.
+
+Estimate of the parameters in (1)
+
+Since IL-27 belongs to the IL-12 family, we take its diffusion coefficient and the degradation rate to be the same as for IL-12 [48]:
+
+D_{27} = 1.25 \times 10^{-3} cm^2/day,
+
+\mu_{27} = 2/day.
+
+In order to find a_{27}, we use the simplified version of Equation (1):
+
+\frac{dI_{27}(t)}{dt} = a_{27}c - \mu_{27}I_{27}(t).
+
+If c is taken to be a constant, then
+
+I_{27}(5) = e^{-5\mu_{27}}I_{27}(0) + \frac{a_{27}c}{\mu_{27}}(1 - e^{-5\mu_{27}}). \tag{17}
+
+From Figure 1A in [30], I_{27}(0) = 5 \times 10^8 pg/cm^3 and only 5 - 10\% of I_{27} remained in day 5. We assume that 7.5\% of I_{27} remained at day 5, so that
+
+I_{27}(0) = 5 \times 10^8 pg/cm^3 and I_{27}(5) = 3750 pg/cm^3. \tag{18}
+
+Taking c to be the average between the values at day 0 and 5 (see (12) and (13)) and recalling (17), we get
+
+3750 pg/cm^3 = e^{-5\mu_{27} \times 2/day} \times 5 \times 10^8 pg/cm^3
+
++ \frac{a_{27}}{2/day} \times (5.025 \times 10^8) cell/cm^3 \times (1 - e^{-5\mu_{27} \times 2/day}),
+
+so that a_{27} = 1.5 \times 10^{-5} pg/cell/day.
+
+Estimate of the parameters in (2)
+
+We consider a simplified version of Equation (2):
+
+\frac{dI_{10}(t)}{dt} = s_{10}T + a_{10}T \frac{I_{27}}{T + q_{10}} - \mu_{10}I_{10}(t). \tag{19}
+
+From [48], we have \mu_{10} = 16/day. To estimate s_{10}, we consider the case of J558-Ctrl tumor cells, for which the term with I_{27} is removed from (19):
+
+\frac{dI_{10}(t)}{dt} = s_{10}T - \mu_{10}I_{10}(t).
+
+If T is constant, then
+
+I_{10}(5) = e^{-4\mu_{10}}I_{10}(1) + \frac{s_{10}T}{\mu_{10}}(1 - e^{-4\mu_{10}}).
+
+From the profile of PICTL in Figure 3D of [30], we have I_{10}(1) = 300 pg/cm^3 at day 1 and I_{10}(5) = 1 pg/cm^3 at day 5 and we take T to be the mean value of T(1) and T(5) in (15). We then get
+
+1 pg/cm^3 = e^{-4\mu_{10} \times 16/day} \times 300 pg/cm^3 + \frac{s_{10} \times 1.8 \times 10^8 cell/cm^3}{16/day}
+
+\times (1 - e^{-4\mu_{10} \times 16/day}),
+
+so that s_{10} = 8.89 \times 10^{-8} pg/cell/day.
+
+Next, we choose q_{10} = 5 \times 10^8 pg/cm^3 and proceed to compute a_{10}. We then consider J558-IL-27 tumor cells which can generate I_{27}. For simplicity, we take T to be the average between the values at days 1 and 5 (see (16)) and I_{27} to be the average between the values at days 0 and 5 (see (18):
+
+T = 3 \times 10^8 cell/cm^3 and I_{27} = 26875 pg/cm^3.
+
+PLOS ONE | www.plosone.org 13 March 2014 | Volume 9 | Issue 3 | e91844

@@ -1,0 +1,57 @@
+```plaintext
+PLOS PATHOGENS                                                                                      Generate exhausted CD8+ T cells in vitro
+
+Fig 7. Repeat peptide stimulated cells have distinct transcriptional profile. RNAseq analysis was performed on live CD8+ T cells sorted from 5 
+day culture of OT-I CD8+ T cells. Cells were either without peptide (no peptide), one-time stimulation (single peptide) or daily peptide 
+stimulations (repeat peptide). (A) PCA plot of RNA-seq data show that cells from identical culture conditions cluster together and away from each 
+other. (B) Heatmap shown for the top 50 differentially expressed genes within CTL from the different culture conditions. (C) Heatmaps for the 
+individual genes clustered based on function presented. (D) Repeat peptide stimulated CTL transcriptomes were enriched in the signatures of 
+LCMV-Cl13 exhausted CTL. Differentially expressed genes in repeat peptide stimulated CTL were analyzed by GSEA for their enrichment in gene 
+sets found in exhausted CTL from LCMV-Cl13 infected mice. Enrichment in upregulated (left) and downregulated (right) genes shown. (E) 
+Ingenuity pathway analysis was performed on the differentially expressed genes in repeat peptide stimulated cells (compared to single peptide). 
+Significantly upregulated pathways (orange) and downregulated pathways (blue) in repeat peptide stimulated cells are depicted. P values 
+(hypergeometric test) are presented as -log10.
+
+https://doi.org/10.1371/journal.ppat.1008555.g007
+
+performed gene set enrichment analysis (GSEA). Differentially expressed genes between repeat 
+peptide stimulated cell and single peptide stimulated cells were compared to public gene sets 
+of upregulated or downregulated in in vivo exhausted CTLs (gene set GSE84766). Gene sets 
+upregulated in exhaustion were found to be significantly more enriched in the repeat peptide 
+stimulated upregulated genes compared to single peptide stimulated cells (Fig 7D). Conversely, 
+the gene sets that were reported to be downregulated in exhausted cells were more enriched in 
+the genes that were downregulated in repeat peptide stimulated cells versus the single peptide 
+stimulated cells (Fig 7D). Thus, GSEA demonstrated significant transcriptional similarity 
+between in vitro repeat peptide stimulated cells and in vivo exhausted cells. To further investi- 
+gate signaling pathways that distinguish repeat peptide stimulated cells from single peptide 
+stimulated cells, we performed IPA analysis. The most significant pathway with upregulated 
+activity in repeat peptide stimulated cells was the T cell exhaustion signaling pathway (Fig 7E). 
+These findings clearly show that in vitro repeat peptide stimulation results in the transcrip- 
+tional changes of in vivo exhausted CD8+ T cells from LCMV cl 13 infections which serve as 
+the benchmark of CTL exhaustion.
+
+Repeat peptide stimulation results in hyper-methylation of the Tcf7 
+transcriptional regulatory region
+
+Changes in methylation of transcription regulatory region have been described in exhausted 
+CTLs [18, 43]. In order to identify whether in vitro repeat peptide stimulated cells also possess 
+similar epigenetic characteristics of exhausted CTLs, whole genome methylated DNA sequenc- 
+ing (MeD-seq) [44] was performed on the sorted live CD8+ T cells. Stimulated T cells undergo 
+distinct genome wide DNA methylation changes depending on the type of treatment (Fig 8A 
+and S2 Table). In comparison to unstimulated and single peptide stimulated cells, the tran- 
+scriptional regulatory region of Pdcd1 had significantly less DNA methylation in the repeat 
+peptide stimulated cells (Fig 8B, left). When comparing the promoter methylation status (2kb 
+region surrounding the TSS) of Tcf7, there was more DNA methylation detected in repeat pep- 
+tide stimulated than in the single peptide stimulated cells or unstimulated cells (Fig 8B, center). 
+Meanwhile, in the promoter region of the GzmB, significantly less DNA methylation was 
+found in the repeat peptide stimulated cells than in the other cells (Fig 8B, right), which was in 
+line with the higher expression of the protein upregulated in the repeat peptide stimulated cells 
+(Fig 3B). Besides Pdcd1, none of the other inhibitory receptor genes’ regulatory or promoter 
+regions were found to possess significant differences in methylation status, although some of 
+them showed expected trends in DNA methylation changes at their TSS. Interestingly, 
+DNA methylation states of the cytokine genes IL-2, IFN-γ and TNF-α were not significantly 
+different. This indicated that other gene expression control mechanisms, like histone modifi- 
+cations or transcription factor abundance, might regulate the differential expression of these 
+
+PLOS Pathogens | https://doi.org/10.1371/journal.ppat.1008555 June 24, 2020                                                                 13 / 27
+```

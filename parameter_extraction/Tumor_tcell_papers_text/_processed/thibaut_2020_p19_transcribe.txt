@@ -1,0 +1,22 @@
+```plaintext
+NATURE CANCER                                                                                                           ARTICLES
+
+Extended Data Fig. 4 | OT-I T cells arrest on antigen-positive tumor cells independently of IFN-γ. a, Rag2-/- mice were injected with a 1:1 mixture of OVA- 
+expressing and non-expressing Eμ-myc B lymphoma cells, labeled with CFP and YFP, respectively. On day 12-13, mice were injected with activated GFP- 
+OT-I T cells. Two days later, intravital imaging of the bone marrow was performed. The graph shows the relationship between mean T cell velocity and 
+straightness in the OVA+ (left) and OVA- (right) tumor areas. Each dot represents one T cell track (OVA+ areas: n=103 tracks, OVA- areas n=75 tracks). 
+b-d, Rag2-/- mice were injected with a 1:1 mixture of OVA-expressing and non-expressing Eμ-myc B lymphoma cells, labeled with CFP and GFP, respectively. 
+On day 12-13, mice were injected with activated WT or IFN-γ-deficient OT-I T cells transduced to express the mCherry fluorescent protein. Two days 
+later, intravital imaging of the bone marrow was performed. b, Representative image of OVA+ (blue) tumor patches infiltrated with IFN-γ-deficient OT-I 
+T cells (red). Scale bar: 50 μm. Right: Time lapse images (corresponding to the dashed squares) showing IFN-γ-deficient OT-I T cells (pointed by arrows) 
+forming stable contacts with OVA+ Eμ-myc cells. Scale bar: 15 μm. c,d, Both WT and IFN-γ-deficient OT-I T cells decelerate in OVA+ tumor areas. Graphs 
+show mean velocities (c) and arrest coefficient (d), for individual WT or IFN-γ-deficient T cells in OVA+ (blue) and OVA- (orange) tumor areas. Each dot 
+represents one track. Red lines indicate mean values. Data shown in b-d, are representative of two independent experiments with n=3 mice per group. (* 
+P<0.05; ** P<0.01; *** P<0.001; two-tailed Mann-Whitney U-test). e, OT-I T cells infiltrate antigen-negative tumors in the bone marrow. Rag2-/- mice were 
+injected with either Eμ-myc alone or a 1:1 mixture of Eμ-myc and OVA-expressing Eμ-myc B lymphoma cells (labeled with different fluorescent proteins). 
+On day 12-13, recipients were injected with OT-I T cells or left untreated. Two days later, the bone marrow of the mice was recovered and analyzed by flow 
+cytometry. The graph shows that OT-I T cells can efficiently infiltrate tumors that contain only antigen-negative cells. Each dot represents one mouse with 
+n=4 mice per group. Red lines indicate mean values.
+
+NATURE CANCER | www.nature.com/natcancer
+```

@@ -1,0 +1,105 @@
+```plaintext
+PD1-ACR T cells for PDL1+ cancer therapy
+
+A
+
+120
+100
+80
+60
+40
+20
+0
+
+40:1  20:1  10:1  5:1
+
+Target cell lysis ratio(%)
+
+Effector Target ratio
+
+U87
+H1299
+HCC1143
+
+MCF-7
+HCC38
+AU565
+
+B
+
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+
+40:1  20:1  10:1  5:1
+
+Target cell lysis ratio(%)
+
+Effector Target ratio
+
+U87
+H1299
+HCC1143
+
+MCF-7
+HCC38
+AU565
+
+Figure 6. PD1-ACR T cells lyse PDL1+ tumor cells. A. Specif 23ic cytotoxicity of PD1-ACR T cells against different tumor cell lines with different endogenous PDL1 expressing level. B. Cytotoxicity of the control T cells against different tumor cell lines with different level of PDL1 antigen expression. Data represented mean values of triplicate wells ± SEM.
+
+A
+
+140
+120
+100
+80
+60
+40
+20
+0
+
+0  2  4  6  8  10  12  14
+
+Tumor volume (mm3)
+
+Time (days after treatment)
+
+PBS group
+control T group
+PD1 ACR T group
+
+B
+
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+
+0  2  4  6  8  10  12  14
+
+Survival rate
+
+Time (days after treatment)
+
+PBS group
+control T group
+PD1 ACR T group
+
+Figure 7. In vivo anti-tumor activity of the PD1-ACR T cells. PDL1+ U87 cells and PDL1 T98G cells were used for the xenograft mouse model. PDL1 bearing BALB/cA-nude mice received different treatments: group 1, PD1-ACR+ T cells; group 2, control T cells; group 3, PBS. Data represented mean values of the tumor volumes with n = 15 for each group (mm3 ± SEM). A. Tumor size was measured weekly. B. Kaplan-Meier survival analysis of PDL1+ U87 cell xenograft models. control T cell and PBS treatment were ineffective in this model (p = 0.23), whereas PD1-ACR+ T cell treatment improved survival compared to control T cell and PBS treatment (p = 0.012, p < 0.001 respectively).
+
+human PDL1+ U87 and PDL1- T98G human malignant glioma cell lines in NSG mice respectively. We showed that the PD1-ACR T cells can effectively control the growth of aggressive U87 cells, but not that of the slow-growing T98G cells. The clearance of U87 tumor cells suggests that U87 cells are sensitive to the cytotoxic potential of PD1-ACR T cells in vivo, which are capable of eliminating a large number of targets upon engagement. It also implies that the lack of response to TCR cells is caused by factors that are not directly related to their cytolytic functions. For example, the contact between CTL cells and PDL1+ U87 target cells could alter signaling pathways in CTL cells that are critical for their sustained activation through regulating PI3K/Akt signaling pathway negatively and inducing immune cell tolerance.
+
+470
+
+Am J Transl Res 2015;7(3):460-473
+```

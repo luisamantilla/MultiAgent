@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and their values from the provided text:\n\n1. **Sample Sizes (n):**\n   - Saline: n = 20\n   - Doxorubicin: n = 20\n   - Oxaliplatin: n = 25\n   - X-rays: n = 20\n   - General group (b, c): n = 15 for each group\n   - General group (d): n = 20 for each group\n\n2. **Days after challenge:**\n   - 0, 10, 20, 30, 40, 60\n\n3. **Irradiation:**\n   - EG7 tumors irradiated with 10 Gy\n\n4. **Statistical significance:**\n   - *P < 0.05\n\nThese values are extracted from the context of experiments involving treatments with saline, doxorubicin, oxaliplatin, and X-rays, as well as the impact of TLR4 and HMGB1 on vaccination efficacy against tumor cells."
+}

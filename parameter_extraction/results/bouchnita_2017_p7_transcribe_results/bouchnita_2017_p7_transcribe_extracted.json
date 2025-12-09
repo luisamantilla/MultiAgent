@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and their values from the text:\n\n1. **Diffusion Coefficient of Cytokines:**\n   - \\( D_{\\text{IL2}} = D_{\\text{IFN}} \\) (first scenario)\n   - Diffusion rate of IFN is 10-fold faster than IL-2 (second scenario)\n\n2. **Cell Density in Lymph Node:**\n   - Approximately \\( 10^5 - 10^6 \\, \\text{mm}^{-3} \\)\n\n3. **Considered Cell Number:**\n   - About \\( 10^4 \\) per \\( 10^4 \\, \\text{mm}^3 \\) lymph node compartment\n\n4. **Simulation Time Points:**\n   - Day 8 post-infection (upper figure in Fig. 4)\n   - Day 80 post-infection (lower figure in Fig. 4)"
+}

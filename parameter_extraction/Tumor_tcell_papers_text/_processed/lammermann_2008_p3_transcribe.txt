@@ -1,0 +1,161 @@
+(Fig. 3a, b, Supplementary Fig. 4d, Supplementary Video 4). We 
+conclude that extravasation requires integrin-mediated adhesion.
+
+To better mimic the interstitial microenvironment, we established 
+chemotaxis assays within artificial three-dimensional (3D) matrices 
+of fibrin (a ligand for β3 and β5 integrins) and collagen I (a ligand for 
+several members of the β1 integrin subfamily). In this system, DCs 
+persistently migrated along soluble gradients of CCL19 and showed 
+amoeboid morphology and velocities that were comparable to our 
+(and previously published17) in vivo observations. In agreement with 
+our in vivo data and in contrast to 2D migration, integrin−/− and 
+talin1−/− DCs migrated with speed and directional persistence that 
+were indistinguishable from wild-type cells (Fig. 3c, Supplementary 
+Fig. 7a, Supplementary Video 5). We also observed integrin-
+independent migration for chemotaxing B cells and granulocytes, 
+suggesting a broader prevalence of this functional principle (Fig. 3d, 
+Supplementary Fig. 7b).
+
+Functional dissociation of front and back
+To mechanistically understand how cells can move in the absence of 
+integrin-mediated traction forces, we compared the integrin-
+dependent movement pattern of fibroblasts with that of leukocytes 
+and found a striking difference. Leading edge protrusions of 
+fibroblasts generated collagen fibres towards the cell body, indi-
+cating the presence of rearward pulling forces and demonstrating 
+that protrusion, adhesion and contraction are tightly coupled in this 
+cell type (Supplementary Video 6)18,19. In contrast, chemotaxing DCs 
+proceeded without signs of anterior pulling forces while the trailing 
+edge displayed an irregularly alternating contractile pattern. Con-
+traction was characterized by shrinkage of the cell rear with con-
+comitant forward-streaming of cytoplasmic matter (Supplementary 
+Video 7). When myosin II function was blocked, DCs were unable to 
+migrate in 3D collagen matrices, as shown by time-lapse microscopy 
+and quantitative analysis (Fig. 4a, Supplementary Fig. 8a). Instead, 
+DCs expressing a myosin light chain–GFP fusion protein, we found 
+accumulation at the cell rear during contractile phases (Fig. 4a, 
+Supplementary Fig. 8a, Supplementary Video 8). During non-
+contractile phases, the trailing edge remained motionless and 
+appeared to be passively dragged by the protruding cell front 
+(Supplementary Video 7). These observations suggest that in 
+contrast to slow moving cells, protrusion and contraction are 
+spatio-temporally dissociated in leukocytes.
+
+Receptor-mediated force transduction can only support forward 
+movement if retrograde (contractile) but not anterograde (protrus-
+ive) forces are coupled to the environment20–22. To address how 
+actomyosin contraction functionally contributes to leukocyte loco-
+motion, we pharmacologically inhibited myosin II or its upstream-
+activator, Rho kinase. Irrespective of the presence of integrin 
+function, either treatment severely reduced migration speeds of 
+DCs, granulocytes and B cells (Fig. 4b, Supplementary Fig. 8c, data 
+not shown). Nevertheless, the chemotactic gradient was still able to 
+polarize the cell population. The leading edges of cells remained 
+dynamic and protruded with normal speed towards the chemokine 
+source. However, the cells were unable to move their trailing edges 
+
+\[
+\begin{array}{ccc}
+\text{a} & \text{CCL19} & \text{MLC-GFP} \\
+\text{intensity} & & \\
+\end{array}
+\]
+
+\[
+\begin{array}{ccc}
+\text{0:30} & \text{0:35} & \text{0:45} \\
+\end{array}
+\]
+
+\[
+\begin{array}{c}
+\text{H}_{\text{a}} = 184.2, P < 0.001 \\
+\end{array}
+\]
+
+\[
+\begin{array}{c}
+\text{b} \\
+\end{array}
+\]
+
+\[
+\begin{array}{c}
+\text{H}_{\text{a}} = 12.3, H_{c} = 16.3 \\
+P < 0.001, P < 0.001 \\
+\end{array}
+\]
+
+\[
+\begin{array}{c}
+\text{c} \\
+\end{array}
+\]
+
+\[
+\begin{array}{c}
+\text{t}_{\text{a}} = 2.8, P = 0.012 \\
+\end{array}
+\]
+
+\[
+\begin{array}{c}
+\text{d} \\
+\end{array}
+\]
+
+\[
+\begin{array}{c}
+t_{a} = 0.6, t_{c} = 1.6, \\
+P = 0.53, P = 0.11 \\
+\end{array}
+\]
+
+\[
+\begin{array}{c}
+\text{WT} \quad \text{WT} \quad \text{WT} \\
+\text{Granulocyte} \quad \text{B blast} \\
+\end{array}
+\]
+
+\[
+\begin{array}{ccc}
+\text{DP:} & 0.81 & 0.78 \\
+& 0.09 & 0.08 \\
+\end{array}
+\]
+
+\[
+\begin{array}{c}
+0.76 \\
+0.11 \\
+\end{array}
+\]
+
+**Figure 3 | Integrin-independent leukocyte migration in 3D networks 
+in vitro.** a, 2D adhesion versus 3D migration of DCs. b, 2D adhesion on 
+ICAM-1 and fibronectin (FN) 1h after LPS stimulation. Top, quantification 
+of the number of adherent cells (ICAM-1, n = 6; FN, n = 8 for each 
+experiment). Bars, median values with interquartile range. *P < 0.05 (post 
+hoc). Bottom, morphology of wild-type (WT), integrin−/− (Itg−/−) and 
+talin1−/− (Tln1−/−) DCs. c, d, Velocities of chemotaxing leukocytes in 3D 
+collagen matrices. c, Top, DCs (4 experiments per group); d, granulocytes, B 
+cells. Dots, single cells; red line, mean. e, Bottom, single cell tracks of 
+chemotaxing DCs; values indicate mean DP ± s.d.
+
+**Figure 4 | Myosin II-dependent nuclear squeezing at the cell rear.** 
+a, Sequence of a myosin light chain (MLC)–GFP expressing wild-type (WT) 
+dendritic cell (DC) migrating towards CCL19 in a 3D collagen gel; upper 
+row, differential interference contrast (DIC) microscopy; lower row, 
+MLC–GFP intensity profiles (encoded in pseudo-colours with red 
+representing highest levels). Time in mins. b, Left, velocities of single DCs 
+(dots; red line, median) and right, DC morphology (coloured red, DIC 
+microscopy), chemotaxis towards CCL19 in 3D collagen gels upon 
+pharmacological inhibition. c, Speed of cell bodies (rear) versus cell 
+protrusions (front) of DCs in the presence of inhibitor; red line, median. 
+Bleb, blebbistatin; *P < 0.05 (post hoc). d, e, Time-lapse sequence of a WT 
+(d) and integrin−/− (e) DC either with (lower row) or without (upper row) 
+blebbistatin; DIC microscopy, nuclei (green). Time in mins; scale bars, 5 μm 
+(a), 10 μm (b, d, e).
+
+©2008 Nature Publishing Group

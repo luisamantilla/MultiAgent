@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and values from the text:\n\n1. **Time Postinfection:**\n   - Acute infection: 2 weeks postinfection\n   - Persistent infection: 8 weeks postinfection\n\n2. **Statistical Significance:**\n   - P-value for the difference between acutely and persistently infected mice: P < 0.0001\n\n3. **Tetramer-Positive CD8+ T Cells Positive for Granzyme B:**\n   - Acutely infected mice: Approximately 25%\n   - Persistently infected mice: About 3%\n\n4. **Mean Fluorescence Intensities of CD107a Signals:**\n   - Acute infection: 37.4 (n = 5)\n   - Persistent infection: 9.9 (n = 12)\n\n5. **Statistical Significance for CD107a Signals:**\n   - P-value for the difference between acute and persistent infection: P < 0.0001"
+}

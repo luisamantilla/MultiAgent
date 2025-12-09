@@ -1,0 +1,138 @@
+```
+DC subsets and their development
+
+SH Naik
+
+446
+
+precursors. Surprisingly, the answer was a mix of the two options. In
+fact, we found that single cells within what we classed as pro-DCs
+could sometimes generate one, sometimes two, and sometimes all
+three DC subtypes, with a predictable pattern between experiments.
+This could have several explanations. The first is that pro-DCs were
+not a ‘pure’ population and that there were still distinct populations
+within what we classed as pro-DCs, which our panel of tested markers
+could not discriminate. Alternatively, our pro-DC population was, in
+fact, ‘homogeneous’ and single cells can give rise to different outcomes
+on a cell-to-cell basis. For this latter option, stochastic cell-intrinsic
+cues, or signals from neighboring cells in culture, or both, could
+determine the cell’s fate. Which of the above scenarios accounts for the
+phenomenon is not clear, but is currently under investigation. More-
+over, whether such a process applies in vivo will also require further
+investigation.
+
+In an attempt to find an upstream precursor stage to pro-DCs,
+where all singles cell putatively generated all DC subtypes, we cultured
+single cells of still earlier multipotent progenitors (MPPs) that are
+capable of generating all hematopoietic lineages. MPPs are the major
+cell type within lineage-cKit+Sca-1+ BM cells. Although there was a
+greater proportion of clones that generated all three DC subtypes, to
+our surprise there were still single cells that could produce only one or
+only two subtypes. In particular, the percentage of pDC-only clones
+produced by MPPs was larger, as was their clone size, compared to
+pro-DCs. It is actually for this reason that we prefer the term ‘pro-
+DCs’ to ‘CDPs’ (common DC precursor), as the term ‘common’
+implies that all cells can equally produce all DC subtypes, whereas pro-
+DC implies a cell that is ‘primed’ to a particular subtype.
+
+This is reminiscent of the in vivo progenitor stages of
+hematopoiesis, rather than an all-or-nothing event at a fixed stage, the
+classic branching models of hematopoiesis are not informative
+enough. For example, our data suggest that DC development in
+general can branch at many stages along the hematopoietic pathway
+with a more defined branch at the pro-DC stage. However, if one
+looks at pDC-only precursors, for example, these can branch off with a
+greater probability earlier in hematopoiesis, such as at the MPP stage,
+with some potential still remaining in downstream steps, such as the
+pro-DC step. For want of a better term, I will call this graded
+commitment—that is, each division down certain pathways has a
+probability of a committed precursor for a cell type’s ‘branching off’
+(Figure 4), and this may increase (or decrease) on a population level
+depending on the lineage. Thus, perhaps part way down the haemo-
+topoietic pathway a single cell initiates the ‘all DC program’, which can
+then potentially switch to either the ‘pDC program’, ‘CD8+ and cDC
+program’, ‘CD8+ DC program’ and so on.
+
+The molecular mechanisms that would guide such fates may
+include the numerous transcription factors that have been described
+that differentiate unique DC subtype development (reviewed in Short-
+man and Naik7). Their regulation may be stochastic within the cell, or
+depend on external cytokine or cell-associated signals. The Flt3/FL axis
+may be an ‘instructive’ mediator in the ‘all DC’ program with evidence
+that enforced expression of committed Flt3 megakaryocyte/erythroid
+progenitors could direct DC development.23,25,26 Another key player
+that could support this model was published recently using human
+DCs that develop in NOD-scid severe combined immunodeficiency mice,
+which suggested the pDC and cDC development program is inde-
+pendent of the conventional myeloid and lymphoid pathways. The
+authors found that, no matter whether the DCs were CMP- or
+CLP derived, they had near identical gene expression profiles.23,27
+This evidence can fit the graded commitment model such
+
+pDC-only potential
+
+HSC/MPP/CLP CMP/CLP pDC
+cDC
+CD8+
+
+Sca-1+
+cKit+
+Flt3+
+
+Sca-1+
+cKit+
+Flt3+
+
+Probability of common DC precursor
+
+Figure 4 The ‘graded’ commitment model of dendritic cell (DC)
+development. There does not appear to be defined stages where every
+cell within a population can, or cannot make a particular DC subtype. Rather,
+there is a gradation of probability of getting an ‘all DC’ clone versus a
+plasmacytoid cell (pDC)-only or conventional DCs (cDC)-only clone from a
+single cell. The earlier in the pathway, the more likely there are single cells
+that can make not only ‘all DCs’ but also ‘pDC-only’. Further downstream,
+these events are less likely, but the chance of cDC-committed clone
+increases. This model aims to explain how DC subtypes can derive from
+different progenitors in the pathway, with different patterns of clonal
+development on the single cell level. The molecular mechanisms that dictate
+this may involve the interplay of Flt3 ligand (FL) signaling, various
+transcription factors and the niche.
+
+Table 3 Comparison of the mouse and human DC subtypes
+
+| Mouse                | Human                | References |
+|----------------------|----------------------|------------|
+| Plasmacytoid         | pDC                  | 239,240    |
+| Inflammatory Mo      | Ly6Chi Gr1+          | CD14+      | 40         |
+| Noninflammatory Mo   | Ly6Clo               | CD16+CD14lo|            |
+| Langerhans cells     | CD1a+ Lc+            | Langerin+  | 241        |
+| T-cell area resident DC | CD8+ cDC           | BDCA3+ DC* | 211,242    |
+| Marginal zone resident DC | CD8+ cDC*       | BDCA1+ CD4+ (*) | 5,211,243 |
+
+Abbreviations: Mo, monocytes; pre-DC, precursors of DCs.
+
+that a fixed ‘DC program’ can be initiated in single cells, even
+as far down ‘opposite’ ends of hematopoiesis as the lymphoid and
+myeloid pathways. Kincade and colleagues also provide important
+arguments against the classical binary models of hematopoiesis,238
+simply here. Although not discussed further, existing data for
+many cell types can fit such a phenomenon. An assertion of the
+relevance of this model in vivo would ultimately require good
+cell-tracing technologies.
+
+ARE BDCA3+ HUMAN DCS EQUIVALENT TO MOUSE CD8+
+DCS?
+
+Correlating the human and mouse DC subtypes has been challenging.
+This has been owed largely to poor accessibility to human spleen and
+lymphoid tissue, the absence of key murine DC subtype markers on
+human DCs (and vice versa), and poor reagents that dissect the
+human DC subtypes. Some DC and monocyte subtype equivalents
+have already been identified, whereas others are not so clear (Table 3).
+Those of us whom work on the human DC subtypes are quizzed
+incessantly about what the human equivalents of mouse CD8+ cDCs
+are, especially considering the vast array of tolerogenic and immuno-
+
+Immunology and Cell Biology
+```

@@ -1,0 +1,55 @@
+```
+31. De Yang, Chen, Q., Schmidt, A. P., Anderson, G. M., Wang, J. M., 
+Wooters, J., Oppenheim, J. J., Chertov, O. (2000) LL-37, the neutrophil 
+granule- and epithelial cell-derived cathelicidin, uses formyl peptide 
+receptor-like 1 (FPRL1) as a receptor to chemoattract human peripheral 
+blood neutrophils, monocytes, and T cells. J. Exp. Med. 192, 1069–1074.
+32. Yang, D., Cheng, Q., Chernov, O., Oppenheim, J. J. (2000) Human neutro-
+phil defensins selectively chemoattract naive T and immature dendritic 
+cells. J. Leukoc. Biol. 68, 9–14.
+33. Kurosaka, K., Chen, Q., Yarovinsky, F., Oppenheim, J. J., Yang, D. (2005) 
+Mouse cathelin-related antimicrobial peptide chemoattracts leukocytes 
+using formyl peptide receptor-like 1/mouse formyl peptide receptor-like 2 
+as the receptor and acts as an immune adjuvant. J. Immunol. 174, 
+6257–6265.
+34. Yang, D., Howard, O. M. Z., Chen, Q., Oppenheim, J. J. (1999) Cutting 
+edge: immature dendritic cells generated from monocytes in the presence 
+of TGF-β1 express functional C-C chemokine receptor 6. J. Immunol. 
+163, 1737–1741.
+35. Murphy, P. M. (1996) Chemokine receptors: structure, function and role in 
+microbial pathogenesis. Cytokine Growth Factor Rev. 7, 47–64.
+36. Kalsow, H. R., Burns, D. L. (1992) Pertussis toxin and target eukaryotic 
+cells: binding, entry, and activation. FASEB J. 6, 2684–2690.
+37. Banchereau, J., Steinman, R. M. (1998) Dendritic cells and the control of 
+immunity. Nature 392, 245–252.
+38. Park, J. S., Svetkauskaite, D., He, Q., Kim, J. Y., Strassheim, D., Ishizaka, 
+A., Abraham, E. (2004) Involvement of Toll-like receptors 2 and 4 in 
+cellular activation by high mobility group box 1 protein. J. Biol. Chem. 
+279, 7370–7377.
+39. Kokkola, R., Andersson, A., Mullins, G., Ostberg, T., Treutiger, C. J., 
+Arnold, B., Nawroth, P., Andersson, U., Harris, R. A., Harris, H. E. (2005) 
+RAGE is the major receptor for the proinflammatory activity of HMGB1 
+in rodent macrophages. J. Immunol. 64, 1–9.
+40. Park, J. S., Arcaroli, J., Yum, H. K., Yang, H., Wang, H., Yang, K. Y., 
+Choe, K. H., Strassheim, D., Pitts, T. M., Tracey, K. J., Abraham, E. 
+(2003) Activation of gene expression in human neutrophils by high mo-
+bility group box 1 protein. Am. J. Physiol. Cell Physiol. 284, C870–C879.
+41. Liliensiek, B., Weigand, M. A., Bierhaus, A., Nicklas, W., Kasper, M., 
+Hofer, S., Plachky, J., Grone, H. J., Kurschus, F. C., Schmidt, A. M., Yan, 
+S. D., Martin, E., Schleicher, E., Stern, D. M., Hammerling, G. G., 
+Nawroth, P. P., Arnold, B. (2004) Receptor for advanced glycation end 
+products (RAGE) regulates sepsis but not the adaptive immune response. 
+J. Clin. Invest. 113, 1641–1650.
+42. Yang, H., Ochani, M., Li, J., Qiang, X., Tanovic, M., Harris, H. E., 
+Sausarla, S. M., Ulloa, L., Wang, H., DiRaimo, R., Czura, C. J., Roth, J., 
+Warren, H. S., Fink, M. P., Fenton, M. J., Andersson, U., Tracey, K. J. 
+(2004) Reversing established sepsis with antagonists of endogenous high-
+mobility group box 1. Nature. Natl. Acad. Sci. USA 101, 296–301.
+43. Park, J. S., Gamboni-Robertson, F., He, Q., Svetkauskaite, D., Kim, J. Y., 
+Strassheim, D., Sohn, J. W., Yamada, S., Maruyama, I., Banerjee, A., 
+Ishizaka, A., Abraham, E. (2006) High mobility group box 1 protein inter-
+acts with multiple Toll-like receptors. Am. J. Physiol. Cell Physiol. 
+290, C917–C924.
+
+66 Journal of Leukocyte Biology Volume 81, January 2007 http://www.jleukbio.org
+```

@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "```plaintext\nEl Darzi et al.                                                                                                                  9\n\n(a)                                                                                                      \n          Unstimulated          IFN-γ                IL-4                TNF-α                BA\n  24h                                                                                                      \n          8%                   10%                 5%                  8%                  56%\n          7%                   5%                  9%                  5%                  8%\n  PI                                                                                                       \n  48h                                                                                                      \n          5%                   30%                 6%                  17%                 8%\n          7%                   11%                 6%                  6%                  6%\n  72h                                                                                                      \n          2%                   12%                 2%                  14%                 8%\n          7%                   12%                 4%                  9%                  4%",
+  "model": "gpt-4o",
+  "page": 9,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 129.6,
+  "filename": "eldarzi_2017.pdf",
+  "doc_id": "eldarzi_2017"
+}

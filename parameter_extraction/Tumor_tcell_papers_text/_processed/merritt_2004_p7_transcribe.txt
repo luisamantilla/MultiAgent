@@ -1,0 +1,95 @@
+```plaintext
+Merritt et al                                                                                           General Thoracic Surgery
+
+A. AdCD40L                                      B. No Treatment
+
+250                                             250
+
+200                                             200
+
+150                                             150
+
+100                                             100
+
+ 50                                              50
+
+  0                                               0
+     Medium B16 + rmIFNγ B16 LLC                     Medium B16 + rmIFNγ B16 LLC
+
+C. AdNull                                       D. Naive
+
+250                                             250
+
+200                                             200
+
+150                                             150
+
+100                                             100
+
+ 50                                              50
+
+  0                                               0
+     Medium B16 + rmIFNγ B16 LLC                     Medium B16 + rmIFNγ B16 LLC
+
+                    Target cell type
+
+Figure 4. Pretreatment of B16.F10 cells with rmIFNγ results in more efficient stimulation of tumor-specific CTLs in
+vitro. CTLs were harvested from mice and evaluated for IFNγ release (activation) in the ELISPOT assay as
+described in Materials and Methods. Each bar represents the mean number of spots ± SEM from a total of 3 wells
+from each group. A, Splenocytes from AdCD40L-treated, tumor-bearing mice. B, Splenocytes from tumor-bearing
+mice receiving no treatment. C, Splenocytes from AdNull-treated, tumor-bearing mice. D, Splenocytes from
+untreated, tumor-free mice. *No spots detected.
+
+hanced on B16.F10 cells and whether this up-regulation
+would result in (1) more efficient tumor-specific CTL gen-
+eration in tumor-bearing mice (afferent limb) and (2) more
+efficient tumor cell–induced binding and activation of tu-
+mor-specific CTLs (efferent limb). The data show that MHC
+class I expression by B16.F10 cells is readily enhanced by
+exposure to the murine cytokine, rmIFNγ, in vitro and in
+vivo, and that this up-regulation results in more efficient
+binding of tumor-specific CTLs to B16.F10 cells. Further-
+more, a single dose of rmIFNγ enhances the generation of
+CTLs by tumor-bearing mice (afferent limb) and augments
+the antitumor effect and cure rate observed with an estab-
+lished active immunotherapy strategy (AdCD40L). Finally,
+B16.F10 cells that have been exposed to rmIFNγ are more
+potent activators of CTLs than tumor cells that have been
+exposed to this cytokine.
+
+Enhancement of the Afferent Limb of the Antitumor
+Immune Response by a Single Dose of rmIFNγ
+The afferent limb of the antitumor immune response in-
+volves presentation of tumor-associated antigens to naive
+CD8+ T lymphocytes, a process that requires MHC class I
+expression by tumor cells.1-3 With the addition of costimu-
+
+                                                                 Number of spots
+
+                                                                 250
+
+                                                                 200
+
+                                                                 150
+
+                                                                 100
+
+                                                                  50
+
+                                                                   0
+                                                                       No       rmIFNγ AdNull AdNull AdCD40L AdCD40L
+                                                                    treatment          rmIFNγ          rmIFNγ
+
+                                                                                   Treatment group
+
+Figure 5. In vivo administration of a single dose of rmIFNγ to
+tumor-bearing mice enhances tumor-specific CTL generation in-
+duced by AdCD40L. CTLs were harvested from tumor-bearing
+mice and evaluated for IFNγ release (activation) using the ELIS-
+POT assay as described in Materials and Methods. Each bar
+represents the mean number of spots ± SEM from a total of 3
+wells for each group. Target cells for this experiment consisted
+of only untreated B16.F10 tumor cells.
+
+The Journal of Thoracic and Cardiovascular Surgery • Volume 127, Number 2  361
+```

@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "Figure S8.\n\n\\[\n\\begin{array}{c|c}\n\\text{Legend} & \\\\\n\\hline\n\\text{Black line} & k = 1.0 \\\\\n\\text{Blue line} & k = 0.5 \\\\\n\\text{Cyan line} & k = 0.2 \\\\\n\\text{Magenta line} & k = 0.1 \\\\\n\\end{array}\n\\]\n\n\\[\n\\begin{array}{c|c}\n\\text{Y-axis} & >50, 50, 40, 30, 20, 10, 0 \\\\\n\\hline\n\\text{X-axis} & 0, 10, 20, 30, 40, 50, >50 \\\\\n\\end{array}\n\\]\n\n\\[\nT_{cc}\n\\]",
+  "model": "gpt-4o",
+  "page": 39,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 6.24,
+  "filename": "eden_2011.pdf",
+  "doc_id": "eden_2011"
+}

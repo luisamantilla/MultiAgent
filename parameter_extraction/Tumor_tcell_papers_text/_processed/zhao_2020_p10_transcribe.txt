@@ -1,0 +1,82 @@
+PLOS PATHOGENS
+
+Generate exhausted CD8+ T cells in vitro
+
+A
+
+GzmB
+
+0.3% 1.6%  
+8.1% 90%
+
+2.0% 9.9%  
+11.1% 77%
+
+52.9% 41.4%  
+2.0% 3.7%
+
+TCF1
+
+5.7%  
+CD8
+
+3.3%  
+87.9%
+
+TOX
+
+40% 1.7%  
+58.2% 0.2%
+
+2.5% 14.9%  
+35.2% 47.5%
+
+2.0% 21.7%  
+2.0% 76.1%
+
+EOMES
+
+T-bet
+
+B
+
+TCF1 MFI
+
+15000  
+10000  
+5000  
+0
+
+TOX MFI
+
+2000  
+1500  
+1000  
+500  
+0
+
+No peptide  
+Single peptide  
+Repeat peptide
+
+C
+
+% EOMES+
+
+% T-bet+
+
+No peptide  
+Single peptide  
+Repeat peptide
+
+Fig 5. Repeat peptide stimulation induces a distinct pattern of transcription factor expression. Transcription factors (TF) were analyzed in OT-I CD8+ T cells on day 5 of culture. Cells either unstimulated (no peptide), stimulated one time (single peptide) or daily (repeat peptide) shown. (A) Representative flow cytometry plots of the frequency of TF-expressing live CD8+ T cells shown for the differently treated cultures. (B) Pooled data depicting the MFI of TCF1 and TOX in live CD8+ T cells. (C) Pooled data showing the frequency of EOMES and T-bet expressing live CD8+ T cells. Each symbol represents one animal (n = 9-12), with n = 7-9 independent experiments performed. Line depicts mean ± SE. ANOVA with Tukey's post hoc test was performed on TCF1 MFI, Student’s t test with Welch’s correction was used for TOX MFI and Wilcoxon signed rank test for data in (C). *<0.05, **P<0.01, ***P<0.001, ****P<0.0001.
+
+https://doi.org/10.1371/journal.ppat.1008555.g005
+
+that in vitro repeat peptide stimulation resulted in a reduced capacity of CTL to expand when re-exposed to their cognate antigen. This further supports our notion that in vitro repeated antigen stimulation results in exhaustion of these cells.
+
+Repeat peptide stimulated cells have the transcriptional profile of exhausted CTLs
+
+To determine whether repeat peptide stimulated cells also have a distinct transcriptional profile, we performed RNAseq on sorted live CD8+ T cells from the different culture conditions.
+
+PLOS Pathogens | https://doi.org/10.1371/journal.ppat.1008555 June 24, 2020 10 / 27

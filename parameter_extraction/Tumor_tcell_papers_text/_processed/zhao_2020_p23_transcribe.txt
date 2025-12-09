@@ -1,0 +1,31 @@
+PLOS PATHOGENS
+
+Generate exhausted CD8+ T cells in vitro
+
+(B) are shown. n = 8 animals from 5–6 independent experiments depicted. Representative histogram of CD80 expression on the cells is shown in (C). One of two independent experiments shown (n = 3).
+(TIFF)
+
+S6 Fig. Anergy gene sets and pathways do not characterize repeat peptide exhausted T cells. Both upregulated and downregulated genes in anergic T cells are enriched in exhausted T cells. (A) GSEA of genes upregulated and (B) downregulated in anergic T cells (gene set GSE 5960) are both enriched in differentially expressed repeat peptide stimulated cells (repeat peptide versus no peptide cell). (C) GSEA of genes upregulated and (D) downregulated in anergic T cells (gene set GSE 5960) are both enriched in differentially expressed Day 30 gp33-specific CTL from LCMV clone 13 infected animals (Day 30 versus gp33-specific CTL naïve CD8+ T cells; data from GSE41867). (E) In repeat peptide stimulated cells the anergy related pathway in IPA analysis was neither upregulated nor downregulated. IPA analysis was performed on the differentially expressed genes in repeat stimulated cells (compared to no peptide). The “Regulation of IL-2 expression in activated and anergic T lymphocytes” pathway is showed enlarged and the overall positioning in the global IPA pathway analysis is indicated by the arrow and red circle. Significantly upregulated pathways (orange) and downregulated pathways (blue), no activity pattern available (grey) are depicted. Bar graphs depict P values (hypergeometric test) presented as–Log10.
+(TIFF)
+
+S1 Table. Differentially expressed genes in repeat peptide stimulated T cells determined by RNAseq. Log2 fold change is show for repeat peptide OT-1 versus single peptide stimulated OT-1. After 5 day cultures, cells were sorted and RNAseq was performed. Genes with > 2 fold change and padj value < 0.05 shown.
+(PDF)
+
+S2 Table. Differentially methylation of TSS regions was determined by MeD-seq. Fold change is show for repeat peptide OT-1 versus single peptide stimulated OT-1. After 5 day cultures, cells were sorted and MeD-seq was performed. Greater than 2-fold changes shown.
+(PDF)
+
+Acknowledgments
+We thank Harm de Wit and Peter van Geel for making the MHC class I tetramers and sorting cells.
+
+Author Contributions
+Conceptualization: Manzhi Zhao, Joost Gribnau, Stefan J. Erkeland, Yvonne M. Mueller, Peter D. Katsikis.
+
+Data curation: Manzhi Zhao, Caoimhe H. Kiernan, Marjan van Meurs, Ruben Boers.
+
+Formal analysis: Manzhi Zhao, Caoimhe H. Kiernan, Marjan van Meurs, Inge Brouwers-Haspels, Ruben Boers, Eric M. Bindels, Remco M. Hoogenboezem, Yvonne M. Mueller.
+
+Funding acquisition: Manzhi Zhao, Peter D. Katsikis.
+
+Investigation: Manzhi Zhao, Christopher J. Stairiker, Jennifer L. Hope, Leticia G. Leon, Marjan van Meurs, Inge Brouwers-Haspels, Ruben Boers, Joachim Boers, Joost Gribnau, Wilfred F. J. van IJcken, Eric M. Bindels, Remco M. Hoogenboezem, Stefan J. Erkeland, Yvonne M. Mueller, Peter D. Katsikis.
+
+PLOS Pathogens | https://doi.org/10.1371/journal.ppat.1008555 June 24, 2020 23 / 27

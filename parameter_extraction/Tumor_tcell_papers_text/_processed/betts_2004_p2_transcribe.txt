@@ -1,0 +1,49 @@
+```plaintext
+498                                                                                   Michael R. Betts and Richard A. Koup
+
+Flow cytometric analysis of CD8⁺ T lymphocyte-mediated cytotoxicity has 
+similar limitations, most importantly that the identity of cytolytic CD8⁺ T cells 
+(the cells responsible for eliciting cytotoxic activity) is not directly examined. 
+Several flow-based killing assays have been developed, which we and others have 
+used to detect CD8⁺ T-cell-mediated cytotoxicity (Betts et al., 2003; Fischer et al., 
+2002; Lecoeur et al., 2001; Liu et al., 2002; Ritchie et al., 2000; Sheehy et al., 2001). 
+One such assay system uses fluorescent dyes, such as carboxy fluorescein diacetate 
+succinimidyl ester (CFSE), PKH-26, or chloromethyl-benzoyl-amino-tetramethyl-
+rhodamine (CMTMR) to label peptide-loaded target cells, which are then com-
+bined with CD8⁺ T cells (Betts et al., 2003; Fischer et al., 2002; Ritchie et al., 2000; 
+Sheehy et al., 2001). As the peptide-specific CD8⁺ T cells kill the target cells, 
+cytotoxicity is measured as the loss of fluorescently labeled target cells within the 
+assay sample. This type of system can be combined with standard measures of 
+apoptosis, such as 7-AAD or annexin V (Lecoeur et al., 1997, 2001) staining to 
+provide additional information about the target cells. Another method to assess 
+cytotoxicity is the caspase assay (Chahroudi et al., 2003; Liu et al., 2002). This 
+method detects the activation of caspase enzymes within target cells, an early 
+process in the apoptotic pathways that is induced upon delivery of the “lethal hit” 
+by cytolytic T cells. Unfortunately, however, none of these assays alone provides 
+sufficient information regarding the identity, phenotype, or frequency of the CD8⁺ 
+T cells that mediate the killing. Several methods have been developed to identify 
+antigen-specific CD8⁺ T cells. These include, most notably, major histocompati-
+bility complex (MHC) class I tetrameric complexes (Altman et al., 1996) and 
+intracellular cytokine staining (Betts et al., 2000; Jung et al., 1993; Kern et al., 
+1998; Waldrop et al., 1997). Although both of these techniques can provide 
+valuable information regarding the frequency, phenotype, and/or the functionality 
+of antigen-specific T cells, they do not examine the ability of the CD8⁺ T cells to 
+elicit cytotoxic activity.
+
+In this chapter, we describe an assay that serves to help bridge the gap between 
+measurement of CD8⁺ T-cell cytolytic activity and the identity of the effector 
+CD8⁺ T cells. To understand how this assay is performed, it is important to 
+first review the fundamental mechanism by which CD8⁺ T cells mediate cytolytic 
+activity—degranulation. Cytotoxic CD8⁺ T lymphocytes mediate the killing of 
+target cells via two major pathways: perforin-granzyme-mediated activation of 
+apoptosis and fas–fas ligand–mediated induction of apoptosis (Henkart, 1994; 
+Nagata and Golstein, 1995; Sarin et al., 1997; Trapani et al., 1998). Induction of 
+these pathways depends on the release of cytolytic granules from the responding 
+CD8⁺ T cells (Bossi and Griffiths, 1999; Yannelli et al., 1986). Degranulation is a 
+necessary prerequisite to perforin-granzyme–mediated killing and is required for 
+immediate lytic function mediated by responding antigen-specific CD8⁺ T cells. 
+Cytotoxicity does not require de novo synthesis of proteins by the effector CD8⁺ 
+T cell; instead, pre-formed lytic granules located within the cytoplasm are released 
+in a polarized fashion toward the target cell (Barry and Bleackley, 2002; Griffiths, 
+1997). The lytic granules are membrane-bound secretory lysosomes that contain a 
+```

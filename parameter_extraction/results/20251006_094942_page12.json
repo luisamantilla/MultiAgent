@@ -1,0 +1,20 @@
+{
+  "tables": [],
+  "figures": [],
+  "text": [
+    {
+      "parameter": "BioNetGen",
+      "value": null,
+      "units": null,
+      "context": "simulation capabilities for intracellular viral replication"
+    },
+    {
+      "parameter": "CompuCell3D",
+      "value": null,
+      "units": null,
+      "context": "modeling tool for cellularized mechanisms"
+    }
+  ],
+  "equations": [],
+  "summary": "The page discusses the potential of using cellularized models for influenza infection and immune response. It highlights the integration of viral replication dynamics with other modeling frameworks. The text mentions tools like BioNetGen and CompuCell3D for simulating intracellular processes and cellularized mechanisms. Future work aims to improve model accuracy and explore spatial aspects of immune response."
+}

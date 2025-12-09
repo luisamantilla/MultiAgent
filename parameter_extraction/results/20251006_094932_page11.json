@@ -1,0 +1,43 @@
+{
+  "tables": [],
+  "figures": [
+    {
+      "parameter": "Initial infection fraction",
+      "value": [
+        "0.001",
+        "0.005",
+        "0.01",
+        "0.05"
+      ],
+      "units": null,
+      "context": "Different initial conditions for simulation"
+    },
+    {
+      "parameter": "Uninfected cells",
+      "value": "10^3 to 10^5",
+      "units": null,
+      "context": "Population of uninfected cells over time"
+    },
+    {
+      "parameter": "Infected cells",
+      "value": "10^0 to 10^3",
+      "units": null,
+      "context": "Population of infected cells over time"
+    },
+    {
+      "parameter": "Extracellular virus",
+      "value": "10^0 to 10^3",
+      "units": null,
+      "context": "Concentration of extracellular virus over time"
+    },
+    {
+      "parameter": "Antibodies",
+      "value": "0 to 5",
+      "units": null,
+      "context": "Antibody levels over time"
+    }
+  ],
+  "text": [],
+  "equations": [],
+  "summary": "The page presents simulation results comparing spatial and ODE models under varying initial infection fractions. Key findings include differences in the dynamics of uninfected and infected cells, extracellular virus, and antibody levels over time. The study highlights the impact of spatial conditions on model outcomes, suggesting that spatial models can provide insights into biological systems not captured by ODE models."
+}

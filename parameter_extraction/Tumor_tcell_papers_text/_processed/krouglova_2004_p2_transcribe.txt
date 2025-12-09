@@ -1,0 +1,131 @@
+```plaintext
+2636                                                                                                               Krouglova et al.
+
+unpolymerized tubulin was not observed (Parness and 
+Horwitz, 1981; Ringel and Horwitz, 1991; Díaz et al., 
+1993). Some studies, however, demonstrate that paclitaxel 
+does interact with soluble tubulin in vitro, but with lower 
+affinity (Kd = 49 ± 8 μM at 25°C) (Sengupta et al., 1995) 
+than that reported for polymeric tubulin, and it also binds to 
+the tubulin-colchicine complex much more weakly than to 
+microtubules (Howard and Timasheff, 1988; Carlier and 
+Pantaloni, 1983).
+
+In this article, fluorescent correlation spectroscopy (FCS) 
+has been used to study the diffusion behavior of tubulin at 
+concentrations down to the nanomolar range and in differ-
+ent conditions. In the presence of Mg2+ ions we observed 
+a decreasing diffusion coefficient of fluorescently labeled 
+tubulin, when increasing concentrations of unlabeled protein 
+were added, and we were able to correlate this average 
+diffusion coefficient with the degree of polymerization and 
+to determine the association constant from its concentration 
+dependence. We also studied the diffusion of the fluorescent 
+derivative of paclitaxel ((7-O-[N-(2,7-difluoro-4'-fluores-
+ceincarbonyl)-L-alanyl]) paclitaxel (Flutax2) at nanomolar 
+concentrations. The kinetic scheme and the reaction rates of 
+Flutax2 binding to microtubules have already been de-
+termined by Díaz et al. (2000). These authors found that 
+Flutax2 binds to microtubules with high affinity (K ≈ 
+107 M−1 at 37°C), whereas the binding to tubulin under 
+these conditions is very weak. In this study we found 
+that after addition of microtubule polymerization agents, the 
+diffusion coefficient of Flutax2 decreases due to the 
+recruitment of multiple tubulin dimers and the formation of 
+oligomers of defined size. Addition of paclitaxel to these 
+oligomers does not displace the bound Flutax2 but 
+induces microtubule formation from bound Flutax2.
+
+Also paclitaxel (at limiting concentrations) is shown to 
+induce tubulin oligomers made visible by using fluorescently 
+labeled tubulin and extra tubulin.
+
+MATERIALS AND METHODS
+Preparation of tubulin
+
+Microtubule proteins are isolated by two cycles of assembly/disassembly 
+from pig brains according to the method of Shelanski et al. (1973) as 
+modified by Engelborghs et al. (1977).
+
+Microtubule protein concentration is estimated from the turbidity 
+increase at 350 nm upon polymerization, using a specific turbidity change 
+of 0.2 OD/(mg/ml). Tubulin is purified from the microtubule proteins by 
+phosphocellulose chromatography, and its concentration is determined 
+spectrophotometrically in MES buffer using ε278 = 120,000 M−1 cm−1.
+
+The tubulin-colchicine complex is formed by incubation of tubulin with 
+a millimolar solution of colchicine at room temperature for 30 min, followed 
+by a separation from the free colchicine by chromatography on Sephadex 
+G-25 (Sigma-Aldrich, St. Louis, MO). Dissociation of the complex is known 
+to be very slow. The concentration of colchicine is determined spectrophoto-
+metrically using ε350 = 16,600 M−1 cm−1 (Wilson and Friedkin, 1966). 
+The composition of the mixture was determined spectrophotometrically, and 
+usually 0.9–1 mol colchicine/mol tubulin is found. The tubulin-podophy-
+llotoxin complex is prepared by incubating the micromolar concentration of
+
+tubulin with excess of podophyllotoxin (by a factor of 10) for 30 min at 
+25°C.
+
+The MES buffer used is adjusted to pH 6.4 and has the following 
+composition: 50 mM MES, 1 mM EGTA, 1 mM MgCl2, and 1 mM NaN3, 
+with the ionic strength adjusted to 0.1 M with NaCl. Microtubules are 
+assembled from purified tubulin in assembly MES buffer, containing 4 mM 
+MgCl2, 1 mM GTP, and paclitaxel at 37°C for 30 min. The addition of 
+tubulin-colchicine complex to the assembly solution allows the production 
+of short microtubules (Lambier and Engelborghs, 1983).
+
+Fluorescent paclitaxel derivative
+
+Oregon Green 488 paclitaxel (Flutax2) is the fluorescent derivative of 
+paclitaxel that is used to study interactions of fluorescent paclitaxel at 
+nanomolar concentration with microtubules by FCS. Flutax2 (7-O-[N-(2,7-
+difluoro-4'-fluoresceincarbonyl)-L-alanyl]) paclitaxel) was kindly provided 
+by J. M. Andreu (CSIC, Madrid, Spain). It is synthesized by the reaction of 
+7-O-(2,4-dimethyl) paclitaxel with Oregon Green 488 carboxylic acid, 
+succinimidyl ester (“5 isomer”, ref. 0-6147, Molecular Probes, Eugene, 
+OR) described before (Souto et al., 1995), and purified by preparative thin 
+layer chromatography on silica gel with chloroform, methanol, and acetic 
+acid 4:1:0.15 v/v/v as eluent. The mass spectrum and NMR data are in 
+accordance with its structure (Souto, 1997). Flutax2 concentrations are 
+measured in 0.5% sodium dodecyl sulfate, 50 mM sodium phosphate buffer 
+pH 7.0 employing an extinction coefficient of 49,100 ± 1,100 M−1 cm−1 at 
+496 nm (Díaz et al., 2000). Flutax2 is dissolved in dimethylsulfoxide at 
+a final concentration of 1 mM and kept at −20°C.
+
+For FCS measurements the fluorescent paclitaxel is added to the 
+nanomolar range in MES buffer and added to the tubulin solution. Flutax2 
+has an excitation maximum that closely matches the 488-nm spectral line of
+
+Preparation of labeled tubulin
+
+Labeled tubulin is obtained from microtubule proteins (MTP) that are 
+labeled by an amine-reactive reagent such as carboxytetramethylrhodamine 
+succinimidyl ester (TAMRA) (Molecular Probes) in the polymer-
+ized state at 37°C according to Hyman et al. (1991). The first step in the 
+labeling procedure is the polymerization of microtubule proteins at 
+concentrations of ~23 mg/ml at 37°C for 30 min followed by a change to 
+the higher pH necessary for labeling. The microtubule solution is very 
+carefully loaded on a warm cushion containing Pipes buffer pH 6.8, 60% (v/v) 
+glycerol, and centrifuged at 30,000 rpm for 30 min at 37°C. The 
+pellet is resuspended in warm Hepes buffer pH 6.8 containing 40% (v/v) 
+glycerol. TAMRA is added at a concentration of 100 μM to the microtubules 
+and incubated at 37°C for 20 min while vortexing. To decrease the pH after 
+labeling and stop the reaction, Pipes buffer (pH 6.8) containing 100 mM 
+potassium glutamate and 40% (v/v) glycerol is added. This solution of 
+microtubules is loaded on a warm cushion from Pipes buffer (pH 6.8) 
+containing 60% glycerol and centrifuged at 30 rpm at 37°C for 30 min. The 
+pellet of fluorescent microtubules is resuspended in Pipes buffer and 
+completely depolymerized in an ice bucket for 20 min. This solution is 
+then centrifuged at 4°C at 15,000 rpm for 30 min. To separate fluorescent 
+tubulin from fluorescent microtubule-associated proteins and from free dye, 
+phosphocellulose chromatography and gel chromatography (PD10 column) 
+are used, respectively. To check the activity of labeled tubulin an assembly 
+control experiment was performed. The concentration of labeled tubulin is 
+determined spectrophotometrically in MES buffer, using ε278 = 120,000 
+M−1 cm−1 for tubulin and ε555 = 95,000 M−1 cm−1 for TAMRA (Haugland, 
+2001). Labeling stoichiometries fall in the range of 0.4–0.7 mol TAMRA/ 
+mol tubulin. In the FCS measurements the concentration of labeled tubulin is 
+usually ~3 nM.
+
+Biophysical Journal 87(4) 2635–2646
+```

@@ -1,0 +1,80 @@
+{
+  "tables": [],
+  "figures": [
+    {
+      "parameter": "Epithelial cells at 1 day",
+      "value": null,
+      "units": null,
+      "context": "Spatial distribution of epithelial cells at 1 day"
+    },
+    {
+      "parameter": "Epithelial cells at 14 days",
+      "value": null,
+      "units": null,
+      "context": "Spatial distribution of epithelial cells at 14 days"
+    },
+    {
+      "parameter": "Immune cells at 1 day",
+      "value": null,
+      "units": null,
+      "context": "Spatial distribution of immune cells at 1 day"
+    },
+    {
+      "parameter": "Immune cells at 14 days",
+      "value": null,
+      "units": null,
+      "context": "Spatial distribution of immune cells at 14 days"
+    },
+    {
+      "parameter": "Virus at 1 day",
+      "value": null,
+      "units": null,
+      "context": "Spatial distribution of virus at 1 day"
+    },
+    {
+      "parameter": "Virus at 14 days",
+      "value": null,
+      "units": null,
+      "context": "Spatial distribution of virus at 14 days"
+    },
+    {
+      "parameter": "Type I IFN at 1 day",
+      "value": null,
+      "units": null,
+      "context": "Spatial distribution of Type I IFN at 1 day"
+    },
+    {
+      "parameter": "Type I IFN at 14 days",
+      "value": null,
+      "units": null,
+      "context": "Spatial distribution of Type I IFN at 14 days"
+    },
+    {
+      "parameter": "Chemokines at 1 day",
+      "value": null,
+      "units": null,
+      "context": "Spatial distribution of chemokines at 1 day"
+    },
+    {
+      "parameter": "Chemokines at 14 days",
+      "value": null,
+      "units": null,
+      "context": "Spatial distribution of chemokines at 14 days"
+    },
+    {
+      "parameter": "IL-10 at 1 day",
+      "value": null,
+      "units": null,
+      "context": "Spatial distribution of IL-10 at 1 day"
+    },
+    {
+      "parameter": "IL-10 at 14 days",
+      "value": null,
+      "units": null,
+      "context": "Spatial distribution of IL-10 at 14 days"
+    }
+  ],
+  "text": [],
+  "equations": [],
+  "summary": "The figure illustrates the spatial distribution of various biological components over time, including epithelial cells, immune cells, virus, Type I IFN, chemokines, and IL-10. Observations are made at different time points: 1, 2, 3, 4, 7, and 14 days. The study suggests that spatially resolved models can better predict infection dynamics. Differential adhesion and chemotaxis parameters were qualitatively formulated to align with ODE model results."
+}

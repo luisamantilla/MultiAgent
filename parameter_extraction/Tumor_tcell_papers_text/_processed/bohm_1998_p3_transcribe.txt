@@ -1,0 +1,112 @@
+```plaintext
+898                                                                 IMMUNE REJECTION MECHANISMS OF MURINE B16 MELANOMAS
+
+B16.F0 and B16.F1 from the American Type Culture Collection (ATCC, 
+Manassas, VA; CRL-6322, CRL-6323) and B16.F10 (from Dr. P. Anton-
+sson, Lund, Sweden) were used. In most experiments, we used the 
+B16.F10 line.
+
+The bovine papilloma virus-based vector BMGneo (24) (a generous gift 
+from Drs. Y. Karasuyama and F. Melchers, Basel, Switzerland) was used 
+to construct the BMG/HBs expression plasmid (22) and the BMG/T-Ag-I 
+expression plasmid (21). BMG/HBs and BMG/T-Ag-I vector DNA, or 
+BMGneo vector DNA (without insert), were transfected into B16 cells 
+using the CaPO4 method. Expression of the viral proteins was tested in B16 
+transfectants labeled with 400 μCi of [35S]methionine (cat. no. SJ1015; 
+Amersham, Braunschweig, Germany) in methionine-free RPMI 1640 me-
+dium. Labeled cells were washed twice in PBS and extracted with lysis 
+buffer (120 mM NaCl, 1% aprotinin (Trasylol, cat. no. 48764; Bayer, Le-
+verkusen, Germany), 50 μM leupeptine, 0.5% Nonidet P-40, 10% glycerol, 
+50 mM Tris/HCl, pH 8.0) for 30 min at 4°C. Extracts cleared by 
+centrifugation (30 min, 20,000 x g, 4°C) were subsequently incubated for 
+2 h at 4°C with protein-A Sepharose (cat. no. 17-0780-01; Pharmacia, 
+Freiburg, Germany). The HBsAg proteins were precipitated with a poly-
+clonal rabbit-anti-HBs antiserum and protein A-Sepharose, and the T-Ag-
+proteins were precipitated with mAb PAb101 (25) and protein A-Sepha-
+rose at 4°C. The precipitates were washed extensively in low salt (1% Tri-
+tonX-100, 0.4% I P, 1 mM Tris/HCl (pH 9.0)). After two additional washes 
+with 0.5% Nonidet P-40 in PBS and once again in 0.1% PBS, they were re-
+covered from the A-Sepharose in 400 μl of elution buffer (1.5% SDS, 
+5% β-ME, and 7 mM Tris/HCl, pH 6.8). Following an incubation for 30 
+min at 37°C, SDS-PAGE samples were lyophilized and dissolved in 30 
+μl of sample buffer containing glycerol and bromophenol blue. 
+Immunoprecipitated samples were analyzed by SDS-PAGE.
+
+IFN-γ treatment of B16 cells
+
+B16 cells were cultured for 48 to 72 h in serum-free medium containing 20 
+to 400 U/ml IFN-γ (rat-γ, cat. no. 1279605, Boehringer Mannheim, 
+Mannheim, Germany). Cells were collected, washed, then used in flow 
+cytometry, 51Cr-release or cytotoxic assays.
+
+FCM analyses
+
+For FCM studies, cells were suspended in PBS/0.5% (w/v) BSA supple-
+mented with 0.1% (w/v) sodium azide. Nonspecific binding of Abs to Fc 
+receptors was avoided by incubating cells with the mAb 2.4G2 (cat. no. 
+01241D) directed against FcγRII/III (CD16/CD32) (9 μg mAb/10^6 cells/
+ml). Cells were incubated with 0.5 μg/10^6 cells of the relevant Ab for 
+20 min at 4°C and washed twice. In most experiments, cells were subse-
+quently incubated with a second-step reagent for 20 min at 4°C. Three-
+color FCM analyses were performed on a FACScan (Becton Dickinson, 
+Mountain View, CA). The forward angle light scatter channel was used as 
+an additional parameter to facilitate exclusion of dead cells and aggregated 
+cell clumps. The following reagents and Abs from Pharmingen (Hamburg, 
+Germany) were used: FITC-conjugated or biotinylated anti-CD4 
+(L3T4) mAb H129.19 (cat. no. 09040D, 08012D), FITC-conjugated anti-CD4 
+(L3T4) mAb RM4-5 (cat. no. 01062D), anti-CD8α (Ly-2) mAb 53-6.7 (cat. no. 
+01042D), FITC-conjugated anti-CD8α mAb 53-6.7 (cat. no. 01242D), FITC-
+conjugated anti-CD4 (Pgk-1) mAb RM4-7 (cat. no. 01242D), phycoerythrin 
+(PE)-conjugated anti-CD80 (B7.1) mAb 16-10A1 (cat. no. 09065D), biotin-
+ylated anti-CD86 mAb GL1 (cat. no. 09270D), biotinylated anti-CD95 
+(Fas) mAb Jo2 (cat. no. 15042D), FITC-conjugated anti-H-2K^b mAb AF6-
+88.5 (cat. no. 01040D), biotinylated anti-H-2D^b mAb 28-14-8 (cat. no. 
+06323D), FITC-conjugated anti-I^A^b mAb 25-9-17 (cat. no. 08034D), PE-
+conjugated anti-I^A^b mAb M5/114.15.2 (cat. no. 09175D), biotinylated anti-
+CD40 mAb 3/23 (cat. no. 09062D), biotinylated anti-CD40L (gp39) mAb 
+MR1 (cat. no. 09202D), FITC-conjugated Annexin V (cat. no. 33120D), Annexin 
+V-PE-conjugated (cat. no. 65752X), Annexin V-FITC-conjugated (cat. no. 
+65734X), and PE-, chromo- and FITC-conjugated streptavidin (cat. no. 
+13052D, 13042D). The anti-CD95L (FasL) mAb N-20 (cat. no. sc-8349 
+was obtained from Santa Cruz Biotechnology (Heidelberg, Germany).
+
+HBsAg- and T-Ag-encoding expression vectors used for DNA 
+immunization
+
+The construction of the expression plasmid pCMV-I-I has been described 
+(26). The expression plasmid pCIS (containing the small HBsAg) was 
+constructed by cloning the HBsAg-encoding Xho-I/Bgl-II fragment of 
+HBV, subtype ayw (from the plasmid pTKHTBV2, a generous gift of Dr. 
+M. Meyer, Munich, Germany) into the pCI vector (cat. no. E1713, Pro-
+
+Figure 1. Expression of the viral proteins in B16.F10 melanoma cells. 
+B16.F10 melanoma cells were transfected with the (HBsAg-encoding) 
+BMG/HBs plasmid DNA, or the (T-Ag-encoding) BMG/T-Ag-I plasmid 
+DNA, or BMGneo vector DNA (containing no insert). Expression of the 
+viral proteins was detected in cells (selected for 2 wk) by immunoprecipi-
+tation of the Ag from cell lysates using specific Abs (see Materials and Meth-
+ods for details). Control immunoprecipitations from lysates of RBL/5 and 
+RBL/5/T transfectants are included into the SDS-PAGE analysis.
+
+mage, Heidelberg, Germany) cut with Xho-I/Bam-HI. COS-7 cells (CRL-
+1651, ATCC) were transfected with 30 μg plasmid DNA/10^6 cells using 
+the CaPO4 method. Cells were cultured for 2 d, and expression of the viral 
+proteins by these cells was confirmed by immunoprecipitation as described 
+above. HBsAg and T-Ag proteins were expressed in transiently transfected 
+COS-7 cells (data not shown). Plasmid DNA used for immunization was 
+purified by anion exchange chromatography using the Qiagen maxi kit 
+(Qiagen, Hilden, Germany). Naked plasmid DNA suspended at 1 μg/μl in 
+PBS was injected.
+
+Reverse transcription-PCR
+
+Total RNA was isolated from nontransfected or transfected B16 cells (Qia-
+gen minikit, cat. no. 74123) and reverse transcribed to cDNA using a 
+cDNA synthesis kit (Stratagene, Frankfurt, Germany cat. no. 200402). Ali-
+quots from each cDNA preparation were PCR-amplified using the forward/
+reverse primers and the conditions previously described (27), and the buffer 
+and polymerase from Stratagene (cat. no. 600153-81, 600153-82). The 
+0.54-kb fragment was resolved on a 2% agarose gel.
+
+Downloaded from https://academic.oup.com/immunohorizons/article/6/12/897/7054002 by Duke University user on 04 July 2023
+```

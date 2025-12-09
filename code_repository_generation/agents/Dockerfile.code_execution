@@ -1,0 +1,36 @@
+# Dockerfile for the Code Execution Agent's environment
+
+# Use an official Python runtime as a parent image
+FROM python:3.10-slim
+
+# Set the working directory in the container
+WORKDIR /app
+
+# Install system dependencies for OpenCV and other libraries
+RUN apt-get update && apt-get install -y \
+    libgl1-mesa-glx \
+    libglib2.0-0 \
+    && rm -rf /var/lib/apt/lists/*
+
+# Install Python packages
+RUN pip install --no-cache-dir \
+    pandas \
+    numpy \
+    scikit-learn \
+    matplotlib \
+    seaborn \
+    tumor-tcell \
+    opencv-python-headless \
+    scipy \
+    tqdm \
+    pymunk \
+   # vivarium-core==1.6.0 \
+   # vivarium-multibody==0.0.12 \
+    setuptools
+
+# Verify tumor-tcell installation
+RUN python -c "import tumor_tcell; print('tumor_tcell imported successfully')"
+
+# By default, when the container starts, it will execute the script provided in the
+# docker run command (e.g., python script_to_execute.py)
+# No CMD or ENTRYPOINT needed here if we always provide the command in `docker run`.

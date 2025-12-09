@@ -1,0 +1,73 @@
+```
+Commonly misidentified lines
+(See ICLAC register)
+
+No commonly misidentified lines were used in this study
+
+Animals and other organisms
+Policy information about studies involving animals; ARRIVE guidelines recommended for reporting animal research
+
+Laboratory animals
+Species: Mice
+Strains: NOD-scid Il2rγnull/B2mnull
+Sex: male and female (for mammary fatpad tumor injections only female mice were used)
+Age: 8-26 weeks old
+
+Wild animals
+This study did not involve wild animals
+
+Field-collected samples
+This study did not involve samples collected from the field
+
+Ethics oversight
+All animal experiments were approved by the Animal Welfare Committee of the Netherlands Cancer Institute, in accordance with national guidelines
+
+Note that full information on the approval of the study protocol must also be provided in the manuscript.
+
+Human research participants
+Policy information about studies involving human research participants
+
+Population characteristics
+No data on specific patient characteristics. 51 samples collected from patients undergoing tumor resection surgery were assessed for B2m and CD8 expression.
+
+Recruitment
+Patients were not recruited, material was obtained following an opt-out procedure.
+
+Ethics oversight
+Study was approved by the local medical ethical committee (institutional review board (IRB) of The Netherlands Cancer Institute, Antoni van Leeuwenhoek hospital (NKI-AVL)).
+
+Note that full information on the approval of the study protocol must also be provided in the manuscript.
+
+Flow Cytometry
+Plots
+
+Confirm that:
+☐ The axis labels state the marker and fluorochrome used (e.g. CD4-FITC).
+☒ The axis scales are clearly visible. Include numbers along axes only for bottom left plot of group (a 'group' is an analysis of identical markers).
+☒ All plots are contour plots with outliers or pseudocolor plots.
+☒ A numerical value for number of cells or percentage (with statistics) is provided.
+
+Methodology
+Sample preparation
+Cell lines were cultured, and when attaching cells, harvested by trypsin EDTA treatment. All cells were stained in PBS containing 0.5% w/v bovine serum albumin and 0.2% w/v sodium azide.
+
+Instrument
+BD LSRII or BDFortessa
+
+Software
+Data were collected using BD FacsDiva and analyzed using FlowJo
+
+Cell population abundance
+All sorted populations described in the text were sorted with >90% purity, as confirmed by flow cytometry after cell outgrowth to high numbers.
+
+Gating strategy
+Cells were gated first by morphology to exclude cell debris, doublets were then gated out by FSC-A/FSC- followed by exclusion of dead cells by gating on IR-Dye negative cells.
+
+☐ Tick this box to confirm that a figure exemplifying the gating strategy is provided in the Supplementary Information.
+
+nature research | reporting summary
+
+October 2018
+
+3
+```

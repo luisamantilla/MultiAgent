@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "PLOS PATHOGENS\n\nGenerate exhausted CD8+ T cells in vitro\n\nA\n\nOT-I mouse\n\nPurified CD8+ cells\n\n\\[\n\\begin{array}{cccccc}\n1 & 2 & 3 & 4 & 5 & 6 \\\\\nA & & & & & \\\\\nB & & & & & \\\\\nC & & & & & \\\\\nD & & & & & \\\\\n\\end{array}\n\\]\n\nNo peptide\n\nSingle peptide\n\nRepeat peptide\n\nDay 0\n\n10ng/ml OVA\\(_{257-264}\\)\n\n10ng/ml OVA\\(_{257-264}\\)\n\nDay 1\n\nWash\n\nWash\n\n10ng/ml OVA\\(_{257-264}\\)\n\nDay 2\n\nWash\n\nWash\n\n10ng/ml OVA\\(_{257-264}\\)\n\nDay 3\n\n10ng/ml OVA\\(_{257-264}\\)\n\nDay 4\n\n10ng/ml OVA\\(_{257-264}\\)\n\nDay 5\n\nWash and rest 3 days\n\nDay 8\n\nFlow cytometry\n\nIR, TF\n\n6h OVA\\(_{257-264}\\) restimulation\n\nIC\n\nFlow cytometry\n\nIR, TF\n\n6h OVA\\(_{257-264}\\) restimulation\n\nIC\n\nCytotoxicity Assay\n\nFACS Sort\n\nRNAseq\n\nMeD-seq\n\nB\n\nLive cell count (x10^6)\n\nFold change of live cells\n\n\\[\n\\begin{array}{ccc}\n\\text{No peptide} & \\text{Single peptide} & \\text{Repeat peptide} \\\\\n\\end{array}\n\\]\n\nPLOS Pathogens | https://doi.org/10.1371/journal.ppat.1008555 June 24, 2020\n\n4 / 27",
+  "model": "gpt-4o",
+  "page": 4,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 19.2,
+  "filename": "zhao_2020.pdf",
+  "doc_id": "zhao_2020"
+}

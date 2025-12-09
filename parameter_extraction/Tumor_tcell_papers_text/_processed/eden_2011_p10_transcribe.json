@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "that the translation inhibitor CHX completely halts protein production would result in a \ntime dependent exponential decay to zero according to Eq. 10. However, in practice \nabout half of the tested protein showed dynamics that did not fit an exponential decay \nto zero (e.g. CKS2) and one protein, ENO1, showed an increase in response to CHX \n(Figure S1). This indicates that in the present human cells CHX does not halt translation \nbut only reduces it (increasing CHX dosage by 10 fold gave similar protein profiles). \nHence, retrieving removal rates from the present measurements requires a model that \nallows for both production and removal. We tested several models but found that the \nestimated removal rate can change considerably (factor of 10) according to the arbitrary \nchoice of model. Overall, we were unable to obtain reliable removal rates in the present \nhuman cells using a CHX based approach.\n\n1.14 GO Enrichment analysis\n\nGO enrichment analysis was used to identify groups of genes with similar half-lives \nthat also share similar function or localization. This was done by ranking the proteins \naccording to their half-lives and seeking functions or localizations that are enriched at \neither end of the list using the mHG procedure (17-18). The mHG P-value is similar to \nthe hyper geometric P-value but it does not require a predetermined arbitrary cutoff for \ndetermining the target and the background sets.\n\n9",
+  "model": "gpt-4o",
+  "page": 10,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 9.64,
+  "filename": "eden_2011.pdf",
+  "doc_id": "eden_2011"
+}

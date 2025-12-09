@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and values from the text:\n\n1. **Scale bar for two-photon images**: 20 μm\n2. **Scale bar for insets in two-photon images**: 10 μm\n3. **Number of cells per group for translocation score computation**: n=10 cells\n4. **P-value for translocation score comparison (no T cells vs. OT-I T cells)**: P<0.001\n5. **Ratio of Eμ-myc cells expressing the STAT1 reporter mixed with OVA+ Eμ-myc**: 1:1\n6. **P-value for translocation score comparison (STAT1-GFP-expressing tumor cells alone vs. mosaic tumors)**: P<0.01\n7. **Number of mice per group for data in f-h**: n=3 mice per group"
+}

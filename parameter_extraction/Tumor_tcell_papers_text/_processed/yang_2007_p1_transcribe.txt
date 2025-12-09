@@ -1,0 +1,103 @@
+```plaintext
+High mobility group box-1 protein induces the migration and 
+activation of human dendritic cells and acts as an alarmin
+
+De Yang,*†,1 Qian Chen,* Huan Yang,* Kevin J. Tracey,‡ Michael Bustin,§ 
+and Joost J. Oppenheim*
+
+*Laboratory of Molecular Immunoregulation, Center for Cancer Research, and ‡Basic Research Program, 
+SAIC-Frederick, Inc., National Cancer Institute at Frederick, Maryland, USA; §Laboratory of Biomedical Science, 
+North Shore-Long Island Jewish Research Institute, Manhasset, New York, USA; and †Laboratory of Metabolism, 
+National Cancer Institute, National Institutes of Health, Bethesda, Maryland, USA
+
+Abstract: High mobility group box-1 (HMGB1) 
+protein is a nonhistone, DNA-binding protein that 
+plays a critical role in regulating gene transcrip-
+tion. Recently, HMGB1 has also been shown to act 
+as a late mediator of endotoxc shock and to exert 
+a variety of proinflammatory, extracellular activi-
+ties. Here, we report that HMGB1 simultaneously 
+acts as a chemoattractant and activator of den-
+dritic cells (DCs). HMGB1 induced the migration 
+of monocyte-derived, immature DCs (Mo-iDCs) 
+but not mature DCs. The chemotactic effect of 
+HMGB1 on iDCs was pertussis toxin-inhibitable 
+and also inhibited by antibody against the receptor 
+of advanced glycation end products (RAGE), sug-
+gesting that HMGB1 mediates its chemotactic 
+activity via RAGE in a G protein-coupled manner. 
+In addition, HMGB1 treatment of iDCs up-regulated DC surface markers (CD80, CD83, 
+CD86, and HLA-A,B,C), enhanced DC production 
+of cytokines (IL-6, CXCL8, IL-12p70, and TNF-
+α), switched DC chemokine responsiveness from 
+CCL5-sensitive to CCL21-sensitive, and acquired 
+the capacity to stimulate allogeneic T cell prolifera-
+tion. Based on its dual DC-attracting and -activat-
+ing activities as well as its reported capacity to 
+promote an antigen-specific immune response, we 
+consider HMGB1 to have the properties of an im-
+mune alarmin. J. Leukoc. Biol. 81: 59–66; 2007.
+
+Key Words: RAGE • chemotaxis • maturation • HMGB1
+
+INTRODUCTION
+
+High mobility group box protein 1 (HMGB1) is a nonhistone, 
+chromatin-binding protein, which was isolated from calf thy-
+mus more than 30 years ago [1]. HMGB1, an abundant, 215 
+amino acid residue-containing nuclear protein present in all 
+mammalian tissues and cells, also known as amphoterin, is 
+highly conserved among various species and structurally orga-
+nized into two DNA-binding domains (termed A and B box) and 
+a negatively charged C-terminal tail [2, 3]. Studies focusing on 
+its capacity to bind and/or to introduce sharp bends or kinks in 
+DNA double helix and to interact with other transcriptional 
+
+factors have established HMGB1 as an important architectural 
+facilitator of the assembly of nucleoprotein complexes that 
+regulate gene recombination and transcription [4–6]. Knock-
+ing-out of the mouse Hmgb1 gene results in the postnatal death 
+of Hmgb1−/− mice as a result of a lack of expression of the 
+glucocorticoid receptor [7].
+
+In 1999, HMGB1 was discovered to act as a late mediator of 
+endotoxic shock [8] that has nurtured the subsequent search for 
+the extrachromosomal activities and functions of HMGB1, 
+which can be released by necrotic cells [9, 10] or secreted by 
+activated macrophages [8, 11–13], dendritic cells (DCs) [14], 
+or NK cells [15]. It has been suggested that the secretion of 
+HMGB1 requires sequential acetylation, relocation from nu-
+cleus to cytosol, sorting to exocytosome, and extracellu-
+lar disposal [16], a process that can be suppressed by 
+aspirin in vivo and in vitro [17]. HMGB1 can be released 
+by binding to the receptor of advanced glycation end products 
+(RAGE) [17, 18]. Extrachromosomal HMGB1 has been shown 
+to mediate inflammation [3, 8, 13], to regulate the migration of 
+monocytes [19], to induce the migration and proliferation of 
+smooth muscle cells and mesoangioblasts [20, 21], to contrib-
+ute to DC maturation and induction of immune responses [3, 
+10, 14, 22, 23], and to exert a direct, antibacterial effect [24].
+
+Investigation of the effects of antimicrobial peptides and 
+proteins such as defensins, cathelicidin, and eosinophil-de-
+rived neurotoxin on leukocytes have revealed that apart from 
+their direct, antimicrobial activity, these so-called “endoge-
+nous antibiotics” also have direct chemotactic and activating 
+activities for various subpopulations of leukocytes including 
+DCs in vitro and can promote an antigen-specific, immune 
+response when coadministered with a given antigen in vivo 
+(reviewed in ref. [25]). Based on their rapid production by cells 
+of the innate immune system in response to infection or tissue 
+injury, their dual roles as chemoattractant and activators for 
+antigen-presenting DCs, as well as their capacity to enhance an 
+antigen-specific immune response, we have proposed to clas-
+sify those endogenous mediators as alarmins, which rapidly 
+galvanize inflammatory and host defense against exogenous 
+
+1 Correspondence: SAIC-Frederick, Basic Research Program, Rm. 31-19/Bldg. 
+560, 1050 Boyles Street, Frederick, MD 21702, USA. E-mail: dyang@ncifcrf.gov 
+Received March 7, 2006; revised May 19, 2006; accepted May 22, 2006. 
+doi: 10.1189/jlb.0306164
+
+Journal of Leukocyte Biology Volume 81, January 2007 59
+```

@@ -1,0 +1,132 @@
+```plaintext
+22
+
+responses, and observations from clinical studies of 
+IFNγ therapy have demonstrated that IFNγ has bio-
+logical effects in vivo on human AML cells [8]. In this 
+context we have investigated the effects of IFNγ on the 
+functional characteristics of native human AML cells. 
+Our results demonstrate that IFNγ can affect prolifera-
+tion, cytokine release and regulation of apoptosis for 
+AML cells, and in addition IFNγ seems to inhibit the 
+proliferation of various nonleukaemic cells in the AML 
+microenvironment.
+
+Even though the effects of IFNγ on native human 
+AML cells have been investigated previously [9, 12–18, 
+32, 33], our recent study [11] describing a possible 
+prognostic impact of IFNγ-induced intracellular signal-
+ing in AML cells justifies a more detailed characteri-
+zation. The previous reports have several limitations. 
+First, they usually include a low number of patients 
+(often less than 10–15), consecutive patients are not 
+examined and the criteria for selection of patients are 
+not given. Secondly, the clinical and biological charac-
+teristics of the selected patients are usually incomplete or 
+missing. Finally, only effects on proliferation and 
+membrane molecule expression have been examined, 
+and the experimental models differed. These previous 
+reports have generally described (1) divergent effects of 
+IFNγ on AML colony formation and (2) IFNγ induc-
+tion of various membrane molecules (i.e. HLA class II 
+molecules, HLA-G, CD54, CD80, CD86, CD95) for 
+AML cells. In the present study we therefore 
+consecutive and well-characterized patients, and our 
+studies included receptor expression, intracellular sig-
+nalling events, cytokine release and a detailed charac-
+terization of the effects on leukaemic cell proliferation 
+including coculture with stromal cells.
+
+We used well-characterized and standardized experi-
+mental models with regard to culture medium and AML 
+cell preparation [21–29]. Our patients represent a con-
+secutive group with high peripheral blood blast counts 
+so that highly enriched AML cells could be prepared 
+without extensive cell separation procedures and thereby 
+the risk of procedure-induced functional alterations [19]. 
+We therefore emphasize that our results may be repre-
+sentative only for this subset of patients, but we avoided 
+further selection by investigating randomly selected or 
+consecutive patient subsets.
+
+We first investigated whether IFNγ could be released 
+when T cells were activated in the presence of prolifer-
+ating AML cells cocultured in direct contact with nor-
+mal bone marrow stromal cells. This in vitro model will 
+mimic the natural in vivo microenvironment, and we 
+used an activation signal directed against the TCR/CD3 
+complex to mimic antigen-specific activation. Our results 
+demonstrated that T cells can be activated to release 
+IFNγ when sharing the microenvironment with AML 
+cells that show constitutive release of several immuno-
+regulatory mediators.
+
+CD119 expression was examined for 39 randomly 
+selected patients, and AML blast expression was de-
+
+tected for all of them and a majority showed strong 
+expression with at least 70% of CD119+ cells. Thus, 
+high expression of CD119 is common and independent 
+of morphology (FAB classification), cytogenetic aber-
+rations or genetic abnormalities of the Flt3 gene. Fur-
+thermore, CD119 expression seems to be downregulated 
+after in vitro exposure to IFNγ; this may be due to 
+receptor internalization following receptor ligation. 
+However, the majority of cells are still CD119+ even 
+after the in vitro exposure.
+
+Previous studies have demonstrated that IFNγ can 
+increase AML cells expression of HLA-DR, CD40, 
+CD54, CD80, CD95 and possibly CD86 [32, 33]. How-
+ever, in our cocultures of AML cells and IFNγ secreting 
+T cells only HLA-DR expression was increased whereas 
+the expression of the immunostimulatory molecules 
+CD40 and CD80 and the dendritic cell marker CD83 
+was not significantly altered. The most likely explana-
+tion for the difference between our present and these 
+previous observations [32] is that IFNγ is only a part of a 
+broad T cell cytokine response in our cocultures, and the 
+IFNγ levels reached in our cultures are relatively low 
+compared with the concentrations of exogenous IFNγ 
+used by Costello et al. [32].
+
+The effect of IFNγ ligation on Stat1, Stat3 and 
+Erk1/2 phosphorylation status was examined. Increased 
+phosphorylation was observed only for Stat1. CD119 
+ligation can also induce signalling through Stat1-indep-
+endent pathways, including Erk1/2 [34], but we did not 
+observe any significant effect of IFNγ on the levels 
+of Stat3 phosphorylation.
+
+IFNγ did not affect spontaneous or IL3- and Flt3L-
+dependent AML cell proliferation, whereas statistically 
+significant inhibition was observed in the presence of 
+IL1β, SCF, GM-CSF and G-CSF. Both these results 
+and the coculture experiments demonstrated that the 
+growth-inhibitory effect of IFNγ depends on the local 
+cytokine network, and it is not a direct effect medi-
+ated through reduction of IL1β or GM-CSF levels. Fi-
+nally, IFNγ could also affect AML cell proliferation in 
+the presence of cytarabine and idarubicin, two drugs 
+that are commonly used in AML therapy [3].
+
+We investigated the effects of IFNγ on both stress-
+induced (spontaneous) and cytarabine-induced AML 
+cell apoptosis, and IFNγ then had divergent effects in 
+both experimental models. Thus, the divergent IFNγ 
+effects represent a true biological variation.
+
+IFNγ caused an increase in the levels of the antiangio-
+genic chemokines CXCL9–11 and a slight reduction of 
+proangiogenic CXCL8 levels. CXCL9 and CXCL10 
+expressions are Stat1 dependent, at least in macrophages 
+[10], thus the increased levels are probably caused by the 
+Stat1-mediated signalling. This altered balance between 
+pro- and antiangiogenic signalling may contribute to the 
+inhibition of endothelial cell proliferation in the presence 
+of IFNγ (see below), but it should be emphasized that 
+CXCL8 was still released at relatively high levels even.
+
+We investigated the effects of IFNγ on AML blast 
+proliferation when the cells were cocultured with various
+```

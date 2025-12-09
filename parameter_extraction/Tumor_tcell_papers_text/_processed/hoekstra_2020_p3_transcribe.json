@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "```plaintext\nNATURE CANCER                                                                                                        ARTICLES\n\na                                                                 b                                                                 c\n                                                                 HBSS\n                                                                 \n                                                                 106\n                                                                 105\n                                                                 104\n                                                                 103\n                                                                 0\n                                                                 10 0     101    102    103    104\n                                                                 Katushka\n                                                                 \n                                                                 1.72%\n                                                                 \n                                                                 + T Cells\n                                                                 \n                                                                 106\n                                                                 105\n                                                                 104\n                                                                 103\n                                                                 0\n                                                                 10 0     101    102    103    104\n                                                                 Katushka\n                                                                 \n                                                                 71.2%",
+  "model": "gpt-4o",
+  "page": 3,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 56.67,
+  "filename": "hoekstra_2020.pdf",
+  "doc_id": "hoekstra_2020"
+}

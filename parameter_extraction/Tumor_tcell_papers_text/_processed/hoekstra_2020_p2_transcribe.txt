@@ -1,0 +1,160 @@
+```plaintext
+ARTICLES                                                                                     NATURE CANCER
+
+cells outside parasite-infected areas13,29, with responding cells up to 
+90um (that is, approximately four to eight cell layers) away from 
+the closest infected cell30. By the same token, production of IFN-y 
+and TNF-a by intratumoral CD4+ T cells has been shown to induce 
+senescence in tumor cells that are deficient for MHC class II15. In 
+the case of cytotoxic CD8+ T cells, seemingly contradictory results 
+have been obtained. Specifically, in vitro and in vivo analyses of 
+CD8+ T-cell-targeted conjugates indicate that the delivery of IFN-y is 
+directed toward the immunologic synapse that is formed between 
+these cells31,34, suggesting that the IFN-y signal emitted after T cell 
+receptor (TCR) triggering would primarily reach the involved tar- 
+get cell. In contrast, robust IFN-y signaling by bystander cells 
+that lacked a specific T cell antigen has been observed in in vitro 
+astrocyte-T cell cocultures, an observation that has been explained 
+by synaptic leakage of CD8+ T-cell-produced IFN-y34. At present, 
+in vivo data on the potential spread of CD8+ T-cell-derived IFN-y, 
+including its spatiotemporal behavior, are lacking and, in the present 
+study, we set out to analyze: (1) whether antigen-negative cells can 
+sense the IFN-y released after a second antigen encounter by tumor-spe- 
+cific CD8+ T cells; (2) how such a signal spreads through the tumor 
+mass in space and time; and (3) whether the long-range sensing of 
+IFN-y can yield a functional response of bystander tumor cells that 
+cannot be directly recognized by T cells. The data obtained demon- 
+strate that tumor recognition by even a limited number of intratu- 
+moral CD8+ T cells induces a gradient of IFN-y that reaches tumor 
+cells that have been removed by several cell layers. The observed 
+long-range sensing of CD8+ T-cell-derived IFN-y has implications 
+for both preventing tumor cell resistance to immune attack and the 
+evolution of antigen-loss tumor cell states during clonal evolution.
+
+Results
+
+To analyze the spatiotemporal range of CD8+ T-cell-derived IFN-y, 
+we generated a reporter system that allows for the visualization of 
+IFN-y-induced signaling in tumor cells followed by the induction 
+of a reporter gene. To this end, we first created a stable tumor cell 
+reporter line that induces the expression of the Katushka fluorescent 
+protein in cells after IFN-y triggering, and that consists of an 
+IFN-y-signaling responsive promoter containing a series of gamma 
+interferon activation sites (GAS elements), followed by the Katushka 
+fluorescent protein (Fig. 1a). To validate this IGS reporter system, 
+human ovarian carcinoma (OVCAR5) cells modified with the 
+reporter were exposed to either IFN-y or IFN-a. In agreement with 
+expectations, IGS reporter-modified tumor cells showed robust 
+Katushka expression with an EC50 of 0.4 ng ml-1 at low concentrations 
+of IFN-y (half-maximal concentration of approximately 3.7 ng ml-1), 
+with a maximal Katushka signal 48h after stimulation (Fig. 1b and 
+Extended data Fig. 1a). In contrast, exposure to IFN-a resulted in 
+only low-level Katushka expression when used at high concentra- 
+tions (100,000 U ml-1; Extended data Fig. 1b). Comparable reporter 
+expression kinetics were observed in MDA-MB-231 breast cancer 
+cells (Extended data Fig. 2a), and induction of reporter expression 
+was highly correlated with induction of PD-L1, a known endoge- 
+nous IFN-y-inducible protein (Fig. 1c and Extended data Fig. 2b). 
+Notably, prolonged IFN-y exposure of OVCAR5 cells induced cell 
+death (Extended data Fig. 1c,d), thereby providing a second, late 
+and functional measure of IFN-y sensing. 
+To measure in vivo IFN-y sensing by bystander cells that can- 
+not be directly recognized by CD8+ T cells, we generated chimeric 
+tumors that contain small adjacent groups of tumor cells that do 
+not form T cell targets, by injection of mixtures of neoantigen- 
+positive and neoantigen-negative tumor cells (Fig. 2a). Analysis of 
+expression of the IGS reporter in the latter cells provides a means 
+to determine whether tumor cell subclones that lack antigens are 
+influenced by the IFN-y that is secreted by activated T cells in close 
+proximity. Previous data have shown that, although bystander cells 
+can respond to IFN-y released by CD8+ T cells in in vitro assays31, 
+
+b
+
+IFN-y
+Receptor
+
+STAT1 dimer
+
+Katushka
+
+4x GAS Katushka
+
+Katushka+ of Ag- OGS cells (%)
+
+24 h
+48 h
+72 h
+
+0 0.1 0.3 1.0 3.0 10.0
+IFN-y (ng ml-1)
+
+c
+
+MFI of PD-L1
+
+15,000
+
+10,000
+
+5,000
+
+0
+
+1,000 2,000 3,000
+MFI of Katushka
+
+0 ng ml-1
+3.7 ng ml-1
+
+0.13 ng ml-1
+11.1 ng ml-1
+
+0.4 ng ml-1
+33.3 ng ml-1
+
+1.2 ng ml-1
+100 ng ml-1
+
+Fig. 1 | Characterization of the IGS reporter system. a, Schematic 
+representation of the IGS reporter system. b, Percentage Katushka- 
+expressing cells of IGS reporter-modified CFP+ OVCAR5 cells on incubation 
+with the indicated concentrations of recombinant IFN-y. Bar graph shows 
+the mean of n = 3 technical replicates and is representative data of two 
+independent experiments. c, Mean fluorescence intensity (MFI) of 
+PD-L1 staining as function of median Katushka fluorescence intensity 
+of CFP+ Ag- IGS reporter cells incubated for 24h with recombinant IFN-y 
+at the indicated concentrations. Representative data of two independent 
+experiments are depicted.
+
+the IFN-y-containing vesicles in CD8+ T cells are selectively trans- 
+ported toward the immunologic synapse35, suggesting localized 
+effector activity to the target cell. To address whether the IFN-y 
+that is secreted by activated intratumoral CD8+ T cells in vivo is 
+sensed by bystander tumor cells, a GFP+ (green fluorescent protein- 
+positive) OVCAR5 tumor cell line was generated that expresses 
+the patient-derived mutant cyclin-dependent kinase 4 (CDK4)36 
+neoantigen37. Subsequently, mixtures of these neoantigen-positive 
+(Ag+) tumor cells, together with CFP+ IGS reporter cells that lack 
+the mutant CDK4 neoantigen (Ag-), were injected into NOD scid 
+Il2rytm1wjl/SzJ (NSG; B2m-/-) mice. In the absence of tumor-specific 
+T cells, mixed developed chimeric tumors that were composed of small, 
+intermingled groups of both tumor cell populations (Extended data 
+Fig. 3a). To analyze to what extent bystander tumor cells that lack a 
+T-cell-recognized antigen respond to CD8+ T-cell-secreted IFN-y, 
+mice were treated with CD4k-specific, TCR-transduced, CD8+ 
+T cells. Remarkably, although only a small fraction of bystander 
+tumor cells showed detectable Katushka expression in control mice 
+(3.2 ± 2.0%), a large fraction of bystander tumor cells (64.0 ± 8.3%) 
+demonstrated pronounced Katushka expression in tumors with an 
+ongoing tumor-specific T cell response (Fig. 2b,c and Extended data 
+Fig. 4a), an observation that was replicated in the MDA-MB-231 
+tumor model (Extended data Fig. 2c). This reporter expression by 
+bystander tumor cells required the presence of both tumor-spe- 
+cific CD8+ T cells and a subpopulation of antigen-positive tumor 
+cells (Fig. 2d), and was observed even when the antigen-positive 
+tumor cell subclone formed only a minor fraction (10%) of the 
+tumor cell mass (Fig. 2d). To assess whether the observed reporter
+
+NATURE CANCER | www.nature.com/natcancer
+```

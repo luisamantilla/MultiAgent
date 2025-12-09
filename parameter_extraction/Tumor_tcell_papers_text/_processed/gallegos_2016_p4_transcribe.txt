@@ -1,0 +1,88 @@
+## ARTICLES
+
+Figure 4 Programmed TCR downregulation is a general feature of
+activated CD4+ T cells. (a) Flow cytometry analyzing the expression of
+CD90.1 and CD4 by T cells (left), and of CD44 and CD62L by the CD4+
+T cells gated at left (right), in blood from mice given 1 x 10^4 naive
+CD90.1+ C7 or C24 CD4+ T cells or no cells (no transfer), then infected
+with recombinant L. monocytogenes–ESAT6, analyzed on day 7 after
+infection. Numbers in quadrants (left) indicate percent CD90.1+ (donor)
+CD4+ T cells (top) or CD90.1– (host) T cells (bottom); numbers in
+outlined areas (right) indicate percent CD44+CD62L– (activated) T cells
+(top left) or CD44+CD62L+ (naive) T cells (bottom right) among CD4+
+T cells. (b) Frequency of C7 and C24 T cells among CD4+ T cells in
+blood from the recipient mice in a, as well as of endogenous activated
+(CD44+CD62L–) CD4+ T cells in blood from mice in a that did not receive
+donor cells (Endog act CD4+ T cells). (c) Flow cytometry analyzing the
+kinetics of TCRβ expression by C7 and C24 CD4+ T cells in blood from the
+recipient mice in a, as well as endogenous activated (CD44+CD62L–) and
+naive (CD44+CD62L+) CD4+ T cells in blood from mice in a that did not
+receive donor cells, assessed on days 6, 15 and 53 after infection (above
+plots (c)); analysis over time of the data obtained as in b, presented
+relative to results obtained for the endogenous naive CD4+ T cells (d). Data
+are from one experiment representative of two independent experiments
+(mean ± s.d. of n = 5 male mice per group in b, d).
+
+As expected, C7 and C24 T cells proliferated until day 7 after infec-
+tion, after which the response contracted, leaving a memory T cell
+population by day 35 (Fig. 4b). Notably, the expansion and contrac-
+tion pattern of endogenous CD44+CD62L– CD4+ T cells was very
+similar to that of C7 and C24 T cells, which suggested that this gating
+strategy identified activated L. monocytogenes–specific T cells.
+
+Being able to detect endogenous activated CD4+ T cells indepen-
+dently of the donor cells allowed us to track TCR expression.
+C7 and C24 T cells upregulated TCR expression during proliferation,
+with expression rapidly downregulated
+at the peak of clonal expansion (Fig. 4c,d). The TCR expression
+reached its lowest almost 15 after infection, after which
+expression increased somewhat (Fig. 4c,d). However, as late as 53 d
+after infection, the TCR expression of C24 T cells was still only 11%
+that of endogenous naive CD4+ T cells (Fig. 4c,d), which suggested
+that once the adjusted TCR expression level was set, it remained very
+stable. Despite having almost no TCR expression, clonally expanded
+
+C24 T cells had normal expression of costimulatory molecules, activa-
+tion markers, cytokine receptors and inhibitory receptors and did not
+express the transcription factor Foxp3 (Supplementary Fig. 4), which
+indicated that they were functional effector cells. Notably, endogenous
+activated CD4+ T cells also displayed persistent downregulation of
+TCR expression, which suggested that this was a general feature of
+activated CD4+ T cells (Fig. 4c,d).
+
+To investigate whether programmed TCR downregulation also
+occurred during chronic bacterial infection, we analyzed the responses
+of naive C7 and C24 T cells activated by M. tuberculosis in vivo; this
+revealed the same pattern of downregulation of TCR expression as
+
+![Image](https://www.nature.com/articles/ni.3458)
+
+Figure 5 Programmed TCR downregulation
+is associated with degradation of TCRβ.
+(a) Frequency of C7 or C24 T cells or
+endogenous activated CD4+ T cells
+(defined as in Fig. 4b) among CD4+ T cells
+in blood from mice given 1 x 10^4 naive
+CD90.1+ C7 or C24 CD4+ T cells or no
+cells, then infected with recombinant
+L. monocytogenes–ESAT6. (b–d) Flow
+cytometry analyzing the kinetics of the
+surface expression of TCRβ (top) and total
+expression of TCRβ (bottom) in C7 and C24
+CD4+ T cells, as well as endogenous activated
+and naive CD4+ T cells (defined as in
+Fig. 4c), in blood from the recipient mice in
+a, assessed on days 5, 14 and 38 after
+infection (above plots) (b), and analysis
+over time of the data obtained for TCRβ
+(c) and TCRβ (d) as in b, presented relative
+to results obtained for the endogenous
+naive CD4+ T cells (c,d). (e) Pearson
+correlation of surface expression of TCRβ
+and total expression of TCRβ by C7 and C24
+CD4+ T cells, as well as endogenous activated CD4+ T cells (r = 0.86). Data are from one experiment representative of two independent experiments
+(mean ± s.d. of n = 5 male mice per group (a,c,d) or mean of n = 5 per group (e)).
+
+![Image](https://www.nature.com/articles/ni.3458)
+
+ADVANCE ONLINE PUBLICATION NATURE IMMUNOLOGY

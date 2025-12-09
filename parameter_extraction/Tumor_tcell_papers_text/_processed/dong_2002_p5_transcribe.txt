@@ -1,0 +1,114 @@
+```plaintext
+ARTICLES
+
+ing both B7-H1 and B7-1. We had shown pre-
+viously that tumors induced by inoculation of
+B7-1P815 cells in syngeneic DBA/2 mice
+regress completely after transient growth, and
+that tumor resistance is mediated by costimu-
+lated T-cell responses13. Expression of B7-H1 in
+B7-1 P815 led to progressive growth of tu-
+mors. Expression of B7-H1 alone on P815,
+however, did not affect tumor growth (Fig.
+5d). The effect of B7-H1 on tumor growth is
+not due to clonal variation during the selec-
+tion of B7-H1 transfectants, because all tu-
+mors from transfectants grew progressively at
+the same rate in immunodeficient BALB/c
+nude mice (data not shown). Our results thus
+further support the notion that B7-H1 expres-
+sion on tumor cells might downregulate active
+tumor immunity in vivo.
+
+Discussion
+Cancer progression has been attributed to a
+variety of immune evasion strategies. These
+include downregulation of cell-surface MHC
+class I molecules, secretion of immunosup-
+pressive factors (for example, transforming
+growth factor-β), and lack of T-cell costimula-
+tion28. Here, we describe a new observation
+that B7-H1 is expressed in many human can-
+cers and promotes the apoptotic death of acti-
+vated tumor-reactive T cells. Tumor T cells
+in vitro and antigen-specific T cells in a
+mouse P815 tumor model in vivo reveal a
+new mechanism of tumor evasion of which
+we have a new approach to the design of T cell–
+based immunotherapy.
+
+FasL is a determinant of immune-privileged
+status in the eyes and testes30. It was originally
+thought that its expression on tumor cells
+might lead to T cell31,32. Most normal and malig-
+nant human neoplasms express FasL, however, and transfection
+of tumor cells with FasL does not always promote T-cell apopto-
+sis31–33. In this study, we found that cell-surface expression of B7-
+H1 in normal tissues is limited to macrophages (Fig. 1), a result
+consistent with our laboratory’s earlier report that freshly iso-
+lated monocytes express B7-H1 34. In contrast, we found that B7-
+H1 immunoreactivity localizes in a majority of melanomas and
+carcinomas of lung, ovary and colon, in both the plasma mem-
+brane and cytoplasm. The mechanisms regulating B7-H1 expres-
+sion in tumor cells are not known. Inflammatory mediators are
+implicated by the upregulation of B7-H1 expression on the sur-
+face of several tumor lines after exposure to IFN-γ
+(Supplementary Table 1 online). We also noted that B7-H1 ex-
+pression was more frequent in freshly isolated cancer tissue spec-
+imens than in cultured tumor cell lines. This observation may
+reflect the cytokine milieu of the cancer patients.
+
+Taken together with our previous report that B7-H1 stimula-
+tion promotes production of IL-10, a cytokine implicated in the
+death of activated T cells27, our results imply that multiple mech-
+anisms may contribute to the death of activated T cells after ex-
+posure to tumor-associated B7-H1. In fact, our results support
+the finding that both IL-10 and FasL are involved in apoptosis of
+T cells, and blocking these molecules with neutralizing mono-
+
+Fig. 3 Human breast carcinoma HBL-100 constitutively expressing B7-H1 promotes apoptosis
+of the CEA-specific M99 CD8+ CTLs. a, FACS analysis of cell-surface B7-H1, FasL and TRAIL on
+HBL-100 cells. HBL-100 cells were stained by monoclonal antibodies against B7-H1 (5H1), FasL
+and TRAIL or PD-1Ig. Positive staining is shown as shaded lines and control-antibody staining as
+open bold lines. b, Absence of PD-1 expression on M99 T cells. After 4 d of culture with HBL100
+cells and IL-15, M99 T cells were doubly stained with monoclonal antibodies against CD8 and
+against PD-1 or with B7-H1Ig. CD8-positive cells were gated for FACS analysis. Positive staining is
+shown as filled lines and control antibody or immunoglobulin (Ig) staining as open lines.
+c, Abrogation of M99 CTL apoptosis by monoclonal antibody against B7-H1, but not by PD-1Ig.
+HBL-100 cells were incubated in the presence of control Ig (○), 5H1 monoclonal antibody (□)
+or PD-1Ig (△) at the indicated doses before mixing with M99 CTLs. After 4 d,
+cells were stained with annexin V and antibody against CD8 for apoptosis assay and with
+trypan blue for viability assay. Tumor-induced apoptosis of T cells was calculated as (apoptotic
+T cells in tumor cultures) – (apoptotic T cells in medium control cultures) × 1 × 100%, and pre-
+sented as means ± s.d. of cells from 3 wells of each treatment. The results are representative of 3
+experiments. *, significantly different from the control Ig group, P < 0.05.
+
+clonal antibody partially and inhibited T cell death. Blocking the Fas
+pathway also resulted in inhibition of tumor cell growth in vitro.
+Although neutralization of IL-10 partially blocked T cell apopto-
+sis (Fig. 4a), tumor growth in vitro was not affected (Fig. 4b).
+Whereas Fas is the effector molecule that directly triggers apop-
+tosis, the effect of IL-10 is probably indirect and regulated by
+some unknown factor(s) in the cultures. TRAIL-mediated mecha-
+nisms do not seem to contribute to the triggering of apoptosis,
+because neither 624mel cells nor HBL-100 cells express this pro-
+tein (Figs. 2 and 3). Recent studies implicate RACS1, a coiled-coil
+membrane protein, in the apoptosis of activated T cells in vitro32.
+It is unknown, however, whether RACS1 is involved in B7-H1
+mediated apoptosis.
+
+The proliferation of T cells in the presence of optimal doses of
+monoclonal antibody against CD3 can be inhibited by B7-H113,
+but this inhibition does not occur if PD-1-deficient T cells are
+used, indicating that PD-1 may deliver a negative signal for T-
+cell proliferation34. The nature of the inhibition is less clear. It
+might result from increased programmed cell death after ligation
+of PD-1 by B7-H1—a particularly attractive hypothesis because
+PD-1 was originally cloned from a T-cell line undergoing apopto-
+sis35. In the M15 clone, apoptosis could be blocked (Fig. 2) by sol-
+uble PD-1Ig, suggesting that PD-1 might be a receptor for B7-H1
+
+NATURE MEDICINE • VOLUME 8 • NUMBER 8 • AUGUST 2002
+
+797
+```

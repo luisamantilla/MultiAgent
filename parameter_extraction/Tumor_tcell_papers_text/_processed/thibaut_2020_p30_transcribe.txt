@@ -1,0 +1,33 @@
+```
+Instrument
+A majority of the data was acquired using a Cytoflex LX (serial number B4A2021). Some data were acquired using a BD Canto II
+
+Software
+BD FACS Diva was used for BD Canto II-acquired Data. For cytoflex-acquired data, CytExpert version 2.3 was used
+
+Cell population abundance
+No cell sorting was performed during experiments
+
+Gating strategy
+For experiments using B16.F10 melanoma cells, cell doublets were gated out based on SSC-A/SSC-H followed by an additional 
+gating based on FSC-A/FSC-W. Live cells were isolated by FSC-/SSC-A gating. Injected OT-I T cells were distinguished based on 
+their GFP expression. B16.F10 cells expressing OVA or not were then gated on based on their expression of TdTomato and 
+membrane CFP respectively. A back-gating on FSC-A/SSC-A was used to confirm the discrimination of B16.F10 cells.
+
+For experiments using Eμ-myc B cell lymphoma in vivo, cell doublets were excluded as described above. CFP and GFP were used 
+to detect Eμ-myc expressing OVA or not respectively. CD8 staining enabled further distinction of GFP+ OT-I T cells from GFP+ 
+tumor cells. 
+In a distinct panel, CD45 enabled distinction of hematopoietic cells: OVA- Eμ-myc cells and OT-I T cells were gated out using GFP 
+and CD8 expression as above. Likewise, OVA+ Eμ-myc cells were gated out by their CFP expression. Among remaining cells, 
+myeloid cells were distinguished by their CD11b expression and further divided into monocytes (Ly6C high Ly6G-) and 
+neutrophils (Ly6C+ Ly6G+). Finally, NK cells were identified as CD45+ CD11b+ NK1.1+. A figure describing the gating strategy that 
+was used to identify tumor, NK, OT-I T cells, as well as monocytes and neutrophils, is provided in the manuscript.
+
+☒ Tick this box to confirm that a figure exemplifying the gating strategy is provided in the Supplementary Information.
+
+nature research | reporting summary
+
+October 2018
+
+4
+```

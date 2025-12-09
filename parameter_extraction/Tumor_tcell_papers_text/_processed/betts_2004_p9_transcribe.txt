@@ -1,0 +1,49 @@
+20. Detection of T-Cell Degranulation: CD107a and b
+
+505
+
+CD3 gate, care must again be taken to account for any cells that have down- 
+regulated CD8 in the process of becoming activated. In this example, the CD8 stain 
+was again performed on permeabilized cells. It can also be seen here that a small but 
+detectable portion of CD3+/CD8− cells also becomes CD107a/b positive in re- 
+sponse to SEB; these likely represent degranulating CD4+ T cells, and a similar 
+type of analysis can be performed on this T-cell subset. Finally, if the cells were co- 
+stained with a cytokine marker, such as IFN-γ, the relationship between cytokine 
+production and degranulation can be directly observed by plotting IFN-γ versus 
+CD107a/b expression in the CD8+ (Fig. 2D) or CD4+ T cells. As can be seen, 
+although most SEB-responding CD8+ T cells become CD107a/b positive, the 
+expression of IFN-γ can be quite variable and a substantial proportion of respond- 
+ing cells do not produce IFN-γ. This serves in part to illustrate the diversity of 
+the CD8+ T-cell response, because not all the responding cells exhibit the same 
+functional profile.
+
+Figure 3 shows three examples of responses obtained using specific peptides 
+derived either from CMV, HIV, or EBV and illustrates some of the different 
+response profiles that may be observed and the level of sensitivity that can be 
+achieved when analyzing very small responses. In all three examples, human 
+PBMCs were stimulated with antigenic peptides using the method described in 
+section II. Figure 3 (left panel) shows the response to a CMV peptide in a CMV- 
+positive individual. As can be seen, all the cells producing IFN-γ also become 
+CD107a/b positive. The center panel shows the response to a mixture of over- 
+lapping 15-mer peptides derived from HIV Pol in an HIV-positive individual. 
+Unlike the CMV response in the left panel, a significant proportion of responding 
+cells to the HIV peptides do not produce IFN-γ, and a varying degree of IFN-γ is 
+observed in those cells that do produce this cytokine. Both the CMV- and the 
+HIV-specific responses shown here are relatively large responses, on the order of 
+2–7% of CD8+ T cells. In the right panel, however, a much smaller yet detectable 
+response to an EBV-derived peptide is shown. Although this response is very low, 
+approximately 0.2% of CD8+ T cells, it is still easily distinguishable as a predomi- 
+nantly IFN-γ+ CD107a/b+ response.
+
+IV. Critical Aspects
+
+As with other techniques to measure T-cell function by flow cytometry, proper 
+data analysis is a crucial aspect of this technique. Unlike standard intracellular 
+cytokine assays, there are specific issues with examination of CD107a/b expression 
+that must be considered during both the assay setup and the data analysis.
+
+A. Trafficking of CD107a and b
+
+CD107a and b in CD8+ T cells are localized to lysosomal, endosomal, and 
+cytotoxic granular membranes (Peters et al., 1991). This localization occurs as a 
+result of a sorting signal within the cytoplasmic tail of these proteins (Chang et al.,

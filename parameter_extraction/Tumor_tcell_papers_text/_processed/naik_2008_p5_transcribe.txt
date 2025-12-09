@@ -1,0 +1,49 @@
+(Figure 1),142 and probably correspond to the interdigitating cell that had been described previously.143,144
+
+One special role for CD8+ cDCs might be in the maintenance of tolerance to self. As not all autoreactive T cells are deleted in the thymus during negative selection,145 there is need for a peripheral mechanism of self-tolerance.146 Peripheral tolerance is mediated by a hematopoietic cell147–149 and can be DC-mediated.150,151 The proximity of CD8+ cDC to T cells in the steady state place them in prime position as the responsible APC.152 Further evidence came from tissue-specific expression of antigens for which only CD8+ DC could present antigen (implying tolerance),153 and in the diabetes-prone nonobese diabetic (NOD) mouse, where there was a positive correlation of CD8+ DC numbers and the reversal of diabetes.154,155
+
+As DCs were once thought only to be capable of presenting endogenous antigen via MHC I, and exogenous antigen via MHC II, the question arose of how exogenous self-antigen could access the MHC I pathway of DCs for the induction of tolerance or for immunity. One of the unique key features of CD8+ DCs is their ability to ‘cross-present’ antigen, which occurs when exogenous antigen is diverted to the MHC I pathway and thus able to signal the TCR of CD8+ T cells.156–158 This process is important for both peripheral T-cell tolerance and other scenarios,159 although the precise molecular mechanisms are still ill-defined and controversial.160,161
+
+In apparent contradiction to their role in T-cell tolerance, CD8+ DCs also seem to be the main T-cell-priming APC in several viral and bacterial infections103,156,162,163 and the targets of ‘licensing’, whereby CD4+ T cells or CD8+ T cells, in turn, cross-present antigen to induce memory CD8+ T-cell generation.164 How can the same DC subset mediate both the induction of immunity and tolerance? A differential activation state and cytokine profile within the one CD8+ DC population might be the factor. However, there is still the possibility that there are ‘immunogenic’ and ‘tolerogenic’ subtypes of CD8+ DCs, although no data to date support this view.
+
+CD8+ cDCs are the only DCs to express TLR3 and fail to express TLR7.165 In this way, CD8+ cDCs may be specialized for dsRNA but not ssRNA viruses.166,167 Activation of CD8+ cDCs includes upregulation of MHC II and co-stimulatory molecules, as well as large amounts of bioactive IL-12p70.168,169 This cytokine is crucial for CD4+ Th1, cytotoxic CD8+ T-cell priming and memory generation.170,171 Therefore, TLR or other danger signals probably provide the switch for CD8+ DCs from a tolerogenic to an immunogenic state.
+
+Resident cDC
+CD8+ cDCs are the most numerous of the resident cDCs in spleen, comprising roughly 80% of the total, but are a minor population in lymph nodes. In contrast to CD8+ cDCs in the T-cell areas, CD8− cDCs tend to be found in the marginal zones,142,143,172 which appears to be dependent on the CCR6/MIP-3α axis.173,174 However, upon stimulation by lipopolysaccharide (LPS) or other TLR agonists, CD8− cDCs relocate to the T-cell areas of lymphoid organs.142,168 They also secrete large amounts of the inflammatory chemokine RANTES, MIP-1αβ and MIP-1β.176 Despite a recent report of their potential importance in yeast infection,175 other infections where they play an important role is yet to be determined.
+
+GM-CSF-DERIVED DCs AND INFLAMMATORY TIP DCs: ONE AND THE SAME?
+There is now overwhelming evidence that monocytes are not the major precursors for steady-state DCs, with some exceptions (see
+
+Table 2 In vivo situations where inflammatory Tip DCs emerge
+
+|                           | References |
+|---------------------------|------------|
+| **Parasites**             |            |
+| Leishmania major          | 178        |
+| **Bacteria**              |            |
+| Salmonella typhimurium    | 179        |
+| Streptococcus pneumoniae  | 180        |
+| Brucella melitensis       | 181        |
+| Listeria monocytogenes    | 43         |
+| Mycobacterium tuberculosis| 182,183    |
+| Escherichia coli          | 184        |
+| Commensal bacteria        | 185        |
+| **Viruses**               |            |
+| LCMV                      | 186        |
+| Influenza                 | 187        |
+| **Autoimmune**            |            |
+| Diabetes                  | 188        |
+| Psoriasis                 | 189        |
+
+Abbreviation: LCMV, lymphocytic choriomeningitis virus. With some adaptation from Wick.190
+
+above). Instead, they readily convert to DCs in inflammatory situations.60,85–87 (Figure 1; Table 2). Related to this is that the DCs generated when monocytes or earlier progenitors are cultured with GM-CSF are not representative of the steady-state DCs. This is the method still most widely used to produce DC generation when assessing genetic, synthetic, biological or pathogenic factors in DC biology, the interpretation of numerous GM-CSF-derived DC studies that claim to represent the steady-state situation may need to be revisited.
+
+GM-CSF-derived DCs: not necessarily representative of the steady state
+As monocytes generate a relatively homogeneous population of CD11c+CD11b+CD8−MHC II+ ‘myeloid’ DCs in GM-CSF cultures, they have often been referred to as the equivalent of CD8− cDCs of the spleen and lymphoid organs, which share this pattern of marker expression. However, formal proof of such a correlation is lacking. Indeed, several lines of evidence suggest monocyte-derived DCs are not related to the development of steady-state DCs, apart from LCs and interstitial DCs in some situations.
+
+First, it is sometimes underrecognized that GM-CSF levels are ‘below detection’ in steady-state mice and in healthy humans192–197 and so may not contribute to significant steady-state in vivo DC generation from monocytes. There are three possibilities that could account for this discrepancy between the presence of DCs in vivo and levels of GM-CSF; GM-CSF levels, although low, are still functional; there are factors in vivo that substitute for GM-CSF to generate DCs; steady-state DCs may actually be a distinctly new pathway that those are monocyte derived.
+
+Second, knocking out the genes of GM-CSF or its receptor in hematopoietic cells would never allow DC generation if this cytokine was obligatory. However, knockouts for either gene have normal ratios and number of the splenic resident DC subtypes, are present in their expected ratio and number, and with no difference in function.198,199 M-CSF null mice (op/op) and M-CSF receptor−/− have severely
+
+Immunology and Cell Biology

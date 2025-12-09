@@ -1,0 +1,37 @@
+Cancer Immunol Immunother (2007) 56: 13–24  
+DOI 10.1007/s00262-006-0159-1  
+
+ORIGINAL ARTICLE  
+
+Elisabeth Ersvaer · Jørn Skavland · Elling Ulvestad  
+Bjørn Tore Gjertsen · Øystein Bruserud  
+
+Effects of interferon gamma on native human acute myelogenous leukaemia cells  
+
+Received: 21 December 2005 / Accepted: 14 March 2006 / Published online: 13 April 2006  
+© Springer-Verlag 2006  
+
+Abstract T cell targeting immunotherapy is now considered a possible strategy in acute myelogenous leukaemia (AML), and IFNγ release may then contribute to the antileukaemic effects. We investigated the effects of IFNγ on native human AML cells. Normal T cells could be activated to release IFNγ in the presence of AML cells. Furthermore, high levels of CD119 (IFNγ receptor α chain) expression were observed for all 39 patients examined. Receptor expression was decreased after exposure to exogenous IFNγ, and receptor ligation caused Stat1 phosphorylation but no phosphorylation of the alternative messengers Erk1/2. The effect of exogenous IFNγ on AML blast proliferation was dependent on the local cytokine network and IFNγ (1) inhibited proliferation in the presence of TNFα, IL1β, GM-CSF, G-CSF and SCF; (2) had divergent effects in the presence of IL3 and Flt3 (65 patients examined); (3) inhibited proliferation in the presence of endothelial cells but had divergent effects in the presence of fibroblasts, osteoblasts and normal stromal cells (65 patients examined). IFNγ increased stress-induced (spontaneous) in vitro apoptosis as well as cytarabine-induced apoptosis only for a subset of patients. Furthermore, IFNγ decreased the release of proangiogenic CXCL8 and increased the release of antiangiogenic CXCL9–11. We conclude that IFNγ can be released in the presence of native human AML cells and affect AML cell proliferation, regulation of apoptosis and the balance between pro- and antiangiogenic chemokine release.  
+
+Keywords Acute myeloid leukaemia · Interferon gamma · Cytokines · Apoptosis · Proliferation  
+
+Abbreviations AML: Acute myeloid leukaemia  
+
+Introduction  
+
+Interferon gamma (IFNγ) (reviewed in [1, 2]) is a type II interferon synthesized by T lymphocytes and natural killer cells. It has pleiotropic effects on a wide range of target cells. Among the important effects of IFNγ are (1) upregulation of MHC class I and induction of MHC class II protein expression by a variety of immune competent as well as nonimmune cells; (2) regulation of humoral immune responses; and (3) modulation of the release of a variety of other immunomodulatory cytokines such as IL12 and tumor necrosis factor (TNF) α. IFNγ-induced gene expression is important for several of these effects, but the molecular mechanisms have not been characterized in detail.  
+
+Acute myelogenous leukaemia (AML) is an aggressive malignancy characterized by accumulation of immature myeloid cells [3]. The overall disease-free survival is less than 50% even for younger patients who can receive the most intensive therapy [3]. However, the experience from allotransplanted patients shows that T cells can mediate posttransplant anti-AML effects and thereby contribute to improved prognosis. Targeting of autologous T cells is therefore considered a possible therapeutic approach [4, 5]. T cell release of antiproliferative, proapoptotic or antiangiogenic cytokines is then a possible antileukaemic effector mechanism, and IFNγ is of particular interest because it is released at high levels by human T cells. These high levels have been observed both for normals, AML patients receiving intensive chemotherapy and allogeneic stem cell recipients [6, 7]. IFNγ has also been tried in the treatment of AML, and the results from these initial small clinical studies suggest that IFNγ can mediate antileukaemic effects in vivo [8, 9].  
+
+E. Ersvaer (✉) · J. Skavland · B. T. Gjertsen · Ø. Bruserud  
+Institute of Medicine, Section for Hematology,  
+The University of Bergen and Haukeland University Hospital,  
+Bergen, Norway  
+E-mail: elisabeth.ersvar@med.uib.no  
+Tel.: +47-55-975000  
+Fax: +47-55-972950  
+
+E. Ulvestad  
+Department of Microbiology and Immunology,  
+The Gade Institute, Haukeland University Hospital and  
+The University of Bergen, Bergen, Norway

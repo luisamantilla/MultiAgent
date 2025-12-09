@@ -1,0 +1,64 @@
+Table 2. Parameters for the IL-10 equation.
+
+| Parameter | Description | Value with unit | Reference |
+|-----------|-------------|-----------------|-----------|
+| $D_{I10}$ | diffusion coefficient of $I_{10}$ | 1.25 x $10^{-2}$ cm\(^2\)/day | [48] |
+| $s_{I10}$ | production rate from CTL without IL-27 | 8.89 x $10^{-4}$ pg/cell/day | [30] & estimated |
+| $z_{I10}$ | max production rate from CTL with IL-27 | 1.128 x $10^{-3}$ pg/cell/day | [30] & estimated |
+| $\alpha_{I10}$ |  | 5 x $10^{-9}$ cm\(^2\) | [49] & estimated |
+| $\mu_{I10}$ | degradation rate of $I_{10}$ | 1.6 x $10^{-1}$/day | [48] |
+
+doi:10.1371/journal.pone.0091844.t002
+
+The first term is the diffusion of $I_{10}$. The second term accounts for the production of $I_{10}$ by CD8\(^+\) T cells for the absence of $I_{27}$ [30]. The experiments in [30] indicate that $I_{27}$ significantly increases the production of $I_{10}$ by CD8\(^+\) T cells, and this is accounted by the third term. The last term is the degradation of $I_{10}$. The parameter values of Equation (2) are listed in Table 2.
+
+CD8\(^+\) T cells. The equation for the density of (activated) CD8\(^+\) T cells, $T(x,t)$, is given by
+
+\[
+\frac{\partial T}{\partial t} = \frac{1}{D_T r^2} \frac{\partial}{\partial r} \left( r^2 \frac{\partial T}{\partial r} \right) + \frac{c}{s_T + cT}
+\]
+
+\[
+- \frac{\mu_T}{1 + s_{I27} I_{27} + \beta_T \sigma_T I_{10}} T .
+\]
+
+The first term is a dispersion of CD8\(^+\) T cells with coefficient $D_T$. The second term accounts for activation of CD8\(^+\) T cells by P1A antigen from the tumor cells. $I_{27}$ promotes survival of CD8\(^+\) T cells, and so does also $I_{10}$, but to a smaller degree [30]. We present these two facts by correspondingly decreasing the death rate $\mu_T$ of T cells in the last term of Equation (3). The parameter values in Equation (3) are given in Table 3. Although $I_{27}$ contributes more than $I_{10}$ to promote the half-life of CD8\(^+\) T cells, we take $\beta_T = 9$ since the concentration of $I_{10}$ is much smaller than the concentration of $I_{27}$.
+
+IFN-\(\gamma\). Interferon-\(\gamma\) (IFN-\(\gamma\)) is a cytokine with diffusion coefficient $D_I$, and degradation rate $\mu_I$. It is produced by T cells and, as shown in [30], the production is inhibited by $I_{27}$. Thus, $I_f(x,t)$ satisfies the equation:
+
+\[
+\frac{\partial I_f}{\partial t} = D_I \frac{1}{r^2} \frac{\partial}{\partial r} \left( r^2 \frac{\partial I_f}{\partial r} \right) + \alpha_f T \frac{s_f}{s_f + I_{27}}
+\]
+
+\[
+- \frac{\mu_I I_f}{1 + \sigma_T I_{10} + c_c} .
+\]
+
+Table 4 lists all parameter values of (4).
+
+Tumor cells. The density of tumor cells, $c(x,t)$, satisfies the following equation:
+
+\[
+\frac{\partial c}{\partial t} = D_c \frac{1}{r^2} \frac{\partial}{\partial r} \left( r^2 \frac{\partial c}{\partial r} \right) + \lambda_c (1 - \frac{c}{c_m}) c - \mu_c c
+\]
+
+\[
+- \eta_t \frac{I_{10} c}{I_{10} + c_c} - \eta_I \frac{I_f}{I_f + s_c} .
+\]
+
+The second and third terms represent the proliferation and death of cells, respectively. Generally, $I_{10}$ is regarded as an anti-inflammatory cytokine. However, in different experimental models, $I_{10}$ could suppress or promote the functions of immune system [30,39]. Liu et al. [30] found that the $I_{10}$ produced by CTL contributes to tumor rejection. Hence, the fourth term accounts for the indirect inhibition of tumor cells by $I_{10}$. Cytokine, $I_f$, promotes the anti-tumor response, such as increase production of IL-12, and induces natural killer cells to kill cancer cells [40,41]. For simplicity, we take the fifth term in (5) to represent the
+
+Table 3. Parameters for CD8\(^+\) T cell equation.
+
+| Parameter | Description | Value with unit | Reference |
+|-----------|-------------|-----------------|-----------|
+| $D_T$ | diffusion coefficient of CTL | 4.32 x $10^{-2}$ cm\(^2\)/day | [48] |
+| $s_T$ | production rate of CTL activated by tumor | 1.9368 x $10^{-6}$ cell/cm\(^3\)/day | [30] & estimated |
+| $c_T$ |  | 5.76 x $10^{-9}$ cell/cm\(^2\) | estimated |
+| $c_T$ |  | 2 x $10^{-7}$ pg/cm\(^2\) | estimated |
+| $\beta_T$ |  | 9 | estimated |
+| $\mu_T$ | death rate of CTL | 3 x $10^{-1}$/day | [48] |
+
+doi:10.1371/journal.pone.0091844.t003
+
+PLOS ONE | www.plosone.org 3 March 2014 | Volume 9 | Issue 3 | e91844

@@ -1,0 +1,154 @@
+Using FCS, an average equilibrium dissociation constant
+is determined to be (8.3 ± 0.7) μM for binding of tubulin
+to Flutax2 at nanomolar concentration. This value is similar
+to the data of Carlier and Pantaloni (1983) (equilibrium
+dissociation constant of 13 μM), but they measured the
+binding of paclitaxel to tubulin-occupying the same
+dimeric form from the increase in GTPase activity of the
+tubulin-colchicine complex accompanying paclitaxel bind-
+ing. Sengupta et al. (1995) measured the binding of
+N-debenzoyl-N-(3-(dimethylamino)benzoyl)-paclitaxel, an-
+other fluorescent derivative of paclitaxel, to dimeric tubulin
+and determined an equilibrium dissociation constant of 49
+μM for binding of paclitaxel to unpolymerized tubulin,
+a value that is much higher than for Flutax2.
+
+Our experiments with paclitaxel also demonstrate that the
+unlabeled molecule is able to induce oligomer formation.
+These oligomers can be end products when paclitaxel con-
+centration is limiting, or intermediates of microtubule forma-
+tion in excess concentrations of paclitaxel.
+
+It is known that polymers composed of pure tubulin
+disassemble in the presence of podophyllotoxin (Schilstra
+et al., 1989). However, in this study we found that tubulin
+oligomers also can be formed when tubulin is first saturated
+with podophyllotoxin or colchicine and then the fluorescent
+probe is added. The difference in binding of tubulin to
+Flutax2 is found between tubulin and tubulin in the presence
+of podophyllotoxin, whereas the equilibrium dissociation of
+the tubulin-Flutax2 complex in the presence of
+podophyllotoxin remains the same as in the absence of both
+drugs.
+
+We thank Dr. T. Aerts and Professor Dr. J. Claessens (Biophysics Research
+Group, Department of Biochemistry, University of Antwerp, Antwerp,
+Belgium) for the analytical boundary sedimentation experiments.
+
+This research is supported by a concerted research action of the Katholieke
+Universiteit Leuven grant (GOA/2001/02). T. K. was supported by the
+Katholieke Universiteit Leuven (OT/97/19), and J. V. is a recipient of
+a fellowship from the Institute for the Promotion of Innovation by Science
+and Technology in Flanders.
+
+REFERENCES
+
+Aerts, T. J., Clauwaert, P. Hazebrouck, E. Peeters, and H. Van Dael. 1997.
+Interaction of detergents with bovine lens alpha-crystallin: evidence
+for an oligomeric structure based on amphiphilic interactions. Eur.
+Biophys. J. 25:445–454.
+
+Bicranuppauk, C., and M. Page. 1998. In situ localization of paclitaxel
+binding structures: labeling with a paclitaxel fluorescent analogue. Int. J.
+Mol. Med. 2:161–165.
+
+Boukarid, R., R. Nossal, and D. L. Sackett. 2003. Stability of drug-induced
+tubulin rings by fluorescence correlation spectroscopy. Biochemistry.
+42:1292–1300.
+
+Caplow, M., and L. Fee. 2002. Dissociation of the tubulin dimer is
+extremely slow, thermodynamically very unfavorable, and reversible in
+the absence of any energy source. Mol. Biol. Cell. 13:2120–2131.
+
+Carlier, M.-F., and D. Pantaloni. 1983. Taxol effect on tubulin
+polymerization and associated guanosine 5'-triphosphate hydrolysis.
+Biochemistry. 22:4814–4822.
+
+Chacon, P. F., J. Diaz, F. Moran, and J. M. Andreu. 2000. Reconstitution
+of protein form X-ray solution scattering and a genetic algorithm.
+J. Mol. Biol. 299:1289–1302.
+
+Correia, J. J., L. T. Baty, and R. C. Williams, Jr. 1987. Mg2+ dependence of
+guanine nucleotide binding to tubulin. J. Biol. Chem. 262:17278–17284.
+
+Croon, H. B., J. J. Correia, L. T. Baty, and R. C. Williams, Jr. 1985.
+Release of exchangeably bound guanine nucleotide from tubulin in
+a magnesium-free buffer. Biochemistry. 24:768–775.
+
+Davis, J. S. 1981. Pressure-jump studies on the length-regulation kinetics of
+the self-assembly of myosin from vertebrate skeletal muscle into thick
+filament. Biochem. J. 197:309–314.
+
+Dertich, H. W., and R. C. Williams. 1978. Reversible dissociation of the αβ
+dimer of tubulin from bovine brain. Biochemistry. 17:3900–3907.
+
+Diaz, J. F., and J. M. Andreu. 1993. Assembly of purified GDP-tubulin
+microtubules induced and taxotere: reversibility, ligand
+stoichiometry, and competition. Biochemistry. 32:2747–2755.
+
+Diaz, J. F., M. Menendez, and J. M. Andreu. 1993. Thermodynamics of
+ligand-induced assembly of tubulin. Biochemistry. 32:10067–10077.
+
+Diaz, J. F., R. Strobe, Y. Engelborghs, A. Souto, and J. M. Andreu.
+2000. Molecular recognition of taxol by microtubules. J. Biol. Chem.
+275:25625–25672.
+
+Enderlein, J., I. Gregor, D. Patra, and J. Fitter. 2004. Artifacts and effects
+of fluorescence correlation spectroscopy. Curr. Pharm. Biotechnol. 5:
+155–161.
+
+Engelborghs, Y., L. De Maeyer, and N. Overbergh. 1977. A kinetic analysis
+of tubulin ring formation. FEBS Lett. 80:81–85.
+
+Evangelio, J. A., M. Abal, I. Barasoain, A. A. Souto, M. P. Lillo, J. F.
+Acuña, F. Amat-Guerri, and J. M. Andreu. 1998. Fluorescent taxoids as
+probes of the microtubule cytoskeleton. Cell Motil. Cytoskeleton.
+39:73–90.
+
+Fronin, R. P., and S. N. Timasheff. 1975. Magnesium-induced self-
+association of calf brain tubulin. Biochemistry. 14:4559–4566.
+
+García de la Torre, J., and B. Carrasco. 2002. Hydrodynamic properties of
+rigid macromolecules composed of ellipsoidal and cylindrical subunits.
+Biopolymers 63:163–167
+
+Gettner, J. S., G. W. Flynn, B. J. Derob, and F. Gaskin. 1977. Equilibrium
+components of tubulin preparations. Biochemistry. 16:5781–5785.
+
+Han, Y. A., G. Chaudhary, M. B. Dhoradia, D. L. Sackett, B. Z. Ramirez,
+D. G. Kingston, and S. Bane. 1996. Interaction of a fluorescent
+derivative of paclitaxel(Taxol) with microtubules and tubulin-colchicine.
+Biochemistry. 35:14173–14183.
+
+Haugland, R. P. 2001. Handbook of Fluorescent Probes and Research
+Chemicals, 9th ed. J. Gregory, editor. Molecular Probes, Eugene, OR.
+
+Hess, S. T., and W. W. Webb. 2002. Focal volumes and experimental
+artifacts in confocal fluorescence correlation spectroscopy. Biophys. J.
+83:2300–2317.
+
+Howard, W. D., and S. N. Timasheff. 1988. Linkages between the effects of
+taxol, colchicine, and GTP on tubulin polymerization. J. Biol. Chem.
+263:13442–13446.
+
+Hyman, A., D. Drechsel, D. Kellogg, S. Kaiser, K. Sawin, P. Steffen, L.
+Wordeman, and T. Mitchison. 1991. Preparation of modified tubulins.
+Methods Enzymol. 196:478–480.
+
+Jordan, M. A., R. J. Toso, D. Thrower, and L. Wilson. 1993. Mechanism of
+mitotic block and inhibition of cell proliferation by taxol at low
+concentrations. Proc. Natl. Acad. Sci. USA. 90:9552–9556.
+
+Lambeir, A., and Y. Engelborghs. 1983. A quantitative description of
+microtubule formation in the presence of tubulin-colchicine. Eur. J.
+Biochem. 132:369–373.
+
+Magde, D., E. Elson, and W. Webb. 1974. Fluorescence correlation
+spectroscopy. II. An experimental realization. Biopolymers. 13:29–61.
+
+McGuire, W. P., E. R. Kowinsky, N. B. Rosenheim, F. C. Grumbine, D. S.
+Ettinger, and D. K. Armstrong. 1989. Taxol: a unique antineoplastic
+agent with significant activity in advanced ovarian epithelial neoplasms.
+Ann. Intern. Med. 111:273–279.
+
+Biophysical Journal 87(4) 2635–2646

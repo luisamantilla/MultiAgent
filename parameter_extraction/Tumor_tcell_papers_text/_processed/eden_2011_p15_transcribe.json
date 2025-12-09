@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "Table S2. **Protein half-lives of YFP-tagged and untagged proteins are similar.** We measured the half-lives of YFP-tagged and their corresponding native untagged proteins using pulse-chase coupled with protein specific antibodies (as described in the Methods). In 5 out of 6 cases we find that the YFP-tagged and its corresponding native protein showed similar half-lives (average difference of 14%).\n\n| Gene Symbol | Untagged protein $T_{1/2}$ (hours) | YFP-tagged protein $T_{1/2}$ (hours) | Difference (%) |\n|-------------|------------------------------------|-------------------------------------|----------------|\n| MYH9        | 5.2 ± 0.3                          | 5.7 ± 0.6                           | 9%             |\n| DDX5        | 8.2 ± 0.9                          | 9.6 ± 0.4                           | 16%            |\n| TXN1        | 13.0 ± 0.7                         | 9.8 ± 0.51                          | 28%            |\n| K-α-1       | 19.7 ± 3.8                         | 18.9 ± 4.5                          | 4%             |\n| DDX18       | >22.5                              | >22.5                               | NA             |\n| STMN1*      | 7.8 ± 0.4                          | 3.7 ± 0.5                           | 71%            |\n\n* immunoblots showed a missing 17KD in the YFP tagged protein possibly due to a truncation caused by the tagging. This may account for the observed discrepancy between the half-life of tagged and untagged STMN1.\n\n14",
+  "model": "gpt-4o",
+  "page": 15,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 24.6,
+  "filename": "eden_2011.pdf",
+  "doc_id": "eden_2011"
+}

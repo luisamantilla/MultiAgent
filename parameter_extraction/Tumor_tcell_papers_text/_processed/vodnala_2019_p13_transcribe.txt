@@ -1,0 +1,43 @@
+```plaintext
+RESEARCH | RESEARCH ARTICLE
+
+help related to AcCoA measurements, and J. Shetty and B. Tran 
+of the NCI Sequencing Facility. Funding: Supported by the 
+Intramural Research Program of the NCI, The Cancer Moonshot 
+Program, the Center for Cell-Based Therapy at the NCI, 
+NIH, and the Milstein Family Foundation. Author contributions: 
+S.K.V., R.E., and N.P.R. conceived the project and designed 
+the experiments; S.K.V., R.E., and N.R.K. performed experiments 
+and interpreted data; M.S., T.N.V., N.H.-H., P.H.L., M.H.S., 
+S.I.P., Z.Y., D.C.P., M.J.K., J.H., X.L., J.W.L., and T.F. contributed 
+in performing experiments and edited the manuscript; T.F. and 
+C.A.K. provided intellectual but not experimental input in 
+reporting the data; S.K.V., R.E., C.A.K., and N.P.R. wrote the 
+manuscript; and N.P.R. supervised the project. Competing 
+interests: Authors declare no competing interests. Data and 
+materials availability: Datasets described in the paper 
+are deposited in Gene Expression Omnibus (accession number 
+GSE122156). S.K.V., R.E., J.R.A., and N.P.R. have submitted 
+U.S. Provisional Patent Application 62/661,941, filed 24 April 2018, 
+for the use of hydroxycitrate on T cells to improve efficacy of 
+adoptive cell therapy.
+
+SUPPLEMENTARY MATERIALS
+www.sciencemag.org/content/363/6434/eau0135/suppl/DC1
+Materials and Methods
+Figs. S1 to S14
+Tables S1 to S5
+References (65–85)
+
+27 April 2018; resubmitted 6 November 2018
+Accepted 15 February 2019
+10.1126/science.aau0135
+
+Downloaded from 
+http://science.sciencemag.org/ 
+on March 28, 2019
+
+Vodnala et al., Science 363, eaau0135 (2019) 29 March 2019
+
+12 of 12
+```

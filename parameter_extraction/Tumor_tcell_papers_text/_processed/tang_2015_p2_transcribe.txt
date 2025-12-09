@@ -1,0 +1,105 @@
+PD1-ACR T cells for PDL1⁺ cancer therapy
+
+A
+
+**PD1-CD28-4-1BB**
+
+5' ————————————————————— 3'
+
+| PD1 | CD28 | 4-1BB |
+
+Extracellular region | Intracellular region
+
+1 61 501 556 795 841 966 bp
+
+SP | PD1 | linker | CD28 | linker | 4-1BB
+
+B
+
+**PD1-ACR Signaling**
+
+PDL1 | Tumor cell
+
+| PD1 | CD28 | 4-1BB | CD3 | zap70
+
+PD1-ACR
+
+PI3K
+
+Akt | T cell
+
+IL-2 TNFα IFNγ
+
+C
+
+pCDH-EF1-MCS-T2A
+
+AmpR
+
+pUC ORI
+
+SV40 ORI
+
+SV40 poly-A
+
+3'LTR
+
+RSV
+
+5'LTR
+
+Ψ
+
+cPPT
+
+EF1α
+
+MCS
+
+T2A
+
+GFP
+
+WPRE
+
+XbaI
+
+NheI
+
+EcoRI
+
+BstBI
+
+SwaI
+
+BamHI
+
+NotI-3'
+
+D
+
+1 M E
+
+7.1 kb-
+
+966bp-
+
+E
+
+---
+
+**Figure 1.** Schematic representation of the PD1-ACR. A. Schematic representation of the PD1-ACR molecule, which contains the truncated extracellular domain of PD1 and the transmembrane and cytoplasmic signaling domains of CD28 and 4-1BB. B. Schematic representation of the interaction between the T-PDL1 tumor cell and the PD1-ACR platform. C. The structure of pCDH-EF1-T2A-GFP lentiviral vector. D. pCDH-EF1-T2A-PD1-ACR-GFP digest with restriction enzyme. M: 1 kb DNA ladder; 1: pCDH-EF1-T2A-PD1-ACR-GFP digest with EcoRI and BamHI. E. The packaging and expression of pCDH-EF1-T2A-PD1-ACR-GFP lentivirus vector in 293T cells (×100).
+
+---
+
+antibodies can restore the function of T cells and improve the anti-tumor efficacy of adoptively transferred T cells in vivo [9].
+
+On the contrary to the expression of inhibitory ligands, T cell stimulatory molecule coordinated ligands are often absent from the tumor microenvironment, which leads to the inactivation of co-stimulatory signal (signal 2). Co-stimulatory signaling molecule CD28 not only enhances the proliferation and the differentiation of naive T cells, but the expression of downstream regulators that impact on T-cell proliferation, differentiation and effector functions [10, 11]. These events are crucial for the effector T-cell function and the establishment of long-term memory. Unfortunately, CD28 ligands (CD80 and CD86) are often absent in the tumor microenvironment [12]. As a consequence, T cells become anergic or are eliminated by programmed cell death when they are exposed to antigens [13]. And the co-stimulatory molecules 4-1BB (CD137; TNFRSF9), as an inducible costimulatory molecule on activated T cells that can be triggered by 4-1BBL expressed on activated APCs [12, 13], enhances primary T-cell responses and the maintenance of memory T cells by providing “late-acting signals” and the survival of effector and memory T cells through upregulation of Bcl-XL [14, 15]. The functions of CD28 and 4-1BB suggest some complementary effects between CD28 and 4-1BB-mediated costimulation.
+
+To convert tumor PDL1 to a ligand that transmits a CD28 and 4-1BB costimulatory signal to the effector T cells, we generated a combinatorial antigen receptor, PD1-CD28-4-1BB activating chimeric receptor (PD1-ACR). Its effects on T-cell proliferation, cytokine secretion, T-cell survival and tumor elimination was investigated in tumor-bearing immunodeficient mice. As
+
+---
+
+461
+
+Am J Transl Res 2015;7(3):460-473

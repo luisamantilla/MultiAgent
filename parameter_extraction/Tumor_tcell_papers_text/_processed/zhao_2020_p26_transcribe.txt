@@ -1,0 +1,85 @@
+```plaintext
+PLOS PATHOGENS                                                                                   Generate exhausted CD8+ T cells in vitro
+
+32. Zhou X, Yu S, Zhao DM, Harty JT, Badovinac VP, Xue HH. Differentiation and persistence of memory 
+    CD8(+) T cells depend on T cell factor 1. Immunity. 2010; 33(2):229–40. https://doi.org/10.1016/j.
+    immuni.2010.08.002 PMID: 20727791
+
+33. Zhou S, Ou R, Huang L, Price GE, Moskophidis D. Differential tissue-specific regulation of antiviral CD8 
+    + T-cell immune responses during chronic viral infection. Journal of virology. 2004; 78(7):3578–600. 
+    https://doi.org/10.1128/jvi.78.7.3578-3600.2004 PMID: 15016881
+
+34. Ahmadzadeh M, Johnson LA, Heemskerk B, Wunderlich JR, Dudley ME, White DE, et al. Tumor anti-
+    gen-specific CD8 T cells infiltrating the tumor express high levels of PD-1 and are functionally impaired. 
+    Blood. 2009; 114(8):1537–44. https://doi.org/10.1182/blood-2008-12-195792 PMID: 19423728
+
+35. Schietinger A, Philip M, Krisnawan VE, Chiu EY, Delrow JJ, Basom RS, et al. Tumor-Specific T Cell 
+    Dysfunction Is a Dynamic Antigen-Driven Differentiation Program Initiated Early during Tumorigenesis. 
+    Immunity. 2016; 45(2):389–401. https://doi.org/10.1016/j.immuni.2016.07.011 PMID: 27521269
+
+36. Mueller SN, Ahmed R. High antigen levels are the cause of T cell exhaustion during chronic viral infec-
+    tion. Proceedings of the National Academy of Sciences of the United States of America. 2009; 
+    106(21):8623–8. https://doi.org/10.1073/pnas.0809818106 PMID: 19433785
+
+37. Bucks CM, Norton JA, Boesteanu AC, Mueller YM, Katsikis PD. Chronic antigen stimulation alone is 
+    sufficient to drive CD8+ T cell exhaustion. Journal of immunology. 2009; 182(11):6697–708.
+
+38. Utzschneider DT, Alfei F, Roelli P, Barras D, Chennupati V, Darbre S, et al. High antigen levels induce 
+    an exhausted phenotype in a chronic infection without impairing T cell expansion and survival. The Jour-
+    nal of experimental medicine. 2016; 213(9):1819–34. https://doi.org/10.1084/jem.20150598 PMID: 
+    27455951
+
+39. Balkhi MY, Wittmann G, Xiong F, Junghans RP, YY1 Upregulates PD-1 and Inhibits Donor Reactivity and 
+    gulates Type I Cytokines in Exhausted, Chronically Stimulated Human T Cells. Science. 2018; 2:105–
+    22. https://doi.org/10.1016/j.isci.2018.03.009 PMID: 32432869
+
+40. Miller BC, Sen DR, Al Abosy R, Bi K, Virkud YV, LaFleur MW, et al. Subsets of exhausted CD8(+) T 
+    cells differentially mediate tumor control and respond to checkpoint blockade. Nature medicine. 
+    2019; 26(1):326–36. https://doi.org/10.1038/s41590-019-0526-4 PMID: 30778252
+
+41. Utzschneider DT, Charmoy M, Chennupati V, Pousse L, Ferreira DP, Calderon-Copete S, et al. T cell 
+    factor 1-Expressing Memory-like CD8(+) T Cells Sustain the Immune Response to Chronic Viral Infec-
+    tions. Immunity. 2016; 45(2):415–27. https://doi.org/10.1016/j.immuni.2016.07.021 PMID: 27533016
+
+42. Paley MA, Kroy DC, Odorizzi PM, Johnnidis JB, Dolfi DV, Barnett BE, et al. Progenitor and terminally 
+    sets of CD8+ T cells cooperate to contain chronic viral infection. Science. 2012; 338(6111):1220–5. 
+    https://doi.org/10.1126/science.1229620 PMID: 23197535
+
+43. Youngblood B, Oestreich KJ, Ha SJ, Duraiswamy J, Akondy RS, West EE, et al. Chronic virus infection 
+    enforces demethylation of the locus that encodes PD-1 in antigen-specific CD8(+) T cells. Immunity. 
+    2011; 35(3):400–12. https://doi.org/10.1016/j.immuni.2011.06.015 PMID: 21943489
+
+44. Boers R, Boers J, de Hoon B, Kockx C, Ozgur Z, Molijn A, et al. Genome-wide DNA methylation profiling 
+    using the methylation-dependent restriction enzyme MspJI. Genome research. 2018; 28(1):88–98. https://
+    doi.org/10.1101/gr.222885.117 PMID: 29222006
+
+45. Chou FC, Kuo CC, Chen HY, Chen HH, Sytwu HK. DNA demethylation of the Tim-3 promoter is critical 
+    for its stable expression on T cells. Genes Immun. 2016; 17(3):179–86. https://doi.org/10.1038/gene.
+    2016.6 PMID: 26908332
+
+46. Zha Y, Marks R, Ho AW, Peterson AC, Janardhan S, Brown I, et al. T cell anergy is reversed by active 
+    Ras and is regulated by diacylglycerol kinase-alpha. Nature immunology. 2006; 7(11):1166–73. https://
+    doi.org/10.1038/ni1394 PMID: 17028589
+
+47. Schietinger A, Greenberg PD. Tolerance and exhaustion: defining mechanisms of T cell dysfunction. 
+    Trends Immunol. 2014; 35(2):51–60. https://doi.org/10.1016/j.it.2013.10.001 PMID: 24210163
+
+48. Schwartz RH. T cell anergy. Annual review of immunology. 2003; 21:305–34. https://doi.org/10.1146/
+    annurev.immunol.21.060401.141110 PMID: 12471050
+
+49. Mescher MF, Popescu FE, Gerner M, Hammerbeck CD, Curtsinger JM. Activation-induced non-
+    responsiveness (anergy) limits CD8 T cell responses to tumors. Semin Cancer Biol. 2007; 17(4):299–
+    308. https://doi.org/10.1016/j.semcancer.2007.06.008 PMID: 17656106
+
+50. Beverley B, Kang SM, Lenardo MJ, Schwartz RH. Reversal of in vitro T cell clonal anergy by IL-2 stimula-
+    tion. Int Immunol. 1992; 4(6):661–71. https://doi.org/10.1093/intimm/4.6.661 PMID: 1616859
+
+51. Macian F, Garcia-Cozar F, Im SH, Horton HF, Byrne MC, Rao A. Transcriptional mechanisms underly-
+    ing lymphocyte tolerance. Cell. 2002; 109(6):719–31. https://doi.org/10.1016/s0092-8674(02)00767-5 
+    PMID: 12086671
+
+52. Mueller YM, Do DH, Araki KY, Smith CM, Gracey AJ, Katselos CD, et al. IL-15 treatment during acute 
+    simian immunodeficiency virus (SIV) infection increases viral set point and accelerates disease 
+
+PLOS Pathogens | https://doi.org/10.1371/journal.ppat.1008555 June 24, 2020                                                                 26 / 27
+```

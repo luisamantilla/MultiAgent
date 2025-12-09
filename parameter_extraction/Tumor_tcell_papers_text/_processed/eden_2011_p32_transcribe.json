@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "Figure S4.\n\n\\[\n\\begin{align*}\n&\\text{16} \\\\\n&\\text{14} \\\\\n&\\text{12} \\\\\n&\\text{10} \\\\\n&\\text{8} \\\\\n&\\text{6} \\\\\n&\\text{4} \\\\\n&\\text{2} \\\\\n&\\text{0} \\\\\n\\end{align*}\n\\]\n\n\\[\n\\begin{align*}\n&\\text{150} \\\\\n&\\text{200} \\\\\n&\\text{250} \\\\\n&\\text{300} \\\\\n&\\text{350} \\\\\n&\\text{400} \\\\\n&\\text{450} \\\\\n\\end{align*}\n\\]\n\n\\[\n\\text{P < 10}^{-4}\n\\]\n\n\\[\n\\text{Sum of absolute error}\n\\]\n\n%",
+  "model": "gpt-4o",
+  "page": 32,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 6.66,
+  "filename": "eden_2011.pdf",
+  "doc_id": "eden_2011"
+}

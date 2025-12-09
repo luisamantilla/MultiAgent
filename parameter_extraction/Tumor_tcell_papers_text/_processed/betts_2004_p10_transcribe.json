@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "```\n506                                                                                      Michael R. Betts and Richard A. Koup\n\n2002; Gough and Fambrough, 1997; Guarnieri et al., 1993; Honing and Hunziker, \n1995). Furthermore, cell-surface expression of these proteins on CD8+ T cells is \ntypically very low and is retrieved from the cell surface via an endocytic pathway \ninto an endosomal or lysosomal compartment (Chang et al., 2002; Fukuda, 1991). \nBecause of this active internalization of the CD107a and b molecules, it is neces- \nsary to label CD8+ T cells with antibodies to these molecules during the activation \nperiod (Betts et al., 2003). Failure to include antibodies during the stimulation can \nhave a dramatic effect on the ability to stain cell-surface CD107a and b. As shown \nin Fig. 4, cells labeled throughout the stimulation period have a significantly \nenhanced staining pattern compared to cells stained at the end of the stimulation \nperiod.\n\n\\[\n\\begin{array}{c}\n100 \\\\\n80 \\\\\n60 \\\\\n40 \\\\\n20 \\\\\n0 \\\\\n\\end{array}\n\\]\n\n% of Max\n\nCD107a/b FITC\n\n\\[\n\\begin{array}{c}\n\\text{CD107during stim} \\\\\n\\text{CD107post stim} \\\\\n\\end{array}\n\\]\n\nFig. 4 Histogram analysis of CD107a/b expression on SEB-stimulated cells stained either during the \nstimulation period (solid line) or after the stimulation period (dashed line). Analysis of the cells was \nperformed as described in Fig. 2. Gates were placed on CD3+/CD8+ cells shown to respond to SEB \nstimulation by producing IFN-\\(\\gamma\\). Histograms of CD107a/b levels on the IFN-\\(\\gamma\\)–producing cells were \nthen compared, demonstrating that cells stained with CD107a/b after activation have substantially lower \nlevels of surface CD107a/b.\n```",
+  "model": "gpt-4o",
+  "page": 10,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 12.39,
+  "filename": "betts_2004.pdf",
+  "doc_id": "betts_2004"
+}

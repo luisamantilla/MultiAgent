@@ -1,0 +1,90 @@
+```
+IL-27 Enhances Immune Response to Tumor
+
+Table 6. Model variables and units.
+
+| Parameter | Dimension value | Dimensionless value |
+|-----------|-----------------|---------------------|
+| D_{IL27}  | 1.25 x 10^{-3} cm^2/day | 1.5 x 10^{-2} |
+| D_{I10}   | 1.25 x 10^{-3} cm^2/day | 1.5 x 10^{-2} |
+| D_T       | 4.32 x 10^{-6} cm^2/day | 5.184 x 10^{-5} |
+| D_c       | 1.25 x 10^{-3} cm^2/day | 1.5 x 10^{-2} |
+| D_e       | 8.64 x 10^{-6} cm^2/day | 1.0368 x 10^{-4} |
+| μ_{IL27}  | 2/day            | 6                   |
+| μ_{I10}   | 1.6 x 10^{-1}/day | 4.8 x 10           |
+| μ_T       | 3 x 10^{-1}/day  | 9 x 10^{-1}         |
+| μ_c       | 2.16/day         | 6.48                |
+| μ_e       | 1.73 x 10^{-1}/day | 5.19 x 10^{-1}     |
+| σ_{IL27}  | 1.5 x 10^{-9} pg/cell/day for small production | 3.24 x 10^{-2} |
+|           | 7.5 x 10^{-9} pg/cell/day for moderate production | 3.24 x 10^{-2} x 5 |
+|           | 3 x 10^{-8} pg/cell/day for large production | 3.24 x 10^{-2} x 20 |
+| σ_{I10}   | 1.128 x 10^{-9} pg/cell/day | 3.384 x 10^{-1} |
+| σ_c       | 3.72 x 10^{-9} pg/cell/day | 1.116 x 10^{-1} |
+| β_T       | 9               | 9                   |
+| η_{I10}   | 8.89 x 10^{-10} pg/cell | 2.667 x 10^{-4} |
+| η_e       | 1.398 x 10^{-1} cell/cm^3/day | 4.1904 x 10^{-3} |
+| η_c       | 5 x 10^{-9} pg/cm^3 | 5 x 10            |
+| η_e       | 3 x 10^{-9} pg/cm^3 | 3                 |
+| η_{I10}   | 5 x 10^{-9} pg/cm^3 | 5 x 10            |
+| σ_T       | 2 x 10^{-4} pg/cm^3 | 2 x 10^{-2}       |
+| σ_c       | 1.5 x 10^{-2} pg/cm^3 | 1.5             |
+| η_e       | 3.45 x 10^{-1}/day | 1.035              |
+| η_T       | 6 x 10^{-1}/day | 1.8                 |
+| λ_1       | 4.48 x 10^{-1}/day | 1.404              |
+| c_e       | 10^8 cell/cm^3  | 1.38889             |
+| c_T       | 5.76 x 10^9 cell/cm^3 | 8 x 10          |
+| L         | 1 cm in Figs. 2-5 | 2                 |
+|           | 1.5 cm in Figs. 6-10 | 3               |
+| L_0       | 3 days          | 1                   |
+| L_0       | 5 x 10^{-1} cm  | 1                   |
+| ω_0       | 7.2 x 10^8 cell/cm^3 | 1               |
+| T_0       | 10^5 cell/cm^3  | 1                   |
+| I_{10}^0  | 10^2 pg/cm^3    | 1                   |
+| IL_{27}^0 | 10^2 pg/cm^3    | 1                   |
+| c^0       | 10^2 pg/cm^3    | 1                   |
+| F         | 3 x 10^9 pg/cm^3/day in Figs. 6, 7, and 10 | 9 x 10^2 |
+|           | 1 x 10^9 pg/cm^3/day in Figs. 8A and 9A | 3 x 10^2 |
+|           | 5.8 x 10^8 pg/cm^3/day in Figs. 8B and 9B | 1.5 x 10^2 |
+| a         | 2.25 cm^2       | 9                   |
+
+doi:10.1371/journal.pone.0091844.t006
+
+c_0 = 7.2 x 10^8 cell/cm^3, T_0 = 10^5 cell/cm^3
+
+I_{10}^0 = IL_{27}^0 = 10^2 pg/cm^3.
+
+For nondimensional variables and parameters, we consider the tumor growth in a ball (r ≤ 2) or (r ≤ 3). The nondimensional PDE model is given by the following system of equations:
+
+\[
+\begin{align*}
+\frac{\partial \hat{I}_{27}}{\partial \hat{t}} &= D_{I27} \frac{1}{\hat{r}^2} \frac{\partial}{\partial \hat{r}} \left( \hat{r}^2 \frac{\partial \hat{I}_{27}}{\partial \hat{r}} \right) + \hat{a} \hat{c} \hat{I}_{27} - \hat{\mu}_{27} \hat{I}_{27} \\
+\frac{\partial \hat{I}_{10}}{\partial \hat{t}} &= D_{I10} \frac{1}{\hat{r}^2} \frac{\partial}{\partial \hat{r}} \left( \hat{r}^2 \frac{\partial \hat{I}_{10}}{\partial \hat{r}} \right) + \hat{\sigma}_{I10} \frac{\hat{I}_{27}}{\hat{I}_{27} + \hat{I}_{10}} \\
+&\quad + \hat{\sigma}_{I10} \frac{\hat{I}_{27}}{\hat{I}_{27} + \hat{I}_{10}} - \hat{\mu}_{I10} \hat{I}_{10} \\
+\frac{\partial \hat{T}}{\partial \hat{t}} &= D_T \frac{1}{\hat{r}^2} \frac{\partial}{\partial \hat{r}} \left( \hat{r}^2 \frac{\partial \hat{T}}{\partial \hat{r}} \right) + \frac{\hat{c} \hat{T}}{\hat{c} + c_T} \\
+&\quad \frac{\hat{\mu}_T}{1 + \hat{\sigma}_T \hat{T} + \hat{\beta}_T \hat{\gamma} \hat{I}_{10}} \hat{T} \\
+\frac{\partial \hat{I}_{27}}{\partial \hat{t}} &= D_{I27} \frac{1}{\hat{r}^2} \frac{\partial}{\partial \hat{r}} \left( \hat{r}^2 \frac{\partial \hat{I}_{27}}{\partial \hat{r}} \right) + \hat{\sigma}_{I27} \frac{\hat{\gamma}}{\hat{\gamma} + \hat{I}_{27}} \\
+&\quad - \hat{\mu}_{I27} \hat{I}_{27} \\
+\frac{\partial \hat{c}}{\partial \hat{t}} &= D_c \frac{1}{\hat{r}^2} \frac{\partial}{\partial \hat{r}} \left( \hat{r}^2 \frac{\partial \hat{c}}{\partial \hat{r}} \right) + \hat{\lambda}_1 \hat{c} (1 - \frac{\hat{c}}{c_e}) - \hat{\mu}_e \hat{c} \\
+\end{align*}
+\]
+
+(6)
+
+Numerical simulation
+
+The model (6) was simulated, in nondimensional variables, using matlab with d\hat{r} = 0.02 and d\hat{t} = 0.01 (i.e., dr = 0.01 cm and dt = 1/3 day in dimensional units). Four cases were considered:
+
+(i) J558-Ctrl tumor cells.
+
+(ii) J558-IL-27 tumor cells with small production rate of IL-27.
+
+(iii) J558-IL-27 tumor cells with moderate production rate of IL-27.
+
+(iv) J558-IL-27 tumor cells with large production rate of IL-27.
+
+PLOS ONE | www.plosone.org
+
+5
+
+March 2014 | Volume 9 | Issue 3 | e91844
+```

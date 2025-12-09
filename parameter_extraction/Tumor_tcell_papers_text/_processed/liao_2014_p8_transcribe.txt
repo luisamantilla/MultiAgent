@@ -1,0 +1,136 @@
+IL-27 Enhances Immune Response to Tumor
+
+A
+
+\begin{align*}
+I_{27}(r,t) \text{ pg/cm}^3 \text{ at } t=9 \text{ days}
+\end{align*}
+
+\begin{align*}
+\text{J558-Ctrl tumor cells} \\
+\alpha_{27}=1.5 \times 10^{-9} \text{ pg/cell/day} \\
+\alpha_{27}=7.5 \times 10^{-9} \text{ pg/cell/day} \\
+\alpha_{27}=3 \times 10^{-8} \text{ pg/cell/day}
+\end{align*}
+
+0 0.2 0.4 0.6 0.8 1
+
+space \(r\) (with unit cm)
+
+B
+
+\begin{align*}
+I_{10}(r,t) \text{ pg/cm}^3 \text{ at } t=9 \text{ days}
+\end{align*}
+
+0 0.2 0.4 0.6 0.8 1
+
+space \(r\) (with unit cm)
+
+C
+
+\begin{align*}
+T(r,t) \text{ cell/cm}^3 \text{ at } t=9 \text{ days}
+\end{align*}
+
+0 0.2 0.4 0.6 0.8 1
+
+space \(r\) (with unit cm)
+
+D
+
+\begin{align*}
+I_{17}(r,t) \text{ pg/cm}^3 \text{ at } t=9 \text{ days}
+\end{align*}
+
+0 0.2 0.4 0.6 0.8 1
+
+space \(r\) (with unit cm)
+
+E
+
+\begin{align*}
+c(r,t) \text{ cell/cm}^3 \text{ at } t=9 \text{ days}
+\end{align*}
+
+0 0.2 0.4 0.6 0.8 1
+
+space \(r\) (with unit cm)
+
+F
+
+\begin{align*}
+c(r,t) \text{ cell/cm}^3 \text{ at } t=9 \text{ days}
+\end{align*}
+
+0.46 0.48 0.5 0.52 0.54 0.56
+
+space \(r\) (with unit cm)
+
+Figure 4. Spatial distributions at day 9. (A), (B), (C), (D), and (E) are the spatial distributions of \(I_{27}, I_{10}, T, I_{17}\), and \(c\), respectively, at day 9 for different production rates of IL-27. (F) is zoomed in (E) near \(r=0.5\)cm. In (E), the curves displayed from top to bottom are for J558-Ctrl tumor cells, J558-IL-27 tumor cells with small (\(\alpha_{27}=1.5 \times 10^{-9} \text{ pg/cell/day}\)), moderate (\(\alpha_{27}=7.5 \times 10^{-9} \text{ pg/cell/day}\)), and large (\(\alpha_{27}=3 \times 10^{-8} \text{ pg/cell/day}\)) production of IL-27, successively; \(L=1\)cm.
+doi:10.1371/journal.pone.0091844.g004
+
+A
+
+\begin{align*}
+I_{27}(r,t) \text{ pg/cm}^3 \text{ at } t=15 \text{ days}
+\end{align*}
+
+0 0.2 0.4 0.6 0.8 1
+
+space \(r\) (with unit cm)
+
+B
+
+\begin{align*}
+I_{10}(r,t) \text{ pg/cm}^3 \text{ at } t=15 \text{ days}
+\end{align*}
+
+0 0.2 0.4 0.6 0.8 1
+
+space \(r\) (with unit cm)
+
+C
+
+\begin{align*}
+T(r,t) \text{ cell/cm}^3 \text{ at } t=15 \text{ days}
+\end{align*}
+
+0 0.2 0.4 0.6 0.8 1
+
+space \(r\) (with unit cm)
+
+D
+
+\begin{align*}
+I_{17}(r,t) \text{ pg/cm}^3 \text{ at } t=15 \text{ days}
+\end{align*}
+
+0 0.2 0.4 0.6 0.8 1
+
+space \(r\) (with unit cm)
+
+E
+
+\begin{align*}
+c(r,t) \text{ cell/cm}^3 \text{ at } t=15 \text{ days}
+\end{align*}
+
+0 0.2 0.4 0.6 0.8 1
+
+space \(r\) (with unit cm)
+
+F
+
+\begin{align*}
+c(r,t) \text{ cell/cm}^3 \text{ at } t=15 \text{ days}
+\end{align*}
+
+0.48 0.5 0.52 0.54 0.56 0.58
+
+space \(r\) (with unit cm)
+
+Figure 5. Spatial distributions at day 15. (A), (B), (C), (D), and (E) are the spatial distributions of \(I_{27}, I_{10}, T, I_{17}\), and \(c\), respectively, at day 15 for different production rates of IL-27. (F) is zoomed in (E) near \(r=0.5\)cm. In (E), the curves displayed from top to bottom are for J558-Ctrl tumor cells, J558-IL-27 tumor cells with small (\(\alpha_{27}=1.5 \times 10^{-9} \text{ pg/cell/day}\)), moderate (\(\alpha_{27}=7.5 \times 10^{-9} \text{ pg/cell/day}\)), and large (\(\alpha_{27}=3 \times 10^{-8} \text{ pg/cell/day}\)) production of IL-27, successively; \(L=1\)cm.
+doi:10.1371/journal.pone.0091844.g005
+
+PLOS ONE | www.plosone.org 8 March 2014 | Volume 9 | Issue 3 | e91844

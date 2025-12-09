@@ -1,0 +1,144 @@
+```plaintext
+ARTICLES                                                                                     NATURE CANCER
+
+a
+
+OVA+ Eμ-myc
+
+1.00
+0.75
+0.50
+0.25
+0
+
+Sphericity index
+
+Sphericity index
+
+1.00
+0.75
+0.50
+0.25
+0
+
+Eμ-myc
+
+0
+
+2
+
+4
+
+6
+
+8
+
+Mean speed (μm.min-1)
+
+0
+
+2
+
+4
+
+6
+
+8
+
+Mean speed (μm.min-1)
+
+b
+
+0 min
+
+9.5 min
+
+20 min
+
+39 min
+
+0 min
+
+9.5 min
+
+20 min
+
+39 min
+
+7 min
+
+13 min
+
+20 min
+
+39 min
+
+OVA+ Eμ-myc
+
+Eμ-myc
+
+IFN-γ+ T cells
+
+SHG
+
+c
+
+8
+6
+4
+2
+0
+
+Mean speed (μm.min-1)
+
+***
+
+*
+
+WT OT-I
+
+IFN-γ+ OT-I
+
+d
+
+100
+75
+50
+25
+0
+
+Arrest coefficient (%)
+
+***
+
+**
+
+WT OT-I
+
+IFN-γ+ OT-I
+
+OVA+ Eμ-myc
+Eμ-myc
+
+e
+
+0.4
+0.3
+0.2
+0.1
+0
+
+OT-I % of live cells
+
+P=0.2
+
+Eμ-myc
+only
+
+Mosaic
+tumors
+
+Extended Data Fig. 4 | See next page for caption.
+
+NATURE CANCER | www.nature.com/natcancer
+```

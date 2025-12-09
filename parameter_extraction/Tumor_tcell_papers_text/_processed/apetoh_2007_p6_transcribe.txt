@@ -1,0 +1,224 @@
+```
+ARTICLES
+
+a
+
+400
+
+300
+
+200
+
+100
+
+0
+
+Tumor size (mm3)
+
+Untreated
+
+CT26
+
+Doxorubicin
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+Days after treatment
+
+b
+
+400
+
+300
+
+200
+
+100
+
+0
+
+Tumor size (mm3)
+
+Untreated
+
+TS/A
+
+X-rays
+
+0
+
+10
+
+20
+
+30
+
+40
+
+Days after treatment
+
+c
+
+400
+
+300
+
+200
+
+100
+
+0
+
+Tumor size (mm3)
+
+Untreated
+
+GOS
+
+Oxaliplatin
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+Days after treatment
+
+d
+
+400
+
+300
+
+200
+
+100
+
+0
+
+Tumor size (mm3)
+
+Untreated
+
+EL4
+
+Oxaliplatin
+
+0
+
+4
+
+8
+
+12
+
+16
+
+20
+
+Days after treatment
+
+Figure 5 TLR4 dictates the efficacy of antitumor chemotherapy and
+radiotherapy in mice. (a–c) Impact of TLR4, MyD88, TRIF and T cells on
+the efficacy of conventional antitumor therapy. EL4 thymoma, CT26 colon
+cancer, TS/A mammary cancer and GOS osteosarcoma tumors were
+established in mice bearing the indicated genotypes. When the tumors
+reached 40–80 mm3 in size, mice were either left untreated or treated with
+systemic chemotherapy (oxaliplatin) or localized doxorubicin or X-ray
+radiotherapy. (d) Chloroquine restores the efficacy of oxaliplatin in TLR4-
+deficient hosts. WT or Tlr4–/– mice bearing established EL4 tumors were
+treated with intravenous oxaliplatin and/or chloroquine. Tumor sizes were
+monitored twice a week with calipers. Each treatment group included 5–6
+mice and was repeated three times with identical results. *P < 0.05.
+
+HMGB1 release by dying tumor cells
+HMGB1, a nuclear protein that binds to chromatin and stimulates
+‘danger’ signals, is released by dying cells. We found that the
+supernatant of CT26 cells treated with doxorubicin or X-rays
+contained HMGB1, a protein that binds to TLR4 and stimulates
+the release of proinflammatory cytokines by dendritic cells (DCs)
+(Fig. 3a). HMGB1 was released 18 h after irradiation of EG7 or TS/A
+cells or doxorubicin treatment of CT26 or MCA205 cells (Fig. 3b),
+and this release was inhibited by Z-VAD-fmk (data not shown), which
+suppresses apoptotic caspase activity and delays secondary necrosis.
+Next we determined whether the HMGB1 contained in the super-
+natant of dying tumor cells might directly interact with TLR4.23
+Raw264.7 macrophages (which express TLR4) were incubated
+with supernatants from doxorubicin-treated CT26 cells (containing
+> 200 ng/ml of free HMGB1) or live CT26 cells (containing < 20 ng/
+ml of free HMGB1), washed and then subjected to the immunopre-
+cipitation of HMGB1, and TLR4 was detected in the precipitate
+(Fig. 3c). These results demonstrate that HMGB1 secreted by dying
+tumor cells binds to TLR4 and hence would be unlikely that another
+known or unknown TLR4 ligand contained in this supernatant
+would preferentially occupy TLR4 on antigen presenting cells.
+Inhibition of HMGB1 secretion by preincubation of the tumor cells
+with a small interfering RNA (Supplementary Fig. 4 online) inhibited
+the capacity of treated CT26 cells to stimulate B3Z cells via DCs.
+Similar data were obtained when DCs were cocultured with dying EG7
+tumor cells in the presence of neutralizing antibody to HMGB1
+(Supplementary Fig. 4). Because HMGB1 is involved in the inflam-
+matory response elicited by dying cells,24 we further investigated its
+contribution to the TLR4-dependent antitumor immune response.
+Neutralization of all possible TLR4 ligands with recombinant TLR4-Fc
+
+fusion protein (Fig. 1b) was as efficient in inhibiting the DC-mediated
+presentation of OVA from irradiated EG7 cells as was neutralization of
+HMGB1 (Supplementary Fig. 4), suggesting that HMGB1 is indeed
+the principal TLR4-activating agent involved in this system. Lack
+of functional HMGB1-neutralizing antibody (but not irrelevant
+antibody to NK1.1, antibody targeting NK1.1 molecules expressed
+on BG7 or an antibody to HSP96) also inhibited the priming of T cells
+by doxorubicin-treated CT26 cells (Fig. 4a) or doxorubicin-treated GOS
+cells (data not shown) in vivo. Similarly, doxorubicin-treated CT26 or
+MCA205 cells and irradiated EG7 cells failed to prime cytotoxic
+T cells in vivo when they were depleted from HMGB1 by means of
+specific siRNAs (Fig. 3c). In conclusion, HMGB1 represents the
+principal damage-associated molecular pattern that dictates the
+TLR4-dependent immune response to dying tumor cells.
+
+HMGB1/TLR4/MyD88 in the efficacy of anticancer drugs
+Injection of doxorubicin-treated CT26 colon cancer cells is highly
+efficient in inducing an immune response that prevents the growth of
+live CT26 cells inoculated 1 week later. We obtained similar results
+with doxorubicin-treated MCA205 sarcoma cells, which prevented the
+growth of MCA205. Although this effective vaccination induced by
+dying tumor cells applied to WT mice, no tumor vaccination could be
+achieved with anthracyclin- or oxaliplatin-treated cells in Tlr4–/– mice
+(Fig. 4a). These data were confirmed for oxaliplatin-treated or
+irradiated EL4 thymoma cells, which failed to protect Tlr4–/– hosts
+against a lethal challenge (Fig. 4a). Pharmacological inhibition of TLR4
+with a cell-permeable blocking peptide24 that was co-injected with
+dying tumor cells also prevented antitumor immunity (Fig. 4b).
+Moreover, the depletion of HMGB1 from doxorubicin- or oxaliplatin-
+treated tumor cells using neutralizing antibodies (Fig. 4c) or
+HMGB1-specific siRNAs (Fig. 4d) compromised the efficacy of
+antitumor vaccination.
+
+NATURE MEDICINE VOLUME 13 NUMBER 9 SEPTEMBER 2007 1055
+```

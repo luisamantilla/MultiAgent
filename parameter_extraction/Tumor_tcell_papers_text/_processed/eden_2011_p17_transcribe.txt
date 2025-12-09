@@ -1,0 +1,45 @@
+```
+Table S4. Protein half-lives under normal growth condition as measured by bleach-chase
+
+| Gene symbol | Description                                                | T_{1/2} under normal growth (hours) |
+|-------------|------------------------------------------------------------|-------------------------------------|
+| ANXA2       | annexin A2 isoform 1                                       | 6.1 ± 0.5                           |
+| BAG1        | BCL2-associated athanogene.                                | 5.3 ± 1.6                           |
+| C1QBP       | complement component 1, q subcomponent binding             | 5.7 ± 2.5                           |
+| CALM2       | calmodulin 2                                               | 6.7 ± 1.1                           |
+| CD44        | CD44 antigen isoform 1 precursor                           | 20.8 ± 1.9                          |
+| CIRBP       | cold inducible RNA binding protein                         | 6.9 ± 2.1                           |
+| CKS2        | CDC28 protein kinase 2                                     | 2.6 ± 1.6                           |
+| COPS6       | COP9 signalosome subunit 6                                 | 5.4 ± 1.0                           |
+| COTL1       | coactosin-like 1                                           | 8.4 ± 1.4                           |
+| COX7C       | cytochrome c oxidase subunit VIIc precursor                | 22.5 ± 5.1                          |
+| DDX18       | DEAD (Asp-Glu-Ala-Asp) box polypeptide 18                  | 20.3 ± 1.4                          |
+| DDX46       | DEAD (Asp-Glu-Ala-Asp) box polypeptide 46                  | 7.9 ± 2.2                           |
+| DDX5        | DEAD (Asp-Glu-Ala-Asp) box polypeptide 5                   | 8.7 ± 1.0                           |
+| DNMT1       | DNA (cytosine-5)-methyltransferase 1                       | 6.9 ± 2.0                           |
+| DYNC1H1     | dynein, cytoplasmic, heavy polypeptide 1                   | 13.8 ± 4.3                          |
+| EEF1A1      | eukaryotic translation elongation factor 1 alpha           | 9.9 ± 0.6                           |
+| EEF1E1      | eukaryotic translation elongation factor 1                 | 2.7 ± 0.7                           |
+| EEF2        | eukaryotic translation elongation factor 2                 | 8.8 ± 0.7                           |
+| EIF2S2      | eukaryotic translation initiation factor 2 beta            | 8.3 ± 1.5                           |
+| EIF2S3      | eukaryotic translation initiation factor 2,                | 10.5 ± 2.5                          |
+| EIF4A1      | eukaryotic translation initiation factor 4A                | 7.3 ± 1.2                           |
+| EIF4E       | eukaryotic translation initiation factor 4E                | 11.7 ± 0.9                          |
+| EIF4EBP1    | eukaryotic translation initiation factor 4E                | 8.5 ± 2.3                           |
+| EIF4G3      | eukaryotic translation initiation factor 4                 | 8.8 ± 1.1                           |
+| EIF4H       | eukaryotic translation initiation factor 4H                | 16.3 ± 6.2                          |
+| EIF5B       | eukaryotic translation initiation factor 5B                | 8.9 ± 2.8                           |
+| ENO1        | enolase 1                                                  | 8.0 ± 3.5                           |
+| FAU         | ubiquitin-like protein fubi and ribosomal                  | 12.2 ± 1.2                          |
+| FSCN1       | fascin 1                                                   | 5.8 ± 0.2                           |
+| GAPDH       | glyceraldehyde-3-phosphate dehydrogenase                   | 0.8 ± 0.8                           |
+| H2AFV       | H2A histone family, member V isoform 2                     | 13.9 ± 1.8                          |
+| HAT1        | histone acetyltransferase 1 isoform a                      | 8.5 ± 1.2                           |
+| HDAC2       | histone deacetylase 2                                      | 4.5 ± 2.4                           |
+| HMGA1       | high mobility group AT-hook 1 isoform a                    | 11.1 ± 1.5                          |
+| HSP90AA1    | heat shock protein 90kDa alpha (cytosolic),                | 4.2 ± 1.8                           |
+| HSP90AB1    | heat shock 90kDa protein 1, beta                           | 8.8 ± 2.4                           |
+| HSPA4L      | heat shock 70kDa protein 4-like                            | 10.6 ± 2.7                          |
+
+16
+```

@@ -1,0 +1,105 @@
+```
+Figure S1.
+
+DDX5
+Protein (F.U.)
+0 5 10 15
+0
+0.5
+1
+1.5
+2
+
+CKS2
+0 5 10 15
+0
+0.5
+1
+1.5
+2
+
+ENO1
+0 5 10 15
+0
+0.5
+1
+1.5
+2
+2.5
+3
+4
+
+JAGN1
+0 5 10
+0
+1
+2
+3
+4
+
+DNCH1
+Protein (F.U.)
+0 5 10
+0
+0.5
+1
+1.5
+2
+
+LMNA
+0 5 10
+0
+0.5
+1
+1.5
+2
+2.5
+
+RPS3
+0 5 10
+0
+0.5
+1
+1.5
+2
+
+MAP2K2
+0 5 10
+0
+0.5
+1
+1.5
+2
+
+NCBP2
+Protein (F.U.)
+0 5 10
+0
+0.5
+1
+1.5
+2
+Time after CHX
+addition (hours)
+
+PSMB4
+0 5 10
+0
+0.5
+1
+1.5
+2
+2.5
+Time after CHX
+addition (hours)
+
+RPLA22
+0 5 10
+0
+0.5
+1
+1.5
+2
+Time after CHX
+addition (hours)
+```

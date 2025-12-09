@@ -1,0 +1,38 @@
+The Journal of Immunology
+
+903
+
+A
+
+B
+
+4 h assay
+
+12 h assay
+
+% specific lysis
+
+% specific lysis
+
+E : T ratio
+
+E : T ratio
+
+(•) without IFNγ
+(•) with IFNγ
+
+FIGURE 6. Specific CTL lysis of B16.F10 transfectants is IFN-γ dependent. A, Medium (sup) was conditioned by coculturing 10^6/ml CTLL-T cells with 10^6/ml B16.F10T cells for 12 h at 37°C. The medium was cleared after the incubation (15 min, 2000 x g) and was used at 5% v/v; its IFN-γ content is shown in Figure 4. The mAb R4-6A2 (anti-IFN-γ), which neutralizes mouse IFN-γ, was added to some cultures at a final concentration of 20 μg/ml; its neutralization activity is shown in Figure 4. CTLL-T lysed B16.F10T targets treated with either sup or rIFN-γ. Sup in which the IFN-γ bioactivity was neutralized did not induce susceptibility to lysis in B16.F10T targets. B, During a 12-h assay, B16.F10T targets were lysed only when IFN-γ activity was present in the cultures; neutralization of this activity suppressed the generation of a lytic interaction between CTL and the melanoma targets.
+
+for 4 to 24 h with nontransfected B16.F10 cells or transfected B16.F10T or B16.F10S cells (with controls RBL5, RBL5.T, or RBL5.S cells) (Fig. 4). Transfected RBL5 cells supported a specific IFN-γ release response by CTL detectable after 4 h and 12 h; transfected B16 cells supported a specific IFN-γ release response by CTL detectable after 12 h but not 4 h. The lysis response was detectable after coculture with B16.F10S or B16.F10T transfectants harvested from serum-supplemented or serum-free medium (data not shown).
+
+In short term 4-h cytotoxic assays, CTLL did not specifically lyse B16.F10S or B16.F10T targets (Fig. 5, C and D) but CTL efficiently and specifically lysed RBL5.T and RBL5.S control targets (Fig. 5, A and B). IFN-γ-treated B16.F10S and B16.F10T transfectants were efficiently and specifically lysed by the respective CTLL in a 4-h assay, indicating that the up-regulated H-2^b surface expression allowed the specific cytolytic interaction of the targets with the effector cells in a short term assay (Fig. 5, C and D). When the source of CTL was (noninduced) B16.F10S and B16.F10T targets was extended to 12 h, efficient and specific CTL lysis was observed (Fig. 5, E and F).
+
+In a 4-h assay, B16.F10 transfectants (but not nontransfected control targets) incubated for 12 h either with medium from IFN-γ, or with medium conditioned by CTLL stimulated for 12 h with noninduced B16.F10 transfectants were specifically lysed by CTL (Fig. 6A). Elimination of IFN-γ bioactivity from medium conditioned by CTLL with the neutralizing R4-6A2 Ab suppressed the activity of these supernatants and rendered B16.F10 transfectants susceptible to CTL lysis in a 4-h assay. CTLL-derived IFN-γ generated during coculture of CTLL with noninduced B16.F10 transfectants hence seems to render melanoma cells susceptible to specific cytolytic attack in a 12-h assay. This was confirmed in experiments that showed that the specific cytolysis of B16.F10 transfectants in a 12-h assay was blocked by neutralizing endogenously generated IFN-γ bioactivity in the cultures (Fig. 6B). Similar data were obtained using B16.F10T or B16.F10S transfectants (data not shown).
+
+When B16.F10S and B16.F10T "effector" cells were cocultured at E:T ratios of 10:1 to 1:1 with radiolabeled CTLL "target" cells in a 12-h assay, no specific lysis of the T cell targets was detectable. We thus found no evidence for specific cytolytic reactivity of the tumor cells against the immune effector cells (data not shown).
+
+Tumorigenicity of the B16 melanoma cell line and its transfected sublines in syngeneic, immune, or nonimmune hosts
+
+Subcutaneous transfer of 10^3 to 10^6 B16 cells into C57BL/6 mice induced aggressively growing, lethal tumors in most transplanted animals (Table I). The B16 transfectants expressing either the HBsAg or the T-Ag showed a similar aggressive growth in vivo. Only when low numbers of B16.F10S transfectants were transplanted did a significantly reduced number of animals develop melanomas (Table I).
+
+Growth of nontransfected B16.F10 cells and transfected B16.F10S and B16.F10T cells was tested in DNA-vaccinated hosts. The data in Figure 7 and Table II demonstrate that DNA vaccination specifically protected mice against the aggressive growth of a melanoma that expressed the viral Ag against which the host was immunized. MHC-I expression was readily detectable on transfected B16 cells freshly isolated from melanomas growing in immune hosts. These data confirm observations in other mouse tumor models (26, 29–32). Although MHC-I surface expression is

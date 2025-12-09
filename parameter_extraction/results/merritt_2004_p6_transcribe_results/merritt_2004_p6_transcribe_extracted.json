@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and their values from the provided text:\n\n1. **Red fluorescence values:**\n   - Untreated B16: 58.5, 14.5, 3.96, 23.1\n   - B16 + rmIFNγ: 38.7, 29.4, 7.4, 24.6\n   - B16 + rmIFNγ + MHC-I MAb: 48.3, 17.4, 9.38, 24.4\n\n2. **% Bound CD8+ CTLs:**\n   - 100%\n   - 80%\n   - 60%\n   - 40%\n   - 20%\n   - 0%\n\n3. **MHC class I expression loss in human lung cancer cell lines:**\n   - 33% to 43%\n\n4. **Cure rate for lung cancer patients:**\n   - Fewer than 15%\n\nThese values are extracted from the experimental data and the discussion section of the text."
+}

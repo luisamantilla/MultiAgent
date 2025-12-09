@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and values from the text:\n\n1. **Tumor Signal (A.U.)**:\n   - MCA-OVA: 6000, 4000, 2000, 0\n   - MCA-OVA control: 0, 100, 200, 300\n\n2. **Tumor depth (μm)**:\n   - 0, 100, 200, 300\n\n3. **Epifluorescence image dimensions**:\n   - 900 x 670 μm (right and left)\n   - 225 x 167 μm (middle)\n\n4. **Bar length in images**:\n   - 204 μm\n\n5. **Time after OT1 cell transfer**:\n   - 4 days\n\n6. **Sample size (n)**:\n   - n = 7 (not controls)\n\n7. **Statistical significance**:\n   - ***, P < 0.001\n\nThese values are related to the experimental observations and measurements described in the text."
+}

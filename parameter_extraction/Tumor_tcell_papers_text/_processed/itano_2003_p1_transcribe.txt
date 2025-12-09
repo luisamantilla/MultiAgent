@@ -1,0 +1,94 @@
+```plaintext
+nature immunology
+
+REVIEW
+
+Antigen presentation to naive CD4 T cells
+in the lymph node
+
+Andrea A Itano & Marc K Jenkins
+
+Although the presentation of peptide–major histocompatibility complex class II (pMHC class II) complexes to CD4 T cells has
+been studied extensively in vitro, knowledge of this process in vivo is limited. Unlike the in vitro situation, antigen presentation
+in vivo takes place within a complex microenvironment in which the movements of antigens, antigen-presenting cells (APCs) and
+T cells are governed by anatomic constraints. Here we review developments in the areas of lymph node architecture, APC subsets
+and T cell activation that have shed light on how antigen presentation occurs in the lymph nodes.
+
+Initiation of many aspects of the adaptive immune response depends
+on CD4 T cell recognition of foreign pMHC class II complexes on the
+surface of APCs. Although several cell types express MHC class II mol-
+ecules, it is believed that dendritic cells (DCs) are the initiating APCs,
+because they are located at portals of antigen entry and are efficient at
+antigen uptake, processing, pMHC complex display and migration to
+the T cell areas of secondary lymphoid organs1. Moreover, DCs are the
+first to stimulate the DCs at the site of initial pMHC complex presentation
+may determine whether the responding naive T cells become memory
+cells or are deleted, silenced or suppressed2,3.
+
+Although much circumstantial evidence indicates the DCs is essential,
+it is still not clear which cells first present pMHC class II complexes to
+naive CD4 T cells in vivo. It is clear from in vitro experiments that other
+MHC class II–expressing cells (for example, macrophages and B cells)
+are capable of presenting pMHC class II complexes and stimulating
+naive CD4 T cells, albeit less efficiently than DCs4,5. Given this potential,
+could macrophages or B cells initiate the primary CD4 T cell response?
+In addition, if DCs are the initiating APCs, which of the many subsets
+are involved? Is the response initiated exclusively by DCs that migrate
+from the nonlymphoid site of antigen entry, or are the DCs that are
+already in the secondary lymphoid organs involved? If so, do migrating
+and resident DCs induce different types of T cell responses?
+
+The blood and lymphatic vasculature that pervades the site at which
+antigen enters the body determines, to a large extent, the type of sec-
+ondary lymphoid organ in which the CD4 T cell response begins6.
+This ‘plumbing’ determines that immune responses to antigens, which
+enter the body through the skin, mucosal surfaces or blood, begin in
+the peripheral lymph nodes, mucosal lymphoid organs or spleen,
+respectively. This review will focus on pMHC class II complex presen-
+tation to naive CD4 T cells in lymph nodes.
+
+CD4 T cell activation in secondary lymphoid organs
+In many cases, antigens that are eventually presented in the lymph
+nodes first enter the body in nonlymphoid tissues, such as the subcuta-
+neous tissue after skin puncture. It is therefore theoretically possible
+that nonlymphoid sites of antigen entry are the places where naive CD4
+T cells are first activated. This is unlikely, as much evidence indicates
+that naive CD4 T cells have little, if any, access to parts of the body other
+than the blood and secondary lymphoid organs7. For example, naive
+CD4 T cells could only be detected in the lymph nodes, spleen and
+mucosal lymphoid tissues using whole-animal immunohistology8.
+This anatomic limitation indicates that in most cases the initial activa-
+tion of naive CD4 T cells must occur in secondary lymphoid organs as a
+result of antigen transport from nonlymphoid tissues. As noted below,
+however, this image may be an exception to this rule.
+
+MHC class II–expressing cells in the lymph node
+Three cell types within the murine lymph node express MHC class II
+molecules, and thus have the potential to activate CD4 T cells:
+macrophages, B cells and DCs. However, because macrophages are
+located mainly in nonlymphoid tissues, the red pulp of the spleen, and
+the subcapsular and medullary sinuses of lymph nodes9,10, but not in
+the T cell areas, it is unlikely that these cells act as initial APCs. Indeed,
+T cell–dependent immune responses are induced normally in mice
+deficient in macrophage colony-stimulating factor that lack sinusoidal
+macrophages11. Although this result indicates that macrophages are
+not essential for initiation of the CD4 T cell response, not all
+macrophages are absent in mice deficient in macrophage colony-
+stimulating factor11. Thus, it remains possible that a subset of
+macrophages is involved in initial pMHC class II complex presen-
+tation to naive CD4 T cells in the lymph nodes. However, the abundance
+of macrophages in many nonlymphoid organs indicates that these
+cells are important APCs for effector CD4 T cells that migrate into
+nonlymphoid organs at late stages of the primary immune response8.
+
+B cells are also unlikely to be involved in the initial pMHC class II
+complex presentation to naive CD4 T cells. Although it was reported
+that all B cells in the lymph nodes produce lysozyme pMHC class II
+
+Andrea A. Itano and Marc K. Jenkins are in the Department of Microbiology and
+the Center for Immunology, University of Minnesota, MMC 334, 420 Delaware
+St. SE, Minneapolis, Minnesota 55455, USA. Correspondence should be
+addressed to M.K.J. (marcj@mail.ahc.umn.edu).
+
+NATURE IMMUNOLOGY VOLUME 4 NUMBER 8 AUGUST 2003 733
+```

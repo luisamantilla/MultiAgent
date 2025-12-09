@@ -1,0 +1,153 @@
+```
+induce a change in the antigen-expressing tumors, which makes 
+them permissive to infiltration by the activated T cells.
+
+If tumor infiltration occurs through the periphery of the 
+tumors, tumor cell killing by CTLs should also start in the 
+periphery. To address this possibility, we performed ordered 
+frozen sections as in Fig. 6 and labeled apoptotic cells using 
+tunnel. Apoptotic cells were most abundant in the periphery of 
+EG7 tumors at the end of the early phase (Fig. 7 A). The 
+number of tunnel-positive cells was counted in sequential 
+sections and plotted as a function of the distance from the 
+surface of the tumor. As shown in Fig. 7 B, tunnel-positive 
+cells accumulated in the periphery of the EG7 tumors. Reduced 
+accumulation of apoptotic cells was detected in the EL4 tumors. 
+The low numbers of tunnel-positive cells detected in the 
+periphery of EL4 are most likely caused by the endogenous 
+immune response. We conclude that apoptotic tumor cells 
+accumulate in the periphery of the tumor, consistent with the 
+peripheral infiltration of the CTLs evidenced in Fig. 6.
+
+To extend our conclusions about the role of antigen in 
+tumor infiltration to another tumor model, we used a fibro- 
+sarcoma tumor cell line, MCA-101, expressing (MCA-OVA) 
+or not expressing (MCA) recombinant OVA. OT1-GFP 
+cells adoptively transferred to tumor-bearing mice induce the 
+rejection of MCA-OVA, but not MCA-tumors, with a ki- 
+netic similar to that of EG7 rejection (unpublished data). 
+OT1 cells were detected in both tumors, although the re- 
+cruitment to the OVA-expressing tumors was higher com- 
+pared with the control MCA tumors (Fig. 8). Similar to the 
+thymoma model, OT1-GFP cells infiltrated the periphery of 
+MCA tumors independently of antigen expression (Fig. 6 B, 
+bottom left). OVA expression, however, was required for 
+tumor cell infiltration at days 5–6 (Fig. 6 B, bottom right). 
+Similar to the thymoma model, a day 3–4 tunnel-positive 
+apoptotic tumor cells accumulated in the tumor periphery of 
+antigen-expressing tumors (Fig. 7 B). We conclude that deep 
+tumor infiltration, but not peripheral infiltration, requires an- 
+tigen expression by fibrosarcoma tumor cells.
+
+DISCUSSION
+We show here that antigen expression by thymoma cells 
+plays a critical role in the motility of CTLs, in the extent of 
+infiltration, and in the distribution of the infiltrating CTLs. 
+As suggested previously (33, 34), our results indicate that in- 
+filtration by lymphocytes proceeds from the periphery of the 
+tumor. Our results also support a novel working model for 
+the dynamics of tumor infiltration in depth: after diapedesis 
+from blood vessels in periphery of the tumor, CTLs encoun- 
+ter antigen-expressing tumor cells and arrest their migration 
+for killing. Once tumor cells have been cleared in that re- 
+gion of the tumor, CTLs resume motility sometimes guided 
+along collagen fibers and blood vessels until they reach other 
+regions with living tumor cells. Because the killing starts at 
+the tumor periphery, adjacent regions where tumor cells are 
+alive are always toward the center of the tumor. We speculate 
+that when arriving in a new region of the tumor where the 
+tumor cells are alive, CTLs arrest their migration again and 
+kill the antigen-expressing tumor cells. The overall result would 
+be a displacement of the CTL population toward deeper 
+regions of the tumor. The repetition of this sequence of 
+“motility” and “static/cytotoxic” phases would result in the 
+progressive, oriented, antigen-dependent infiltration of the 
+solid tumors that we have observed.
+
+This model is mainly based on observations made on one 
+single tumor—a mouse thymoma growing s.c. The topo- 
+graphy of infiltration observed in this thymoma was confirmed 
+in the more relevant chemically induced fibrosarcoma, MCA101. 
+To date, the available imaging techniques impose the use 
+of artificial experimental models, including the transfer of 
+antigen-expressing tumors and the use of high numbers of 
+transgenic T cells specific for transfected antigens. The analysis 
+of mouse solid tumors more relevant to human cancers, spon- 
+taneous and growing in other locations, and the use of CTLs 
+recognizing “true” tumor antigens is required to confirm or 
+invalidate our model of CTL invasion.
+
+In any case, this working model is still preliminary. It is 
+unclear from our results whether the critical factor for the 
+observed arrest in CTL motility and the deep tumor infiltration 
+is tumor cell killing or antigen recognition (and the resulting 
+T cell activation). Experiments using control transgenic CTLs 
+with unrelated antigen specificity or CTLs defective for dif- 
+ferent functions (activation, cytokine secretion, cytotoxicity) 
+should allow nailing down the precise requirements for CTL 
+
+ARTICLE
+
+A
+
+MCA-OVA
+
+MCA-OVA
+
+MCA-OVA control
+
+B
+
+Thymoma
+
+Fibrosarcoma
+
+Tumor Signal (A.U.)
+
+***
+
+***
+
+6000
+
+4000
+
+2000
+
+0
+
+0
+
+100
+
+200
+
+300
+
+Tumor depth (μm)
+
+0
+
+100
+
+200
+
+300
+
+Tumor depth (μm)
+
+Figure 7. Apoptotic cells after tumor T cell infiltration. Tunnel 
+assay after adoptive transfer of OVA-specific OT1 cells in EG7 or MCA- 
+OVA tumor-bearing mice. (A) Typical epifluorescence images (900 x 670 μm, 
+right and left; 225 x 167 μm, middle) of MCA-OVA tumor sections 4 d 
+after transfer or not of OT1 cells; cell nuclei were labeled with Dapi 
+(blue) and apoptotic cells (green) were labeled by using the FITC-Tunnel 
+detection kit. Bar, 204 μm. (B) Representative quantification of apoptosis 
+in thymoma or fibrosarcoma (MCA-101) tumors expressing (closed symbols) 
+or not (open symbols) the OVA epitope 4 d after OT1 cell transfer. 
+n = 7 (not controls) (crosses) (mean ± SD, three to four different tumors). The 
+statistical differences between peripheral and deep regions for EG7 and 
+MCA-OVA are indicated. ***, P < 0.001.
+
+353
+```

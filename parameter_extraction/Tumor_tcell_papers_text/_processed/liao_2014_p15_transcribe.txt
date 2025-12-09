@@ -1,0 +1,75 @@
+If $I_t$ is constant, then the solution is $d(t)=e^{\lambda_1 t - \eta_t \frac{I_t + s_c}{I_t}} d(0)$
+
+which leads to
+
+$$\eta_t = [\lambda_1 - \eta_t] - \frac{1}{c(0)} \int_0^t c(t) \frac{I_t + s_c}{I_t} \, dt. \tag{26}$$
+
+Since $c(5)/c(0)$ is close to 1 and the range of $I_t$ may vary from 100pg/cm$^3$ to 3400pg/cm$^3$ [30]:558-T1 tumor cells and IL-10$^{-/-}$ P1CTL T cells or from 750pg/cm$^3$ to 1600pg/cm$^3$ for 3.5B1-IL27 tumor cells and IL-10$^{-/-}$/P1CTL/IL27, we choose in Equation (26)
+
+$$\frac{I_t + s_c}{I_t} \approx 2.$$
+
+Recalling that $\lambda_1 - \mu_c = 0.295/day$, we take $\eta_t = 0.6/day$.
+
+Next, we choose $s_c = 150pg/cm^3$ and proceed to estimate $\eta_t$ by considering T cells P1CTL and P1CTL/IL-27 which generate $I_t$. For (25), if $I_{10}$ and $\frac{I_t}{I_t + s_c}$ are constants, then the solution is
+
+$$d(t) = e^{\lambda_1 t - \eta_t \frac{I_t + s_c}{I_t}} d(0),$$
+
+and hence
+
+$$\eta_t = [\lambda_1 - \mu_c - \eta_t] - \frac{1}{c(0)} \int_0^t c(t) \frac{I_{10} + s_c}{I_{10}} \, dt/day$$
+
+$$\approx (0.295/day - 0.6/day) \times \frac{I_t}{I_t + s_c} \times \frac{I_{10} + s_c}{I_{10}}.$$
+
+The concentration of $I_t$ with $I_{10}$ is smaller than the concentration of $I_t$ where $I_{10}$ is blocked [30]. We take $\frac{I_t}{I_t + s_c} \approx \frac{1}{3}$.
+
+In [30], the concentration of $I_{10}$ vary from 1pg/cm$^3$ to 2000pg/cm$^3$. We take $s_c = 150pg/cm^3$, so that $\frac{I_{10} + s_c}{I_{10}} \approx 3.5$; hence $\eta_t = 0.345/day$.
+
+Supporting Information
+
+Figure S1 Sensitivity analysis. Sensitivity analysis on $x27, sT0, x10$, and $sT$.
+(PDF)
+
+Figure S2 Sensitivity analysis. Sensitivity analysis on $\sigma_{10}, \mu_{eff}$, and $\sigma_c$.
+(PDF)
+
+Figure S3 Sensitivity analysis. Sensitivity analysis on $s_x, s_y, s_T$, and $\beta_T$.
+(PDF)
+
+Figure S4 Sensitivity analysis. Sensitivity analysis on $r_T$.
+(PDF)
+
+Author Contributions
+
+Conceived and designed the experiments: KL KB AF. Performed the experiments: KL NB AF. Analyzed the data: KL KB AF. Contributed reagents/materials/analysis tools: KL XB AF. Wrote the paper: KL XB AF.
+
+References
+
+1. Brunda MJ, Luistro L, Warrier RR, Wright RB, Hubbard BR, et al. (1993) Antitumor activity of interleukin 12 against murine tumors. The Journal of Experimental Medicine 178: 1223–1230.
+2. Cavallo F, Giovarelli M, Forni G, Signorelli P, Musiani P, et al. (1997) Antitumor efficacy of adenovirus cells engineered to produce interleukin 12 (p40 + p35) or other cytokines compared with exogenous p-12. Journal of the National Cancer Institute 89: 1049–1058.
+3. Colombo MP, Trinchieri G (2002) Interleukin-12 in anti-tumor immunity and immunotherapy. Cytokine Growth Factor Rev 13: 155–168.
+4. Coughlin CM, Wysocka M, Kurzawa H, Lee WM, Trinchieri G, et al. (1998) Cytokine gene therapy of cancer using interleukin-12. Cytokine-superantigen fusion proteins enhance interleukin-12. Hum Gene Ther 8: 1303–1311.
+5. Cur BD, Eng VM, Lipman JM, Anderson TD (1999) The toxicology of interleukin-12: A review. Toxicologic Pathology 27: 58–63.
+6. Marshall E (1995) Cancer trial of interleukin-12 halted. Science (Wash DC) 268: 1555–1556.
+7. Hissaka M, Yasuda S, Fujita K, Belladonna ML, Aoki T, et al. (2002) Potent antitumor activity of interleukin-27. Cancer Res 61: 1152–1156.
+8. Hall AO, Silver JS, Hunter CA (2012) The immunobiology of il-27. Adv Immunol 115: 1–44.
+9. Murugaiyan G, Mittal A, Lopez-Diego R, Maier LM, Anderson DE, et al. (2009) Il-27 is a key regulator of il-10 and il-17 production by human cd4+ t cells. J Immunol 183: 2435–2443.
+10. Munder M, Siewe B, Tautz A, Purert PM, Haller H, et al. (2007) Interleukin-27 and 6-meth-oxs-Mandelic t cell production of interleukin 10. Nat Immunol 8: 1363–1371.
+11. Mummadi A, Juanaaskr SR, Bitt AM (2013) Could the production of il-27 be used as an ideal adjuvant for anticancer immunotherapy? OncoImmunology 2: e23677.
+12. Ho MY, Leu SJ, Sun GH, Tao M, Tang SJ, et al. (2009) Il-27 directly enhances tumor immunogenicity by suppressing cyclooxygenase-2-mediated changes in the tumor cells. J Biol Chem 284: 25631–25639.
+13. Zakioucheva D, Qiao-Qinzhou AO, Filis J, Figuerido ML (2013) Interleukin-27 expression modulates prostate cancer cell growth with bone and immune cells. Clin J Mol Physiol 208: 1127–1156.
+14. Chiyo M, Shimozato O, Ueaza T, Higaura T, Tagawa M (2004) Antitumor effects produced by transduction of dendritic cells-derived heterodimeric cytokine genes in murine colon carcinoma cells. Anticancer Res 24: 3763–3768.
+
+15. Salcedo R, Stauffer JK, Lincoln E, Back TC, Hixon JA, et al. (2004) Il-27 rendered complete regression of orthotopic primary and metastatic neuroblastoma tumors: role for cd8+ t cells. J Immunol 173: 7170–7182.
+16. Salcedo R, Hixon JA, Stauffer JK, Jalah R, Back TC, et al. (2009) Immunologic and therapeutic synergy of il-27 and beta-2m: enhancement of t cell sensitization, tumor-specific cd8+ t cell effector and complete regression of disseminated melanoma metastases in the liver. J Immunol 182: 4328–4338.
+17. Zhu C, Use DA, Li S (2008) Il-12 and il-27 sequential gene therapy via intratumoral injection of lentiviral vectors in differentially distal aggressive tumors. J Immunol 181: 2348–2354.
+18. Morishima N, Mizoguchi I, Okumura M, Chiba Y, Shimizu M, et al. (2010) A pivotal role for interleukin-27 in cd4+ t cell functions and generation of cytotoxic lymphocytes. J Biomed Biotechnol 2010: 1–8.
+19. Shinozaki Y, Wang S, Miyazaki Y, Miyazaki K, Yamada H, et al. (2009) Tumor-specific cytotoxic t cell generation and dendritic cell functions are differentially regulated by interleukin 27 during development of anti-tumor immunity. Int J Cancer 124: 1372–1378.
+20. Groux H, Bigler M, Yung JEA, Torres M, 1996) Inhibitory and stimulatory effects of il-10 on human cd4+ t cells. Immunol 156: 3188–3193.
+21. Brooks DG, Walsh KB, Elsaesser H, Oldstone MBA (2010) Il-10 directly suppresses cd4 but not cd8+ t cell effector and memory responses following acute viral infections. Nat Med 107: 308–320.
+22. Avallath S, Wang Y, Wu Y, Yolk RD (2003) Interleukin-10 therapy - a review as a new approach. Pharm Jological Reviews 57: 241–280.
+23. Wang R, Ma J, Chen J, Song X, Lu Q, et al. (2011) Increased il-10 mrna expression in tumor-associated macrophage and correlation with stage of cancer. Journal of Experimental & Clinical Cancer Research 30.
+24. Izakovic R, Huang WR, Ren B, Wudel B, Wunschel P, et al. (2003) Il-10 expression by tumor cells correlates with melanoma progression from radial to vertical growth phase and development of metastatic competence. Modern Pathology 84: 801–809.
+25. Groux H, Cottet F, Rouleau M, Mauze S, Antonenko S, et al. (1999) A transgenic model to analyze the immunoregulatory role of il-10 secreted by antigen-presenting cells. J Exp Med 182: 1223–1232.
+26. Mumm JB, Emmerich J, Zhang X, Chan I, Mauze S, et al. (2011) Il-10 elicits ifn-γ-dependent tumor immune surveillance. Cancer Cell 20: 781–796.
+
+PLOS ONE | www.plosone.org 15 March 2014 | Volume 9 | Issue 3 | e91844

@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "```plaintext\nNATURE CANCER                                                                                     ARTICLES\n\nExtended Data Fig. 1 | Tumor cell responses to IFN-γ in vitro. a,b, Tumor cells respond to IFN-γ in an analogic manner in vitro. a E0771 mammary breast \ntumor cells were stimulated with indicated IFN-γ concentrations in vitro for 24h. H2-Kb (top), H2-Db (middle) and PD-L1 (bottom) surface expression was \nthen analyzed by flow cytometry. Representative of two independent experiments. b, Representative histograms of H2-Db (left) and PD-L1 (right) surface \nexpression in B16.F10 (top) or Eμ-myc (bottom) cells, after treatment with indicated IFN-γ concentrations for 24h. Representative of three independent \nexperiments. c–f, Impact of IFN-γ and TNF-α on tumor cell death. B16.F10 (c,e) or Eμ-myc (d,f) cells were incubated with the indicated IFN-γ and/or TNF-α \nconcentrations in vitro for 24h. Cells were then counted by flow cytometry. Representative of two independent experiments.\n\nNATURE CANCER | www.nature.com/natcancer\n```",
+  "model": "gpt-4o",
+  "page": 15,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 11.68,
+  "filename": "thibaut_2020.pdf",
+  "doc_id": "thibaut_2020"
+}

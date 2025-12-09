@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "```plaintext\nPLOS PATHOGENS\n\nGenerate exhausted CD8+ T cells in vitro\n\nA\n\nDifferential Methylation (Z-score)\n\nNo peptide   Single peptide   Repeat peptide\n\nB\n\nPdcd1\n\nTcf7\n\nGzmb\n\nRead count/ 10 million reads\n\nNaive\nNo peptide\nSingle peptide\nRepeat peptide\n\nC\n\n% of Max\n\nTCF1\n\nFig 8. Genome wide DNA methylation changes during T cell stimulation reveal Tcf7 promotor methylation. Sorted live CD8+ T cells were processed and whole genome methylated DNA sequencing (MeD-seq) was performed. (A) Hierarchical clustering on DMRs (differentially methylated regions) found between the three different peptide exposure conditions are shown. (B) Boxplot of DNA methylation read count data in a 2kb window surrounding the TSS of mentioned genes are shown. The samples were collected from three independent experiments. (C) Representative histogram of TCF1 expression (left) and pooled data showing TCF1 MFI on live CD8 cells (right) in the presence or absence of 20μM DNMT inhibitor during the last 3 days of repeat peptide stimulated cells shown. Data are from n = 6 performed in 3 independent experiments, paired Student’s t test performed. **P<0.01.\n\nhttps://doi.org/10.1371/journal.ppat.1008555.g008\n\ncytokines. Overall, these findings indicate that the repeat peptide stimulated cells have distinct DNA methylation patterns and reveal that the downregulation of TCF1 expression is accompanied by increased promotor methylation of Tcf7.\n\nPLOS Pathogens | https://doi.org/10.1371/journal.ppat.1008555 June 24, 2020 14 / 27\n```",
+  "model": "gpt-4o",
+  "page": 14,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 18.68,
+  "filename": "zhao_2020.pdf",
+  "doc_id": "zhao_2020"
+}

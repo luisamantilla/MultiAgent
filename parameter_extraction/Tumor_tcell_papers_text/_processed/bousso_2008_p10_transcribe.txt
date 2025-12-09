@@ -1,0 +1,196 @@
+```plaintext
+REVIEWS
+
+1. von Andrian, U. H. & Mempel, T. R. Homing and 
+    cellular traffic in lymph nodes. Nat. Rev. Immunol. 
+    3, 867–878 (2003).
+2. Bousso, P., Bhakta, N. R., Lewis, R. S. & Robey, E. 
+    Dynamics of thymocyte-stromal cell interactions 
+    visualized by two-photon microscopy. Science 296, 
+    1876–1880 (2002).
+3. Miller, M. J., Wei, S. H., Parker, I. & Cahalan, M. D. 
+    Two-photon imaging of lymphocyte motility and 
+    antigen response in intact lymph node. Science 296, 
+    1869–1873 (2002).
+References 2 and 3 report the first application of 
+two-photon imaging for the study of T cell 
+activation in lymphoid organs.
+4. Denk, W., Strickler, J. H. & Webb, W. W. Two-photon 
+    laser scanning fluorescence microscopy. Science 248, 
+    73–76 (1990).
+5. Cahalan, M. D., Parker, I., Wei, S. H. & Miller, M. J. 
+    Two-photon tissue imaging: seeing the immune system 
+    in a fresh light. Nature Rev. Immunol. 2, 872–880 
+    (2002).
+6. Germain, R. N., Miller, M. J., Dustin, M. L. & 
+    Nussenzweig, M. C. Dynamic imaging of the immune 
+    system: progress, pitfalls and promise. Nature Rev. 
+    Immunol. 6, 497–507 (2006).
+7. Bajenoff, M., Granjeaud, S. & Guerder, S. A spatial 
+    and temporal analysis of antigen uptake and 
+    immune synapses formation in lymph nodes. Cell Biol. 88, 
+    365–376 (2003).
+8. Miller, M. J. et al. Two-photon imaging of lymphocyte 
+    motility and antigen response in intact lymph node. 
+    Nat. Rev. Immunol. 2, 872–880 (2002).
+9. Bajenoff, M. et al. Stromal cell networks regulate 
+    lymphocyte entry, migration, and territoriality in 
+    lymph nodes. Immunity 25, 989–1001 (2006).
+10. Bajenoff, M. et al. Highways, byways and breadcrumbs: 
+    directing lymphocyte traffic in the lymph node. 
+    Immunol. Rev. 195, 58–71 (2003).
+11. Bousso, P. & Robey, E. Dynamics of CD8+ T cell 
+    priming by dendritic cells in intact lymph nodes. 
+    Nat. Immunol. 4, 579–585 (2003).
+This study reports the first in vivo 
+observation of single antigen-specific T cell 
+encounters during CD8+ T cell–DC interactions 
+using two-photon imaging.
+12. Castellino, F. et al. Chemokines enhance immunity by 
+    guiding naive CD8+ T cells to sites of CD4+ T cell– 
+    dendritic cell interaction. Nature 440, 890–895 
+    (2006).
+This study shows that chemokine function is 
+produced during CD4+ T cell–DC interactions 
+attract CCR5-expressing CD8+ T cells, which favour 
+the occurrence of three-cell clusters.
+13. Beuneu, H., Garcia, Z. & Bousso, P. Cutting edge: 
+    cognate CD4+ T help promotes recruitment of antigen- 
+    specific CD8+ T cells around dendritic cells. J. Immunol. 
+    177, 1406–1410 (2006).
+14. Lindquist, R. L. et al. Visualizing dendritic cell networks 
+    in vivo. Nature Immunol. 5, 1245–1250 (2004).
+15. Wedges, G. et al. Distribution of laminins in immune 
+    organs during the settlement of T cells and thymocytes. 
+    Nature Immunol. 5, 1245–1250 (2004).
+16. Shakhar, G. et al. Stable T cell–dendritic cell 
+    interactions precede the development of both 
+    tolerance and immunity in vivo. Nature Immunol. 6, 
+    707–714 (2005).
+17. Mempel, T. R. et al. In vivo imaging of CD8+ T cell–DC 
+    interactions during immune responses. Nat. Immunol. 5, 
+    140–148 (2004).
+18. Miller, M. J., Hejal, R. S., Wei, S. H., Cahalan, M. D. & 
+    Parker, I. T cell repertoire scanning is promoted by 
+    dynamic dendritic cell behavior and random T cell 
+    motility in the lymph node. Proc. Natl Acad. Sci. USA 
+    101, 998–1003 (2004).
+This study provides the first direct evidence of 
+efficient T cell scanning of antigen-presenting cells 
+in immunotherapy of autoimmune encephalomyelitis. 
+19. Miller, M. J. et al. Autonomous T cell trafficking 
+    examined in vivo with intravital two-photon 
+    microscopy. Proc. Natl Acad. Sci. USA 102, 925–930 
+    (2005).
+20. Tang, Q. et al. Visualizing regulatory T cell control of 
+    autoimmune responses in nonobese diabetic mice. 
+    Nature Immunol. 5, 387–392 (2004).
+21. Hickman, H. D. et al. Direct priming of antiviral CD8+ 
+    T cells in the peripheral interfollicular region of lymph 
+    nodes. Nature Immunol. 6, 155–165 (2005).
+22. Donnadieu, E., Bismuth, G. & Trautmann, A. Antigen 
+    recognition by helper T cells elicits a marked 
+    prolongation of their shape and intracellular 
+    calcium. Curr. Biol. 4, 584–595 (1994).
+23. Negulescu, P. A., Krasieva, T. B., Khan, A., 
+    Kerschbaum, H. H. & Cahalan, M. D. Polarity of T cell 
+    shape, motility, and sensitivity to antigen. Immunity 4, 
+    421–430 (1996).
+24. Dustin, M. L., Bromley, S. K., Kan, Z., Peterson, D. A. 
+    & Unanue, E. R. Antigen receptor engagement 
+    delivers a stop signal to migrating T lymphocytes. 
+    Proc. Natl Acad. Sci. USA 94, 3909–3913 (1997).
+25. Gunzer, M. et al. Systemic antigen induces local 
+    dynamic interactions of T cells with dendritic cells are 
+    dynamic, short-lived, and sequential. Immunity 13, 
+    323–332 (2000).
+26. Wysocki, P. J. et al. Antigen-specific T cells can 
+    directly contact with antigen-bearing dendritic cells in 
+    lymph nodes. Nat. Immunol. 9, 1596–1599 (2007).
+27. Asperti-Boursin, F., Real, E., Bismuth, G., Trautmann, 
+    A. & Donnadieu, E. CCR7 ligands control basal 
+    lymphocyte motility in lymph nodes in a phosphoinositide 
+    3-kinase-dependent manner. J. Exp. Med. 204, 
+    1167–1179 (2007).
+28. Fischer, U. et al. MHC and class I expression impairs 
+    CD4+ T cell motility and interactions with dendritic 
+    cells. Nat. Immunol. 8, 751–760 (2007).
+29. Usuda, H. et al. Dynamic imaging of chemokine- 
+    triggered T cell motility and arrest in vivo. Science 
+    317, 670–674 (2007).
+30. Friedmann, I., Jacobelli, J. & Krummel, M. F. T cells 
+    use integrin LFA-1 to scan for antigen on dendritic 
+    cells. J. Immunol. 177, 2014–2022 (2006).
+31. Mempel, T. R., Henrickson, S. E. & von Andrian, U. H. 
+    T cell priming by dendritic cells in lymph nodes occurs 
+    in three distinct phases. Nature 427, 154–159 (2004).
+This study reports that T cells undergo three 
+phases of transient interactions with DCs during the 
+first hours of their activation process.
+32. Bousso, P., Bhakta, N. R., Lewis, R. S. & Robey, E. 
+    The dynamics of dendritic cell–T cell interactions in 
+    lymph nodes. Biol. Relevance. Curr. Opin. Immunol. 17, 
+    495–499 (2005).
+33. Skokos, D. et al. Peptide–MHC potency governs 
+    dynamic interactions between T cells and dendritic cells 
+    in lymph nodes. Nature Immunol. 5, 844–850 (2007).
+34. Iezzi, G., Karjalainen, K. & Lanzavecchia, A. The 
+    duration of antigenic stimulation determines the fate 
+    of naive and effector T cells. Nature 8, 95–99 (1998).
+35. Huppa, J. B., Gleimer, M., Sumen, C. & Davis, M. M. 
+    Continuous T cell receptor signaling required for 
+    synapse maintenance and full effector potential. 
+    Nature Immunol. 4, 749–755 (2003).
+36. Costelloe, S., Gallagher, M. J. & Cantrell, D. A. 
+    Sustained and dynamic immunological synapse 
+    formation is associated with prolonged T cell 
+    activation. J. Immunol. 178, 1088–1097 (2007).
+37. Fabre, S. et al. Stable interactions between T cells and 
+    dendritic cells require T cell actin cytoskeleton 
+    remodeling but not integrin engagement. J. Exp. 
+    Med. 204, 418–431 (2007).
+38. Harriague, J. & Bismuth, G. Imaging antigen-induced 
+    PI3K activation in T cells. Nature Immunol. 3, 
+    1090–1096 (2002).
+39. Friedl, P. & Weigelin, B. The proliferative capacity of 
+    tumor-infiltrating lymphocytes is regulated by 
+    prolonged T cell–DC contact in the tumor microenvironment. 
+    J. Exp. Med. 195, 305–308 (2002).
+40. Miller, M. J., Wei, S. H., Parker, I. & Mempel, M. F. 
+    Antigen presentation and T cell responses: a 
+    comprehensive analysis of signaling pathways 
+    involved in T cell activation and synapse formation. 
+    J. Immunol. 178, 1088–1097 (2007).
+41. Celli, S., Lemaitre, F. & Bousso, P. Real-time 
+    manipulation of T cell–dendritic cell interactions in 
+    lymph nodes. J. Exp. Med. 204, 625–630 (2007).
+This study uses a two-photon approach to control the 
+duration of T cell–DC contacts in vivo and uses it to 
+demonstrate the functional importance of 
+long-lived interactions.
+42. Dustin, M. L. & Shaw, A. S. Costimulation: building 
+    an immunological synapse. Immunity 21, 717–729 (2004).
+43. Veil, J. H. & Huppa, J. B. The immunological synapse: a 
+    fresh look at T cell polarity and effector functions by 
+    Crain. Nat. 132, 846–859 (2006).
+44. Henrickson, S. E. et al. T cell priming by dendritic 
+    cells in lymph nodes occurs in three distinct phases 
+    as a threshold for T cell activation. Nature Immunol. 
+    8, 229–237 (2007).
+This study describes the early interactions that 
+influence the outcome of the priming phase of 
+transient T cell–DC contacts during activation.
+45. Scholer, A., Hugues, S., Boissonnas, A., Fetler, L. & 
+    Amigorena, S. Intercellular adhesion molecule-1- 
+    dependent stable interactions between 
+    dendritic and dendritic cells determine CD8+ T cell 
+    memory. Immunol. 25, 258–270 (2008).
+46. Schneider, H. et al. Reversal of TCR stop signal by 
+    CTLA-4. Science 313, 1972–1975 (2006).
+47. Smith, A. et al. The role of CD28 and Wasp 
+    in immunological synapse and T cell activation. 
+    Immunity 27, 689–773 (2005).
+48. Nolz, J. C., Ng, Y. Y. & Huppa, J. B. T cell receptor 
+    signaling and the immunological synapse: 
+    a comprehensive review. Immunol. 6, 145–151 (2006).
+49. Nordboeck, C. et al. Regulatory T cells

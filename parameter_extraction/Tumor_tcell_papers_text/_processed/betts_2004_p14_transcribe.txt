@@ -1,0 +1,37 @@
+510
+
+Michael R. Betts and Richard A. Koup
+
+activation (Appay et al., 2000). There is a direct correlation between the ability of human CD8+ T-cell clones to kill, as measured by ^51Cr release assay, and the level of cell-surface CD107a expression after stimulation (Rubio et al., 2003).
+
+CD107a/b expression is also highly amenable for use in live cell sorting of activated antigen-specific T cells, because no fixation or permeabilization of the cells is necessary. Current methods to sort live antigen-specific CD8+ T cells relies on either MHC class I tetramer, which is highly restricted by reagent availability, or cytokine-secretion capture systems, which tend to be of low sensitivity. Cell sorting using CD107a/b expression is highly sensitive and is not limited by reagent availability, because peptides or whole antigens are used, obviating the need for patient- or MHC-specific reagents.
+
+References
+
+Altman, J. D., Moss, P. A. H., Goulder, P. J. R., Barouch, D. H., McHeyzer-Williams, M. G., Bell, J. I., McMichael, A. J., and Davis, M. M. (1996). Phenotypic analysis of antigen-specific T lymphocytes. Science 274, 94–96.
+
+Appay, V., Nixon, D. F., Donahoe, S. M., Gillespie, G. M., Dong, T., King, A., Ogg, G. S., Spiegel, H. M., Conlon, C., Spina, C. A., Havlir, D. V., Richman, D. D., Waters, A., Easterbrook, P. J., McMichael, A. J., and Rowland-Jones, S. L. (2000). HIV-specific CD8(+) T cells produce antiviral cytokines but are impaired in cytolytic function. J. Exp. Med. 192, 63–75.
+
+Barry, M., and Bleackley, R. C. (2002). Cytotoxic T lymphocytes: All roads lead to death. Nat. Rev. Immunol. 2, 401–409.
+
+Betts, M. R., Brenchley, J. M., Price, D. A., DeRosa, S. C., Douek, D. C., Roederer, M., and Koup, R. A. (2003). Sensitive and viable identification of antigen-specific CD8+ T cells by a flow cytometric assay for degranulation. J. Immunol. Methods 281, 65–78.
+
+Betts, M. R., Casazza, J. P., Patterson, B. A., Waldrop, S., Trigona, W., Fu, T. M., Kern, F., Picker, L. J., and Koup, R. A. (2000). Putative immunodominant human immunodeficiency virus-specific CD8(+) T-cell responses cannot be predicted by major histocompatibility complex class I haplotype. J. Virol. 74, 9144–9151.
+
+Bossi, G., and Griffiths, G. M. (1999). Degranulation plays an essential part in regulating cell surface expression of Fas ligand in T cells and natural killer cells. Nat. Med. 5, 90–96.
+
+Brunner, K. T., Mauel, J., Cerottini, J. C., and Chapuis, B. (1968). Quantitative assay of the lytic action of immune lymphoid cells on ^51Cr-labelled allogeneic target cells in vitro; inhibition by isoantibody and by drugs. Immunology 14, 181–196.
+
+Chauroiu, A., Silvestri, G., and Feinberg, M. B. (2003). Measuring T cell-mediated cytotoxicity using fluorogenic caspase substrates. Methods 31, 120–126.
+
+Chang, M. H., Karageorgos, L. E., and Meikle, P. J. (2002). CD107a (LAMP-1) and CD107b (LAMP-2). J. Biol. Regul. Homeost. Agents 16, 147–151.
+
+Chapman, R. E., and Munro, S. (1994). Retrieval of TGN proteins from the cell surface requires endosomal acidification. Embo. J. 13, 2305–2312.
+
+Eskelinen, E. L., Tanaka, Y., and Saftig, P. (2003). At the acidic edge: emerging functions for lysosomal membrane proteins. Trends Cell Biol. 13, 137–145.
+
+Fischer, K., Andreesen, R., and Mackensen, A. (2002). An improved flow cytometric assay for the determination of cytotoxic T lymphocyte activity. J. Immunol. Methods 259, 159–169.
+
+Fukuda, M. (1991). Lysosomal membrane glycoproteins. Structure, biosynthesis, and intracellular trafficking. J. Biol. Chem. 266, 21327–21330.
+
+Gough, N. R., and Fambrough, D. M. (1997). Different steady state subcellular distributions of the three splice variants of lysosome-associated membrane protein LAMP-2 are determined largely by the COOH-terminal amino acid residue. J. Cell Biol. 137, 1161–1169.

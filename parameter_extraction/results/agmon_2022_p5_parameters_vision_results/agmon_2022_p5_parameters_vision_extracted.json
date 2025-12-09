@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and their values from the text:\n\n1. **External Glucose Concentrations**\n   - Values: 0.02, 4.92, 9.82 mmol\n   - Units: mmol\n\n2. **External Lactose Concentrations**\n   - Values: 0.02, 4.92, 9.82 mmol\n   - Units: mmol\n\n3. **Lactose Permease (Counts)**\n   - Values: 0 to 1400\n   - Units: Counts\n\n4. **Glucose Flux**\n   - Values: 0 to 0.004 mmol/L/s\n   - Units: mmol/L/s\n\n5. **Lactose Flux**\n   - Values: 0 to 0.002 mmol/L/s\n   - Units: mmol/L/s\n\n6. **Growth Rate**\n   - Values: 0 to 0.080 fg/s\n   - Units: fg/s\n\n7. **Total Colony Mass**\n   - Values: 0 to 1000\n   - Units: Not specified\n\n8. **Time**\n   - Values: 0 to 12 hours\n   - Units: Hours"
+}

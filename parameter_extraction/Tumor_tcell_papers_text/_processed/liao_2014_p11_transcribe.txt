@@ -1,0 +1,57 @@
+Figure 7, for the same experiment as in Figure 6, shows the concentration profiles of tumor cells at times 4 weeks, 24 weeks, and 30 weeks for J558-CT, intermittent injection, and continuous injection cases. Notice from Figures 7A, 7B, and 7C that the tumor has progressed during the periods of 4 weeks, 24 weeks, and 30 weeks to r = 0.6cm, r = 1.05cm, and r = 1.2cm, respectively. Figures 6 and 7 show that IL-27 injection slows down tumor growth during drug injection, but it does not change the migration speed of tumor cells. Figure 8 compares the results of the above two strategies for smaller values of F, namely, F = 1 x 10^6 pg/cm^3/day and F = 0.5 x 10^6 pg/cm^3/day. We see that continuous injection is still more effective, but, for smaller amount of injection, the relative advantage of continuous injection is decreased. Simulations of these two strategies for other values of F in the range of 10^3 – 10^6 pg/cm^3/day (not shown here) give the same results, namely, that continuous injection is preferable to intermittent injections. In order to make a definite recommendation on continuous versus intermittent injection one would need to consider also possible side-effects that may arise from these two strategies.
+
+Although the expected lifespan of the mouse in the experiments of Liu et al. [30] was one month, for the purpose of therapy we performed simulations for the longer period of 30 weeks. But it is also interesting to consider the case of treatment for one month only. This is done in Figure 9 where we have taken in Equation (9) 0 ≤ t ≤ 4 weeks for the continuous treatment, t_inj = 4 weeks, and (10), intermittent time t_i = j weeks. Figure 9 shows that continuous treatment is again preferable to intermittent treatment. Figure 9A shows the concentration profile of tumor cells at 4 weeks; note that tumor cells do not reach the tumor boundary within 4 weeks. Figure 9B displays the concentration profile of tumor cells at 4 weeks; we see that continuous treatment still has better efficacy than intermittent treatment.
+
+Sensitivity analysis
+
+In order to provide support to the robustness of the simulation results, we ran sensitivity analysis on parameters which appear in Equations (1) – (5). The parameters chosen for the sensitivity analysis are either those whose baseline was crudely estimated, or those that seem to play more important role in the model predictions.
+
+We list these parameters with their ranges, baselines, and units, in Table 7. In this analysis, ξ27 varies from 32.4 to 12960. Following the sensitivity analysis method described in [43], we performed Latin hypercube sampling and generated 5000 samples to calculate the partial rank correlation coefficients (PRCC) and p-value, with respect to the ratio \(\frac{\int_0^t (c_T)^2dr}{\int_0^t (\hat{c}_T)^2dr\), where \(\hat{c}_T(r)\) (resp. c_T(r)) accounts for the J558-IL27 (resp. J558-CT) tumor cell density, t = 30 and F = 2640. The PRCC and their p-values are listed in Table 8. A negative PRCC (i.e. negative correlation) means increase in the parameter value will decrease the ratio \(\frac{\int_0^t (c_T)^2dr}{\int_0^t (\hat{c}_T)^2dr\), that is, it will increase the rejection of tumor treated by IL-27 versus untreated tumor. Conversely, positive PRCC means that increased rejection of the tumor (treated by IL-27 versus untreated) will occur if this parameter is decreased.
+
+The sensitivity analysis data are shown in Figures S1-S4 in Supplementary Material and summarized in Table 8. The most significant negatively correlated parameters in promoting rejection of tumor treated by IL-27 versus untreated tumor are ξ27, σT, sT; the less significant parameters are ηT, η10, σT, βT. The effect of σ27 has already been displayed in Figures 2-5. The negative correlations of sT, ηT, and η10 are not surprising since sT is the rate by which tumor activates T cells (while T cells are increased with IL-27 treatment; see Figures 2-5) and ηT and η10 are, respectively, the killing rates of tumor cells by I10 and I7 (while I10 and I7 increases with IL-27 treatment; see Figures 2-5). The negative correlations of σT, σT, and βT are also not surprising, since ηT promotes the production of I10 to inhibit tumor cells, and larger σT and βT favor the production of I7.
+
+The most significant parameters in promoting tumor are σc, σT, sT, and to a smaller degree, σ10. This is not surprising, since increasing σc results in decreased inhibition of tumor cells by I10, increasing σT results in decreased number of CD8+ T cells, increasing sT results in decreased inhibition of tumor cells by I7, and increasing σ10 results in decreased I10. We note that the parameters s10 and sT in Table 8, have small PRCC with p-values that are larger than 0.01; this means that they are not sensitive to the ratio \(\frac{\int_0^t (c_T)^2dr}{\int_0^t (\hat{c}_T)^2dr\).
+
+| Table 7. Parameters chosen for sensitivity analysis. |
+|----------------|----------------|----------------|------|
+| Parameter Range | Baseline | Unit |
+| ξ27 | [3.24 x 10^1, 2.96 x 10^4] | 3.24 x 10^2 | pg/cell/day |
+| σ27 | [1.333 x 10^-5, 4.334 x 10^-4] | 2.667 x 10^-4 | pg/cell/day |
+| σ10 | [1.692 x 10^-6, 1.768 x 10^-6] | 1.384 x 10^-6 | pg/cell/day |
+| sT | [2.952 x 10^-8, 8.808 x 10^-8] | 4.1904 x 10^-8 | cell/cm^3/day |
+| σ10 | [2.5 x 10^-1, 10^0] | 5 x 10^-1 | pg/cm^3 |
+| ηT | [5.175 x 10^-2, 2.0^0] | 1.035 | /day |
+| ηT | [9.10^-1, 1.3^0] | 1.8 | /day |
+| cT | [1.5 x 10^-1, 1.5 x 10^0] | 1.5 | pg/cm^3 |
+| cT | [3 x 10^-1, 3 x 10^0] | 3 | pg/cm^3 |
+| sT | [2.5 x 10^-1, 10^0] | 5 x 10^-1 | pg/cm^3 |
+| σT | [2 x 10^-1, 3.2 x 10^-1] | 2 x 10^-1 | pg/cm^3 |
+| βT | [9 x 10^-1, 9 x 10^0] | 10 | nondimension |
+| I10 | [4 x 10^1, 1.6 x 10^1] | 8 x 10 | cell/cm^3 |
+
+doi:10.1371/journal.pone.0091844.t007
+
+| Table 8. The PRCC and p-value of parameters for sensitivity analysis. |
+|----------------|----------------|--------|
+| Parameter | PRCC | p-value |
+| ξ27 | -0.63709 | <0.01 |
+| σ10 | 0.0074315 | 0.59933 |
+| η10 | -0.29952 | <0.01 |
+| sT | -0.52728 | <0.01 |
+| σT | 0.066589 | <0.01 |
+| ηT | -0.30727 | <0.01 |
+| σT | -0.36961 | <0.01 |
+| cT | 0.53588 | <0.01 |
+| cT | 0.49864 | <0.01 |
+| sT | 0.010343 | 0.47817 |
+| σT | -0.9115 | <0.01 |
+| βT | -0.10923 | <0.01 |
+| σT | 0.52483 | <0.01 |
+
+doi:10.1371/journal.pone.0091844.t008
+
+PLOS ONE | www.plosone.org
+
+11
+
+March 2014 | Volume 9 | Issue 3 | e91844

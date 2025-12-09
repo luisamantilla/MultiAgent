@@ -1,0 +1,72 @@
+```plaintext
+letters to nature
+
+to motility-attenuating mediators released by DCs and/or other 
+cells, or adhesive contacts between T cells and intranodal structures 
+or confined clusters of DCs16. 
+To address the latter possibility, we examined T-cell migratory 
+behaviour and the kinetics of T-cell–DC interactions in different LN 
+areas. Superficial T cells (less than 100 mm below the capsule) were 
+less motile than those in the deep T-cell area, whether DCs 
+were injected or not. There was additional heterogeneity in the 
+deep T-cell zone of LNs that drained DC injection sites; T cells in 
+areas with high DC density were less motile than in DC-poor areas. 
+We therefore analysed only regions that were more than 150 mm 
+below the LN capsule and contained comparably high DC densities. 
+Here, T-cell motility depended on the presence of antigen and T-cell 
+
+dwell time (Fig. 2g). Although instantaneous 3D velocities 
+remained constant in LNs that contained control DCs, T cells 
+migrated more slowly after encountering antigen-bearing DCs for 
+8–20 h. In contrast, T-cell migration after antigen exposure for 2 or 
+44 h was similar to T-cell migration in the presence of control DCs. 
+When T cells encountered DCs shortly after homing (2–4 h after 
+transfer), they formed predominantly brief contacts before detach- 
+ing to interact with other DCs nearby (Fig. 3a–d; Supplementary 
+Information 8). Contacts lasted slightly longer with antigen-loaded 
+DCs (mean 6 s.e.m. 5.9 6 0.8 min; median 3.8 min) than with 
+control DCs (4.1 6 0.4 min; median 2.5 min; P , 0.05). At 5–8 h, 
+contacts lasted noticeably longer (median 3.8 min without antigen; 
+7.3 min with antigen) but rarely exceeded 30 min (Fig. 3e). A 
+
+a
+
+b
+
+c
+
+d
+
+e
+
+f
+
+g
+
+Figure 1 Surface phenotype and migratory properties of DCs in popliteal LNs. 
+a, Experimental protocol. Antigen-pulsed or unpulsed DCs were injected into recipient 
+footpads 18 h before adoptive transfer of T cells. Animals received anti-L-selectin 
+monoclonal antibody Mel-14 2 h and 26 h later, and popliteal LNs were imaged at 
+different times thereafter. b–d, Data from unpulsed DCs at 2–3 h after T-cell injection. 
+b, CD11c1CD45.11 donor DCs were examined by flow cytometry before injection into the 
+footpad of CD45.21 recipients (input DC) and after their migration into LNs (migrated DC) 
+for subset composition (CD8a, CD11b) and maturation state (MHC class II, CD86). 
+c, Intravital two-photon micrographs of a representative intranodal CMTMR-labelled DC 
+(see also Supplementary Information 5). The migratory path of the DC was illustrated by 
+tracking the 3D centroid (yellow dots) in successive image stacks. Time after DC injection 
+is shown. The mean 3D velocity of this cell was 8.4 mm min21. Scale bar, 20 mm. 
+d, Representative tracks of migrating DCs depicted in x–y, x–z and y–z views (left; scale 
+bar, 20 mm) and displayed in 3D (right; grid squares are 20 6 20 6 20 mm). 
+e, Frequency histograms of 3D instantaneous velocities (n 5 840). Arrow indicates 
+median (6.6 mm min21). f, Mean displacement plot for DCs shown in e. The straight line 
+denotes the regression function of the initial, linear segment of curve (r2 5 0.95). The 
+motility coefficient M was calculated from the slope of the regression line as M 5 x2/6t, 
+where x is the displacement at time t (ref. 2), and was 4.35 mm2 min21. g, Time course of 
+motility coefficients for unpulsed (open circles) and antigen-pulsed (filled circles) DCs. 
+
+NATURE | VOL 427 | 8 JANUARY 2004 | www.nature.com/nature
+
+©2004 Nature Publishing Group
+
+155
+```

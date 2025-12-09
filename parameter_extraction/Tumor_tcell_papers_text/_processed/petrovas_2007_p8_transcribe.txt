@@ -1,0 +1,199 @@
+```plaintext
+BLOOD, 1 AUGUST 2007  VOLUME 110, NUMBER 3                                                                 PD-1 AND SIV-SPECIFIC CD8+ T CELLS  935
+
+In contrast to the production of cytokines by PD-1^low HIV-specific 
+CD8+ T cells,39 PD-1^lowCM9+CD8+ T cells from SIV-challenged 
+animals did not produce significant amounts of cytokines. How- 
+ever, we did find one vaccinated/SIV-challenged monkey that 
+controlled viremia and possessed a clear population of PD- 
+1^lowCM9+CD8+ T cells that were potent producers of all 3 
+cytokines. This was true for cells isolated from blood, spleen, or 
+LN of this animal, indicating that this was not a tissue-specific 
+phenomenon. This one monkey notwithstanding, the weight of our 
+data indicates the lack of a direct link between cytokine function 
+and PD-1 expression in SIV, as well as HIV, infection. We did find 
+that the pattern of cytokines produced differed between SIV- 
+challenged and vaccinated/SIV-challenged animals (Figure 4C), 
+but no significant difference was found for each individual cytokine 
+between the 2 groups. This suggests that the quality of the 
+CM9+CD8+ T-cell cytokine responses induced under these 2 
+conditions is similar.
+
+We found that PD-1^highCM9+CD8+ T cells were characterized 
+by low proliferative capacity. This phenotype was associated with 
+extensive susceptibility of these cells to death upon antigen- 
+specific TCR stimulation. Altered proliferation of virus-specific 
+CD8+ T cells was recently described under in vitro manipulation of 
+the PD-1:PD-L1 axis,38-40 probably through regulation of their 
+survival ability.39 As in humans, use of a monoclonal anti-PD-1 
+antibody resulted in reduced proliferation of SIV-specific CD8+ 
+T cells. Again, this reduction was associated with higher annexin V 
+positivity specifically within the PD-1^high compartment. The provi- 
+sion of exogenous IL-2 did not alter the net cell division rates of 
+SIV-specific CD8+ T cells in the presence of anti-PD-1, suggesting 
+that the effect of PD-1 blockade on proliferation is independent of 
+IL-2 signaling. These data indicate that PD-1 is a critical regulator of 
+SIV-specific CD8+ T-cell proliferation and point to PD-1 as a 
+negative regulator of these processes. In conclusion, our observed 
+
+high expression of PD-1 on SIV-specific CD8+ T cells, which may 
+contribute to the failure of these cells to control the virus fully. 
+The overall pattern of PD-1 expression and the functional 
+attributes of PD-1^+ T cells in SIV infection closely mimic those 
+in HIV infection. Therefore, our findings justify the use of the 
+SIV/macaque model to test whether manipulation of the PD-1: 
+PD-L1 axis will lead to restoration of the function of SIV- 
+specific CD8+ T cells and improved clinical outcome, and 
+whether such interventions may result in unfavorable events 
+when PD-1^+ T cells of other specificities are released from their 
+negative regulatory control.
+
+Acknowledgments
+
+D.A.P. is a Medical Research Council (United Kingdom) Senior 
+Clinical Fellow.
+
+Authorship
+
+Contribution: C.P. designed, performed, and analyzed experiments 
+and wrote the paper; D.A.P., D.R.A., C.G., E.G., and V.C. 
+participated in performing the experiments; J.M., V.C., M.V., E.T., 
+and G.F. contributed samples; M.R. and D.C.D. contributed to 
+experimental design and reagents; S.H.M. and S.J.D. contributed 
+reagents; R.A.K. designed experiments and wrote the paper. All 
+authors discussed the results and contributed to the paper writing.
+
+Conflict-of-interest disclosure: The authors declare no compet- 
+ing financial interests.
+
+Correspondence: Constantinos Petrovas, Vaccine Research Cen- 
+ter, NIAID, NIH, 40 Convent Dr, Bethesda, MD 20892; e-mail: 
+cpetrova@mail.nih.gov.
+
+References
+
+1. Barouch DH, Letvin NL. CD8+ cytotoxic T lympho- 
+cyte responses in lentivirus infections: lessons for 
+HIV vaccines. J Exp Med. 2001;193:475-480.
+
+2. Tough DF, Sprent J. Turnover of naive- and memory- 
+phenotype T cells. Curr Biol. 1994;8:1698-1701.
+
+3. Altfeld M, Kalife ET, Qi Y, et al. HLA alleles associ- 
+ated with delayed progression to AIDS contribute 
+strongly to the initial CD8+ T cell response against 
+HIV-1. PLoS Med. 2006;3:1851-1863.
+
+4. Barouch DH, Kunstman J, Kuroda MJ, et al. 
+Eventual AIDS vaccine failure in a rhesus monkey 
+by early escape from cytotoxic T lymphocytes. 
+Nature. 2002;415:335-339.
+
+5. Borrow P, Lewicki H, Hahn BH, Shaw GM, Old- 
+stone MB. Virus-specific CD8+ cytotoxic T- 
+lymphocyte activity associated with control of 
+viremia in primary human immunodeficiency virus 
+type 1 infection. J Virol. 1994;68:6103-6110.
+
+6. Geldmacher C, Currier JR, Herrmann E, et al. 
+CD8 T cell recognition of multiple epitopes within 
+specific Gag regions is associated with mainte- 
+nance of a low steady-state viremia in HIV-1 sero- 
+positives. J Virol. 2007;81:2440-2448.
+
+7. McMichael AJ, Rowland-Jones SL. Cellular im- 
+mune responses to HIV. Nature. 2001;410:980- 
+987.
+
+8. Ogg GS, Jin X, Bonhoeffer S, et al. Quantitation 
+of HIV-1-specific cytotoxic T lymphocytes and 
+plasma load of viral RNA. Science. 1998;279: 
+2103-2106.
+
+9. Pantaleo G, Koup RA. Correlates of immune pro- 
+tection in HIV-1 infection: what we know, what we 
+don’t know, what we should know. Nat Med. 
+2004;10:806-810.
+
+10. Walker CM, Moody DJ, Stites DP, Levy JA. CD8+ 
+lymphocytes can control HIV infection in vitro by 
+suppressing virus replication. Science. 1986;234: 
+1563-1566.
+
+11. Appay V, Nixon DF, Donahoe SM, et al. HIV- 
+specific CD8+ T cells produce antiviral cytokines 
+but are impaired in cytolytic function. J Exp 
+Med. 2000;192:63-75.
+
+12. Champagne P, Ogg GS, King AS, et al. Skewed 
+maturation of memory HIV-specific CD8 T lym- 
+phocytes. Nature. 2001;410:106-111.
+
+13. Douek DC. Apoptosis and HIV infection: the 
+grape immune. Nat Rev Immunol. 2003; 
+3:392-404.
+
+14. Xu XN, Screaton GR, McMichael AJ. Virus infec- 
+tions, escape, resistance, and counterattack. Im- 
+munity. 2001;15:867-870.
+
+15. Jin X, Bauer DE, Tuttleton SE, et al. Dramatic rise 
+in plasma viremia after CD8+ T cell depletion in 
+simian immunodeficiency virus-infected maca- 
+ques. J Exp Med. 1999;189:991-998.
+
+16. Schmitz JE, Kuroda MJ, Santra S, et al. Control 
+of viremia in simian immunodeficiency virus infec- 
+tion by CD8+ lymphocytes. Science. 1999;283: 
+857-860.
+
+17. Borrow P, Lewicki H, Wei X, et al. Antiviral pres- 
+sure exerted by HIV-1-specific cytotoxic T lym- 
+phocytes (CTLs) during primary infection demon- 
+strated by rapid selection of CTL escape virus. 
+Nat Med. 1997;3:205-211.
+
+18. McMichael AJ, Rowland-Jones SL. Cellular im- 
+mune responses to HIV. Nature. 2001;410:980- 
+987.
+
+19. Vogel TU, Allen TM, Altman JD, Watkins DI. 
+Functional impairment of simian immunodefi- 
+ciency virus-specific CD8+ T cells during the 
+chronic phase of infection. J Virol. 2001;75:2458- 
+2461.
+
+20. Xiong Y, Luscher MA, Altman JD, et al. Simian 
+immunodeficiency virus (SIV) infection of maca- 
+ques induced disease SIV-specific CD8(+) T 
+cells with a defect in cytokine function that is re- 
+versible on extended interleukin-2 incubation. 
+J Virol. 2001;75:3028-3033.
+
+21. Moskophidis D, Lechner F, Pircher H, Zinkerna- 
+gel RM. Virus persistence in acutely infected 
+mice mediated by exhaustion of antiviral cyto- 
+toxic effector T cells. Nature. 1993;362: 
+758-761.
+
+22. Vezys V, Blattman JN, Murali-Krishna K, 
+van der Most RG, Ahmed R. Viral persistence 
+alters CD8 T-cell immunodominance and 
+tissue distribution and results in distinct 
+stages of functional impairment. J Virol. 2003; 
+77:4911-4927.
+
+23. Schmitz JE, Bauer DE, Kaecht SM, Barouch DH, 
+Ahmed R. Antigen-independent memory CD8 T 
+cells do not develop during chronic viral infection. 
+Proc Natl Acad Sci U S A. 2003;100:6001- 
+6006.
+
+24. Marrack P, Kappler J. Control of T cell viability. 
+Annu Rev Immunol. 2004;22:765-787.
+
+25. Betts MR, Nason MC, West SM, et al. HIV non- 
+progressors preferentially maintain highly func- 
+tional HIV-specific CD8+ T cells. Blood. 2006; 
+107:4781-4789.
+```

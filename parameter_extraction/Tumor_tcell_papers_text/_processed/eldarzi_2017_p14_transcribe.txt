@@ -1,0 +1,114 @@
+```plaintext
+14                                                                 International Journal of Immunopathology and Pharmacology
+
+25. Ryle CM, Breitkreutz D, Stark HJ, et al. (1989)
+Density-dependent modulation of synthesis of keratins
+1 and 10 in the human keratinocyte line HaCaT and
+in ras-transfected tumorigenic clones. Differentiation
+40: 42–54.
+26. Galgon T, Wohlrab W and Drager B (2005) Betulinic
+acid induces apoptosis in skin cancer cells and differen-
+tiation in normal human keratinocytes. Experimental
+Dermatology 14: 736–743.
+27. Bahr GM, M0dabber FZ, Morin A, et al. (1984)
+Regulation by muramyl dipeptide (MDP) of the lym-
+phoproliferative responses and polyclonal activa-
+tion of human peripheral blood mononuclear cells.
+Clinical & Experimental Immunology 57: 178–186.
+28. Schreck R, Bevec D, Dukor P, et al. (1992) Selection
+of a muramyl peptide based on its lack of activation
+of nuclear factor-kappa B as a potential adjuvant for
+AIDS vaccines. Clinical & Experimental Immunology
+90: 188–193.
+29. Danussi C, Petrucco A, Wassermann B, et al. (2011)
+EMILIN1-alpha4/alpha9 integrin interaction inhib-
+its dermal fibroblast and keratinocyte proliferation.
+Journal of Cell Biology 195: 131–145.
+30. Voss E, Wehkamp J, Wehkamp K, et al. (2006)
+NOD2/CARD15 mediates induction of the antimi-
+crobial peptide human beta-defensin-2. Journal of
+Biological Chemistry 281: 2005–2011.
+31. Pautz A and Muray P (2003) Role of NOD2 in
+regulating innate and adaptive toll-like receptor ago-
+nists. Molecular and Cellular Biology 23: 7531–7539.
+32. Lala S, Ogura Y, Osborne C, et al. (2003) Crohn’s
+disease and the NOD2 gene: A role for paneth cells.
+Gastroenterology 125: 47–57.
+33. Koller B, Muller-Wiefel AS, Rupec R, et al. (2011)
+Chitin modulates innate immune responses of
+keratinocytes. PLoS ONE 6: e16594.
+34. Hakkinen L, Westermarck J, Johansson N, et al.
+(1998) Suprabasal expression of epidermal alpha 2
+beta 1 and alpha 3 beta 1 integrins in skin treated with
+topical retinoic acid. British Journal of Dermatology
+138: 29–36.
+35. Rose DM, Han J and Ginsberg MH (2002) Alpha4
+integrins and the immune response. Immunological
+Reviews 186: 118–124.
+36. Rippa AL, Vorotelyak EA, Vasiliev AV, et al. (2013)
+The role of integrins in the development and homeo-
+stasis of the epidermis and skin appendages. Acta
+Naturae 5: 22–33.
+37. Nakao H, Yamazaki M, Tsuboi R, et al. (2006)
+Mixture of sugar and povidone-iodine stimulates
+wound healing by activating keratinocytes and fibro-
+blast functions. Archives of Dermatological Research
+298: 175–182.
+38. Haertel B, Strassenburg S, Oehmigen K, et al. (2013)
+Differential influence of components resulting from
+atmospheric-pressure plasma on integrin expression
+of human HaCaT keratinocytes. BioMed Research
+International 2013: 764151.
+39. Di ZH, Ma L, Qi RQ, et al. (2016) T helper 1 and
+T helper 2 cytokines differentially modulate expres-
+sion of filaggrin and its processing proteases in human
+keratinocytes. Chinese Medical Journal 129: 295–
+303.
+40. Epiphanier MJ, Sushkova N and Lavigne MC (2004)
+Relative contributions of alpha4 and alphaL integ-
+rins to IL-4-induced leukocyte rolling and adhesion.
+Microcirculation 11: 655–668.
+41. Roebuck KA and Finnegan A (1999) Regulation
+of intercellular adhesion molecule-1 (CD54) gene
+expression. Journal of Leukocyte Biology 66: 876–
+888.
+42. Dustin ML, Singer KH, Tuck DT, et al. (1988)
+Adhesion of T lymphoblasts to epidermal keratinocy-
+tes is regulated by interferon gamma and is medi-
+ated by intercellular adhesion molecule 1 (ICAM-1).
+Journal of Experimental Medicine 167: 1323–1340.
+43. Fujii-Maeda S, Kajiwara K, Ikizawa K, et al. (2004)
+Reciprocal regulation of thymus and activation-reg-
+ulated chemokine/macrophage-derived chemokine
+production by interleukin (IL)-4/IL-13 and inter-
+feron-gamma in HaCaT keratinocytes: Implication
+for atopic dermatitis. Clinical and Experimental
+Immunology 137: 171–178.
+44. De Vries IJ, Langeveld-Wildschut EG, van Reijsen
+FC, et al. (1998) Adhesion molecule expression on
+skin endothelia in atopic dermatitis: Effects of TNF-
+alpha and IL-4. Journal of Allergy and Clinical
+Immunology 102: 461–468.
+45. Black AP, Ardern-Jones MR, Kasprowicz V, et al.
+(2007) Human keratinocyte induction of rapid effec-
+tor function in antigen-specific memory CD4+ and
+CD8+ T cells. European Journal of Immunology 37:
+1485–1493.
+46. Wu C, Feng D, Ma H, et al. (2009) Effect of Pinus
+massoniana bark extract on IFN-gamma-induced
+ICAM-1 expression in HaCaT human keratinocytes.
+Journal of Ethnopharmacology 122: 48–53.
+47. Bito T, Roy S, Sen CK, et al. (2002) Flavonoids dif-
+ferentially regulate IFN gamma-induced ICAM-1
+expression in human keratinocytes: Molecular mecha-
+nisms of action. FEBS Letters 520: 145–152.
+48. Barker JN, Sarma V, Mitra RS, et al. (1990) Marked
+synergism between tumor necrosis factor-alpha
+and interferon-gamma in regulation of keratino-
+cyte-derived adhesion molecules and chemotactic
+factors. The Journal of Clinical Investigation 85:
+605–608.
+49. Balato A, Di Caprio R, Canta L, et al. (2014) IL-33 is
+regulated by TNF-alpha in normal and psoriatic skin.
+Archives of Dermatological Research 306: 299–304.
+```

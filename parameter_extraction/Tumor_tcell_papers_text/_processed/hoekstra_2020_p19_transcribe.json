@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "```plaintext\nNATURE CANCER                                                                                   ARTICLES\n\na\n\nβ2 microglobulin\n\n1.                                                                                              2.\n\n3.                                                                                              4.\n\n5.                                                                                              6.\n\n1. melanoma\n2. ovarian cancer\n3. melanoma\n4. breast cancer\n5. melanoma\n6. non-small cell lung cancer\n\nb\n\nβ2 microglobulin                      CD8\n\n1.                                     1.\n\n2.                                     2.\n\n1. ovarian cancer\n2. melanoma\n\nExtended Data Fig. 7 | Distinct β2m positive and negative areas in human cancers. a, Immunohistochemical staining of β2m and b, β2m and CD8 \nproteins on FFPE tissue of indicated human tumors. Heterogeneous β2m signal was observed in 16/51 tumors analyzed, one representative slide per tumor \n(obtained from resection material) was assessed and representative images are depicted in a. a. Scale bars are 100 μm. Note that CD8+ T cells in tumors \npredominantly localize to β2m high regions, representative images are depicted in b. Scale bars are 250 μm.\n\nNATURE CANCER | www.nature.com/natcancer\n```",
+  "model": "gpt-4o",
+  "page": 19,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 17.49,
+  "filename": "hoekstra_2020.pdf",
+  "doc_id": "hoekstra_2020"
+}

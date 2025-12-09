@@ -1,0 +1,122 @@
+PLOS PATHOGENS
+
+Generate exhausted CD8+ T cells in vitro
+
+![A](https://doi.org/10.1371/journal.ppat.1008555.g003)
+
+A
+
+\[
+\begin{align*}
+&\text{1200} \\
+&\text{1000} \\
+&\text{800} \\
+&\text{600} \\
+&\text{400} \\
+&\text{200} \\
+&\text{0}
+\end{align*}
+\]
+
+CD107a MFI
+
+\[
+\begin{align*}
+&\text{Fold change} \\
+&\text{CD107a MFI}
+\end{align*}
+\]
+
+\[
+\begin{align*}
+&\text{12} \\
+&\text{10} \\
+&\text{8} \\
+&\text{6} \\
+&\text{4} \\
+&\text{2} \\
+&\text{0}
+\end{align*}
+\]
+
+**** ****
+
+B
+
+\[
+\begin{align*}
+&\text{5500} \\
+&\text{5000} \\
+&\text{4500} \\
+&\text{4000} \\
+&\text{3500} \\
+&\text{3000} \\
+&\text{2500} \\
+&\text{2000} \\
+&\text{1500} \\
+&\text{1000} \\
+&\text{500} \\
+&\text{0}
+\end{align*}
+\]
+
+GzmB MFI
+
+\[
+\begin{align*}
+&\text{No peptide} \\
+&\text{Single peptide} \\
+&\text{Repeat peptide} \\
+&\text{No peptide} \\
+&\text{Single peptide} \\
+&\text{Repeat peptide} \\
+&\text{no restimulation} \\
+&\text{restimulation}
+\end{align*}
+\]
+
+C
+
+\[
+\begin{align*}
+&\text{Specific} \\
+&\text{Killing (\%)} \\
+&\text{60} \\
+&\text{50} \\
+&\text{40} \\
+&\text{30} \\
+&\text{20}
+\end{align*}
+\]
+
+\[
+\begin{align*}
+&\text{0.3:1} \\
+&\text{1:1} \\
+&\text{3:1}
+\end{align*}
+\]
+
+\[
+\begin{align*}
+&\text{No peptide} \\
+&\text{Single peptide} \\
+&\text{Repeat peptide}
+\end{align*}
+\]
+
+Fig 3. Repeat peptide stimulated CD8+ T cells have decreased cytotoxic function. On day 5, cells were harvested and re-stimulated with OVA peptide. (A) Median fluorescence intensity (MFI) of the degranulation marker, CD107a, shown (left panel). Fold change of CD107a MFI induced by peptide re-stimulation depicted on the right panel. (B) MFI of Granzyme B (GzmB) depicted for the different culture conditions. Each symbol represents one animal (n = 11-12), 3 independent experiments performed. (C) No peptide, single peptide and repeat peptide stimulated cells were co-cultured with target cells (OVA-pulsed A:B17 cells) at different ratios. Percentage of specific killing is depicted. One of five independent experiments shown. Line depicts mean ± S.E. Between the groups, Student’s t test with Welch’s correction was performed except for CD107a MFI (Wilcoxon signed rank test). *<0.05, **p<0.01, ***p<0.001, ****p<0.0001.
+
+https://doi.org/10.1371/journal.ppat.1008555.g003
+
+peptide stimulated cells expressed this inhibitory receptor. In contrast, there was a significant upregulation of multiple inhibitory receptors on repeat peptide stimulated cells. Almost all of these cells became PD-1 positive (98±0.3%, Fig 4A and 4B). Furthermore, 74±5% and 76±4% of the cells, respectively, express TIGIT and Lag3. The expression of Tim-3 (64±2%), CD160 (58±4%) and CD244 (14±2%) was also significantly increased on the repeat peptide stimulated cells.
+
+We next examined the simultaneous co-expression of multiple inhibitory receptors (PD-1, Lag3, CD160 and CD244) using SPICE (Fig 4C). Repeat peptide stimulated cells were 39% double positive for the inhibitory receptors and another 39% of the cells co-expressed three of these inhibitory receptors simultaneously. Furthermore, 11% of the cells expressed all 4 inhibitory receptors (Fig 4C). In contrast, very few of the no peptide and single peptide stimulated cells expressed two or more inhibitory receptors (Fig 4C). The differences in inhibitory receptor expression remained even after resting repeat peptide stimulated cells for 3 days (S1B Fig).
+
+To exclude that differences in inhibitory receptor expression were due to a different activation status, all the cells were re-stimulated for 6 hours after harvesting them on day 5. Although reactivation induces a slight upregulation of some inhibitory receptors on the no peptide and single peptide cultures, they still remain much lower than the repeat peptide stimulated cultures (S2A Fig). The exception was CD160 which was upregulated to similar levels in all cells. Overall, these findings confirm that multiple inhibitory receptors are expressed on the repeat peptide stimulated cells.
+
+Expression of transcription factors is altered in repeat peptide stimulated cells
+
+Previous studies have reported that exhausted CTL express and utilize transcription factors (TF) differently compared to effector and memory cell [11, 12, 40]. To characterize the expression pattern of TF in the in vitro exhausted cells, four of the core TFs (TCF1, TOX, T-bet, and
+
+PLOS Pathogens | https://doi.org/10.1371/journal.ppat.1008555 June 24, 2020 7 / 27

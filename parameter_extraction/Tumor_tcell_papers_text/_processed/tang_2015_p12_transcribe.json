@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "PD1-ACR T cells for PDL1\\(^+\\) cancer therapy\n\n![Image](https://via.placeholder.com/150)\n\n**Figure 8.** Sequential tumor specimens from mice stained for HE and IHC. A. HE staining of the U87 tumor tissue (× 100). B. HE staining of the U87 tumor tissue (× 400). C. Moderate staining of the PDL1 in DCIS (× 400). D. Strong PD1-Tc staining of the T cells in the U87 metastases tissue (× 400).\n\nWe also sought to determine whether PD1-ACR T cells exhibit preferential anticancer cytotoxicity. To this aim, we injected PD1-ACR T cells into metastases of malignant glial cells U87 which express PDL1. In this system, only T cells bearing the PD1-targeting ACR were effective, while it is unclear to what extent the relative density of PDL1 molecules on U87 cells could have biased these results.\n\nThe superiority of PD1-ACR T cells for antitumor potential over CTLs was demonstrated when the target was PDL1\\(^+\\) tumor. More importantly, we found that PD1-ACR T cells also controlled the growth of some PDL1\\(^-\\) T98G malignant glial metastases xenografts to a certain extent in immunocompromised mice, when given systemically or locally. But CTL cells could not effectively control the metastases of malignant glial U87 and T89G cell growth. Metastasis tumor grows in mice continuously and the mice died eventually.\n\n**Conclusion**\n\nIn summary, our findings support the utility of the PD1-ACR as a genetic engineering platform to address tumor mediated immune suppression through PDL1 in tumor microenvironment. The data demonstrated that CD28 and 4-1BB signals are functionally additive when combined within a single ACR. The improved PD1-ACR T-cell activation is at least in part dependent on the activation of the Akt pathway.\n\n471\n\nAm J Transl Res 2015;7(3):460-473",
+  "model": "gpt-4o",
+  "page": 12,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 20.44,
+  "filename": "tang_2015.pdf",
+  "doc_id": "tang_2015"
+}

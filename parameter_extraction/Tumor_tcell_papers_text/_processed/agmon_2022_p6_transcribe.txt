@@ -1,0 +1,158 @@
+```plaintext
+Vivarium: an interface and engine for integrative multiscale modeling                                                                                     1977
+
+process, and the COBRA process using them as flux constraints on 
+the FBA problem. The Bioscape process calculates details for each 
+reaction’s substrates and products with its stochastic kinetic simula- 
+tor. These details are then used by the flux adaptor to calculate a 
+time-averaged flux, which it passes to the flux bounds store. The 
+COBRA process uses these values to constrain the FBA problem’s 
+flux bounds, which impacts the resulting calculated flux distribution 
+and the overall growth rate. The Bioscaper and COBRA processes 
+are also coupled through the transporter proteins, as well as internal 
+metabolite pools that are built up by metabolism. Changes in the in- 
+ternal metabolite pools trigger the expression of genes (lac genes in 
+this example), which in turn influence the kinetic transport rates. 
+Thus, a causal loop is implemented between the Bioscaper and 
+COBRA processes. 
+
+The stochastic versus deterministic version of the composite rep- 
+quire different adaptor processes for converting between counts and 
+concentrations—for example, a ‘field counts step’ process was 
+required for the stochastic Bioscaper process to read external counts 
+of glucose and lactase in a cell’s local environment based on the lat- 
+tice resolution. The deterministic model run must handle and for a 
+larger overall environment volume—as the volume of the lattice 
+increases, this translates to many counts of glucose and lactase that 
+the stochastic model has to simulate with the Gillespie algorithm, 
+which is a time-intensive method. Thus, on its own, the stochastic 
+model is limited to very small environments and rapid life 
+cycles in its current form. This challenge was overcome by partitioning the 
+environment with the spatial processes described below. Future 
+work could improve performance by passing reactions with small 
+molecule counts to a stochastic simulator, and reactions with large 
+counts to a deterministic simulator. 
+
+To model cell division, ‘division’ and ‘divide’ conditions were 
+used. The division step reads individual cell mass, and triggers divi- 
+sion when that agent reaches 200fg. The mass step process then re- 
+calculates the agent’s mass by adding the mass of the products (the 
+COBRA process), and calculates the total cell mass. The volume of 
+the process then calculates volume step approaches the size of the cell from 
+its mass, including volume, length and width. These are the three 
+spatial environment. The divide condition process connects to the 
+mass variable directly, and waits for the division threshold to be 
+value. When this threshold is passed, division for emerges when the 
+update to terminate the mother agent and generate two daughters. 
+
+The environment consists of 2D array of concentration values 
+for glucose and lactase, which set the local external environments 
+for individual cell agents. The local field process converts concen- 
+trations specified between exchanges into concentrations feeding 
+spatial fields. The diffusion process restores the resulting fields, 
+models diffusion between them, and updates the local external vari- 
+ables for each agent, so that agents only experience the concentra- 
+tions at their given location. When agents reach the mass 
+requirement for division they divide, after which their daughter cells 
+are placed end-to-end, and their growth pushes upon neighbors with 
+the multicody process. Thus, cell growth and division lead to the 
+emergence of a colony with many individuals (Fig. 3b). 
+
+The full model was used to simulate a glucose-lactose diauxic 
+shift (Fig. 3c–e). This simulation is configured with a low initial glu- 
+cose concentration, so that the onset of lactose metabolism can be 
+triggered within a few hours of simulation time. As the initial cell 
+grows from a single agent through multiple generations (Fig. 3b), it 
+initially takes up glucose and not lactose (Fig. 3c and d). The glucose 
+concentration occupied by cells is locally depleted, but replenished by 
+diffusion from neighboring locations (Fig. 3c, top). The simulation 
+ration to the environment leads to cells experiencing different local 
+concentrations of glucose and lactose. In response, some lac operon 
+RNA is expressed due to stochasticity as well as in response to the 
+local environment (Fig. 3d). Expression of the lac genes allows lac- 
+tose to be taken into the cells (Fig. 3c, bottom), but with different 
+levels of the lac proteins, leading to heterogenous uptake rates for 
+glucose and lactose as well as the growth rate (Fig. 3e). By the end 
+of the simulation, there is still slight glucose uptake; the colony is 
+growing very slowly and is still shifting between growth phases, but 
+lactose-driven growth has become the main driver of colony growth. 
+
+4 Discussion
+
+This article introduces Vivarium—a software tool for integrative 
+multiscale modeling designed to simplify how new models are 
+build upon and integrate existing models. We demonstrated the inte- 
+gration of several diverse frameworks including deterministic and 
+stochastic models, constraint-based models, hierarchical embedding, 
+division, solid-body physics and diffusion. Each model was 
+developed and tested independently, and was then wired into a 
+larger composite model that integrates diverse mechanistic rep- 
+resentations. While modular software exists that enables simulation 
+of cellular biophysics and colony growth, such as CellModeller 
+(Rudge et al., 2012) or Smoldyn (Naylor et al., 2017), or else 
+allows for the assembly and integration of models-based ODEs rep- 
+resented in SBML, such as Tellurium (Choi et al., 2018), Vivarium 
+was designed with the requirements of whole-cell modeling in mind 
+and as such is a far more general model integration tool. By enabling 
+interfaces between a wide range of different models and supporting 
+their interaction in a unified simulation, we believe that Vivarium 
+will be broadly useful for diverse integrative models and a host of 
+applications. 
+
+Users of many new model integration software should expect sup- 
+port for simulations of any size and complexity, as well as for archi- 
+tecture and simulations for different biological processes. Moreover, 
+these simulations need to be accessible to as many scientists as pos- 
+sible. To meet these expectations, Vivarium was built to support 
+three types of scalability: (i) scalable representation, (ii) scalable 
+computation and (iii) scalable development. Our discussion focuses 
+on Vivarium’s strengths and limitations with regards to all three 
+types of scalability, so that future iterations of model integration 
+software can improve on them. 
+
+Scalable representation. A Vivarium model can be built with 
+nested hierarchies that represent cells and mechanism at multiple 
+spatial and temporal scales. This multiscale representation en- 
+ables hybrid models that mix different types of models—such as 
+ODEs and stochastic models—by using different representations for 
+different scales. For example, a deterministic model can be used to 
+describe flux models at the level of metabolic networks, while a 
+solid-body physics simulator will many individual cells. Hierarchies 
+are a technique enabling run time to simulate behaviors such as 
+bonding, merging, and engulfing—this enables the structure of 
+the model to change, grow and scale as new processes are 
+launched and the total simulation evolves. 
+
+While model-based, deterministic, and stochastic optimization- 
+based models were demonstrated here, they represent only a single 
+demonstration of the scalability of this framework. As another ex- 
+ample, we recently applied Vivarium to simulate a full-scale model of 
+E. coli chemotaxis (Aponte and Spangler, 2020), and also used it 
+to create the first ‘whole-colony’ simulation of cellular growth on 
+an agar plate (Skalnik et al., 2021). In these multicellular simulations, 
+every individual cell is an instance taken from the current version of 
+the whole-cell model (Macklin et al., 2020), and Vivarium 
+integrates the behavior of these large-scale models as agents 
+interacting across a lattice shared growth environment. 
+
+At present, there are no Vivarium processes to represent model 
+uncertainty, which arises when some aspects of the system are not 
+known such as the underlying mechanism of initial state, as can 
+occur in stochastic models. In principle, if even a single variable in 
+any component model has uncertainty associated with it, that uncer- 
+tainty spreads to all variables of the component models. Thus, in 
+this will be essential to develop specialized Vivarium processes to han- 
+dle uncertainty in the future. One example might be a type of step, 
+which would read the system state, evaluate uncertainty and deter- 
+mine how to proceed—for example by triggering ensembles of pro- 
+cesses to randomly reach their resulting states, using those states to 
+determine the full system update. 
+
+Scalable computation. Vivarium’s engine supports distributed 
+simulation, with each model process running in parallel on its own 
+OS process, and communicating with the engine through messages. 
+The engine distributes the processes across a computer architecture 
+with many CPUs, and runs them in parallel at their preferred time 
+scales. One current limitation is that most simulators were not 
+designed to be called iteratively in rapid succession and have to be 
+```

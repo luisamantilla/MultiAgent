@@ -1,0 +1,116 @@
+```plaintext
+PD1-ACR T cells for PDL1+ cancer therapy
+
+8C). The in vivo targeting of PD1-ACR+ T cells 
+upon PDL1+ cells in the tumor-loaded mice was 
+evaluated by the overall localization of PD1 by 
+immunohistochemistry and morphology. Immu- 
+nohistochemical results showed PD1 expression 
+in U87 tumor tissue (Figure 8D), which 
+suggested that the PD1-ACR T cells had the 
+ability to specifically target PDL1+ tumor tissue 
+in vivo. Together, these results indicated that 
+PD1-ACR+ T cells exhibited robust antitumor 
+effects by specifically killing target cells.
+
+Discussion
+
+Constitutive endogenous PD1 upregulated 
+expression has been observed by infiltrating T 
+lymphocytes in solid tumors [22, 23], while 
+tumors frequently co-opt immunoregulatory 
+signaling pathways to evade immune recogni- 
+tion and elimination. PDL1/2-PD1 interactions 
+contribute to effector T cell exhaustion and 
+clonal deletion as a mechanism of maintaining 
+tolerance in normal immune physiology [3-7]. 
+Tumor microenvironment PDL1/2 expression, 
+therefore, is a significant obstacle against 
+immunotherapy with either tumor specific cyto- 
+toxic T cells (CTL), tumor infiltrating lympho- 
+cytes (TIL) or chimeric antigen receptor (CAR) 
+redirected T cells [24, 25]. Additionally, the 
+absent or aberrant expression of MHC mole- 
+cules by malignant cells possibly precludes the 
+recognition by autologous MHC-restricted T 
+cells [1, 2, 24, 25]. Our work focused on the 
+development of an engineering strategy to 
+equip T cells with the ability to circumvent 
+PDL1-PD1 signaling by converting PDL1 to a 
+ligand for T cell costimulation. And the PD1- 
+CD28-4-1BB (PD1-ACR) is shown to convert 
+PDL1 mediated inhibition to costimulation of T 
+cells.
+
+Naïve and memory T cells downregulate endog- 
+enous CD28 expression and differentiate to 
+effector T cells as a consequence of antigen 
+activation [12, 13]. However, a chimeric antigen 
+receptors (CAR) containing combined 4-1BB 
+and CD28 signaling domains exhibited aug- 
+mented proliferative responses, cytokine re- 
+lease, antigen-elicited Granzyme B, expression 
+of pro-survival proteins and cytolytic activity as 
+compared to more moderate responses using 
+chimeric antigen receptors expressing only 
+4-1BB or CD28 signaling domains [13, 14].
+
+Similarly, we demonstrated the functionality of 
+PD1-ACR T cells by analyzing the upregulation 
+of PI3K/pAkt pathway activity, production of 
+inflammatory cytokines (IL2, IFN-γ and TNF-α) 
+and proliferation in response to PDL1+ cell lines. 
+PD1-ACR T cells proliferated in response to 
+PDL1+ target cells. And this proliferation was like- 
+ly due to the PD1-ACR T cells going through mul- 
+tiple rounds of the rapid expansion protocol 
+prior to being used in the proliferation assays. 
+Our PD1-ACR T cells exhibited a PDL1 dependent 
+reconstitution of CD28 and 4-1BB signal- 
+ing, resulting in increased IFN-γ, TNF-α, IL-2, 
+proliferation and cytolytic activity. CD28 and 
+4-1BB costimulation occurs preferentially when 
+T cells encounter professional antigen present- 
+ing cells that express B7-1 and -2, while PD1- 
+ACR shifts the negative costimulation event to 
+the positive costimulation and augments of 
+CTL costimulation. Based on the restricted 
+expression of both tumor antigen and PDL1, we 
+therefore anticipate that the effect of PD1-ACR 
+signaling will be more profound when effector T 
+cells are present in the tumor microenviron- 
+ment.
+
+In vitro cytolytic activity was enhanced through 
+PD1-ACR costimulation, while addressing the 
+effect of the PD1-ACR on the endogenous TCR 
+activity is an important extension of this work 
+that needs to be examined. We hypothesize 
+that PD1-ACR can serve to promote the anti- 
+PDL+ tumor activity of engineered T 
+cells expressing either endogenous TCR specif- 
+ic for tumor antigens or the co-expression of 
+this PD1-ACR, with the expectation that the 
+costimulatory impact of the PD1-ACR will be fur- 
+ther enhanced. Our findings indicated that PD1- 
+ACR T cells exhibited a significantly higher cyto- 
+toxicity than CTLs. Although these results sug- 
+gests that ACR-based immunotherapies may 
+be intrinsically superior to CTL approaches, TCR 
+is dependent on endogenous proteins for the 
+transduction of an activatory signal, unlike ACR 
+molecules, which contain CD28 and 4-1BB sig- 
+naling domains and the CD3ζ chain of the T-cell 
+receptor (TCR) signaling complex [26, 27]. It 
+should also be noted that TCR preferentially 
+signal through ZAP70 tyrosine kinases, which 
+may affect the strength of the transduced sig- 
+nal [25-27].
+
+Next, we assessed the antineoplastic potential 
+of PD1-ACR T cells in the xenograft models of 
+
+469
+
+Am J Transl Res 2015;7(3):460-473
+```

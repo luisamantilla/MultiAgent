@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and values from the text:\n\n1. **Accession number**: GSE140191\n2. **Dilution for antibodies**:\n   - Anti-mouse PD-L1-biotin: 1/100\n   - Anti-mouse PD-L1-BV785: 1/100\n   - Anti-mouse H2-Kb-BV-CP7: 1/100\n   - Anti-mouse H2-Kb-BV395: 1/100\n   - Anti-mouse H2-Db-APC: 1/100\n   - Anti-mouse CD8-BV395: 1/200\n   - Anti-mouse CD8-BV786: 1/700\n   - Anti-mouse IFN-γ-APC: 1/100\n   - Anti-mouse/human CD11b: 1/100\n   - Anti-mouse NK1.1-PE: 1/100\n   - Anti-mouse Ly6G-APC: 1/100\n   - Anti-mouse Ly6C-BV605: 1/100\n3. **Concentration for anti-mouse IFN-γ, purified**: 50 μg/ml"
+}

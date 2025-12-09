@@ -1,0 +1,48 @@
+```
+B
+
+T_{1/2}^* (h)
+
+T_{1/2} (h)
+
+>50
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+0
+
+10
+
+20
+
+30
+
+40
+
+>50
+
+T_{1/2} (0 – 24 hours after drug addition)
+
+T_{1/2} (24 – 48 hours after drug addition)
+
+1  CKS2
+2  RPLA22
+3  RPA2
+4  VIL2
+5  DDX18
+6  VCL
+7  CALM2
+8  H2AFV
+9  K-α-1
+10 NASP
+```

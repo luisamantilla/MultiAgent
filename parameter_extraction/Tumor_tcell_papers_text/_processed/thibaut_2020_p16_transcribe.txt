@@ -1,0 +1,113 @@
+```
+ARTICLES                                                                                      NATURE CANCER
+
+1.0M
+800K
+600K
+400K
+200K
+0
+0        200K  400K  600K  800K  1.0M
+                             SSC-A
+
+5.0K
+4.0K
+3.0K
+2.0K
+1.0K
+0
+0        200K  400K  600K  800K  1.0M
+                             FSC-A
+
+1.0M
+800K
+600K
+400K
+200K
+0
+0        200K  400K  600K  800K  1.0M
+                             FSC-A
+
+1.0M
+800K
+600K
+400K
+200K
+0
+-10⁴  0  10⁴  10⁵  10⁶  10⁷
+                             CD45 BUV395
+
+1.0M
+800K
+600K
+400K
+200K
+0
+-10⁴  0  10⁴  10⁵  10⁶  10⁷
+                             CFP
+
+10⁷
+10⁶
+10⁵
+10⁴
+10³
+10²
+10¹
+0
+-10⁴  0  10⁴  10⁵  10⁶  10⁷
+                             CD8 BV785
+
+1.0M
+800K
+600K
+400K
+200K
+0
+-10⁴  0  10⁴  10⁵  10⁶  10⁷
+                             CD11b PerCP-Cy5.5
+
+10⁷
+10⁶
+10⁵
+10⁴
+10³
+10²
+10¹
+0
+-10⁴  0  10⁴  10⁵  10⁶  10⁷
+                             Ly6C BV605
+
+SSC-H
+
+FSC-W
+
+SSC-A
+
+SSC-A
+
+SSC-A
+
+NK1.1 PE
+
+SSC-A
+
+Ly6G APC
+
+Hematopoietic cells
+
+Tumor cells
+
+NK cells
+
+OT-I T cells
+
+Myeloid cells
+
+Neutrophils
+
+Monocytes
+
+Extended Data Fig. 2 | Gating strategy for flow cytometry analysis of the tumor microenvironment. The figure depicts the gating strategies for identifying tumor cells, OT-I T cells, NK cells, monocytes and neutrophils present in the bone marrow of tumor bearing mice.
+
+                                                                                      NATURE CANCER | www.nature.com/natcancer
+```

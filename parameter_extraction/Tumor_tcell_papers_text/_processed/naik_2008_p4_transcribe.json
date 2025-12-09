@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "```markdown\n442                                                                                         \n\n![np] DC subtypes and their development",
+  "model": "gpt-4o",
+  "page": 4,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 105.4,
+  "filename": "naik_2008.pdf",
+  "doc_id": "naik_2008"
+}

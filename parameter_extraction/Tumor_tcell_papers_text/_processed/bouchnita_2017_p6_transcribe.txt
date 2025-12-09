@@ -1,0 +1,61 @@
+Bouchutina et al. BMC Immunology 2017, 18(Suppl 1):29
+
+Here $l_i$ is the intracellular concentration of signalling molecules accumulated as a consequence of IL-2 signals transmitted through transmembrane receptor IL2R downstream the signaling pathway to control the gene expression in the ith cell. The concentrations inside two different cells are in general different from each other. The first term in the right-hand side of this equation shows the cumulative effect of IL-2 signalling. The extracellular concentration $l_e$ is taken at the coordinate $x_i$ of the center of the cell. The second term describes the degradation of IL-2-induced signalling molecules inside the cell. Furthermore, $n_T$ is the number of molecules internalized by T cell receptors.
+
+In a similar way, the IFN-dependent regulatory signal dynamics in individual cells can be described by the following equation:
+
+\[
+\frac{dC_i}{dt} = \frac{\alpha_2}{n_T} C_e(x_i, t) - d_2 C_i.
+\]
+
+Here $C_i$ is the intracellular concentration of signalling molecules accumulated as a consequence of IFN signals transmitted through transmembrane receptor IFNR downstream the signaling pathway to control the gene expression in the ith cell. The concentrations inside two different cells are in general different from each other. The first term in the right-hand side of this equation shows the cumulative effect of IFN signalling. The extracellular concentration $C_e$ is taken at the coordinate $x_i$ of the center of the cell. The second term describes the degradation of IFN-induced signalling molecules inside the cell.
+
+To model the fate regulation of growth versus differentiation of the activated cells in relation to the timing of the IL-2 and type I IFN signalling we implement the following decision mechanism.
+
+C1 If the concentration of activation signals induced by type I IFN, $C_i$, is greater than some critical level $C_i^*$ at the beginning of the cell cycle and that of $l_i$ is smaller than the critical level $l_i^*$, then the cell will differentiate resulting in a mature cell.
+
+C2 If the concentration of activation signals induced by IL-2, $l_i$, is greater than some critical level $l_i^*$ at the end of the cell cycle, then the cell will divide producing two more mature cells.
+
+C3 If $C_i < C_i^*$ at the beginning of cell cycle and if $l_i < l_i^*$ at the end of cell cycle, then the cell will die by apoptosis and will be removed from the computational domain.
+
+Stochastic aspects of the model. As it is discussed above, mechanical interaction of cells results in their displacement described by equation (1) for their centers. In order to describe random motion of cells we add random variables to the cell velocity in the horizontal and vertical directions.
+
+Duration of cell cycle is given as a random variable in the interval $[T - \tau, T + \tau]$.
+
+Extracellular dynamics of cytokines. Proliferation and differentiation of T cells in the lymph node depends on the concentration of IL-2 and type I IFN. These cytokines are produced by mature CD4+ T cells and antigen-presenting cells, respectively. Their spatial distribution is described by a similar reaction-diffusion equation as follows
+
+\[
+\frac{\partial l_e}{\partial t} = D_{IL} \Delta l_e + W_{IL} - b_1 l_e.
+\]
+
+Here $l_{ex}$ is the extracellular concentration of IL-2, $D$ is the diffusion coefficient, $W_{IL}$ is the rate of its production by CD4+ T cells, and the last term in the right-hand side of this equation describes its consumption and degradation. The production rate $W_{IL}$ is determined by mature CD4+ T cells. We consider each such cell as a source term with a constant production rate $\rho_{IL}$ at the area of the cell. Let us note that we do not take into account explicitly consumption of IL-2 by immature cells in order not to introduce an additional parameter. Implicitly this consumption is taken into account in the degradation term.
+
+For type I IFN, the equation and the terms in it have a similar form:
+
+\[
+\frac{\partial C_e}{\partial t} = D_{IFN} \Delta C_e + W_{IFN} - b_2 C_e.
+\]
+
+Initial and boundary conditions for both concentrations IL-2 and IFN are taken zero. As before, the production rate $W_{IFN}$ equals $\rho_{IFN}$ at the area filled by APC cells and zero otherwise.
+
+Infection. Mature T cells leave the lymph node. The level of CD8+ T cells (effector cells) $N_{ef}$ in the body is determined by the equation
+
+\[
+\frac{dN_{ef}}{dt} = k_1 T - k_2 N_{ef},
+\]
+
+where $T$ is their number in the lymph nodes. So the first term in the right-hand side of this equation describes production of effector cells in the lymph nodes and the second term their death in the body.
+
+Denote by $N_{inf}$ the number virus-infected cells. We will describe it by the equation
+
+\[
+\frac{dN_{inf}}{dt} = f(N_{inf}) - k_3 N_{ef} N_{inf}.
+\]
+
+The first term in the right-hand side of this equation describes growth of the number of infected cells and the second term their elimination by the effector cells. The function $f$ will be considered in the form:
+
+\[
+f(N_{inf}) = \frac{a N_{inf}}{1 + h N_{inf}},
+\]
+
+where $a$ and $h$ are some positive constants.

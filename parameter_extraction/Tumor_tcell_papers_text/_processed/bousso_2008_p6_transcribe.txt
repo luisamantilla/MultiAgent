@@ -1,0 +1,98 @@
+```plaintext
+REVIEWS
+
+| Immunization                               | Outcome (ref)                      |
+|--------------------------------------------|------------------------------------|
+| pept-pulsed DCs+CD8+ T cells               | Priming (5)                        |
+| protein+adjuvant+CD4+ T cells              | Priming (34)                       |
+| pept-pulsed DCs+CD8+ T cells               | Priming (35)                       |
+| αDEC-205–Ag+LPS+CD8+ T cells               | Priming (9)                        |
+| pept (200μM)-pulsed DCs+CD8+ T cells       | Priming (48)                       |
+| pept (10μM)-pulsed DCs+CD8+ T cells        | Priming (48)                       |
+| αDEC-205–Ag+αCD40+CD4+ T cells             | Priming (20)                       |
+| DCs pulsed in vivo+CD4+ T cells            | Priming (45)                       |
+| Ag-expressing virus+CD8+ T cells           | Priming (24)                       |
+| pept-pulsed DCs+CD4+ T cells               | Priming (29)                       |
+| αDEC-205–Ag+αCD40+CD8+ T cells             | Proliferation, defective memory (49) |
+| (ICAM1–/– recipients)                      |                                    |
+| αDEC-205–Ag+CD8+ T cells                   | Tolerance (9)                      |
+| αDEC-205–Ag+CD4+ T cells                   | Tolerance (20)                     |
+
+0         12         24         36         48
+Time (hours)
+
+Stable interactions  Transient interactions  Not determined
+
+Figure 2 | Sequences of T-cell–DC interactions during the course of an immune response. The dominant types
+of T-cell–dendritic cell (DC) contacts that are observed over the course of T-cell activation in different settings are
+shown. The various modes of immunization used include injection of peptide-pulsed DCs, injection of antigenic
+peptide, infection with viruses, or immunization with antigen that is coupled to an anti-DEC-205 antibody (a strategy
+that targets antigen to DEC-205+ DCs in vivo). The outcome of T-cell activation in these various models is indicated on
+the right hand side. αCD40, CD40-specific antibody; αDEC-205–Ag, antigen coupled to a DEC-205-specific antibody;
+ICAM1, intercellular adhesion molecule 1; LPS, lipopolysaccharide; pept, peptide.
+
+phases model of T-cell activation, which referred to the
+ordered occurrence of transient (phase 1), then stable
+(phase 2), followed again by transient interactions as
+T cells detached from DCs (phase 3). Two subsequent
+reports also noted that short-lived interactions were
+more prominent early in the response to an antigen
+and were followed a few hours later by the formation of
+stable T-cell–DC conjugates39,44. However, it should be
+noted that the mode of antigen delivery used in these
+studies made it possible for the level of antigen presented
+by the DCs to increase over time. Three other studies
+failed to detect an initial phase of transient interactions
+and instead visualized the formation of long-lived
+T-cell–DC contacts very early in the response20,45,46.
+The dominant patterns of T-cell–DC contacts that were
+detected over the course of T-cell activation in differ-
+ent models is shown in FIG. 2. Some of the differences
+in the observed cell dynamics may lie in the diversity
+of experimental setups used in these different studies.
+Nevertheless, the emerging consensus is that relatively
+strong signals might induce rapid or immediate T-cell
+arrest on DCs. By contrast, T cells might initially tran-
+sit through a phase of brief contacts with DCs when
+exposed to weaker signals.
+
+As illustrated in FIG. 3, at least three models can be
+proposed to explain how T-cell–DC contacts can shift
+from being transient to being stable over time. One
+model predicts that changes which occur at the level of
+
+the DCs dictate this transition (FIG. 3a). This hypothesis
+is supported by experiments carried out by Hughes and
+colleagues38. In their experimental settings, CD8+ T cells
+showed a phase of dynamic interactions with DCs in
+the first 15 hours following immunization with anti-
+DEC-205–OVA and CD40-specific antibody (a regimen
+that induced priming), which was followed by a phase of
+stable interactions. However, when the DCs were given
+extra time to mature in vivo (by delaying T-cell adoptive
+transfer by 10 hours), T cells rapidly established stable
+contacts with DCs, which suggests that DCs but not
+T cells dictate the timing of T-cell arrest. The increased
+expression of adhesion and co-stimulatory molecules that
+accompanies DC maturation is likely to contribute to the
+gradual ability of maturing DCs to induce T-cell arrest.
+
+By contrast, a second model postulates that T cells
+‘memorize’ signals that are delivered during the ini-
+tial phase of brief interactions with DCs, and that a
+certain threshold of signals must be reached before
+T cells can gain the ability to arrest on DCs (FIG. 3b).
+Henrickson et al. observed that, in the early phase
+of T-cell activation, antigen-specific CD8+ T cells per-
+formed transient interactions with DCs that had been
+pulsed with a low concentration of an antigenic pep-
+tide but established stable contacts with DCs that had
+been pulsed with a higher amount of the peptide48.
+Interestingly, when a mixture of DC populations that
+had been pulsed with different peptide concentrations
+
+680 | SEPTEMBER 2008 | VOLUME 8
+
+© 2008 Macmillan Publishers Limited. All rights reserved
+www.nature.com/reviews/immunol
+```

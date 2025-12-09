@@ -1,0 +1,29 @@
+```plaintext
+Spi6 Protects CTLs from Granzyme B
+457
+
+A
+
+B
+
+C
+
+D
+
+E
+
+F
+
+Figure 6. Spi6 Deficiency Destabilizes Cytotoxic Granules
+(A) Visualization of GrB+ granules in P14 CTLs by CIM. Nuclei were stained by DAPI. Scale bar equals 5 μm.
+(B) Distribution of the number of GrB+ granules (diameter > 0.1 μm) per P14 CTL (n = 300 cells) measured by CIM. Mean values are indicated.
+(C) Visualization of GrB+ Pfn+ granules in P14 CTLs by CIM. Scale bar equals 5 μm.
+(D) TEM (>4060 magnification) of P14 CTLs from B6 and Spi6 KO mice. The arrow indicates electron dense granule cores (a cluster of seven in B6 CTLs, one in Spi6 KO CTL). Scale bar equals 2 μm.
+(E) Effect of Z-AAD (OMe)-CMK on the number of GrB+ granules (diameter > 0.1 μm) per P14 CTL ± SEM (n = 300 cells) measured by CIM.
+(F) Mean SA of GrA in the granule fractions of P14 CTLs ± SEM (n = 4 mice).
+
+cytoplasmic GrB in Spi6 KO CTLs leads to granule breakdown is unclear but could involve direct targets on the granule or could be a more indirect consequence of biochemical events triggered by cytoplasmic GrB (Russell and Ley, 2002). The potency of GrB as a CTL effector molecule likely explains why less than a 2-fold increase in cytoplasmic GrB activity (Figure 5B) results in the near complete loss (10%-20% of wild-type level) of Spi6 KO CTLs in vivo (Figure 2, GrB kills by triggering multiple apoptotic pathways involving caspases and mitochondrial dysfunction in addition to DNA fragmentation (Russell and Ley, 2002). By directly targeting GrB, Spi6 can potentially suppress all of the toxic effects of a CTL effector molecule. It has been suggested that inhibition of another CTL effector molecule—GrB by cathepsin B also protects CTLs from self-inflicted damage (Balaji et al., 2002). However, in vivo studies indicate that cathepsin B induces the apoptosis of CTLs (Liu et al.,
+
+Figure 7. Spi6 Inhibits GrB-Mediated Apoptosis of CTLs
+Spi6 inhibits GrB in the cytoplasm of wild-type (WT) CTLs (nuclei in dark gray) through the formation of an irreversible complex. The inhibition of GrB (crossed line) blocks the cleavage and activation of target enzymes and the induction of death (crossed line). The breakdown of granule integrity and the release of more GrB, either directly by cytoplasmic GrB or by downstream targets, is thus inhibited by Spi6. Cytoplasmic GrB is not blocked in Spi6 KO CTLs and so there is increased death. A positive feedback loop whereby GrB release from the cytoplasm catalyzes further release from granules then ensues because GrB causes granule damage. There is no GrB-mediated breakdown of granules in GrB KO CTLs resulting in increased granule number and decreased death.
+```

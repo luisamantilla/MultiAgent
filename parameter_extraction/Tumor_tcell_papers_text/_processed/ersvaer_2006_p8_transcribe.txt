@@ -1,0 +1,117 @@
+```
+20
+
+Table 2 The effect of IFNγ on Flt3L-dependent proliferation of
+native human ALL blasts
+
+\[
+\begin{array}{|c|c|c|}
+\hline
+\text{Patient} & \text{IFNγ} & \text{Proliferative response} \\
+\hline
+1 & - & 32,335 \pm 1,888 \\
+  & + & 251 \pm 64 \\
+2 & - & 3,092 \pm 121 \\
+  & + & 319 \pm 29 \\
+3 & - & 819 \pm 135 \\
+  & + & 1,511 \pm 722 \\
+4 & - & 2,771 \pm 607 \\
+  & + & 868 \pm 82 \\
+5 & - & 1,959 \pm 89 \\
+  & + & 2,346 \pm 73 \\
+6 & - & 8,603 \pm 391 \\
+  & + & 3,443 \pm 134 \\
+7 & - & 5,388 \pm 328 \\
+  & + & 2,967 \pm 214 \\
+8 & - & 7,875 \pm 981 \\
+  & + & 7,316 \pm 393 \\
+9 & - & 1,137 \pm 334 \\
+  & + & 1,467 \pm 422 \\
+\hline
+\end{array}
+\]
+
+ALL blasts were cultured for 7 days before proliferation was as-
+sayed as 3H-thymidine incorporation. The results are presented as
+the mean ± standard deviation of triplicate determinations. IFNγ
+was tested at 50 ng/ml. Results marked in bold represent a reduc-
+tion exceeding 2,000 cpm or a reduction to undetectable levels
+
+genic CXCL9 (P < 0.0001), CXCL10 (P = 0.0001) and
+CXCL11 (P < 0.0001) were observed in the presence of
+IFNγ (Fig. 6). Our overall results thus suggest that IFNγ
+alters the balance between pro- and antiangiogenic
+chemokines in favour of antiangiogenic signalling, al-
+though high CXCL8 levels were still observed in the
+presence of exogenous IFNγ.
+
+Effects of IFNγ during coculture of native human AML
+cells and various stromal cells
+
+Angiogenesis is important in leukaemogenesis [34], and
+the release of soluble mediators by microvascular
+endothelial cells has additional growth-enhancing and
+antiapoptotic effects on human AML cells (K.J. Hat-
+field, submitted). AML cells derived from 16 consecutive
+patients were cultured with and without IFNγ 50 ng/ml
+in transwell cultures together with microvascular endo-
+thelial cells. The proliferation of both cells was assayed
+as 3H-thymidine incorporation after 7 days. IFNγ
+caused a significant inhibition of AML cell proliferation
+in the presence of endothelial cells (Fig. 7, P = 0.01).
+Furthermore, addition of IFNγ had divergent effects on
+endothelial cell proliferation compared to IFNγ-free
+controls: decreased endothelial cell proliferation was
+detected for 8 of the 16 patients (Fig. 8). Thus, IFNγ
+may affect leukaemogenesis indirectly through altered
+angioregulation.
+
+Various bone marrow stromal cells, including fibro-
+blasts and osteoblasts, have proliferation-enhancing
+and antiapoptotic effects on human AML cells [24, 25,
+35–37]. AML cells derived from 16 consecutive patients
+were cocultured in transwell cultures together with fi-
+broblasts (HFL1), osteoblastic sarcoma cells (Cal72) or
+normal bone marrow stromal cells. Cocultures were
+prepared with and without exogenous IFNγ and AML
+blast proliferation assayed after 7 days. IFNγ had
+divergent effects on AML blast proliferation during
+coculture with these nonleukaemic cells (Fig. 7). For the
+normal stromal cells this divergence was reproduced in
+repeated experiments. IFNγ inhibited the proliferation
+of cocultured Cal72 osteoblasts and HFL1 fibroblasts
+compared with cocultures without IFNγ (Fig. 8). Thus,
+IFNγ may affect leukaemogenesis indirectly through ef-
+fects on these nonleukaemic stromal cells.
+
+Direct effects of IFNγ on nonleukaemic stromal cells
+
+Low levels of CD119 expression were detected in
+microvascular endothelial cells (5% CD119+ cells), fi-
+broblasts (6% CD119+ cells) and osteoblastic Cal72
+cells (10% CD119+ cells). We therefore investigated the
+effect of exogenous IFNγ (50 ng/ml) on the proliferation
+
+\[
+\begin{array}{cccc}
+\text{CXCL8} & \text{CXCL9} & \text{CXCL10} & \text{CXCL11} \\
+\end{array}
+\]
+
+\[
+\begin{array}{c}
+\includegraphics[width=0.9\textwidth]{fig6.png}
+\end{array}
+\]
+
+Fig. 6 The effects of IFNγ on AML cell release of angioregulatory
+chemokines. The figure presents the proangiogenic CXCL8 and
+antiangiogenic CXCL9, CXCL10 and CXCL11 concentrations in
+supernatants for AML cells from 67 consecutive patients. The cells
+were cultured for 48 h either in medium alone (−) or in the
+presence of IFNγ 50 ng/ml (+). Chemokine levels were determined
+by ELISA analyses. Line denotes the median. IFNγ increased
+CXCL8 levels and decreased CXCL9–11 levels (P = 0.0004 for
+CXCL8, P < 0.0001 for CXCL9, P = 0.0001 for CXCL10 and
+P < 0.0001 for CXCL11)
+```

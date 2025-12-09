@@ -1,0 +1,118 @@
+rIFN-γ IN CANCER PATIENTS
+
+\[
+\begin{array}{cc}
+\text{1000} & \text{10000} \\
+\text{600} & \text{6000} \\
+\text{400} & \text{4000} \\
+\text{200} & \text{2000} \\
+\text{100} & \text{1000} \\
+\text{60} & \text{600} \\
+\text{40} & \text{400} \\
+\text{20} & \text{200} \\
+\text{10} & \text{100} \\
+\text{6} & \text{60} \\
+\text{4} & \text{40} \\
+\text{2} & \text{20} \\
+\text{1} & \text{10} \\
+\text{0.5} & \text{5} \\
+\text{0.1} & \\
+\end{array}
+\]
+
+\[
+\begin{array}{cc}
+\text{Interferon Concentration (ng/ml serum)} & \text{Interferon Concentration (Units/ml serum)} \\
+\end{array}
+\]
+
+\[
+\begin{array}{cc}
+\text{1} & \text{1} \\
+\text{2} & \text{2} \\
+\text{3} & \text{3} \\
+\text{4} & \text{4} \\
+\end{array}
+\]
+
+\[
+\begin{array}{cc}
+\text{Time (Hrs)} & \text{Time (Hrs)} \\
+\end{array}
+\]
+
+\[
+\begin{array}{cc}
+\text{2.5 mg/m}^2 & \text{2.5 mg/m}^2 \\
+\text{1.0 mg/m}^2 & \text{1.0 mg/m}^2 \\
+\text{0.5 mg/m}^2 & \text{0.5 mg/m}^2 \\
+\text{0.25 mg/m}^2 & \text{0.25 mg/m}^2 \\
+\text{0.1 mg/m}^2 & \\
+\end{array}
+\]
+
+Chart 1. Serum disappearance of IFN-γ after i.v. bolus administration as mea-
+sured by ELISA. mean of blood levels for each dose for all patients at that
+dose; bars, S.E. Solid lines indicate the least-square regression lines calculated for
+each set of values.
+
+Chart 2. Serum disappearance of antiviral activity after i.v. bolus administration.
+Points, mean of blood levels for each dose for all patients at that dose; bars, SE.
+Solid lines indicate the least-square regression lines calculated for each set of
+values.
+
+netic measurements were obtained in 3 to 8 treatments at each
+dose level (Table 2).
+
+According to data from both assays, the half-life of rIFN-γ
+given by the i.v. route was 20 to 55 min and was not dependent
+on dose (Table 2). In contrast, the half-life of rIFN-γ given by the
+i.m. route varied from 227 to 462 min independently of the dose
+(Table 1). After i.v. injection, the clearance of biologic activity
+material and the clearance of ELISA-positive material both fit (r^2
+> 0.95) an open one-compartment model (Charts 1 and 2). After
+i.m. injection, the pharmacological data fit an open 2-compart-
+ment mathematical model (Chart 3). Between 33 and 77% of the
+dose administered i.m. was absorbed (Table 1). The exposure
+time calculated by concentration x time (C x t) was higher for
+i.m. than for i.v. injection and was directly proportional to the
+dose, increasing from 1,029 to 24,640 ng/ml x min over the
+dose range of 0.1 to 2.5 mg/sq m after i.m. injection and from
+275 to 15,267 ng/ml x min after i.v. injection, as determined by
+ELISA assay, at the corresponding dose levels (Tables 1 and 2).
+
+The clinical side effects associated with IFN-γ are shown in
+Tables 3 and 4. The majority of i.m. injections at a dose level
+≥0.1 mg/sq m resulted in fever, chills, fatigue, and myalgias,
+with escalation in dose level corresponding to increasing severity
+of symptoms (Table 3). Fever began 2 to 4 h after i.m. injection
+and peaked at 6 to 12 h. Gastrointestinal symptoms were mild
+
+and usually consisted of nausea with an occasional episode of
+vomiting. The site of i.m. injection was monitored and showed
+only rare minimal local erythema.
+
+Administration of rIFN-γ by the i.v. route was accompanied by
+similar side effects (Table 4). However, the patients noted that
+symptoms appeared sooner after i.v. injections but were short-
+lived, resolving completely within 24 h, whereas after i.m. doses,
+these side effects often persisted for 48 h. The only changes in vital
+signs that were noted were a mild tachycardia and increase in
+blood pressure that often accompanied elevation in temperature.
+Occasional side effects reported included emotional lability con-
+sisting of crying episodes on the day of injection in one patient.
+In addition, a brief episode of blurred vision occurred in one
+patient after a single treatment but did not recur when higher
+doses were administered to the same patient. Clinical neurologi-
+cal examination was normal in both of these patients. Weight
+loss ranging from 0 to 8 kg occurred over the 4-week treatment
+period. Lesions indicative of recurrent herpes simplex developed
+in one patient after 3 doses.
+
+Dose-limiting toxicity consisting of severe fatigue accompanied
+by high fever was seen in 5 of 10 patients. The maximum doses
+achieved in each of these patients were 0.25, 1.0, 2.5, and
+2.5 mg/sq m after both i.m. and i.v. injections.
+
+CANCER RESEARCH VOL. 45 JUNE 1985
+2868

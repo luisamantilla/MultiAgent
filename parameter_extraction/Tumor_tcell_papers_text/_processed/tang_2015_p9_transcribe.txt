@@ -1,0 +1,53 @@
+PD1-ACR T cells for PDL1⁺ cancer therapy
+
+A
+
+|        | 24 hr |
+|--------|-------|
+| OKT3   | +     |
+| PDL1-Fc| +     |
+| PDL1⁺ cells | - |
+| LY294002 | -   |
+
+p-Akt
+
+Akt
+
+β actin
+
+B
+
+|        | PDL⁺ U87 cells | PDL⁺ T98G cells |
+|--------|----------------|-----------------|
+|        | 0 hr 12 hr 24 hr 48 hr | 24 hr 48 hr |
+
+PARP
+
+cleaved PARP
+
+Caspase-3
+
+β actin
+
+C
+
+Cocultured with PD1-ACR T cells for different time
+
+| 0 hr | 24 hr | 48 hr |
+|------|-------|-------|
+
+Propidium iodide
+
+Annexin V-FITC
+
+Figure 5. The binding of PDL1 to PD1 upregulated the PI3K/Akt-dependent signaling in PD1-ACR T cells and effectively induced apoptosis and necrosis of PDL1⁺ U87 cells. A. PD1-ACR T cells sustained higher Akt phosphorylation (ser473) following the stimulation by the PDL1-Fc Chimera or the PDL1⁺ tumor cells. When PD1-ACR T cells were cocultured with OKT3 and PDL1-Fc Chimera in the presence of 10 μmol/L LY294002 for 2 h, the ratio of phospho-Akt to the total protein reverted to that before stimulation. B. PDL1⁺ U87 cells and PDL1⁺ T98G cells were cocultured with PD1-ACR T cells with the ratio 1:10 for the specified time intervals and cell lysates were prepared. Western blots for caspase-3 and PARP were shown with β-actin as a loading control. C. The apoptosis and necrosis of PDL1⁺ U87 cells were measured after 48 h treatment with PD1-ACR T cells at the ratio 1:10 (PDL1⁺ U87 cells: PD1-ACR T cells ) using annexin V-FITC and PI double-staining.
+
+the PDL1⁺ U87 cell line in the flank of the BALB/cA-nude mice (Chinese Academy of Science Anhui Experimental Animal Center). The tumor-loaded mice received the injection of the PD1-ACR⁺ T cells and the control T cells (2.5 × 10⁶ per dose) on days 8, 10, 12 and 14 for a total of 4 injections. U87 cell tumor sizes in mice with PD1-ACR⁺ T cells treatment started to shrink three weeks after adoptive cell transfer. In contrast, the control T cells did not affect the U87 tumor growth. Statistical analysis of the tumor growth curves revealed significant differences between the PD1-ACR⁺ group and the control group (p < 0.05, n = 3, Figure 7A). Progressive tumor growth was also observed in the control group, while the PDL1⁺ U87 tumors regressed in the mice treated with PD1-ACR T cells. As shown in Figure 7B, the mice treated with PD1-ACR T cells exhibited the greatest survival rate at the end of the study (75%), compared with the mice treated with control T cell (20%) and PBS (0%). These results indicated the anti-PDL1⁺ tumor therapeutic potential of PD1-ACR T cells in vivo.
+
+in vivo localization of T cells to the tumor
+
+Sequential tumor specimens from mice were stained for HE to confirm that PDL1 was expressed by the primary glioma cells and the PD1-ACR T cells in the glioma tumor tissue (Figure 8A and 8B). Next, we analyzed PDL1 expression in paraffin-embedded tumor tissue sections. The IHC staining showed moderate PDL1 expression, which was consistent with those observed in the human tumor (Figure
+
+468
+
+Am J Transl Res 2015;7(3):460-473

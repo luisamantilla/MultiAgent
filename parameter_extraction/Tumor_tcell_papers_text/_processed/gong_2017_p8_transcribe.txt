@@ -1,0 +1,25 @@
+Downloaded from http://rsif.royalsocietypublishing.org/ on September 20, 2017
+
+![Figure 6](https://example.com/figure6)
+
+(a) ![Graph](https://example.com/graph1) ![Graph](https://example.com/graph2) ![Graph](https://example.com/graph3)
+
+(b) ![Heatmap](https://example.com/heatmap1) (c) ![Heatmap](https://example.com/heatmap2) (d) ![ROC Curve](https://example.com/roc)
+
+Figure 6. Regionalization and scoring simulated tumour. (a) Tumour boundary is detected from spatial distribution of cells from simulation, and a Euclidian distance map is calculated for the distance to surface from every point inside the tumour. Sub-regions can be selected by thresholding the distance of interest (100 μm is used in this example). Regionalized PD1L score as a potential biomarker for anti-PD1 treatment. (b) Simulated treatment outcome. Colour indicates reduction in total cancer cell count at day 50 with anti-PD1L1 treatment versus day 30 (pretreatment). (c) Score obtained by regionalizing tumour, calculated as the fraction of PDL1⁺ cancer cells within the rim of designated thickness. 50 μm distance cut-off is used in this figure. (d) ROC curves of different cutoff distances.
+
+smaller distance thresholds (e.g. 20 and 50 μm) are used as opposed to larger ones (100+ μm), the score has a higher sensitivity in separating responders from non-responders. The difference is most prominent when high specificity is required for a given sensitivity level, i.e. when we need low false positive rate when using this biomarker to detect responders.
+
+3.5. Tumour growth is insensitive to spatial distribution of T-cell entry points
+
+In previous sections, we fixed effector T-cell entry point density. However, the arrangement of tumour vasculature may have an impact on tumour growth by affecting T-cell recruitment probability in different regions of a tumour. We varied the parameter governing how steep the drop in vascular density is towards the core (λ) over two orders of magnitude, resulting in cases ranging from almost uniformly distributed (λ = 1/3200 μm⁻¹) entry points to nearly no entry points in the core (λ = 1/25 μm⁻¹). Then we compared total cancer cell counts and PDL1⁺ cancer cell counts generated with different vasculature density distributions at a pretreatment (day 30) time point. Ten replications of simulations are performed with each parameter setting. The spatial distribution of recruitment entry (in two dimensions) and resulting cancer cell counts are shown in figure 7. It appears that no obvious correlation exists between λ and pretreatment total cancer cell counts or PDL1⁺ cancer cell counts. We also looked into the spatial distribution of PDL1⁺ cancer cells with different neoantigen characteristics when the core of the tumour is well perfused (λ = 1/1600 μm⁻¹), resulting in nearly uniform distribution of T-cell entry points throughout the tumour.
+
+The results are shown in figure 8. We can see that those patterns are similar to those we previously obtained from simulated tumours with relatively poorly perfused cores (figure 4, λ = 1/100 μm⁻¹).
+
+However, it should be noted that this result may only be relevant to T-cell recruitment locations in tumour. Tumour vasculature is not only responsible for transporting tumour antigen specific T cells; it also delivers oxygen, nutrients, growth factors and therapeutic agents to the tumour. The aforementioned results do not take these factors into account, while the spatial arrangement of tumour vasculature is likely to influence tumour development by shaping the distribution of those factors.
+
+3.6. Correlating pretreatment tumour properties with other mechanisms
+
+In §3.3, we analysed the impact of patient neoantigen profile on treatment outlook. For other mechanisms that are parameterized in our model, we use sensitivity analysis to determine the correlation between their values and tumour progression. Parameters included in the analysis are listed in electronic supplementary material, table S1. The parameters with significant correlation with pretreatment tumour size/total cancer cell count and the ratio of PDL1⁺ cancer cell to total cancer cell counts are shown in figure 9, along with their PRCC values.
+
+With regard to total cancer cell count, the results show that the IL-2 threshold to activate effector T-cell division is positively correlated with pretreatment tumour size, indicating the important role of anti-tumour effect T-cell proliferation in TIME to limit tumour size without immunotherapy. T-cell motility is negatively correlated with total cancer cell count,

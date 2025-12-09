@@ -1,0 +1,173 @@
+Coligan, J.E., Kruisbeek, A.M., Margulies, D.H., Shevach, E.M., and  
+Strober, W. (1995). Current Protocols in Immunology (1 New  
+York: John Wiley and Sons).  
+
+Gong, B., Chen, Q., Endlich, B., Mazumder, S., and Almasan, A.  
+(1999). Ionizing radiation-induced, Bax-mediated cell death is de-  
+pendent on activation of tyrosine and serine proteases. Cell Growth  
+Differ. 10, 491-502.  
+
+Hanon, E., Stinchcombe, J.C., Saito, M., Asquith, B.E., Taylor, G.P.,  
+Tanaka, Y., Weber, J.N., Griffiths, G.M., and Bangham, C.R. (2000).  
+Fratricide among CD8(+) T lymphocytes naturally infected with hu-  
+man T cell lymphotropic virus type I. Immunity 13, 657-664.  
+
+Heusel, J.W., Wesselschmidt, R.L., Shresta, S., Russell, J.H., and  
+Ley, T.J. (1994). Cytotoxic lymphocytes require granzyme B for the  
+rapid induction of DNA fragmentation and apoptosis in allogeneic  
+target cells. Cell 76, 977-987.  
+
+Hirst, C.E., Buzza, M.S., Bird, C.H., Warren, H.S., Cameron, P.U.,  
+Zhang, M., Ashton-Rickardt, P.G., and Bird, P.I. (2003). The intracel-  
+lular granzyme B inhibitor, proteinase inhibitor 9, is up-regulated  
+during accessory cell maturation and effector cell degranulation,  
+and its overexpression enhances CTL potency. J. Immunol. 170,  
+805-815.  
+
+Huang, J.-F., Yang, Y., Sepulveda, H., Shi, W., Hwang, I., Peterson,  
+P.A., Jackson, M.R., Sprent, J., and Cai, Z. (1999). TCR-mediated in-  
+ternalization of peptide-MHC complexes acquired by T cells. Sci-  
+ence 286, 952-954.  
+
+Ida, H., Nakashima, T., Kedersha, N.L., Yamasaki, S., Huang, M.,  
+Izumi, Y., Migishita, T., Origuchi, T., Kawakami, A., Migita, K.,  
+et al. (2003). Granzyme B leakage-induced cell death in a new type  
+of extracellular trap natural killer cell death. Eur. J. Immunol. 33,  
+3284-3292.  
+
+Jameson, S.C., Bevan, M.J., and Anderson, J.G. (1995).  
+T cell homeostasis: thymus and periphery. Immunol. Rev. 147,  
+89-115.  
+
+Jameson, S.C. (2002). Maintaining the norm: T-cell homeostasis.  
+Nat. Rev. Immunol. 2, 547-556.  
+
+Kagi, D., Lederman, B., Burki, K., Seiler, P., Odermatt, B., Olsen,  
+K.J., Podack, E.R., Zinkernagel, R.M., and Hengartner, H. (1994a).  
+Cytotoxicity mediated by T cells and natural killer cells is greatly im-  
+paired in perforin-deficient mice. Nature 369, 31-37.  
+
+Kagi, D., Vignaux, F., Lederman, B., Burki, K., Depraetere, V.,  
+Nagata, S., Hengartner, H., and Golstein, P. (1994b). Fas and perforin  
+pathways as major mechanisms of T cell-mediated cytotoxicity. Sci-  
+ence 265, 528-530.  
+
+Kagi, D., Lederman, B., Burki, K., Zinkernagel, R.M., and Hengart-  
+ner, H. (1996). Molecular mechanisms of lymphocyte-mediated  
+cytotoxicity and their role in immunological protection and patho-  
+genesis in vivo. Annu. Rev. Immunol. 14, 207-232.  
+
+Kagi, D., Odermatt, B., and Mak, T.W. (1999). Homeostatic regulation  
+of CD8(+) T cells by perforin. Eur. J. Immunol. 29, 3262-3272.  
+
+Kaiserman, D., Knaggs, S., Scarff, K.L., Gillard, A., Mirza, G., Cad-  
+man, M., McKeone, R., Denny, P., Cooley, J., Embrey, C., et al.  
+(2002). Comparison of human chromosome 5p/5 with mouse chro-  
+mosome 13 reveals a greatly expanded ov-serpin gene repertoire in  
+the mouse. Genomics 79, 349-362.  
+
+Kuhn, R., Schwenk, F., Aguet, M., and Rajewsky, K. (1995). Inducible  
+gene targeting in mice. Science 269, 1427-1429.  
+
+Kupfer, A., Singer, S.J., and Dennert, G. (1986). On the mechanisms of  
+unidirectional killing in mixtures of two cytotoxic T lymphocytes:  
+Unidirectional polarization of cytoplasmic organelles and the mem-  
+brane-associated cytoskeleton in the effector cell. J. Exp. Med. 163,  
+489-498.  
+
+Lieberman, J. (2003). The ABCs of granule-mediated cytotoxicity:  
+new weapons in the arsenal. Nat. Rev. Immunol. 3, 361-370.  
+
+Liu, N., Raja, S.M., Zazzeroni, F., Metkar, S.S., Shah, R., Zhang, M.,  
+Wang, Y., Bromme, D., Russin, W.A., Lee, J.C., et al. (2003). NF-  
+kappaB protects from the lysosomal pathway of cell death.  
+EMBO J. 22, 5313-5322.  
+
+Liu, N., Phillips, T., Zhang, M., Wang, Y., Opferman, J.T., Shah, R.,  
+and Ashton-Rickardt, P.G. (2004). Serine protease inhibitor 2A is  
+a protective factor for memory T cell development. Nat. Immunol.  
+5, 919-926.  
+
+Lopez-Boado, Y.S., Espinola, M., Bahr, S., and Belaaouaj, A. (2004).  
+Neutrophil serine proteinases cleave bacterial flagellin, abrogating  
+its host response-inducing activity. J. Immunol. 172, 509-515.  
+
+Lutt, M.B., Kukutsch, N., Ogilvie, A.L.J., Robner, Z., Koch, F., Ro-  
+mann, M., and Schuler, G. (1999). An advanced culture method for  
+generating large quantities of highly pure dendritic cells from mouse  
+bone marrow. J. Immunol. Methods 223, 77-92.  
+
+Matloubian, M., Suresh, M., Glass, A., Galvan, M., Chow, K., Whit-  
+mire, J.K., Walsh, C.M., Clark, W.R., and Ahmed, R. (1999). A role  
+for perforin in downregulating T-cell responses during chronic viral  
+infection. J. Virol. 73, 2527-2536.  
+
+McMichael, A. (1998). Preparing for HIV vaccines that induce cyto-  
+toxic T lymphocytes. Curr. Opin. Immunol. 10, 379-381.  
+
+Medema, J.P., Schuurhuis, D.H., Rea, D., van Tongeren, J., de Jong,  
+J., Bres, S.A., Laban, S., Toes, R.E., Toebes, M., Schumacher,  
+T.N., et al. (2001a). Expression of the serpin proteinase inhibitor 6  
+protects dendritic cells from cytotoxic T lymphocyte-induced  
+apoptosis: differential modulation by Th1- and type 2-cells.  
+J. Exp. Med. 194, 657-667.  
+
+Medema, J.P., de Jong, J., Peltenburg, L.T.C., Verdegaal, E.M.E.,  
+Gorter, A., Bres, S.A., Franken, K.L.M.C., Hahne, M., Algeciras-  
+Beufel, C.J.M., and Offringa, R. (2001b). Blockade of the granzyme  
+B/perforin pathway through over-expression of the serpin protein-  
+inhibitor PI-9/SPI-6 constitutes a mechanism of immune escape by  
+tumors. Proc. Natl. Acad. Sci. USA 98, 11515-11520.  
+
+Morrison, H., Harrison, D.C., Read, S.J., Campbell, C.A., Robbins,  
+J.M., and Pangallos, N.M. (2000). The use of TaqMan RT-PCR assays  
+for the quantitative analysis of gene expression. Nat. Genet. 25,  
+402-405.  
+
+Mullighan, C.G., Parast, L., Feldman, J., Cortian, S., Tretyakov,  
+H., Phillips, L.A., Not, B., Haines, J.L., Law, R., De Leisf, F., and  
+de Saint Basile, G. (2000). Mutations in RAB27A cause Griscelli syn-  
+drome associated with hemophagocytic syndrome. Nat. Genet. 25,  
+173-176.  
+
+Mullighan, P.J., Hechtkar, M.P., Reynolds, C., and Hengartner, P.A.  
+(1994). Identification and properties of cytoplasmic granules from  
+rat footpad T8 LGL tumors. J. Immunol. 137, 3904-3907.  
+
+Odake, S., Kam, C.M., Narasimhan, L., Poe, M., Blake, J.T., Krahen-  
+buhl, O., Tschopp, J., and Powers, J.C. (1991). Human and murine  
+cytotoxic T lymphocyte serine proteases: enzymatic properties,  
+peptide thioster substrates and inhibition of enzyme activity and  
+cytolysis by isocoumarins. Biochemistry 30, 2217-2227.  
+
+Opferman, J.T., Ober, B.T., Narayanan, R., and Ashton-Rickardt,  
+P.G. (2001). Suicide induced by cytotoxic activity controls the differ-  
+entiation of memory CD8(+) T lymphocytes. Immunol. 13, 411-419.  
+
+Perou, C.M., Justic, M.J., Pryor, R.J., and Kaplan, J. (1996a). Com-  
+plementation of the beige mutation in cultured cells by episomal  
+replicating murine yeast artificial chromosomes. Proc. Natl. Acad.  
+Sci. USA 93, 5050-5059.  
+
+Perou, C.M., Moore, K.J., Nagle, D.L., Misumi, D.J., Woolf, E.A.,  
+McGrall, S.H., Holmgren, L., Brody, T.H., Dussault, B.J., Jr., Monyac,  
+C.A., et al. (1996b). Identification of the murine beige gene by YAC  
+complementation and positional cloning. Nat. Genet. 13, 303-308.  
+
+Peters, P.J., Borst, J., Oorschot, V., Fukuda, M., Krahenbuhl, O.,  
+Tschopp, J., Slot, J.W., and Geuze, H.J. (1991). Cytotoxic T lympho-  
+cyte granules are secretory lysosomes, containing perforin and  
+granzymes. J. Exp. Med. 173, 1099-1109.  
+
+Phillips, T., Opferman, J.T., Shah, R., Liu, N., Fehling, C.J., and Ash-  
+ton-Rickardt, P.G. (2004). A role for granzyme B inhibitor serine pro-  
+tease inhibitor 6 in CD8(+) memory cell homeostasis. J. Immunol. 173,  
+3801-3809.  
+
+Picher, J.-P., Mokhopadhis, D., Rober, U., Burki, K., Hengartner, H.,  
+and Zinkernagel, R.M. (1990). Viral escape by selection of cytotoxi-  
+cal T-cell resistant virus variants in vivo. Nature 346, 622-624.  
+
+Podack, E.R., Young, J.D., and Cohn, Z.A. (1985). Isolation and bio-  
+chemical and functional characterization of perforin 1 from cytolytic  
+T-cell granules. Proc. Natl. Acad. Sci. USA 82, 8629-8633.

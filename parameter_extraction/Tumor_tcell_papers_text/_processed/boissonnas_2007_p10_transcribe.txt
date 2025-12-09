@@ -1,0 +1,131 @@
+```
+arrest on tumor cells and for tumor infiltration in depth. Our
+experiment using polyclonal GFP-expressing cells suggests
+that T cells that do not induce rejection by themselves and do
+not infiltrate tumors in depth alone may still infiltrate tumors
+deeply in the course of rejection by other CTLs (Fig. S7).
+
+It is therefore possible that T cell activation or cytokine
+secretion within the tumor, rather than tumor cell killing, is
+determinant for deep infiltration. Indeed, it has been proposed
+that tumor infiltration by antigen-specific CTLs triggers the
+invasion by other immune effectors, including neutrophils,
+macrophages, and NK cells (26, 28, 29). It is therefore possible
+that this “shell” of immune cells that modifies the tumor
+microenvironment results in resumed CTL motility and deep
+infiltration. Our working model could be developed to
+include the progressive formation of this shell of immune
+cells, which accompanies CTL infiltration and contributes to
+sustained CTL motility and, thereby, to progression of the
+CTLs deeper into the tumor.
+
+It is therefore critical to understand the mechanisms un-
+derlying the observed peripheral infiltration during the early
+rejection phase. Although the density of blood vessels is not
+higher in the tumor periphery (Fig. S6), we cannot exclude
+that differences in the permeability of the vessels in different
+regions of the tumor account for the observed CTL infiltra-
+tion. It is likely, however, that the high permeability of
+tumor vasculature results the facilitation of extravasation of
+antigen-activated lymphocytes as soon as they enter the
+tumor. The increased permeability observed in the tumor
+periphery could also be a “feedback” favored by the local
+inflammation, which is probably stronger in the periphery
+of the tumor, caused by tumor cell killing by CTLs. These
+peripheral CTLs would then proceed to infiltrate the tumor in
+depth through the mechanism depicted above. It is also
+possible, however, that as the CTLs, and most likely the
+rest of the antitumor immune response, proceeds deeply into
+the tumor, the permeability of the vessels is also progres-
+sively increased.
+
+Although it has been very difficult thus far, it should be
+technically possible to analyze tumor cell killing in situ in real-
+time. Indeed, our study has not addressed the frequency of the
+killing events, the kinetics of tumor cell killing, or the number
+of tumor cells killed by each CTL. Studies combining fluores-
+cent tumor and stromal cells should also contribute to better
+understanding the interactions between the tumor and its close
+microenvironment. Future studies should also determine if the
+spatial and temporal organization of the invasion of tumor
+tissues by effector T cells, for example, in the course of auto-
+immune disease or antimetastatic immune responses, follow
+the same rules that govern the infiltration of solid tumors.
+
+MATERIALS AND METHODS
+Mice. C57BL/6 mice were obtained from Charles River Laboratories.
+C57BL/6 Rag2−/− TCR (Vβ8) transgenic mice (OT1) were crossed in
+the Curie Institute animal facility with UBI-GFP/BL6 or with the Actβ-
+EGFP/BL6 (35) to obtain the F1 progeny (OT1-GFP and OT1-CFP mice,
+respectively). Live animal experiments were done in accordance to the
+guidelines of the French Veterinary Department.
+
+Cells. CD8+ OT1 cells (specific for the OVA257–264 peptide in a H2-Kb
+MHC class I context) were obtained from LNs of OT1 mice (purity >90%),
+and CD8+ OT1-GFP/CFP cells were purified (>90% purity) using Miltenyi
+Biotec CD8+ magnetic cell sorting kit and injected retroorbitally in 6–8-wk-
+old female C57BL/6 recipient tumor-bearing mice. EG7 and EL4 cell
+lines were stably transfected with a GFP coding plasmid and selected by cell
+sorting (97% GFP+ cells). The MCA101 (MCA) cell line was stably trans-
+fected with an empty plasmid or a plasmid encoding for OVA coupled to the
+CI62 domain of MFG-E8 to generate the control MCA and MCA-OVA,
+respectively. Inoculated s.c. MCA-OVA is actively rejected after OT1 adopt-
+ive transfer (unpublished data). Polyclonal cells were isolated from LNs of
+UBI-GFP/BL6 mice and were stimulated overnight in flat wells coated with
+1 μg/ml purified anti-CD3 and 1 μg/ml anti-CD28. All cell lines were cul-
+tured in RPMI 1640+Glutamax I (GIBCO BRL) supplemented with addi-
+tional antibiotics and 10% FCS. Tumor cells were injected s.c. in the flank
+of mice (EL4 and EG7 in a contralateral manner), and tumor size was mea-
+sured three times a week using the following formula:
+
+\[
+L \times l \times \left( \frac{L + l}{2} \right)
+\]
+
+Flow cytometry. Phenotypic characterization of OT1 T cells was performed us-
+ing a FACSCalibur (Becton Dickinson). EG7 and EL4 tumors, lymph nodes,
+and spleen were harvested at different days after adoptive transfer of OT1-
+GFP naive cells. Cell suspensions were prepared in PBS 0.5% BSA, and cells
+were labeled with anti-CD69-biotin followed by streptavidin–PercP–Cy5.5,
+anti-CD62L–allophycocyanin, anti-CD44–PE, or anti-Vβ5–PE (Becton
+Dickinson). For intracellular staining, cell suspensions were incu-
+bated for 3 h at 37°C in the presence of 5 μg/ml Brefeldin A, fixed in 4%
+PFA, and incubated in PBS 0.5% BSA with anti–IFN-γ–PE (Becton Dickin-
+son). For CFSE labeling, cells were incubated for 10 min at 37°C with 5 μM
+CFSE in PBS with 5% FCS (Invitrogen) during 10 min at 37°C. CFSE was
+quenched with 5% FCS, and cells were washed with culture medium and
+then centrifuged. Cells were diluted in PBS for injection.
+
+Histological tumor analysis. The analysis of the distribution of OT1-
+GFP cells, polyclonal GFP cells, and of CD31+ or tunnel-positive cells across
+the tumors is illustrated in Fig. S5. Tumors were transversally and sagittally
+sectioned in the middle, fixed, frozen in Tissue-Tek OCT compound, and
+sectioned (5 μm) with a cryostat (Leica). For GFP quantification, 10 series
+of 10 contiguous images from the periphery to the center of each tumor,
+from 6 different sections, spaced from 10 to 20 μm (225 × 170μm) were
+acquired in the first 1,800 μm for EG7 and 1,400 μm for MCA tumors. The
+periphery of the tumor was delimited by light transmission imaging. The
+density of OT1 cells across the tumor was calculated by normalizing the rela-
+tive distribution of OT1 cells in each tumor to the mean of the global density
+for all tumors. For tunnel experiments, tumor sections were labeled using an
+in situ cell death detection kit (Roche) following manufacturer’s instructions.
+Endothelial cells were stained using purified anti-CD31 (Becton Dickinson)
+or isotype control and a secondary antibody coupled with cyanine-3. Tumor
+sections were additionally stained with DAPI. Quantification was performed
+by calculating the fluorescent area of tunnel- and CD31-positive cells. A
+minimum of three different tumors were processed (analyzing one or two
+different sections per tumor), as for the analysis of GFP-positive cells.
+
+Two-photon laser scanning microscopy. 10^7 naive OT1-GFP cells
+were retroorbitally injected to 6–8-wk-old female C57BL/6 recipients.
+After 3 or 5–6 d after adoptive transfer, mice were anesthetized (initial dose
+of 80 mg/kg ketamine, 4 mg/kg xylazine, and 0.3 mg/kg flunizanepar, fol-
+lowed by a half-dose injection every 45 min; mice were kept under anesthesia
+during 3 h), and the tumor region was surgically exposed for two-photon
+imaging. Local temperature was monitored and maintained at 37°C. GFP/CFP-
+labeled T cells could be detected up to 150 μm from the tumor’s surface.
+Vessels were stained by i.v. injection of 200 μl of 2.5 μg/ml rhodamine-
+Dextran 70 kD (Sigma-Aldrich). In vivo 3D imaging was performed by
+
+354                                                                 IN VIVO CYTOTOXIC T CELL IMAGING IN TUMORS | Boissonnas et al.
+```

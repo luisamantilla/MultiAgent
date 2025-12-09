@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and their values from the text:\n\n1. **PC2 Variance**: 7%\n2. **PC1 Variance**: 84%\n3. **Row Z-Score**: -2, 0, 2\n4. **NES (Normalized Enrichment Score) for Upregulated in exhaustion**: 2.11\n5. **FDR q-value for Upregulated in exhaustion**: 0.00\n6. **NES (Normalized Enrichment Score) for Downregulated in exhaustion**: -2.48\n7. **FDR q-value for Downregulated in exhaustion**: 0.00\n8. **Positive z-score**: 2.5, 5.0, 7.5\n9. **-log10(p-value)**: Not explicitly given, but implied by the context of z-scores."
+}

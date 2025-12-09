@@ -1,0 +1,146 @@
+```plaintext
+Discussion
+
+IL-12 plays a central role in linking the innate resistance and 
+adaptive immunity, and could be a powerful anti-tumor agent. 
+However, since IL-12 is excessively toxic, the cytokine IL-27, 
+which is a less toxic member of the IL-12 family, has been 
+considered as a possible replacement of IL-12 as anti-tumor agent 
+[7,8,14-17]. It was demonstrated by Liu et al. [30] that IL-27 
+enhances the survival of tumor antigen specific CD8+ T cells and 
+induces their upregulation of IL-10, which acts as an anti-tumor 
+cytokine. This suggests that IL-27 could play an important role in 
+immunotherapy against human cancer.
+
+The aim of the present paper was to develop a mathematical 
+model that can be used to explore and predict the efficacy of 
+different protocols of IL-27 treatment. To do that we first set up a 
+dynamical system of partial differential equations whereby IL-27 is 
+produced by transfected J558-IL-27 tumor cells, as demonstrated 
+in the experiments of Liu et al. [30]. The model included IL-27-
+induced CD8+ T cells and cytokines IL-10 and IFN-γ. By carefully 
+estimating the parameters of the equations we showed that the 
+model simulations agree with the experimental data of Liu et al. 
+[30].
+
+The model can be used to examine the effect of injecting IL-27 
+into the microenvironment of cancer in a mouse, and design 
+strategies for such injections. We illustrated this by comparing the 
+efficacy of two protocols: (i) continuous injection (e.g., daily) of IL-
+27 for 24 weeks at a fixed amount F, and (ii) intermittent injections 
+during the first 24 weeks with three weeks injection at a fixed 
+amount 2F followed by three weeks spacing, and withdrawing the 
+drug after the 24 weeks for both protocols (i) and (ii). We found 
+that the continuous injection was more effective in reducing the 
+tumor load, and also in delaying relapse after the drug is 
+withdrawn, while the treatment is ongoing. However, in estab-
+lishing these results we did not take into account the IL-10 produced 
+by IL-27 activated CD4+ T cells has the same pro-inflammatory 
+property as the IL-10 produced by CD8+ T cells. In addition, we 
+made the pharmacokinetic assumption that the drug density 
+decreases toward the inner core of the tumor, and we also took the 
+drug “amount” F in the range of 10^3–10^6 pg/cm^3/day.
+
+We note that our model was based on the experiments by Liu 
+et al. [30] with plasmacytoma, but not with other tumor cells. 
+Furthermore, the model did not include the effects of lymphoid 
+and vascular compartments, as these were not reported in [30]. 
+Hence the present paper should be considered only as an initial 
+building block for a more comprehensive model which should 
+include angiogenesis as well as the immune response of 
+macrophages, dendritic cells, and T cells (Th1, Th2, Th17, and 
+Tregs). We note in particular that pro-inflammatory macrophages 
+(M1) secrete a family of IL-12 cytokines including IL-27 [44], and 
+the IL-12 family attracts CT1s which kill tumor cells, so that M1 
+macrophages suppress tumor growth. On the other hand, anti-
+inflammatory macrophages (M2) secrete IL-10 which promotes 
+tumor growth [23,24]. Regulatory T cells promote tumor growth 
+and are inhibited by IL-27 [45,46]. Thus the present paper’s 
+prediction of the efficacy of different protocols of treatment of 
+plasmacytoma in bone or soft tissue with IL-27 will need to be re-
+examined when more data become available that will enable us to 
+include the important compartments of the immune and vascular 
+systems.
+
+We note also that the proposed intervention with IL-27 in our 
+paper shows benefits only while the treatment is ongoing. The 
+treatment has neither significant short-term benefits nor any long-
+term benefits after the drug has discontinued. It is becoming 
+increasingly common to treat tumors with several drugs. In 
+addition to tumor specific drugs, a generic mitotic inhibitory drug, 
+which disrupts microtubules that pull the cell apart, is often used – 
+since cancer cells are more sensitive to inhibition of mitosis than 
+normal healthy cells. In our model, the effect of such a drug is to 
+increase the death rate parameter in the equation for cancer cells. 
+Further work should also include the combined effect of treatment 
+of IL-27 with a mitotic inhibitory drugs.
+
+Methods
+
+Estimates of the densities of tumor cells and T cells
+
+Many of the parameters are based on experiments reported in 
+[30]. In [30], the volume of the tumor was measured in days 
+12,14,16, and 18, but the number of CD8+ T cells and 
+concentrations of I0 and IFNγ, were measured only in the first 5 days.
+
+From Figure 5D in [30], the volume of the tumor at days 
+12,14,16, and 18 were approximate 30,60,100, and 180 in mm^3. 
+Hence,
+
+\[
+c(12) = 30 \times A, \quad c(14) = 60 \times A, 
+\]
+\[
+c(16) = 100 \times A, \quad c(18) = 180 \times A,
+\]
+
+where A is the number of tumor cells in per mm^3. If we consider a 
+simplified equation for (5)
+
+\[
+\frac{dc(t)}{dt} = \lambda c(t) - \mu c(t),
+\]
+
+then, for any two times t1 and t2,
+
+\[
+c(t_2) = c(t_1) e^{(\lambda - \mu)(t_2 - t_1)}.
+\]
+
+If we apply this formula to the 6 pairs of the numbers from (11) 
+to compute λ − μ, and take the mean value, we get
+
+\[
+\lambda - \mu = 0.295/day.
+\]
+
+Since the half-life of melanoma tumor cells is approximate 4 
+days, [47],
+
+\[
+\mu = \ln(2)/4/day = 0.173/day,
+\]
+
+and then λ1 = 0.468/day.
+
+In the experiments in [30], there were two kinds of tumor cells: 
+J558-IL-27 which generates IL-27, and J558-Curl which does not 
+generate IL-27. The antigen P1A on J558 tumor cells is recognized 
+by receptors TCRs on cytotoxic T cells, P1CTL. Liu et al. [30] 
+used P1CTL with cytotoxic CD8+ (which are called CD8+ T cells) 
+to investigate the immune response for IL-27. Their P1CTL cells 
+were of four different types: (i) P1CTL which can recognize J558-
+Curl tumor cells and generate IL-10 to inhibit tumor growth; (ii) 
+IL-10−/P1CTL which can recognize J558-Curl tumor cells but 
+cannot generate IL-10; (iii) P1CTL/IL-27 which can recognize 
+J558-IL-27 tumor cells and generate IL-10; and (iv) IL-
+10−/P1CTL/IL-27 which can recognize J558-IL-27 tumor cells 
+but cannot generate IL-10.
+
+The number of tumor cells at t = 0 day (in [30]) was 5 × 10^6 
+cells, and we assume (see Figure 5D in [30]) that they occupy 
+volume 10mm^3. Hence
+
+PLOS ONE | www.plosone.org 12 March 2014 | Volume 9 | Issue 3 | e91844
+```

@@ -1,0 +1,108 @@
+```plaintext
+Tubulin Oligomer Formation Studied by FCS                                                                                      2643
+
+complex also show no significant changes in the interaction of 
+Flutax2 with tubulin. The diffusion coefficient of the tubulin-
+colchicine complex in the presence of Flutax2 decreases in the 
+same way as for tubulin. The measurements are also done in 
+a phosphate buffer and the same results are obtained.
+
+Binding of paclitaxel to tubulin
+
+Within a small concentration region we were able to show 
+that paclitaxel itself can also induce oligomer formation of 
+tubulin. The experiment was done at 4 nM of labeled tubulin 
+in the presence of 3 mM of unlabeled tubulin and at 1 mM 
+Mg 21. As to be expected a value of (4.1 6 0.2) 3 10 211 m 2 /s 
+was obtained for the diffusion coefficient. When 100 nM of 
+paclitaxel was added to this tubulin solution the diffusion 
+coefficient dropped to (1.8 6 0.3) 3 10 211 m 2 /s, showing 
+the formation of oligomers.
+
+Binding of Flutax2 to microtubules
+
+The binding of Flutax2 to microtubules should be inhibited 
+by an excess of paclitaxel, if Flutax2 and paclitaxel compete 
+for the same binding site on microtubules. To prove this, 
+a solution of 20 mM tubulin in MES buffer containing 4 mM 
+MgCl 2, 1 mM GTP, and 40 mM paclitaxel is prepared and 
+then incubated at 37°C for 30 min. Before FCS measure-
+ments, Flutax2 is added to this solution of microtubules. No 
+binding of the Flutax2 is observed. The correlation curve 
+stays the same as the free Flutax2.
+
+Flutax2 at nanomolar concentration also forms tubulin 
+oligomers in the presence of colchicine and these oligomers 
+have the same diffusion coefficient as in the absence of 
+colchicine. When 20 mM tubulin in MES buffer, containing 
+1 mM MgCl 2, 1 mM GTP, and 13 mM tubulin-colchicine 
+complex (to produce short microtubules later on; Lamberi 
+and Engelborghs, 1983) is incubated at 37°C for 30 min with 
+Flutax2 at nanomolar concentration and an FCS measure-
+ment is done, the analysis of the autocorrelation curves with 
+the two-component model gives the same diffusion co-
+efficient for the complex of (1.6 6 0.3) 3 10 211 m 2 /s. The 
+addition of saturating amounts of paclitaxel to this solution 
+induces the assembly of tubulin into microtubules with the 
+incorporation of Flutax2. This can be seen from the changes 
+in the average diffusion coefficient of the complex during 20 
+min and this corresponds to the formation of microtubules 
+(Fig. 8). It should be noted that the presence of the tubulin-
+colchicine complex guarantees the formation of a rather 
+narrow distribution of short microtubules (Lamberi and 
+Engelborghs, 1983). The average diffusion coefficient for 
+microtubules after 20 min was determined to be 4.1 3 10 212 
+m 2 /s. Atomic force microscopy measurements (not shown) 
+of this sample containing short microtubules were performed 
+and the average length of microtubules was measured to be 
+423 6 93 nm. The theoretical diffusion coefficient of these 
+microtubules was calculated by using the formula for the 
+
+translational diffusion coefficient of rod molecules (Tirado 
+et al., 1984):
+
+\[
+D = \frac{A k T}{3 \pi \eta L}
+\]
+
+(14)
+
+where A is a correction factor:
+
+\[
+A = \ln \left( \frac{L}{d} \right) + 0.312 + \frac{0.565}{L/d} - \frac{0.1}{(L/d)^2}.
+\]
+
+(15)
+
+L is the length of the molecule, d is the diameter of the rod 
+molecule (for microtubules d ¼ 25 nm), and the other 
+parameters are as defined before. These calculations give the 
+value of the average diffusion coefficient for this length of 
+microtubules of 3.2 3 10 212 m 2 /s, which is in fair agreement 
+with data from FCS measurements.
+
+Analytical ultracentrifugation
+
+To be sure that the tubulin after purification by phospho-
+cellulose and gel chromatography is present in its dimeric 
+state, a boundary sedimentation experiment is done. Two 
+tubulin concentrations are measured in the same buffer 
+conditions as in the FCS experiments only with lowered 
+GDP concentration (50 mM instead of 1 mM), which 
+minimized the background absorption at 280 nm. The 
+tubulin concentrations in those experiments are 5 mM and 10 
+mM. Analysis shows that 90–95% of the tubulin molecules 
+have a sedimentation coefficient of 6.5 S. This value is close 
+to the reported value for tubulin dimer (Detrich and 
+Williams, 1978).
+
+FIGURE 8 Assembly of tubulin into short microtubules in the presence 
+of paclitaxel. Flutax2 at nanomolar concentration was added to tubulin 
+(20 mM) and tubulin-colchicine complex at 13 mM and incubated at 37°C 
+for 30 min in MES buffer, 1 mM GTP, and 1 mM Mg 21. For the FCS 
+measurements paclitaxel at 20-mM concentration was added to the solution 
+of tubulin, Flutax2, and tubulin-colchicine.
+
+Biophysical Journal 87(4) 2635–2646
+```

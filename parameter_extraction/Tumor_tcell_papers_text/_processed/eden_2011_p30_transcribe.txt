@@ -1,0 +1,55 @@
+```
+A. DDX5
+
+Autoradiogram
+
+Control   α GFP   α DDX5
+IgG       0  3  6  10  0  3  6  10
+
+Immunoblot (α DDX5 Ab)
+
+Input     α GFP   α DDX5
+15%       0  3  6  10  0  3  6  10
+
+:IP
+:Chase (hours)
+
+← DDX5-YFP
+← DDX5
+
+![Graph 1](DDX5-YFP (α -GFP))
+Radio-labeled protein (A.U.)
+Chase (h)
+
+![Graph 2](DDX5 (α -DDX5))
+Radio-labeled protein (A.U.)
+Chase (h)
+
+B. MYH9
+
+Autoradiogram
+
+Control   α GFP   α MYH9
+IgG       0  3  6  10  0  3  6  10
+
+Immunoblot (α MYH9 Ab)
+
+Input     α GFP   α MYH9
+15%       0  3  6  10  0  3  6  10
+
+:IP
+:Chase (hours)
+
+← MYH9-YFP
+← MYH9
+
+![Graph 3](MYH9-YFP (α-GFP))
+Radio-labeled protein (A.U.)
+Chase (h)
+
+![Graph 4](MYH9 (α- MYH9))
+Radio-labeled protein (A.U.)
+Chase (h)
+
+Figure S2.
+```

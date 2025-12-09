@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and values from the text:\n\n1. **Fluorescence (Percentage of max.)**:\n   - 100%\n   - 0%\n\n2. **Distance (µm)**:\n   - 0 µm\n   - 5 µm\n   - 10 µm\n   - 15 µm\n\n3. **Time (min)**:\n   - 0 min\n   - 53 min\n   - 0 min\n   - 10 min\n   - 20 min\n   - 30 min\n   - 40 min\n   - 50 min\n   - 60 min\n   - 70 min\n\n4. **Translocation score**:\n   - 1.0\n   - 0.5\n   - 0\n   - -0.5\n   - -1.0\n\n5. **Distance to the closest T cell**:\n   - 0\n   - 10\n   - 20\n   - 30\n   - 40\n   - 50\n   - 60\n\n6. **Correlation coefficient (R)**:\n   - R = -0.010\n\n7. **P-value (P)**:\n   - P = 0.965"
+}

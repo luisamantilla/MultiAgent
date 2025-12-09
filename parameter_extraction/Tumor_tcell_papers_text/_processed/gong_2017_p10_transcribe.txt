@@ -1,0 +1,90 @@
+```plaintext
+Downloaded from http://rsif.royalsocietypublishing.org/ on September 20, 2017
+
+                                                                                                           10
+                                                                                                           rsif.royalsocietypublishing.org
+                                                                                                           J. R. Soc. Interface 14: 20170320
+
+(a) 1.0
+    total cancer cells
+
+ 0.5
+
+   0
+
+−0.5
+
+       IL2th      pmt       pmc       pkn       pkp       pn2p
+
+(b) 0.6
+    ratio of PDL1+ cancer cell to total cancer cell counts
+
+ 0.4
+
+ 0.2
+
+   0
+
+−0.2
+
+−0.4
+
+−0.6
+       IL2th      pmt       pmc       pkn       pkp       pn2p
+
+Figure 9. Partial rank correlation coefficients of indicated parameters (for parameter definitions see electronic supplementary material, table S1) and cancer cell count (a) or
+ratio of PDL1+ cancer cell to total cancer cell counts (b). Significant correlations are marked with asterisks (α = 1 × 10−9). (Online version in colour.)
+
+meaning an increase in ability of highly mobile CD8+ T cells to
+limit tumour growth. The velocities of cancer cells vary in a
+wide range (0.01–5 μm min−1) depending on cancer types,
+stages of progression and migration modes [58]. In this
+study, we are focusing on the lower end of the spectrum cor-
+responding to properties found in the early stage of tumour
+development. At this stage, cancer cell mobility is positively
+correlated with tumour size, indicating cancer cell migration
+promotes tumour progression. The negative correlation
+between tumour size and rate of cytotoxic T cells killing both
+PDL1+ and PDL1− cancer cells is also in accordance with the
+role of anti-tumour T cells in limiting cancer growth. The
+higher correlation of the killing rate of PDL1+ than that of
+PDL1− also suggests the importance of a higher PDL1+
+cancer cells’ overall contribution to tumour progression. This
+will help us assess their correlation with treatment efficacy
+and thus potential as target of clinical intervention. PDL1
+induction in cancer cells also correlates positively with
+tumour size. This indicates that the resistance build-up
+from the inflammatory environment not only prevents a
+tumour from been eliminated by the immune system but also
+contributes to its progression.
+
+Furthermore, some mechanisms are correlated with both
+total cancer cell count and PDL1+ fractions, but in opposite
+directions. A high proportion of PDL1+ expression in tumours
+is usually considered to suggest high probability of patient
+
+responding to anti-PD1/anti-PDL1 treatment, and thus mech-
+anisms that correlate negatively with tumour size and
+positively correlate with PDL1+ expression might be helpful
+to couple with such treatment to improve outcome. From
+figure 9b, it can be seen that IL-2 threshold belongs in such cat-
+egory, meaning sensitizing T cells to IL-2 may synergize with the
+therapy. Alternatively, mechanisms negatively correlated with
+tumour size and positively correlated with PDL1+ fraction,
+such as T-cell motility, can be induced to help with the therapy.
+On the contrary, targeting mechanisms such as cancer cell PDL1
+induction probability might not be fruitful because although
+increasing it can promote PDL1 fraction, it also promotes overall
+cancer growth, leaving the overall effect difficult to predict.
+
+4. Discussion
+In this study, we developed a three-dimensional agent-based
+systems immuno-oncology model to simulate the interaction
+between cancer cells and CD8+ T cells specific to cancer anti-
+gen. The inputs of each simulation to capture individual
+variance are parameters governing the tumour mutational
+burden and antigen strength. Two important model outputs
+are assessed. First, the emergent spatial patterns of different
+cell types from our simulations without treatment, which
+resemble patterns observed in patients’ biopsies. Second, the
+```

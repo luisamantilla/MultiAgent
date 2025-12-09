@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and values from the text:\n\n1. Intratumoral injection volume: 50 μl\n2. PBS solution concentration: 1 mg/ml\n3. Objective magnification: 20x\n4. Objective numerical aperture (NA): 0.95\n5. Excitation wavelength: 900 nm\n6. Image capture interval: every 30 s\n7. Duration of image capture: 30–60 min\n8. Image area: 360 μm²\n9. Z-spacing between images: 10 μm\n10. Visualization resolution: 1.5 μm\n11. Minimum tracking duration for cells: more than 5 min\n12. Arrest coefficient threshold: <2 μm/min\n13. Dichroic mirror wavelengths: 495 nm and 590 nm\n14. Bandpass filter wavelengths: 457/50 nm (SHG), 472/30 nm (GFP), 520/35 nm (GFP), 624/40 nm"
+}

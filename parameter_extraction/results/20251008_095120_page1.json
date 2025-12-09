@@ -1,0 +1,116 @@
+{
+  "tables": [
+    {
+      "parameter": "CD160 No peptide",
+      "value": "2.0",
+      "units": "percent",
+      "context": "Expression level without peptide"
+    },
+    {
+      "parameter": "CD160 Single peptide",
+      "value": "3.5",
+      "units": "percent",
+      "context": "Expression level with single peptide"
+    },
+    {
+      "parameter": "CD160 Repeat peptide",
+      "value": "65",
+      "units": "percent",
+      "context": "Expression level with repeat peptide"
+    },
+    {
+      "parameter": "CD244 No peptide",
+      "value": "6.3",
+      "units": "percent",
+      "context": "Expression level without peptide"
+    },
+    {
+      "parameter": "CD244 Single peptide",
+      "value": "3.2",
+      "units": "percent",
+      "context": "Expression level with single peptide"
+    },
+    {
+      "parameter": "CD244 Repeat peptide",
+      "value": "22",
+      "units": "percent",
+      "context": "Expression level with repeat peptide"
+    },
+    {
+      "parameter": "PD-1 No peptide",
+      "value": "0.6",
+      "units": "percent",
+      "context": "Expression level without peptide"
+    },
+    {
+      "parameter": "PD-1 Single peptide",
+      "value": "8.6",
+      "units": "percent",
+      "context": "Expression level with single peptide"
+    },
+    {
+      "parameter": "PD-1 Repeat peptide",
+      "value": "99",
+      "units": "percent",
+      "context": "Expression level with repeat peptide"
+    },
+    {
+      "parameter": "Lag3 No peptide",
+      "value": "0.2",
+      "units": "percent",
+      "context": "Expression level without peptide"
+    },
+    {
+      "parameter": "Lag3 Single peptide",
+      "value": "0.4",
+      "units": "percent",
+      "context": "Expression level with single peptide"
+    },
+    {
+      "parameter": "Lag3 Repeat peptide",
+      "value": "95",
+      "units": "percent",
+      "context": "Expression level with repeat peptide"
+    },
+    {
+      "parameter": "Tim3 No peptide",
+      "value": "0.4",
+      "units": "percent",
+      "context": "Expression level without peptide"
+    },
+    {
+      "parameter": "Tim3 Single peptide",
+      "value": "0.5",
+      "units": "percent",
+      "context": "Expression level with single peptide"
+    },
+    {
+      "parameter": "Tim3 Repeat peptide",
+      "value": "59",
+      "units": "percent",
+      "context": "Expression level with repeat peptide"
+    },
+    {
+      "parameter": "TIGIT No peptide",
+      "value": "4.2",
+      "units": "percent",
+      "context": "Expression level without peptide"
+    },
+    {
+      "parameter": "TIGIT Single peptide",
+      "value": "6.0",
+      "units": "percent",
+      "context": "Expression level with single peptide"
+    },
+    {
+      "parameter": "TIGIT Repeat peptide",
+      "value": "95",
+      "units": "percent",
+      "context": "Expression level with repeat peptide"
+    }
+  ],
+  "figures": [],
+  "text": [],
+  "equations": [],
+  "summary": "The page presents data on the expression levels of various markers on CD8+ T cells under different peptide conditions. CD160, CD244, PD-1, Lag3, Tim3, and TIGIT show varying levels of expression when no peptide, a single peptide, or repeat peptides are present. Notably, PD-1 expression reaches 99% with repeat peptide exposure, indicating significant upregulation. These findings suggest differential immune checkpoint expression based on peptide exposure."
+}

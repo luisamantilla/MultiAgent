@@ -1,0 +1,17 @@
+20. Detection of T-Cell Degranulation: CD107a and b
+
+507
+
+B. Monensin Requirement
+
+The active trafficking of CD107a and b from the cell surface introduces yet another wrinkle into the staining procedure. When the antibody-fluorochrome–bound CD107a or b molecules are reinternalized, they will traffic into endosomal or lysosomal compartments, where they may be exposed to a highly acidic environment and various proteases. This environment has a dramatic effect on the fluorescence of various fluorochromes, because of either acid sensitivity or protease sensitivity. To reduce this effect, one should include monensin throughout the stimulation period. Monensin serves to neutralize the pH of the endosomal and lysosomal compartments (Mollenhauer et al., 1990), reducing the loss of fluorescence of various fluorochromes exposed to this environment. As shown in Fig. 5, this effect is not limited only to small organic fluorochromes sensitive to pH, such as FITC and Alexa 680, but also on proteinaceous fluorochromes such as PE and APC (Roederer et al., 1987). The latter effect likely occurs because of altered trafficking of proteases within the endosomal and lysosomal compartments as a result of monensin-induced deacidification of these compartments (Chapman and Munro, 1994). As can be seen in Fig. 5, stimulation in the absence of monensin leads to the substantial loss of the fluorescent signal obtained from FITC, PE, APC, and Alexa 680–conjugated anti CD107a/b in activated cells. The inclusion of monensin also serves to prevent the secretion of various cytokines, such as IFN-γ, MIP1β, and IL-2 (Jung et al., 1993; Lee et al., 1990). It must be noted, however, that monensin does not adequately prevent the secretion of TNF-α from activated cells (O’Neil-Andersen and Lawrence, 2002). Thus, if CD107a/b expression and TNF-α production are to be monitored in CD8+ T cells, both monensin and BFA must be used in combination.
+
+\[
+\begin{array}{cccc}
+\text{A} & \text{B} & \text{C} & \text{D} \\
+\includegraphics[width=0.2\textwidth]{CD107a/b\_FITC} & \includegraphics[width=0.2\textwidth]{CD107a/b\_PE} & \includegraphics[width=0.2\textwidth]{CD107a/b\_APC} & \includegraphics[width=0.2\textwidth]{CD107a/b\_Alexa\_680} \\
+\text{CD107a/b FITC} & \text{CD107a/b PE} & \text{CD107a/b APC} & \text{CD107a/b Alexa 680} \\
+\end{array}
+\]
+
+Fig. 5 Monensin is necessary to obtain optimal staining of CD107a/b conjugated with fluorescein isothiocyanate (A), phycoerythrin (B), allophycocyanin (C), or Alexa 680 (D). Cells were stimulated with SEB in the presence of CD107a/b antibodies, with (solid line) or without (dashed line) monensin. Histograms represent the level of CD107a/b expression on CD3+/CD8+ cells that responded to SEB by IFN-γ production.

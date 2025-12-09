@@ -1,0 +1,18 @@
+Bouschita et al. BMC Immunology 2017, 18(Suppl 1):29                                                                                   Page 13 of 65
+
+Table 1 Overview of the hybrid and multiscale approaches to model the spatial dynamics of immune responses
+
+| Model                      | Phenomena                                      | Process considered                                      | Types of equations                                                                 | State variables                                                                 |
+|----------------------------|------------------------------------------------|---------------------------------------------------------|------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| Baldazzi et al. [7]        | Immune response to antigen in lymph node (500 hrs) | Clonal expansion, 3D: transport, reaction-diffusion     | Agent-based for cells, PDEs for molecules antigen, chemokines                      | DCs, B-cells, CD4\(^+\) T cells                                                 |
+| Fallahi-Sichani et al. [8] | Immune response in Tuberculosis, Granuloma (200 days) | Clonal expansion, 2D: chemotaxis, cell-to-cell interactions single-cell state regulation | Agent-based for cells, ODEs for cytokines, 2D geometry of lung tissue              | Macrophages, CD8\(^+\) T cells, Treg cells, T\(_\gamma\) cells, M. tuberculosis, TNF\(\alpha\), TNFR |
+| Gong et al. [9]            | Immune response to antigen in lymph node (550 hrs) | Clonal expansion, 3D: trafficking, cell-to-cell interactions | Agent-based for cells, anatomically based 3D geometry of lymph node                | 3 states for: DCs, CD4\(^+\) T cells, CD8\(^+\) T cells; Locations for HEVs, FRCs |
+| Prokopiou et al. [10]      | Early CD8\(^+\) T-cell response in lymph node (136 hrs) | Clonal expansion, intracellular regulation, 3D: migration, reaction-diffusion | CPM for cells, PDEs for extracellular cytokines, ODEs for intracellular factors    | APCs, T-cells, IL-2, IL-2R, Tbet, Caspase, Fas (activated, non-activated)       |
+
+feedback between production of mature CD8\(^+\) T cells and the influx of APCs.
+
+In the model, an asymmetric T cell division is considered as shown in Fig. 1. Naïve T cell entering the draining lymph node is recruited into the immune response after the contact interaction via the T cell receptor (TCR) with APC presenting the foreign antigen. The activation and prolonged contact with APC can result in asymmetry of the progeny. The position of the TCR determines the direction of cell division and the difference between the daughter cells in terms of their differentiation state. According to [23], the proximal
+
+![Image of Fig. 1]
+
+Fig. 1 Schematic representation of the model. Naïve T cells and antigen presenting cells (APC) enter the lymph node. Due to asymmetric cell division, some T cells differentiate. Mature CD8\(^+\) T cells leave the lymph node and kill infected cells. Mature CD4\(^+\) T cells produce IL-2 that influences cell survival and differentiation. APCs are shown in green, naïve T cells are white. Differentiated CD4\(^+\) T cells are yellow and CD8\(^+\) T cells are blue. Levels of yellow and blue indicate cell maturation

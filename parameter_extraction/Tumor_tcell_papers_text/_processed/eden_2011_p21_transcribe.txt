@@ -1,0 +1,42 @@
+```
+Table S6. Protein half-lives after addition of the drug paclitaxel
+
+| Gene symbol | T1/2 after paclitaxel addition (hours) |
+|-------------|----------------------------------------|
+| BAG1        | 11.5 ± 2.6                             |
+| CKS2        | 3.5 ± 1.4                              |
+| DDX5        | 16.4 ± 1.6                             |
+| H2AFV       | 39.2 ± 5.7                             |
+| LMNA        | >48 ± NA                               |
+| NASP        | >48 ± NA                               |
+| RPS7        | 2.5 ± 0.9                              |
+| VIL2        | >48 ± NA                               |
+
+Table S7. Protein half-lives during serum starvation
+
+| Gene symbol | T1/2 after starvation (hours) |
+|-------------|-------------------------------|
+| BAG1        | 12.7 ± 0.3                    |
+| CKS2        | 5.0 ± 1.2                     |
+| DDX5        | 14.9 ± 5.0                    |
+| H2AFV       | >48 ± NA                      |
+| LMNA        | 25.5 ± 3.0                    |
+| NASP        | 33.0 ± 3.5                    |
+| RPS7        | 4.6 ± 0.3                     |
+| VIL2        | 31.3 ± 5.0                    |
+
+Table S8. Protein half-lives after addition of the drug cisplatin
+
+| Gene symbol | T1/2 after cisplatin addition (hours) |
+|-------------|---------------------------------------|
+| BAG1        | 5.6 ± 0.9                             |
+| CKS2        | 0.9 ± 1.3                             |
+| DDX5        | 6.1 ± 1.4                             |
+| H2AFV       | 20.5 ± 1.6                            |
+| LMNA        | 8.0 ± 2.1                             |
+| NASP        | 15.8 ± 2.3                            |
+| RPS7        | 2.7 ± 0.2                             |
+| VIL2        | 14.5 ± 6.1                            |
+
+20
+```

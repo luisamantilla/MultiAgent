@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "```\nPLOS PATHOGENS\n\nGenerate exhausted CD8+ T cells in vitro\n\nA\n\nNo peptide     Single peptide     Repeat peptide\n\nCD160\n↑\n2.0%           3.5%               65%\n\nCD244\n↑\n6.3%           3.2%               22%\n\nPD-1\n↑\n0.6%           8.6%               99%\n\nLag3\n↑\n0.2%           0.4%               95%\n\nTim3\n↑\n0.4%           0.5%               59%\n\nTIGIT\n↑\n4.2%           6.0%               95%\n\nCD8+ →\nB\n\n% PD-1+\n0 20 40 60 80 100\n** ** **\n\n% Lag3+\n0 20 40 60 80 100\n** ** **\n\n% Tim-3+\n0 20 40 60 80 100\n**** **** ***\n\n% CD160+\n0 20 40 60 80 100\n**** **** ***\n\n% TIGIT+\n0 20 40 60 80 100\n*** ***\n\n% CD244+\n0 20 40 60 80 100\n**** ***\n\n■ No peptide\n■ Single peptide\n■ Repeat peptide\n\nC\n\nNo peptide     Single peptide     Repeat peptide\n\n% Inhibitory receptors+\n0 20 40 60 80 100\nnone single double triple quadruple\n\n0 20 40 60 80 100\nnone single double triple quadruple\n\n0 20 40 60 80 100\nnone single double triple quadruple\n\nPLOS Pathogens | https://doi.org/10.1371/journal.ppat.1008555 June 24, 2020 8 / 27\n```",
+  "model": "gpt-4o",
+  "page": 8,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 20.52,
+  "filename": "zhao_2020.pdf",
+  "doc_id": "zhao_2020"
+}

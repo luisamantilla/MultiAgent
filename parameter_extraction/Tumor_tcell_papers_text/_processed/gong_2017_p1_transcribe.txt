@@ -1,0 +1,97 @@
+```
+Downloaded from http://rsif.royalsocietypublishing.org/ on September 20, 2017
+
+INTERFACE
+
+rsif.royalsocietypublishing.org
+
+Research
+
+Cite this article: Gong C, Milberg O, Wang B,
+Vicini P, Narwal R, Roskos L, Popel AS. 2017
+A computational multiscale agent-based model
+for simulating spatio-temporal tumour
+immune response to PD1 and PDL1 inhibition.
+J. R. Soc. Interface 14: 20170320.
+http://dx.doi.org/10.1098/rsif.2017.0320
+
+Received: 23 May 2017
+Accepted: 30 August 2017
+
+Subject Category:
+Life Sciences – Mathematics interface
+
+Subject Areas:
+computational biology, systems biology
+
+Keywords:
+immuno-oncology, immunotherapy, immune
+checkpoint, systems biology, biomarker
+
+Author for correspondence:
+Chang Gong
+e-mail: cgong5@jhu.edu
+
+Electronic supplementary material is available
+online at https://dx.doi.org/10.6084/m9.
+figshare.c.3876082.
+
+A computational multiscale agent-based
+model for simulating spatio-temporal
+tumour immune response to PD1 and
+PDL1 inhibition
+
+Chang Gong1, Oleg Milberg1, Bing Wang3, Paolo Vicini4, Rajesh Narwal5,
+Lorin Roskos5 and Aleksander S. Popel1,2
+
+1
+Department of Biomedical Engineering, and 2Department of Oncology, Sidney Kimmel Comprehensive Cancer
+Center, Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA
+3
+MedImmune, Mountain View, CA, USA
+4
+MedImmune, Cambridge, UK
+5
+MedImmune, Gaithersburg, MD, USA
+
+When the immune system responds to tumour development, patterns of
+immune infiltrates emerge, highlighted by the expression of immune check-
+point-related molecules such as PDL1 on the surface of cancer cells. Such
+spatial heterogeneity carries information on intrinsic characteristics of the
+tumour lesion for individual patients, and thus is a potential source for
+biomarkers for anti-tumour therapeutics. We developed a systems biology
+multiscale agent-based model to capture the interactions between immune
+cells and cancer cells, and analysed the emergent global behaviour during
+tumour development and immunotherapy. Using this model, we are able to
+reproduce temporal dynamics of cytotoxic T cells and cancer cells during
+tumour progression, as well as three-dimensional spatial distributions of
+these cells. By varying the characteristics of the neoantigen profile of individ-
+ual patients, such as mutational burden and antigen strength, a spectrum
+of pretreatment spatial patterns of PDL1 expression is generated in our
+simulations, resembling immuno-architectures obtained via immunohisto-
+chemistry from patient biopsies. By correlating these spatial characteristics
+with in silico treatment results using immune checkpoint inhibitors, the model
+provides a framework for use to predict treatment/biomarker combinations
+in different cancer types based on cancer-specific experimental data.
+
+1. Introduction
+The immune system has been hypothesized to play an active role in detecting
+constantly arising nascent tumours from normal tissues and preventing
+cancer development. This hypothesis, later coined as immunosurveillance [1],
+is substantiated by experimental evidence, including the identification of
+tumour associated antigens [2]. Our current understanding of immunosurveil-
+lance consists of three major phases: elimination, equilibrium and escape [3].
+In the elimination phase, the immune system detects immunogenic tumours
+via mutational or abnormally expressed genes and mounts an adaptive
+immune response by mobilizing actors such as cytotoxic T lymphocytes in an
+attempt to kill the nascent transformed tumour cells [4]. However, incomplete
+elimination leads to survival of some tumour cells, which eventually acquire
+features that can help them evade the immune detection and ultimately results
+in tumour escape. One important route towards such escape is created as
+tumour cells hijack the regulatory pathways of the immune system to suppress
+its functionality.
+
+© 2017 The Authors. Published by the Royal Society under the terms of the Creative Commons Attribution
+License http://creativecommons.org/licenses/by/4.0/, which permits unrestricted use, provided the original
+author and source are credited.
+```

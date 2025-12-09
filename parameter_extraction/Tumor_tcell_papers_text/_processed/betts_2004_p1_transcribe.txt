@@ -1,0 +1,45 @@
+```
+────────────────────────────────────────────────────────────────────────
+
+CHAPTER 20
+
+Detection of T-Cell Degranulation:
+CD107a and b
+
+Michael R. Betts and Richard A. Koup
+Immunology Laboratory
+Vaccine Research Center
+National Institute of Allergy and Infectious Diseases
+National Institutes of Health
+Bethesda, Maryland 20892
+
+────────────────────────────────────────────────────────────────────────
+
+I. Introduction: Methods to Assess CD8⁺ T-Cell Function
+II. Materials and Methods
+   A. Materials
+   B. Initial Assays Setup: Titration of CD107 Antibodies
+   C. Antigen-Specific CD8⁺ T-Cell Degranulation
+III. Results
+IV. Critical Aspects
+   A. Trafficking of CD107a and b
+   B. Monensin Requirement
+   C. Background Expression of CD107a and b
+V. Applications
+References
+
+────────────────────────────────────────────────────────────────────────
+
+I. Introduction: Methods to Assess CD8⁺ T-Cell Function
+
+T lymphocyte–mediated cytotoxicity has historically been examined using the 
+⁵¹Cr release assay, wherein antigen-expressing radioactively labeled target cells are 
+recognized and killed by specific T cells (Brunner et al., 1968). Though cumber- 
+some, these assays directly assessed perhaps the most critical function of cytolytic 
+T cells: the ability to kill target cells. Unfortunately, these assays tend to be 
+nonquantitative and insensitive; and no information is gained about the number 
+or more importantly the identity of the effector T cells.
+
+METHODS IN CELL BIOLOGY, VOL. 75 497
+0091-679X/04 $35.00
+```

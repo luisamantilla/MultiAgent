@@ -1,0 +1,92 @@
+```plaintext
+Merritt et al                                                                                     General Thoracic Surgery
+
+Augmenting major histocompatibility complex class I 
+expression by murine tumors in vivo enhances antitumor 
+immunity induced by an active immunotherapy strategy
+
+Robert E. Merritt, MD
+Reiko E. Yamada, BA
+Ronald G. Crystal, MD
+Robert J. Korst, MD
+
+Objective: Tumors down-regulate major histocompatibility complex class I expres-
+sion, escaping recognition by the cellular immune response. We hypothesized that
+augmentation of tumor cell class I expression by interferon-gamma would enhance
+the cellular antitumor immune response and cure rate of an active immunotherapy
+strategy.
+
+Methods: B16.F10 tumor cells were exposed to interferon-gamma in culture, and
+class I expression was quantified using flow cytometry. Syngeneic mice bearing
+established tumors were injected with interferon-gamma (5000 U, intraperitoneal),
+and class I expression was assessed using immunohistochemistry. Tumor-specific
+cytotoxic T lymphocytes were induced in mice by an intratumoral injection of
+AdCD40L (5 x 10^10 particles), an adenovirus gene transfer vector-based immuno-
+therapy strategy previously demonstrated to augment cellular antitumor immunity.
+A conjugate-formation assay and the enzyme-linked immunospot assay were used to
+evaluate the binding and activation of cytotoxic T lymphocytes, respectively.
+Interferon-gamma was administered to tumor-bearing mice concomitantly with
+intratumoral AdCD40L. End points measured included the frequencies of cytotoxic
+T lymphocytes using the enzyme-linked immunospot assay, tumor size, and mouse
+survival. The role of class I expression was further evaluated by monoclonal
+antibody blockade in both in vitro and in vivo experiments.
+
+Results: B16.F10 cells exposed to interferon-gamma expressed significantly more
+class I, both in vitro and in vivo, and were able to bind to and activate cytotoxic T
+lymphocytes more efficiently than untreated cells. Cytotoxic T-lymphocyte frequen-
+cies, tumor regression, and the cure rate induced by AdCD40L were augmented by
+the addition of a single dose of interferon-gamma in tumor-bearing mice. These in
+vitro and in vivo effects of interferon-gamma were attenuated by class I monoclonal
+antibody blockade.
+
+Conclusions: Up-regulation of class I expression using interferon-gamma enhances
+the cellular antitumor immune response and cure rate of AdCD40L, an active
+immunotherapy strategy. This approach may be useful for human tumors that lack
+class I expression.
+
+From the Department of Cardiothoracic
+Surgery, Weill Medical College of Cornell
+University, New York, NY.
+
+These studies were supported, in part, by
+the Will Rogers Memorial Fund, Los An-
+geles, Calif; Gen Vec, Inc., Gaithersburg,
+Md; and grants from The Thoracic Surgery
+Foundation for Research and Education
+(R.J.K.) and the American Lung Associa-
+tion (R.J.K.).
+
+Read at the Eighty-third Annual Meeting of
+The American Association for Thoracic
+Surgery, Boston, Mass, May 4-7, 2003.
+
+Received for publication May 1, 2003; re-
+visions requested July 16, 2003; accepted
+for publication Sept 17, 2003.
+
+Address for reprints: Robert J. Korst, MD,
+Assistant Professor of Cardiothoracic Sur-
+gery, Weill Medical College of Cornell
+University, Department of Cardiothoracic
+Surgery, M404, 525 East 68th Street, Box
+110, New York, NY 10021 (E-mail:
+rjk2002@med.cornell.edu).
+
+J Thorac Cardiovasc Surg 2004;127:355-64
+0022-5223/$30.00
+
+Copyright © 2004 by The American Associa-
+tion for Thoracic Surgery
+doi:10.1016/j.jtcvs.2003.09.007
+
+The major histocompatibility complex (MHC) represents a collection
+of genes encoding proteins that are integral in distinguishing be-
+tween self and nonself by the immune system.1-3 Class I MHC
+molecules are glycoproteins expressed ubiquitously by most nucle-
+ated cells and have been shown to be necessary for the presentation
+of antigens manufactured by these cells to naive CD8+ T lympho-
+cytes.1-3 As such, class I molecules are thought to play a vital role in cell-mediated
+immunity against virally infected cells as well as tumors.3 One mechanism by which
+
+The Journal of Thoracic and Cardiovascular Surgery • Volume 127, Number 2  355
+```

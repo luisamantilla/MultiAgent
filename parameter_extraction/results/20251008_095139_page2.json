@@ -1,0 +1,44 @@
+{
+  "tables": [],
+  "figures": [
+    {
+      "parameter": "Lag3+",
+      "value": "0, 20, 40, 60, 80, 100",
+      "units": "percent",
+      "context": "Percentage distribution"
+    },
+    {
+      "parameter": "Tim-3+",
+      "value": "0, 20, 40, 60, 80, 100",
+      "units": "percent",
+      "context": "Percentage distribution"
+    },
+    {
+      "parameter": "CD160+",
+      "value": "0, 20, 40, 60, 80, 100",
+      "units": "percent",
+      "context": "Percentage distribution"
+    },
+    {
+      "parameter": "TIGIT+",
+      "value": "0, 20, 40, 60, 80, 100",
+      "units": "percent",
+      "context": "Percentage distribution"
+    },
+    {
+      "parameter": "CD244+",
+      "value": "0, 20, 40, 60, 80, 100",
+      "units": "percent",
+      "context": "Percentage distribution"
+    },
+    {
+      "parameter": "Inhibitory receptors+",
+      "value": "0, 20, 40, 60, 80, 100",
+      "units": "percent",
+      "context": "Percentage distribution"
+    }
+  ],
+  "text": [],
+  "equations": [],
+  "summary": "The page presents percentage distributions for various immune markers such as Lag3+, Tim-3+, CD160+, TIGIT+, and CD244+. Each marker is shown with values ranging from 0 to 100 percent. The data is likely related to the expression levels of these markers under different conditions, such as no peptide, single peptide, and repeat peptide exposure. The context suggests a focus on inhibitory receptor expression in immune cells."
+}

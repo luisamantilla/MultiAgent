@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "```plaintext\nNATURE CANCER                                                                                      ARTICLES\n\na\n\nAg Ag+\n\n100 μm\n\nb\n\nDistance from nearest Ag+ cell (μm)\n\n3000\n2500\n2000\n1500\n1000\n500\n0\n\nc\n\nPercentage of Ag IGS cells in distance from nearest Ag+ cell\n\n100\n75\n50\n25\n0\n\n0-25  75-100  150-175  225-250  300-325  375-400  450-475  525-550  625-650\n      25-50   100-125  175-200  250-275  325-350  400-425  475-500  550-575\n             125-150  200-225  275-300  350-375  425-450  500-525  575-600\n                                                                      600-625\n\nDistance (μm)\n\nExtended Data Fig. 3 | Distance from Ag- IGS cells to the nearest Ag+ cell upon tumor cell co-injection. Analysis of the distance between Ag- IGS tumor \ncells and the nearest Ag+ tumor cell for the imaging experiments depicted in Fig. 3. a, Representative image of a tumor with intermingled Ag- and Ag+IGS cells. \nScale bar is 100 μm. b, Plots show the min., max., and mean of 25th and 75th percentile plus the median for n=4 mice. c, Percentage of Ag IGS reporter cells \nin the indicated distance bins to the nearest Ag+ cell, depicted mean plus SD for n=4 mice. Data obtained from three independent experiments.\n\nNATURE CANCER | www.nature.com/natcancer\n```",
+  "model": "gpt-4o",
+  "page": 15,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 16.89,
+  "filename": "hoekstra_2020.pdf",
+  "doc_id": "hoekstra_2020"
+}

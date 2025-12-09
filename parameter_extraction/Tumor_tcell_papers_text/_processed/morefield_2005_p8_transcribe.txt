@@ -1,0 +1,71 @@
+tion by antigen presenting cells will likely depend on the rate  
+of elution of antigen following administration. This model of  
+antigen internalization is consistent with Chang et al.’s con-  
+clusion [4] that the degree of adsorption in interstitial fluid  
+rather than the degree of adsorption in the vaccine correlates  
+with antibody production.  
+
+References  
+
+[1] Glenny A, Pope C, Waddington H, Wallace U. The antigenic  
+value of toxoid precipitated by potassium alum. J Pathol Bacteriol  
+1926;29:38–45.  
+[2] World Health Organization, Immunological adjuvants. World Health  
+Organization Technical Report Series No. 595. Geneva: World Health  
+Organization;1976:6–8.  
+[3] Shi Y, HogenEsch H, Hem SL. Change in the degree of adsorption  
+of proteins by aluminum-containing adjuvants following exposure to  
+interstitial fluid: freshly prepared and aged model vaccines. Vaccine  
+2002;20:80–5.  
+[4] Chang M-F, Shi Y, Nail SL, HogenEsch H, Adams SB, White JL,  
+et al. Degree of antigen adsorption in the vaccine or interstitial  
+fluid and its effect on the antibody response in rabbits. Vaccine  
+2001;19:2884–9.  
+[5] Iyer S, HogenEsch H, Hem SL. Relationship between the degree  
+of antigen adsorption to aluminum hydroxide adjuvant in interstitial  
+fluid and antibody production. Vaccine 2003;21:1219–23.  
+[6] Vogel FR, Hem SL. In: Plotkin SA, Orenstein WD, editors. Vaccines.  
+Philadelphia: Saunders; 2003. p. 74–6.  
+[7] White JL, Hem SL. In: Powell MF, Newman MJ, editors. Vaccine  
+design. New York: Plenum Press; 1995. p. 165–82.  
+[8] Iyer S, Robinett RS, HogenEsch H, Hem SL. Mechanism of ad-  
+sorption of hepatitis B surface antigen by aluminum hydroxide ad-  
+juvant. Vaccine 2004;22:1475–9.  
+[9] Banchereau J, Steinman R. Dendritic cells and the control of immu-  
+nity. Nature 1998;392:245–52.  
+
+[10] Lotze M, Thomson A. Dendritic cells. 2nd ed. San Diego, CA:  
+Academic; 2001. pp. 213–29.  
+[11] Inaba K, Inaba M, Naito M, Steinman R. Dendritic cell progenitors  
+phagocytose particulates including Bacillus Calmette-Guerin organ-  
+isms, and sensitize mice to mycobacterial antigens in vivo. J Exp  
+Med 1993;178:479–88.  
+[12] Moll H, Fuchs H, Blank C, Rollinghoff M. Langerhans cells trans-  
+port Leishmania major from the infected skin to the draining lymph  
+node for presentation to antigen specific T-cells. Eur J Immunol  
+1993;23:1595–601.  
+[13] Svensson M, Stockinger B, Wick M. Bone marrow-derived dendritic  
+cells can process bacteria for MHC-I and MHC-II presentation to  
+T-cells. J Immunol 1997;158:4229–36.  
+[14] Brown E. Phagocytosis. Bioassays 1995;17:109–17.  
+[15] Jendrek S, Little SF, Hem S, Mitra G, Giardina S. Evalua-  
+tion of the compatibility of a second generation recombinant an-  
+thrax vaccine with aluminum-containing adjuvants. Vaccine 2003;21:  
+3011–8.  
+[16] Amide reactive probes. Molecular probes product information. OR:  
+Eugene; 2002.  
+[17] Rinella JV, White JL, Hem SL. Effect of pH on the elution of  
+model antigens from aluminum-containing adjuvants. J Colloid In-  
+terface Sci 1998;205:161–5.  
+[18] Mercier J-C, Grosclaude F, Ribadeau-Dumas B. Structure primaire  
+de la casein a-s1-bovine. Eur J Biochem 1971;23:41–51.  
+[19] Iyer S, HogenEsch H, Hem SL. Effect of the degree of phos-  
+phate substitution in aluminum hydroxide adjuvant on the ad-  
+sorption of phosphorylated proteins. Vaccine 2003;21:  
+81–6.  
+[20] Shirodkar S, Hutchinson R, Perry V, White J, Hem S. Al-  
+teration of the surface charge characteristics of aluminum and alu-  
+minum hydroxide adjuvant. J Pharm Sci 2002;91:1702–6.  
+[21] Morefield G, HogenEsch H, Robinson JP, Hem SL. Distribution of  
+adsorbed antigen in mono-valent and combination vaccines. Vaccine  
+2004;22:1973–84.

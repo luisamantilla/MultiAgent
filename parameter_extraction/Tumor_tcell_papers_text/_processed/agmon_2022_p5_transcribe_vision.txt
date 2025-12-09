@@ -1,0 +1,44 @@
+```
+1976                                                                                                     E. Agmon et al.
+
+expected units, reference frames, name spaces, data formats and
+other representations. Adaptor processes required for integrating the
+Bioscrape and COBRA processes with the lattice composite include
+processes ‘local field’, ‘mass step’, ‘volume step’ and ‘flux adaptor’
+(described below).
+
+3.2 Model integration and simulation results
+The final composite model topology is shown in Figure 3a. The
+COBRA process’s metabolism and Bioscrape process’s gene expres-
+sion and transport are coupled through a ‘flux bounds’ store, with
+the Bioscrape process setting uptake rates with the flux adaptor
+
+(a)
+
+[Diagram showing hierarchy and topology of the full composite model]
+
+(b)
+
+1 agent          12 agents          25 agents          43 agents
+
+(c)
+
+[Graphs showing external glucose concentrations (mmol)]
+
+(d)
+
+[Graphs showing lac operon mRNA (counts), β-galactosidase (counts), and total colony mass (fg)]
+
+(e)
+
+lactose permease (counts)          glucose flux (mmol/L/s)          lactose flux (mmol/L/s)          growth rate (fg/s)
+
+[Graphs showing various cell states]
+
+Fig. 3. The full, integrated, stochastic version of the model in the Lattice environment. (a) Hierarchy and topology of the full composite model. The processes and stores are col-
+ored by paradigm, with orange nodes associated with COBRA, green nodes associated with Bioscrape, light blue with division, dark blue with multicell physics and chemical
+diffusion in the environment, and brown nodes associated with the boundary between cell and environment. Main processes are highlighted with a thicker outline. (b)
+Snapshots of the colony throughout a simulation. Cells colored according to phylogeny with similar colors indicating more closely related cells. (c) The external lactose and
+glucose concentration fields over the course of the simulation. (d) Multigenerational timeseries, with variables from all cells shown over time. These colors correspond to the
+phylogeny colors of (b). (e) Snapshots of the final simulation state (12.0 h), with various cell states tagged
+```

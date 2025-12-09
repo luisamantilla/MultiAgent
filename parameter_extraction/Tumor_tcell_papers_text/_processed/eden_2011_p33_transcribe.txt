@@ -1,0 +1,30 @@
+Figure S5.
+
+A
+
+\[
+\begin{array}{l}
+\text{T}_{1/2} \, (0 - 24 \, \text{hours after drug addition}) \\
+\text{T}_{1/2} \, (24 - 48 \, \text{hours after drug addition})
+\end{array}
+\]
+
+\[
+\begin{array}{cccccccccc}
+\text{CKS2} & \textbf{RPL22} & \text{RPA2} & \text{DDX18} & \text{VIL2} & \text{CALM2} & \text{VCL} & \text{K-Alpha-1} & \text{H2AFV} & \text{NASP} \\
+\end{array}
+\]
+
+>50
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0

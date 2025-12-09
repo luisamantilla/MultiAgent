@@ -1,0 +1,34 @@
+```plaintext
+El Darzi et al.                                                                                                           5
+
+CD54                                      CD95                                      CD119
+
+Isotype
+
+Unstim
+
+IFN-γ
+
+IL-4
+
+TNF-α
+
+MDP
+
+Figure 1. Representative flow cytometry histogram plots displaying changes in the expression of CD54, CD95, and CD119 on 
+HaCaT cells 48h post-stimulation, with cytokines or MDP. 
+Unstim: unstimulated.
+
+TNF-α, and MDP did not trigger a significant vari-
+ation (Figure 2). The level of expression of CD49d
+began to decrease in response to stimulation with
+IL-4 at 24 h with a 1.5-fold decrease eventually
+leading to a complete loss of its expression at 72 h.
+In contrast, the expression of ICAM-1 on HaCaT
+cells increased in response to stimulation with
+IFN-γ or TNF-α at all four time points tested, with
+IFN-γ being the more potent inducer. A maximum
+increase in ICAM-1 expression was achieved at
+48-h stimulation with IFN-γ or TNF-α (*P<0.05).
+However, while IFN-γ led to a staggering 58-fold
+```

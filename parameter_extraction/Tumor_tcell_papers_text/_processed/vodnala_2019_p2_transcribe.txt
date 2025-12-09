@@ -1,0 +1,147 @@
+```markdown
+RESEARCH
+
+RESEARCH ARTICLE
+
+IMMUNOMETABOLISM
+
+T cell stemness and dysfunction in tumors are triggered by a common mechanism
+
+Suman Kumar Vodnala1,2*, Robert Eil1,2,3*, Rigel J. Kishton1,2, Madhusudhanan Sukumar1,2, 
+Tori N. Yamamoto1,2,4, Ngoc-Han Ha5, Ping-Hsien Lee1,2, MinLiwa Shin5†, 
+Shashank J. Patel1,2‡, Zhiya Yu2, Douglas C. Palmer1,2, Michael J. Kruhlak6, Xiaoqing Liu7, 
+Jason W. Locasale8, Jing Huang6, Rahul Roychoudhuri5, Toren Finkel9, 
+Christopher A. Klebanoff10,11,12,13, Nicholas P. Restifo1,2§
+
+A paradox of tumor immunology is that tumor-infiltrating lymphocytes are dysfunctional 
+in situ, yet are capable of stem cell–like behavior including self-renewal, expansion, and 
+multipotency, resulting in the eradication of large metastatic tumors. We find that the 
+overabundance of potassium in the tumor microenvironment underlies this dichotomy, 
+triggering suppression of T cell effector function while preserving stemness. High levels of 
+extracellular potassium constrain T cell effector programs by limiting nutrient uptake, 
+thereby inducing autophagy and reduction of histone acetylation at effector and 
+exhaustion loci, which in turn produces CD8+ T cells with improved in vivo persistence, 
+multipotency, and tumor clearance. This mechanistic knowledge advances our 
+understanding of T cell dysfunction and may lead to novel approaches that enable the 
+development of enhanced T cell strategies for cancer immunotherapy.
+
+Tumor-infiltrating lymphocytes (TILs) are 
+dysfunctional and can be frequently ob- 
+served in a state of exhaustion in growing 
+tumor cells. Nonetheless, these T cells of some 
+patients maintain the capacity to be reinvigo- 
+rated by immunotherapy and mediate the 
+destruction of large tumor deposits (1). This is best 
+illustrated by immunotherapy using a T cell– 
+checkpoint blockade or adoptive cell transfer 
+(ACT), which has emerged as one of the 
+most important advances in cancer treatment 
+in the past decade (2–5).
+
+The existence of stem cell systems in mature 
+organisms is now well established (6, 7), yet it has 
+been less appreciated that some post-thymic 
+T cells also harbor stem cell–like properties. 
+However, like other adult stem cells in the gut, 
+skin, and, most likely, other tissues, TIL-like T cells 
+do not function like highly differentiated TILs 
+progenitors with regard to the production of ef- 
+fector cytokines and cytotoxicity (8–10). Each 
+T cell specificity (clone) can retain key hall- 
+marks of stem cells such as self-renewal, prolifera- 
+tion, and multipotency. For example, TILs can 
+be expanded ex vivo (11, 12) and readministered 
+to cancer patients, resulting in clonal re- 
+population and cure of disease, even of large 
+metastatic tumor deposits (3, 8). Two other teams 
+have previously identified the transcription factor 
+Tcf7 as being critically involved in the retention 
+of stem cell–like attributes in antigen-experienced 
+T cells (9, 11). Although TILs have historically 
+been thought to be terminally differentiated, Tcf7 
+expression has defined a TIL subset harboring 
+stem cell–like properties (8, 9, 11). However, 
+the mechanisms that maintain this TCF7-positive 
+TIL population are minimally understood. 
+The differentiation of many T cells to memory 
+and effector states is largely driven by the strength 
+of the signals they receive, primarily via the T cell 
+receptor (TCR). This maturation process can be 
+subverted by many inhibitory signals that disrupt 
+the signaling cascade after TCR ligation. The 
+progression of T cell differentiation toward full 
+effector function is metabolically driven in part 
+by a metabolic program involving Akt-mTOR 
+(mammalian target of rapamycin) signaling and 
+heritable changes to the epigenetic landscape 
+(16–18). This anabolic metabolism requires the 
+continual uptake and consumption of extracel- 
+lular nutrients, facilitated by a transmembrane 
+electrochemical gradient present in all living 
+cells (19). Maintenance of this electrochemical 
+gradient involves the movement cation potas- 
+sium, which has an intracellular concentration 
+of ~145 mM, much higher than normally found 
+in the extracellular space (~5 mM).
+
+Despite tumor cell death, a higher density of 
+necrosis is inversely correlated with patient sur- 
+vival in some tumor histologies (20, 21). We pre- 
+viously reported that necrosis leads to a profound 
+alteration of the potassium ion gradient within 
+the tumor microenvironment (TME) (22). Cellular 
+necrosis liberates potassium and other intra- 
+cellular contents into the extracellular space, which 
+contains the tumor interstitial fluid (TIF). Dis- 
+rupted tumor vasculature and abnormal lymphatic 
+drainage lead to TIF stasis, causing tumors to be 
+deprived of oxygen and crucial extracellular nu- 
+trients, whereas the concentration of TIF potassium 
+remains elevated. The increased extracellular 
+potassium of the TIF acutely suppresses T cell 
+effector function after TCR ligation, limiting T cell 
+activation in a nonredundant manner to both 
+PD-L1 and CTLA-4 immune checkpoints (22). Yet 
+the impact of high levels of extracellular potassium 
+([K+]e) on nutrient uptake, metabolism, epigenetics, 
+and cellular differentiation has not been explored.
+
+Here, we report experiments in which [K+]e 
+was elevated in vitro and in vivo. Although 
+nutrients despite adequate extracellular resources, 
+we observed that the elevation of [K+]e in the 
+extracellular space led to suppression of T cell 
+starvation responses, leading to autophagy, which 
+drove both metabolic and epigenetic reprogramming, 
+thereby limiting the acquisition of effector func- 
+tions and preserving Tcf7 and stemness. 
+This epigenetic reprogramming was mediated by 
+the depletion of nucleocytosolic acetyl-coenzyme 
+A (AcCoA), which is available in AcCoA-de- 
+creased histone acetylation, which in turn limited 
+the activation of effector genes. Thus, we find that 
+[K+]e characteristic of the TME attenuates AcCoA 
+processing, generating antitumor T cells with 
+enhanced persistence, engagement, self-renewal, 
+multipotency, and tumor clearance—all charac- 
+teristics of T cell stemness (23). These data help 
+to resolve the current immunotherapy paradox 
+as to why cancers progress despite the presence 
+of T cells that harbor the capacity for rejuvena- 
+tion and tumor eradication.
+
+Elevated [K+]e triggers functional caloric 
+restriction in T cells
+
+We previously reported that [K+]e is character- 
+istic of the TME (an additional 40 mM on 
+average) and acutely stifles T cell effector func- 
+tion (22), but the impact of [K+]e on the trans- 
+membrane electrochemical gradient and its 
+consequences in cell nutrient uptake and 
+cellular metabolism remain unclear. We per- 
+formed comprehensive metabolite analysis using 
+liquid chromatography and mass spectrometry
+
+Vodnala et al., Science 363, eaau0135 (2019) 29 March 2019 1 of 12
+```

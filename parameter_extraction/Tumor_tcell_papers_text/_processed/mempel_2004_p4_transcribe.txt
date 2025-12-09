@@ -1,0 +1,172 @@
+```plaintext
+letters to nature
+
+(Fig. 3f, g). Thus, the brief interactions with DCs were sufficient 
+for T-cell activation, at least at the level of these early activation 
+markers. However, the interleukin (IL)-2 receptor, CD25, was only 
+marginally increased, and isolated LN T cells did not spontaneously 
+produce IL-2 or interferon (IFN)-γ after 8 h (not shown). Even 
+when T cells were restimulated for 3 h, few cells secreted cytokines, 
+and only at low levels (Fig. 3h).
+
+Phase two lasted from about 8 h until about 24 h after T-cell 
+transfer. This phase was dominated by T-cell–DC conjugates that 
+remained stable for more than 1 h. The low T-cell velocities during 
+this stage (Fig. 2g) reflect, in part, the slow migration of DCs 
+that dragged interacting T cells along with them (Supplementary 
+Information 10). Thus, active T-cell migration was even more 
+depressed than was indicated by velocity measurements. Many T
+
+a
+
+02:41:00  02:41:30  02:44:00  02:46:15  02:48:00  02:49:30  02:50:45  02:53:45  03:01:00  03:02:15
+
+DC4
+
+DC2  DC3
+
+DC1
+
+10:38:00  10:40:00  10:44:00  10:47:30  10:54:00  10:59:30  11:00:00  11:12:45  11:18:00  11:27:30
+
+b
+
+P<0.05  P<0.001  P<0.01  P<0.001
+
+60
+
+50
+
+40
+
+Contact time (min)
+
+30
+
+20
+
+10
+
+0
+
+2–4 h  5–8 h  8–12 h  20–26 h  44–48 h
+
+Antigen
+
+c
+
+100
+
+75
+
+50
+
+25
+
+0
+
+0  10  20  30  40  50  60
+
+Conjugates (%)
+
++ antigen
+
+– antigen
+
+2–4h
+
+5–8h
+
+8–12h
+
+20–26h
+
+44–48h
+
+d
+
+30
+
+20
+
+10
+
+0
+
+0  10  20  30  40  50
+
+Time after T-cell transfer (h)
+
+Median contact 
+time (min)
+
+f
+
+2 h
+
+8 h
+
+20 h
+
+44 h
+
+CD25
+
+CD44
+
+CD69
+
+CFSE
+
+g
+
+CD25
+
+CD44
+
+CD69
+
+MFI fold increase
+
+0  10  20  30  40  50
+
+Time after T-cell transfer (h)
+
+h
+
+8 h
+
+20 h
+
+IL-2
+
+IFN-γ
+
+CFSE
+
+Figure 3 Progressive changes in T-cell–DC interaction dynamics indicate three phases of 
+antigen recognition. a, Upper row: a representative T cell (green) early after LN entry 
+interacts sequentially with four different antigen-pulsed DCs (red). Yellow dots indicate 
+tracks of the 3D centroid. Lower row: at more than 10 h after homing into the LN, two 
+T cells are stably bound to an antigen-bearing DC. The time after T-cell transfer is shown 
+in each panel. Scale bars, 20 μm. b, c, Absolute (b) and cumulative (c) contact duration 
+between T cells and DCs in the presence and absence of antigen. d, Median contact time 
+between T cells and DCs in the presence (filled circles) and absence (open circles) of 
+antigen. Asterisk, P < 0.05 compared with 2 h; dagger, P < 0.05 compared with 2, 5, 
+20 and 44 h; double dagger, P < 0.05 compared with 44 h; section sign, P < 0.05 
+
+compared with 2 and 44 h. e, Frequency of T-cell–DC contacts lasting more than 30 min 
+in the presence (filled circles) and absence (open circles) of antigen. f, Representative 
+two-colour flow cytometry plots of CD25, CD44 and CD69 expression on CFSE-labelled T 
+cells (gated on CD8+ MHC tetramer-positive) after different exposure times to antigen-
+presenting DCs. CFSE dilution indicates cell division. g, Time course of T-cell activation 
+marker expression ratio in LNs containing antigen-pulsed (filled circles) or control (open 
+circles) DCs versus contralateral LNs containing no DCs (set to 1). h, Stimulated secretion 
+of IL-2 (top) and IFNγ (bottom) by gated P14 TCR-specific MHC-tetramer-positive T cells 
+harvested from LNs containing antigen-presenting DCs at 8 h (left) or 20 h (right) after 
+T-cell transfer.
+
+NATURE | VOL 427 | 8 JANUARY 2004 | www.nature.com/nature                                                                                  157
+
+©2004 Nature Publishing Group
+```

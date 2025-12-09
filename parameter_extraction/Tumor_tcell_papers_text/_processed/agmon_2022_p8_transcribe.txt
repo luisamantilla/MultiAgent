@@ -1,0 +1,47 @@
+```plaintext
+Vivarium: an interface and engine for integrative multiscale modeling                                                                                       1979
+
+Pearson,W.R. and Lipman,D.J. (1988) Improved tools for biological sequence
+comparison. Proc. Natl. Acad. Sci. USA, 85, 2444–2448.
+Plata,R.D. (2014) Mechanistic modelling confronts the complexity of molecu-
+lar cell biology. Mol. Biol. Cell, 25, 3494–3496.
+Pool,W. et al. (2020) BioCRNpyler: compiling chemical reaction networks
+from biomolecular parts in diverse contexts. bioRxiv.
+Ravvrb, B. et al. (2021) Bayesian metamodeling of complex biological systems
+across varying representations. Proceedings of the National Academy of
+Sciences, 118(35).
+Rudge,T.J. et al. (2012) Computational modeling of synthetic microbial bio-
+films. ACS Synthetic Biol., 1, 345–352.
+Santillan,M. and Mackey,M.C. (2008) Quantitative approaches to the study of
+bistability in the lac operon of Escherichia coli. J. R. Soc. Interface, 5, S29–S39.
+Santillan,M. et al. (2007) Origin of bistability in the lac operon. Biophys. J.,
+92, 3830–3842.
+Skalnik,C.J. et al. (2021) Whole-colony modeling of Escherichia coli. bioRxiv.
+Somogyi,E.T. et al. (2015) libRoadrunner: a high performance sbml simulation
+and analysis library. Bioinformatics, 31, 3315–3321.
+Stiles,J.R. and Bartol,T.M. (2001) Monte Carlo methods for simulating micro-
+physiology using MCell. In De Schutter, E. (ed.) Computational neuroscience:
+realistic modeling for experimentalists. CRC press.
+
+Swaminathan,A. et al. (2017) Fast and Flexible Simulation and Parameter
+Estimation for Synthetic Biology Using Bioscrape. bioRxiv.
+Swat,M.H. et al. (2012) Multi-scale modeling of tissues using CompuCell3D.
+Methods Cell Biol., 110, 325–366.
+Thiele,I. et al. (2020) Personalized whole-body models integrate metabolism,
+physiology, and the gut microbiome. Mol. Syst. Biol., 16, e8982.
+Varma,A. and Palsson,B.O. (1994) Stoichiometric flux balance models quanti-
+tatively predict growth and metabolic by-product secretion in wild-type
+Escherichia coli W3110. Appl. Environ. Microbiol., 60, 3724–3731.
+Ward,A.B. et al. (2013) Integrative structural biology. Science, 339, 913–915.
+Wong,P. et al. (1997) Mathematical model of the lac operon: inducer exclu-
+sion, catabolite repression, and diauxic growth on glucose and lactose.
+Biotechnol. Progress, 13, 132–143.
+Yang,J.H. et al. (2019) A white-box machine learning approach for revealing
+antibiotic mechanisms of action. Cell, 177, 1649–1661.
+Yu,J. et al. (2016) Biomolecular interactions modulate macromolecular struc-
+ture and dynamics in antibiotic model of a bacterial cytoplasm. Elife, 5,
+e19274.
+Yuan,B. et al. (2021) CellBox: interpretable machine learning for perturbation
+biology with application to the design of cancer combination therapy. Cell
+Syst., 12, 128–140.
+```

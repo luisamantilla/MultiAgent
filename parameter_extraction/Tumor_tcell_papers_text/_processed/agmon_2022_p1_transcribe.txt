@@ -1,0 +1,70 @@
+```plaintext
+Bioinformatics, 38(7), 2022, 1972–1979
+https://doi.org/10.1093/bioinformatics/btac049
+Advance Access Publication Date: 4 February 2022
+Original Paper
+
+Systems biology
+
+Vivarium: an interface and engine for integrative multiscale modeling in computational biology
+
+Eran Agmon 1,*, Ryan K. Spangler 1, Christopher J. Skalnik 1, William Poole 2, 
+Shayn M. Peirce 3, Jerry H. Morrison 1 and Markus W. Covert 1,*
+
+1Department of Bioengineering, Stanford University, Stanford, CA 94305, USA, 2Computation and Neural Systems, California Institute of 
+Technology, Pasadena, CA 91125, USA and 3Department of Biomedical Engineering, University of Virginia, Charlottesville, VA 22903, 
+USA
+
+*To whom correspondence should be addressed.
+Associate Editor: Alfonso Valencia
+
+Received on May 1, 2021; revised on December 14, 2021; editorial decision on January 22, 2022; accepted on January 28, 2022
+
+Abstract
+Motivation: This article introduces Vivarium—software born of the idea that it should be as easy as possible for 
+computational biologists to define any imaginable mechanistic model, combine it with existing models and execute 
+them together as an integrated multiscale model. Integrative multiscale modeling confronts the complexity of biol-
+ogy by combining heterogeneous datasets and diverse modeling strategies into unified representations. These inte-
+grated models are then run to simulate how the hypothesized mechanisms operate as a whole. But building such 
+models has been a labor-intensive process that requires many contributors, and they are still primarily developed 
+on a case-by-case basis with each project starting anew. New software tools that streamline the integrative model-
+ing effort and facilitate collaboration are therefore essential for future computational biologists.
+Results: Vivarium is a software tool for building integrative multiscale models. It provides an interface that makes in-
+dividual models into modules that can be wired together in large composite models, parallelized across multiple 
+CPUs and run with Vivarium’s discrete-event simulation engine. Vivarium’s utility is demonstrated by building compos-
+ite models that combine several modeling frameworks: agent-based models, ordinary differential equations, sto-
+chastic reaction systems, constraint-based models, solid-body physics and spatial diffusion. This demonstrates just 
+the beginning of what is possible—Vivarium will be able to support future efforts that integrate many more types of 
+models and at many more biological scales.
+Availability and implementation: The specific models, simulation pipelines and notebooks developed for this article 
+are all available at the vivarium-notebooks repository: https://github.com/vivarium-collective/vivarium-notebooks. 
+Vivarium-core is available at https://github.com/vivarium-collective/vivarium-core, and has been released on Python 
+Package Index. The Vivarium Collective (https://vivarium-collective.github.io) is a repository of freely available 
+Vivarium processes and composites, including the processes used in Section 3. Supplementary Materials provide 
+them with an extensive methodology section, with several code listings that demonstrate the basic interfaces.
+Contact: agmon.eran@gmail.com or mcovert@stanford.edu
+Supplementary information: Supplementary data are available at Bioinformatics online.
+
+1 Introduction
+Our understanding of biological phenomena stands to be dramatic-
+ally improved if we can adequately represent the underlying systems, 
+mechanisms and interactions that influence their behavior over time. 
+Generating these representations, most commonly via mathematical 
+and computational modeling, is made challenging by the complex 
+nature of such systems. The most common modeling approaches 
+today are statistical, extracting meaning from observational data by 
+fitting functions such as regression, cluster analysis and neural 
+networks (Yang et al., 2019). Although these models have been suc-
+cessful at approximating correlations among observed variables, the 
+structures of the models are not easily interpretable, making it diffi-
+cult to determine biological mechanisms. In contrast, mechanistic 
+models are designed to reproduce observed data by representing 
+causality (Pahari, 2014). Thus, the mathematical form and parame-
+ters of mechanistic models are testable hypotheses about the 
+system’s underlying interactions. In other words, mechanistic 
+models can provide unique insights that can gather more evidence 
+
+© The Author(s) 2022. Published by Oxford University Press. All rights reserved. For permissions, please e-mail: journals.permissions@oup.com
+
+1972
+```

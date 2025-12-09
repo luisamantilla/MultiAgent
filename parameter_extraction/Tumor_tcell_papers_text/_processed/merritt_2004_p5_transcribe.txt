@@ -1,0 +1,82 @@
+```
+Merritt et al                                                                                           General Thoracic Surgery
+
+![GTS]
+
+![A.] ![B.] ![C.]
+
+Figure 2. Intraperitoneal administration of rmIFNγ enhances the expression of H-2Kb MHC class I by established
+B16.F10 flank tumors. B16.F10 tumors were established in C57BL/6 mice and rmIFNγ (5000 U) was injected as a
+single IP dose. The tumors were resected 24 or 48 hours after rmIFNγ administration and evaluated using
+immunohistochemistry. The dark brown surface membrane staining represents MHC class I expression. A,
+Twenty-four hours after rmIFNγ treatment. B, Forty-eight hours after rmIFNγ treatment. C, Tumor from an untreated
+mouse.
+
+naive, tumor-free mice (Figure 4, D), regardless of the target
+cell type.
+
+The Addition of a Single Dose of rmIFNγ to an Active
+Immunotherapy Strategy Enhances Cytotoxic T-
+Lymphocyte Generation in the Tumor-Bearing Host
+Because MHC class I expression plays an integral role in
+the presentation of tumor antigens to naive T lymphocytes,
+we sought to determine whether up-regulating MHC class I
+expression by established tumors in vivo (using rmIFNγ)
+would result in enhanced generation of tumor-specific CTLs
+when combined with an active immunotherapy strategy. To
+investigate this, B16.F10 tumor-bearing mice were either
+treated with intratumoral AdCD40L or AdNull or left un-
+treated. A similar experiment was simultaneously con-
+ducted with the same groups, except that a single IP dose of
+rmIFNγ was administered (5000 U). LLC cells served as
+control target cells. The relative frequency of CTLs was
+then assessed using the ELISPOT assay. Significantly
+greater frequencies of activated tumor-specific CTLs were
+obtained from the spleens of mice that had received both
+AdCD40L and rmIFNγ when compared with AdCD40L
+alone (Figure 5; P = .000004) or any other treatment group.
+In addition, minimal CTL generation was observed in any
+group when LLC cells were used as targets (not shown).
+
+The Addition of a Single Dose of rmIFNγ Enhances
+the Antitumor Activity and Cure Rate of AdCD40L
+To determine whether the addition of a single dose of
+rmIFNγ would augment the antitumor properties of
+AdCD40L in vivo, B16.F10 tumor-bearing mice were given
+intratumoral AdCD40L as well as IP rmIFNγ (5000 U)
+concomitantly. Additional groups of mice were treated with
+intratumoral PBS, AdNull, AdNull with IP rmIFNγ, or IP
+rmIFNγ alone. Tumor regression was more pronounced in
+the mice receiving AdCD40L and rmIFNγ compared with
+mice receiving AdCD40L alone (Figure 6, A; P = .004),
+AdNull (P = .001), rmIFNγ alone (P = .0004), AdNull
+with IFNγ (P = .001), or PBS (P = .0000004). In addition,
+the cure rate observed with the combination of AdCD40L
+and rmIFNγ was superior to that of any other group (Figure
+6, B; P = .01 vs AdCD40L alone; P = .008 vs AdNull; P
+= .0017 vs AdNull plus rmIFNγ; P = .0017 vs rmIFNγ
+alone; P = .0018 vs PBS).
+
+Blockade of MHC Class I in Vivo Attenuates the
+Synergistic Effect of rmIFNγ on the Antitumor
+Activity and CTL Generation Induced by AdCD40L
+To dissect the role of enhanced MHC class I expression in
+the synergistic effect of rmIFNγ on tumor regression and
+CTL generation induced by AdCD40L, 3 successive intra-
+tumoral injections of MHC class I MAb were administered.
+The extent of tumor regression was significantly greater in
+mice treated with AdCD40L and rmIFNγ compared with
+mice receiving AdCD40L, IFNγ, and MHC class I MAb
+(Figure 7, A; P = .007) or PBS alone (Figure 7, A; P =
+.00001). This effect persisted for 6 days after the initial
+intratumoral injection of MHC class I MAb, after which
+time regression rates became similar between the 2 groups
+receiving AdCD40L. In addition, the enhanced CTL gener-
+ation afforded by rmIFNγ was significantly diminished in
+the animals that received MAb blockade (Figure 7, B; P =
+.016, AdCD40L, rmIFNγ vs AdCD40L, rmIFNγ plus anti-
+class I MAb). Finally, minimal stimulation was observed in
+any group when LLC cells were used as targets (not shown).
+
+The Journal of Thoracic and Cardiovascular Surgery • Volume 127, Number 2 359
+```

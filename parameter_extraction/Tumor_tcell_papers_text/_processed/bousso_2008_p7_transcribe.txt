@@ -1,0 +1,150 @@
+RE VIEWS
+
+of the TCR for the antigen. When this probability is 
+low, T cells engage in numerous unsuccessful attempts 
+before arresting on a DC. Because T cells that arrest 
+following antigen recognition initiate a contact that will 
+last for hours, stable contacts are expected to progres-
+sively accumulate until they become the dominant type 
+of interactions.
+
+These three models are not mutually exclusive and it 
+is likely that both simple probabilistic considerations and 
+intrinsic changes at the level of T cells and DCs account 
+for changes in contact dynamics over time. However, in 
+all cases, T-cell arrest on DCs occurs preferentially under 
+optimal conditions of antigen recognition, and the vari-
+ous sequences of T-cell–DC contacts might reflect the 
+ability of T cells to choose the best partner to establish a 
+prolonged interaction and to avoid being ‘distracted’ by 
+DCs that will not provide enough stimulation.
+
+Molecular regulation of T-cell arrest
+What is the molecular basis of the formation of stable 
+versus transient T-cell–DC contacts? The amount 
+and the quality of peptide–MHC ligands largely con-
+tributes to determining the nature of these contacts. 
+Increasing the number of peptide–MHC complexes 
+on each DC favours the occurrence of stable inter-
+actions with antigen-specific T cells48, and it has been 
+estimated that stable contacts can be formed with DCs 
+that present approximately 100 peptide–MHC com-
+plexes49. One report classified a set of altered-peptide 
+ligands based on their ability to stimulate CD4+ 
+T cells, and found that high- but not low-potency 
+ligands induced T-cell arrest50. Adhesion molecules, 
+such as intercellular adhesion molecule 1 (ICAM1), 
+can also be crucial for T-cell arrest on DCs following 
+antigen recognition. Indeed, antigen-specific CD8+ 
+T-cell arrest that was observed following the immuni-
+zation of wild-type mice with anti-DEC-205 OVA and 
+CD40-specific antibody was lost in ICAM1-deficient 
+recipient51. Whether variations in ICAM1 expression 
+levels in wild-type mice dictate changes in T-cell–DC 
+contact dynamics remains to be elucidated. Conversely, 
+the expression of cytotoxic T-lymphocyte antigen 4 
+(CTLA4) by T cells, a co-receptor that profoundly 
+downmodulates T-cell activation, can override T-cell 
+arrest following antigen recognition50. 
+Not surprisingly, intracellular signalling molecules 
+also participate in the regulation of T-cell–DC contact 
+stability. Recent results suggested that protein kinase θ 
+(PKCθ) favours the occurrence of dynamic and short-
+lived interactions between naive T cells and DCs51. 
+This study showed that, during antigen recognition by 
+T cells on lipid bilayers, PKCθ promotes the periodic 
+destabilization of the immunological synapse, which 
+was associated with bursts of T-cell motility. In addition, 
+PKCθ-deficient CD4+ T cells displayed an increased ten-
+dency to adhere on APCs in vivo following intravenous 
+injection of the cognate antigenic peptide. On the other 
+hand, the Wiskott–Aldrich syndrome protein (WASP), 
+which is an actin regulator, was found to be essential 
+for re-establishing stable synapses in vitro after these 
+periodic destabilizations51.
+
+a DC maturation model
+
+T cell
+
+STOP
+
+DC maturation
+
+DC
+
+Time
+
+b T-cell signal integration model
+
+T cell
+
+STOP
+
+T-cell signal 
+integration
+
+DC
+
+Time
+
+c Probabilistic model
+
+T cell
+
+STOP
+
+STOP
+
+DC
+
+T cell
+
+DC
+
+Time
+
+Figure 3 | Models for the gradual accumulation of stable T-cell–DC interactions 
+over time. a | In this model, the maturation state of the dendritic cell (DC) dictates T-cell 
+arrest. Over time, DCs gain the ability to establish long-lived interactions with T cells. 
+b | T cells sum signals that are received during initial transient contacts with DCs. Once 
+a threshold of received signals is reached, T cells gain the ability to establish stable 
+interactions with DCs. c | At each encounter, T-cell arrest on a DC has a certain 
+probability of occurring, which is determined by the overall signal strength. Also, in this 
+model, long-lived T-cell–DC interactions are expected to accumulate over time.
+
+Wiskott–Aldrich syndrome 
+protein
+(WASP). WASP is an actin 
+regulator that is involved in the 
+formation of the immunological 
+synapse. Mutations in WASP 
+cause a life-threatening X-linked 
+immunodeficiency that is 
+characterized by 
+thrombocytopenia with small 
+platelets, eczema, recurrent 
+infections and an increased 
+incidence of autoimmune 
+manifestations and malignancies.
+
+was injected, some CD8+ T cells formed early stable 
+interactions with low-peptide-concentration-pulsed 
+DCs. An attractive interpretation of this experiment 
+is that CD8+ T cells became capable of establishing 
+stable interactions with low-peptide-concentration-
+pulsed DCs more rapidly, by ‘remembering’ signals 
+that had been integrated from early encounters with 
+high-peptide-concentration-pulsed DCs.
+
+Finally, a purely probabilistic model could also explain 
+the evolution of contact dynamics over time (FIG. 3c). In 
+this model, T cells have a defined probability to arrest on 
+a DC following an encounter with antigen that is deter-
+mined by the strength of stimulation and the affinity 
+
+NATURE REVIEWS | IMMUNOLOGY
+
+VOLUME 8 | SEPTEMBER 2008 | 645
+
+© 2008 Macmillan Publishers Limited. All rights reserved

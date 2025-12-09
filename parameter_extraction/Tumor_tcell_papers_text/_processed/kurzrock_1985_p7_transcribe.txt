@@ -1,0 +1,88 @@
+# IFN-γ IN CANCER PATIENTS
+
+pharmacokinetic studies indicate that this agent was altered before reaching the bloodstream, resulting in partial loss of antiviral activity. These data suggest that further investigations with i.m. injections as well as prolonged i.v. infusions of IFN-γ are warranted. This study will form the framework for future Phase I, II, and III evaluations of the role of rIFN-γ in the therapy of human viral, microbial, and malignant diseases.
+
+REFERENCES
+
+1. Borden, E. C., and Fall, L. A. Interferons: biochemical cell growth, inhibitory, and immunological effects. Prog. Hematol., 350: 1–641, 1981.
+
+2. Gresser, I. On the varied biological effects of interferon. Cell. Immunol., 34: 406–415, 1977.
+
+3. Stewart, W. E. (ed.). The Interferon System. New York: Springer-Verlag, 1979.
+
+4. Gutterman, J. U., Blumenschein, G. R., Alexanian, R., Yap, H-Y., Buzdar, A. U., Cabanillas, F., Hortobagyi, G. N., Hersh, E. M., Rasmussen, S. L., Harmon, K., Kramer, M., and Prestayko, A. Recombinant interferon-induced tumor regression in human cancer patients. Cancer Treat. Rep., 66: 439–454, 1982.
+
+5. Gutterman, J. U. Human cancer immunotherapy with interferon and lymphokines. Ann. Intern. Med., 99: 393–406, 1985.
+
+6. Gutterman, J. U., Kalf, G., Sosa, A., Hersh, E. M., Levine, J. F., Alexanian, R., Berard, C. W., Buzdar, A., Spiegel, H., Colburn, W. T., Fromer, M., Kramer, M., and DeVita, V. T., Jr. Recombinant leukocyte A interferon: pharmacokinetics, single-dose tolerance, and biologic effects in cancer patients. Ann. Intern. Med., 96: 549–556, 1982.
+
+7. Klein, E. Toward tumor therapy with interferons. Part I. Interferons: in vivo effects. Blood, 55: 875–884, 1980.
+
+8. Migliori, G. C., Vialkor, R., Breeden, J. H., Levy, R., and Rosenberg, S. A. Preliminary observations on the effect of human leukocyte interferon in non- Hodgkin's lymphoma. N. Engl. J. Med., 299: 1449–1453, 1978.
+
+9. Gutterman, J. R. Reuben, J., and Hersh, E. M. Preliminary observations on the use of interferon for induction of remission in hairy cell leukemia. N. Engl. J. Med., 307: 15–18, 1984.
+
+10. Gutterman, J. U., Blumenschein, G. R., Tinkode, A., and Gutterman, J. R. Renal cell carcinoma: response to human leukocyte interferon. Cancer Treat. Rep., 67: 497, 1983.
+
+11. Major, T. J., McCredie, K. B., Mavligit, G. M., and Gutterman, J. U. Leukocyte interferon-induced myeloid cytoreduction in chronic myelogenous leukemia. Blood, 62: 859–692, 1983.
+
+12. Blalock, J. E., Georgiades, J. A., Langford, M. P., and Johnson, H. M. Purified human immune gamma interferon has more potent anticellular activity than fibroblast or leukocyte interferon. Cell. Immunol., 9: 390–394, 1980.
+
+13. Czamiecki, C. W., Fennie, C. W., Powers, D. B., and Estel, D. A. Synergistic antiviral and antiproliferative activities of E. coli derived human alpha, beta, and gamma interferons. J. Virol., 45: 490–496, 1983.
+
+14. De Ley, M., Van Damme, J., Claeys, H., Weining, H., Heine, H. W., Billiau, A., Venge, P., and DeSomber, P. Interferon induced by human leukocytes by mitogens: production, partial purification, and characterization. Eur. J. Immunol., 10: 877–883, 1980.
+
+15. Rubin, B. Y., and Gupta, S. L. Differential efficacies of human type I and type II interferons as antiviral and antiproliferative agents. Proc. Natl. Acad. Sci. USA, 77: 5928–5932, 1980.
+
+16. Branca, A. A., and Baglioni, C. Evidence that types I and I interferons have different receptors. Nature (Lond.), 284: 776–779, 1981.
+
+17. Basham, T., and Merigan, T. C. Immunoregulation by gamma-interferon? Nature (Lond.), 299: 778–782, 1982.
+
+18. Vilcek, J., Gray, P. W., Rinderknecht, E., and Sevastopoulos, C. G. Interferon- gamma: a lymphokine for all seasons. In: E. Pick (ed.), Lymphokines, Vol. 12. Orlando: Academic Press, Inc., in press, 1984.
+
+19. Nathan, C. F., Murray, H. W., Wiebe, M. E., and Rubin, B. Y. Identification of interferon-gamma as the lymphokine that activates human macrophage oxidative metabolism and antimicrobial activity. J. Exp. Med., 156: 679–686, 1983.
+
+20. Murray, H. W., Rubin, B. Y., Masur, H., and Roberts, R. B. Impaired production of lymphokines in an immunodeficient man with the acquired immunodeficiency syndrome. N. Engl. J. Med., 310: 883–888, 1984.
+
+21. Gutterman, J. U., Rosenbaum, C., Alexanian, R., and Hersh, E. A. J. Cancer Res., 44: 4164–4171, 1984.
+
+22. Sherman, S. E., Foon, K. A., Abrams, P. G., Heyman, M. R., Cohn, J. A., Watson, T., Maluish, A., and Odhams, R. A. Preliminary Phase I trial of partially- purified interferon-gamma in patients with cancer. J. Biol. Resp. Mod., in press, 1984.
+
+23. Gray, P. W., Leung, D. W., Pennica, D., Yelverton, E., Najarian, R., Simonsen, C. C., Derynck, R., Sherwood, R. T., Wallace, D. M., Berger, S. L., Levinson, A. D., and Goeddel, D. K. Expression of human immune interferon cDNA in E. coli and monkey cells. Nature (Lond.), 295: 503–508, 1982.
+
+24. Rinderknecht, E., O'Connor, B. H., and Rodriguez, H. J. Natural human interferon-gamma: a complementation assay for detection and enumeration of sites of synthesis. J. Biol. Chem., 256: 6790–6797, 1981.
+
+25. Kamiyoshihara, M. Clinical classification of therapeutic responses to anti-cancer drugs. Editorial. Clin. Pharmacol. Ther., 2: 709–712, 1961.
+
+26. Rubin, S. A., Fennie, C. W., and Peska, S. A convenient assay for interferon in vitro. J. Interferon Res., 7: 755–758, 1981.
+
+27. Lebson, J. H., Geffner, M., Zolnick, A., Marshak, R., and Kappler, J. W. Role of gamma-interferon in human B-cell activation. Nature (Lond.), 309: 799–801, 1984.
+
+28. Sidman, C. L., Marshall, J. D., Shultz, L. D., Gray, P. W., and Johnson, H. M. Gamma-interferon as a secreted B-cell mitogenic factor. Nature (Lond.), 309: 801–803, 1984.
+
+29. Preusser, B., Dayton, E. T., Lazarides, R., Fanning, V., and Trischler, G. Immune interferon and leukocyte-conditioned medium induce normal and leukemic myeloid colony formation. J. Immunol. Methods, 72: 201–206, 1983.
+
+30. Dowdle, W. R., Rutter, W. J., Shoots, T. B., Gray, P., Goeddel, D. V., and Lawn, R. M. Induction of fibroblast interferon by recombinant DNA. Nature (Lond.), 290: 20–24, 1981.
+
+31. Gray, P. W., and Goeddel, D. V. Structure of the human immune interferon gene. Nature (Lond.), 298: 859–863, 1982.
+
+32. Gresser, I., Morel-Maroger, L., and Woodrow, D. The effect of interferon on the course of a generalized infection with Listeria monocytogenes in mice after administration of exogenous human leukocyte interferon. J. Natl. Cancer Inst., 54: 1045–1049, 1975.
+
+33. Peska, S., Kelder, B., Hamelrith, P. C., Mosher, J. A., Crow, R., and Kompner, S. E. Molecular weight of the functional unit of human leukocyte interferon. J. Immunol. Methods, 50: 296–306, 1983.
+
+34. Forni, L., and Michel, M. H., Hubbard, C. W., Wentworth, B. B., and Forbes, J. T. Pleotropic activities of human interferons are mediated by multiple response pathways. Proc. Natl. Acad. Sci. USA, 87: 170–174, 1984.
+
+35. Schneider, A., Schattner, A., Crespi, M., Levin, H., Shotam, J., Nitzke, S., Wallach, D., Hahn, T., Yarden, O., and Denyer, T. Intramuscular human interferon-beta injections in treatments of condylomata acuminata. Lancet, 2: 1038–1041, 1984.
+
+36. Dinarello, C. A., Bernheim, H. A., Duff, G. W., Murg, L. V., Nagabhushan, T. L., Hamilton, N. C., and Coccia, F. Mechanisms of fever induced by recombinant human interferon. J. Clin. Invest., 72: 906–913, 1983.
+
+37. Duff, G. W., and Durum, S. K. The pyrogenic and mitogenic actions of interleukin-1 are related. Nature (Lond.), 304: 449–451, 1983.
+
+38. Dinarello, C., Satter, L., Fleischmann, W. R., and Zuccari, N. Immune interferon activates cells normally dormant to virus-induced interferon. Proc. Soc. Exp. Biol. Med., 159: 94–97, 1978.
+
+39. Klomp, G. R., Fleischmann, W. R., Jr., and Klompel, K. D. Gamma interferon (IFN-gamma) and alpha/beta suppress murine myeloid colony formation (CFU-C). Magnitude of suppression is dependent upon level of colony stimulating factor (CSF). J. Immunol., 129: 76–80, 1982.
+
+---
+
+CANCER RESEARCH VOL. 45 JUNE 1985  
+2872

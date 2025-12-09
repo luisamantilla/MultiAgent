@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "```plaintext\nRESEARCH | RESEARCH ARTICLE\n\nhelp related to AcCoA measurements, and J. Shetty and B. Tran \nof the NCI Sequencing Facility. Funding: Supported by the \nIntramural Research Program of the NCI, The Cancer Moonshot \nProgram, the Center for Cell-Based Therapy at the NCI, \nNIH, and the Milstein Family Foundation. Author contributions: \nS.K.V., R.E., and N.P.R. conceived the project and designed \nthe experiments; S.K.V., R.E., and N.R.K. performed experiments \nand interpreted data; M.S., T.N.V., N.H.-H., P.H.L., M.H.S., \nS.I.P., Z.Y., D.C.P., M.J.K., J.H., X.L., J.W.L., and T.F. contributed \nin performing experiments and edited the manuscript; T.F. and \nC.A.K. provided intellectual but not experimental input in \nreporting the data; S.K.V., R.E., C.A.K., and N.P.R. wrote the \nmanuscript; and N.P.R. supervised the project. Competing \ninterests: Authors declare no competing interests. Data and \nmaterials availability: Datasets described in the paper \nare deposited in Gene Expression Omnibus (accession number \nGSE122156). S.K.V., R.E., J.R.A., and N.P.R. have submitted \nU.S. Provisional Patent Application 62/661,941, filed 24 April 2018, \nfor the use of hydroxycitrate on T cells to improve efficacy of \nadoptive cell therapy.\n\nSUPPLEMENTARY MATERIALS\nwww.sciencemag.org/content/363/6434/eau0135/suppl/DC1\nMaterials and Methods\nFigs. S1 to S14\nTables S1 to S5\nReferences (65–85)\n\n27 April 2018; resubmitted 6 November 2018\nAccepted 15 February 2019\n10.1126/science.aau0135\n\nDownloaded from \nhttp://science.sciencemag.org/ \non March 28, 2019\n\nVodnala et al., Science 363, eaau0135 (2019) 29 March 2019\n\n12 of 12\n```",
+  "model": "gpt-4o",
+  "page": 13,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 16.91,
+  "filename": "vodnala_2019.pdf",
+  "doc_id": "vodnala_2019"
+}

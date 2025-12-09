@@ -1,0 +1,43 @@
+```plaintext
+504                                                                 Michael R. Betts and Richard A. Koup
+
+CMV                             HIV                             EBV
+
+IFNγ
+
+CD107a/b
+
+Fig. 3  Representative examples of antigen-specific expression of CD107a/b on CD8⁺ T cells after 
+activation with viral peptides. PBMCs from three patients were stimulated with peptides derived from 
+cytomegalovirus (left), human immunodeficiency virus (middle), or Epstein–Barr virus (right). After 
+incubation, cells were analyzed as described in Fig. 2. Note the presence of CD107a/b-positive IFN-
+positive cells in each panel, as well as the different types and level of the responses observed.
+
+10. Wash cells with wash buffer, 5 minutes at 1800 rpm; re-suspend pellet in 1% 
+PFA.
+
+11. Analyze by flow cytometry. Three examples of antigen-specific responses 
+wherein the responding CD8⁺ T cells both degranulate and produce cytokine upon 
+activation with viral peptides derived from human cytomegalovirus (CMV), human 
+immunodeficiency virus (HIV), or Epstein–Barr virus (EBV) are shown in Fig. 3.
+
+III. Results
+
+An example of the gating strategy to analyze CD107a/b expression in activated 
+CD8⁺ T cells is shown in Fig. 2. Cells were stimulated with SEB, as described in 
+section II, and collected on a FACSCalibur flow cytometer, using FITC, PE, 
+PerCP, and APC as the fluorescent parameters. The initial gate is on small resting 
+lymphocytes (Fig. 2A), with care taken to avoid events with low side scatter and low 
+forward scatter, as well as events with high side scatter (granulocytes/macro-
+phages). This is particularly important for reducing background staining. Next, 
+CD3⁺ events are gated upon (Fig. 2B). At this stage, one must account for any 
+downregulation of CD3 that may have occurred in the activated T cells, if the CD3 
+stain was performed on the cell surface rather than intracellularly. If downregula-
+tion has occurred and is not accounted for, a significant proportion of the respond-
+ing cells may be inadvertently gated out. In the example shown, the CD3 stain was 
+performed on permeabilized cells, thus little downregulation of CD3 from the 
+surface of the activated cells is observed. Also notice in this panel that the T cells 
+expressing CD107a/b are very bright, as compared to the low-level expression 
+observed in the CD3-negative cells. After the CD3⁺ T-cell gate, the cells are now 
+separated into CD8⁺ and CD8⁻ events (Fig. 2C). As was the case for the previous
+```

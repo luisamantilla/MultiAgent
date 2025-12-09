@@ -1,0 +1,33 @@
+5 Supporting Text
+
+5.1 Measuring protein half-lives based on total protein divided by the number of cells leads to similar results as protein concentration based measurements
+
+Protein dynamics is often modeled in terms of ‘protein concentration’. However, experimental methods, such as protein fluorescence assays, often do not allow direct measurements of concentration, but rather monitor the ‘total protein’ levels in an individual cell or population. Here, we show that averaging the total protein levels over a sufficiently large population of unsynchronized cells leads to half-life measurements that are similar to those obtained in protein concentration based measurements.
+
+We begin with a few definitions. The total protein level, \( P_t \), over a population of \( N \) cells is the sum of individual cell protein levels, \( P_i \):
+
+\[
+\text{Eq. 1} \quad P_t = \sum_{i=1}^{N} P_i = N \cdot \bar{P}
+\]
+
+where \( \bar{P} \) is the average protein level. The total volume of a cell population, \( V_t \), is the sum of individual cell volumes, \( V_i \):
+
+\[
+\text{Eq. 2} \quad V_t = \sum_{i=1}^{N} V_i = N \cdot \bar{V}
+\]
+
+where \( \bar{V} \) is the average cell volume. When measuring protein dynamics one typically monitors either the average protein concentration, \( P_c = \frac{P_t}{V_t} \), or average protein levels, \( \bar{P} = \frac{P_t}{N} \). The dynamics of protein concentration, \( P_c \), is due to protein production, \( \beta_c \) (units of concentration per time unit), and removal, \( \alpha_c \) (units of 1 / time) as captured by the following equation (1-2):
+
+\[
+\text{Eq. 3} \quad \frac{dP_c}{dt} = \beta_c - \alpha_c \cdot P_c
+\]
+
+The dynamics of \( \bar{P} \) on a large population of unsynchronized cells is approximated by the following equation:
+
+\[
+\text{Eq. 4} \quad \frac{d\bar{P}}{dt} = \bar{\beta} - \bar{\alpha} \cdot \bar{P}
+\]
+
+where \( \bar{\beta} \) is the average protein production (units of protein per time) and \( \bar{\alpha} \) is the average removal rate (units of 1 / time). Note that the production rates \( \beta_c \) and \( \bar{\beta} \) are:
+
+22

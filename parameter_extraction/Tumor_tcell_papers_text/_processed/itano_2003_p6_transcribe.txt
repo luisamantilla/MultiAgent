@@ -1,0 +1,137 @@
+REVIEW
+
+in situ have depended on differences in the frequency of interactions 
+between T cells and DCs to determine when antigen presentation was 
+occurring. Although this is a more direct approach, it still suffers from 
+the limitation that the cells found interacting with antigen-specific T 
+cells were not shown to display the relevant pMHC complexes. An 
+ideal system would allow the real-time detection of pMHC complexes, 
+using monoclonal antibodies^36–^38. Together with antibodies identi-
+fying antigen-specific T cells, it should be possible to directly observe 
+antigen presentation in vivo.
+
+ACKNOWLEDGMENTS
+We thank T. Leonard for help with the animation. Supported by grants from the 
+National Institutes of Health and the Irvington Institute for Immunological Research.
+
+Published online 29 July 2003; doi:10.1038/ni957
+
+1. Banchereau, J. & Steinman, R.M. Dendritic cells and the control of immunity. Nature 
+392, 245–252 (1998).
+2. Hayday, A.C. et al. Intraepithelial cells induce peripheral T cell unresponsiveness at 
+epithelial surfaces. J. Exp. Med. 189, 769–780 (1999).
+3. Itano, A.A. et al. Efficient targeting of protein antigen to the dendritic cell receptor 
+DEC-205 in the steady state leads to antigen presentation on major histocompatibility 
+complex class I products and peripheral CD8+ T cell tolerance. J. Exp. Med. 
+196, 1627–1638 (2002).
+4. Akbari, O., Stock, P., DeKruyff, R.H. & Umetsu, D.T. Role of regulatory T cells in 
+allergic asthma. J. Clin. Invest. 112, 986–995 (2003).
+5. Cassell, D.J. & Schwartz, R.H. A quantitative analysis of antigen-presenting cell func-
+tion: activated B cells stimulate naive CD4 T cells but are inferior to dendritic cells in 
+providing costimulation. J. Exp. Med. 180, 1829–1840 (1994).
+6. Jenkins, M.K. et al. In vivo activation of antigen-specific CD4 T cells. Annu. Rev. 
+Immunol. 19, 23–45 (2001).
+7. Inaba, K. et al. Generation of large numbers of dendritic cells from mouse bone 
+marrow cultures supplemented with granulocyte/macrophage colony-stimulating 
+factor. J. Exp. Med. 176, 1693–1702 (1992).
+8. Inaba, K., Inaba, M., Romani, N., Aya, H., Deguchi, M., Ikehara, S., Muramatsu, S. & 
+Steinman, R.M. Generation of large numbers of dendritic cells from mouse bone 
+marrow cultures supplemented with granulocyte/macrophage colony-stimulating 
+factor. J. Exp. Med. 176, 1693–1702 (1992).
+9. Mellman, I. & Steinman, R.M. Dendritic cells: specialized and regulated antigen 
+processing machines. Cell 106, 255–258 (2001).
+10. Turley, S.J. et al. Transport of peptide-MHC class II complexes in developing dendritic 
+cells. Science 288, 522–527 (2000).
+11. Trombetta, E.S. et al. Identification of macrophages and dendritic cells in the 
+osteopetrotic (op/op) mouse. J. Cell Sci. 104, 1021–1029 (1993).
+12. Chang, M.D., Stameny, E.R., Khalil, S., Choi, O. & Plograj, J.W. Osteopetrotic 
+(op/op) mice deficient in macrophages have the ability to mount a normal T cell-
+dependent immune response. Cell. Immunol. 162, 146–155 (1995).
+13. Noronha, E., Stameny, E.R., Khalil, S., Choi, O. & Plograj, J.W. Osteopetrotic 
+(op/op) mice deficient in macrophages have the ability to mount a normal T cell-
+dependent immune response. Cell. Immunol. 162, 146–155 (1995).
+14. Inaba, K., Inaba, M., Romani, N., Aya, H., Deguchi, M., Ikehara, S., Muramatsu, S. & 
+Steinman, R.M. Generation of large numbers of dendritic cells from mouse bone 
+marrow cultures supplemented with granulocyte/macrophage colony-stimulating 
+factor. J. Exp. Med. 176, 1693–1702 (1992).
+15. Mellman, I. & Steinman, R.M. Dendritic cells: specialized and regulated antigen 
+processing machines. Cell 106, 255–258 (2001).
+16. Trombetta, E.S. et al. Identification of macrophages and dendritic cells in the 
+osteopetrotic (op/op) mouse. J. Cell Sci. 104, 1021–1029 (1993).
+17. Chang, M.D., Stameny, E.R., Khalil, S., Choi, O. & Plograj, J.W. Osteopetrotic 
+(op/op) mice deficient in macrophages have the ability to mount a normal T cell-
+dependent immune response. Cell. Immunol. 162, 146–155 (1995).
+18. Noronha, E., Stameny, E.R., Khalil, S., Choi, O. & Plograj, J.W. Osteopetrotic 
+(op/op) mice deficient in macrophages have the ability to mount a normal T cell-
+dependent immune response. Cell. Immunol. 162, 146–155 (1995).
+19. Inaba, K., Inaba, M., Romani, N., Aya, H., Deguchi, M., Ikehara, S., Muramatsu, S. & 
+Steinman, R.M. Generation of large numbers of dendritic cells from mouse bone 
+marrow cultures supplemented with granulocyte/macrophage colony-stimulating 
+factor. J. Exp. Med. 176, 1693–1702 (1992).
+20. Mellman, I. & Steinman, R.M. Dendritic cells: specialized and regulated antigen 
+processing machines. Cell 106, 255–258 (2001).
+21. Trombetta, E.S. et al. Identification of macrophages and dendritic cells in the 
+osteopetrotic (op/op) mouse. J. Cell Sci. 104, 1021–1029 (1993).
+22. Chang, M.D., Stameny, E.R., Khalil, S., Choi, O. & Plograj, J.W. Osteopetrotic 
+(op/op) mice deficient in macrophages have the ability to mount a normal T cell-
+dependent immune response. Cell. Immunol. 162, 146–155 (1995).
+23. Noronha, E., Stameny, E.R., Khalil, S., Choi, O. & Plograj, J.W. Osteopetrotic 
+(op/op) mice deficient in macrophages have the ability to mount a normal T cell-
+dependent immune response. Cell. Immunol. 162, 146–155 (1995).
+24. Inaba, K., Inaba, M., Romani, N., Aya, H., Deguchi, M., Ikehara, S., Muramatsu, S. & 
+Steinman, R.M. Generation of large numbers of dendritic cells from mouse bone 
+marrow cultures supplemented with granulocyte/macrophage colony-stimulating 
+factor. J. Exp. Med. 176, 1693–1702 (1992).
+25. Mellman, I. & Steinman, R.M. Dendritic cells: specialized and regulated antigen 
+processing machines. Cell 106, 255–258 (2001).
+26. Trombetta, E.S. et al. Identification of macrophages and dendritic cells in the 
+osteopetrotic (op/op) mouse. J. Cell Sci. 104, 1021–1029 (1993).
+27. Chang, M.D., Stameny, E.R., Khalil, S., Choi, O. & Plograj, J.W. Osteopetrotic 
+(op/op) mice deficient in macrophages have the ability to mount a normal T cell-
+dependent immune response. Cell. Immunol. 162, 146–155 (1995).
+28. Noronha, E., Stameny, E.R., Khalil, S., Choi, O. & Plograj, J.W. Osteopetrotic 
+(op/op) mice deficient in macrophages have the ability to mount a normal T cell-
+dependent immune response. Cell. Immunol. 162, 146–155 (1995).
+29. Inaba, K., Inaba, M., Romani, N., Aya, H., Deguchi, M., Ikehara, S., Muramatsu, S. & 
+Steinman, R.M. Generation of large numbers of dendritic cells from mouse bone 
+marrow cultures supplemented with granulocyte/macrophage colony-stimulating 
+factor. J. Exp. Med. 176, 1693–1702 (1992).
+30. Mellman, I. & Steinman, R.M. Dendritic cells: specialized and regulated antigen 
+processing machines. Cell 106, 255–258 (2001).
+31. Trombetta, E.S. et al. Identification of macrophages and dendritic cells in the 
+osteopetrotic (op/op) mouse. J. Cell Sci. 104, 1021–1029 (1993).
+32. Chang, M.D., Stameny, E.R., Khalil, S., Choi, O. & Plograj, J.W. Osteopetrotic 
+(op/op) mice deficient in macrophages have the ability to mount a normal T cell-
+dependent immune response. Cell. Immunol. 162, 146–155 (1995).
+33. Noronha, E., Stameny, E.R., Khalil, S., Choi, O. & Plograj, J.W. Osteopetrotic 
+(op/op) mice deficient in macrophages have the ability to mount a normal T cell-
+dependent immune response. Cell. Immunol. 162, 146–155 (1995).
+34. Inaba, K., Inaba, M., Romani, N., Aya, H., Deguchi, M., Ikehara, S., Muramatsu, S. & 
+Steinman, R.M. Generation of large numbers of dendritic cells from mouse bone 
+marrow cultures supplemented with granulocyte/macrophage colony-stimulating 
+factor. J. Exp. Med. 176, 1693–1702 (1992).
+35. Mellman, I. & Steinman, R.M. Dendritic cells: specialized and regulated antigen 
+processing machines. Cell 106, 255–258 (2001).
+36. Trombetta, E.S. et al. Identification of macrophages and dendritic cells in the 
+osteopetrotic (op/op) mouse. J. Cell Sci. 104, 1021–1029 (1993).
+37. Chang, M.D., Stameny, E.R., Khalil, S., Choi, O. & Plograj, J.W. Osteopetrotic 
+(op/op) mice deficient in macrophages have the ability to mount a normal T cell-
+dependent immune response. Cell. Immunol. 162, 146–155 (1995).
+38. Noronha, E., Stameny, E.R., Khalil, S., Choi, O. & Plograj, J.W. Osteopetrotic 
+(op/op) mice deficient in macrophages have the ability to mount a normal T cell-
+dependent immune response. Cell. Immunol. 162, 146–155 (1995).
+39. Inaba, K., Inaba, M., Romani, N., Aya, H., Deguchi, M., Ikehara, S., Muramatsu, S. & 
+Steinman, R.M. Generation of large numbers of dendritic cells from mouse bone 
+marrow cultures supplemented with granulocyte/macrophage colony-stimulating 
+factor. J. Exp. Med. 176, 1693–1702 (1992).
+40. Mellman, I. & Steinman, R.M. Dendritic cells: specialized and regulated antigen 
+processing machines. Cell 106, 255–258 (2001).
+41. Trombetta, E.S. et al. Identification of macrophages and dendritic cells in the 
+osteopetrotic (op/op) mouse. J. Cell Sci. 104, 1021–1029 (1993).
+42. Chang, M.D., Stameny, E.R., Khalil, S., Choi, O. & Plograj, J.W. Osteopetrotic 
+(op/op) mice deficient in macrophages have the ability to mount a normal T cell-
+dependent immune response. Cell. Immunol. 162, 146–155 (1995).
+43. Noronha, E., Stameny, E.R., Khalil, S., Choi, O. & Plograj, J.W. Osteopetrotic 
+(op/op) mice deficient in macrophages have the ability to mount a normal T cell-
+dependent immune response. Cell. Immunol. 162, 146–155 (1995).
+44. Inaba, K., Inaba, M., Romani, N., Aya, H., Deguchi, M., Ikehara, S., Muramatsu, S. &

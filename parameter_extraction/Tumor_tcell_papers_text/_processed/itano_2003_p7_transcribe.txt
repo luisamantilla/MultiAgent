@@ -1,0 +1,83 @@
+```plaintext
+murine skin and lymph nodes by antibodies against Langerin/CD207. J. Invest. 
+Dermatol. 120, 266–274 (2003). 
+60. Peeler, J.S. & Niederkorn, J.Y. Antigen presentation by Langerhans cells in vivo: 
+donor-derived Ia+ Langerhans cells are required for induction of delayed-type hyper- 
+sensitivity but not for cytotoxic T lymphocyte responses to alloantigens. J. Immunol. 
+136, 4362–4371 (1986). 
+61. Kumlien, T. et al. Induction of tumor-specific protective immunity by in situ 
+gene Langerhans cell vaccines. Nat. Biotechnol. 20, 64–69 (2002). 
+62. Ruedl, C., Rath, S., Prechtl-Hugger, E., Murphy, D.B. & Jennewein, C.A., Jr. On 
+the complexity of self. Nature 363, 660–662 (1993). 
+63. Murphy, D.B. et al. Monoclonal antibody detection of a major self peptide-MHC class 
+I complex. J. Immunol. 148, 3483–3491 (1992). 
+64. Inaba, K. et al. Efficient presentation of phagocytosed cellular fragments on the 
+major histocompatibility complex class II products of dendritic cells. J. Exp. Med. 
+188, 2163–2173 (1998). 
+65. Valladeau, J. et al. Langerin, a novel C-type lectin specific to Langerhans cells, is an 
+endocytic receptor that induces the formation of Birbeck granules. Immunity 12, 
+71–81 (2000). 
+66. Vermeulen, K.Y., Carro-Muino, I., Lambrecht, B.N. & Pauwels, R.A. Specific migra- 
+tory dendritic cells rapidly transport antigen from the airways to the reactive lymph 
+nodes. J. Exp. Med. 188, 201–211 (1998). 
+67. Croston, S.L. et al. Resident lung antigen-presenting cells have the capacity to pro- 
+cess and present antigen in situ. J. Clin. Invest. 110, 1441–1448 (2002). 
+68. Thery, C. et al. Exosomes: composition, biogenesis and function. Nat. Rev. Immunol. 
+2, 569–579 (2002). 
+69. Thery, C. et al. Exosomes from antigen-presenting cells carry the immunogenic 
+peptide-MHC class II complexes. J. Immunol. 166, 7309–7318 (2001). 
+70. Ruedl, C., Kuehnel, M., Karjalainen, K. & Steinhoff, U. MHC class II complexes 
+in developing dendritic cells. Science 282, 527–530 (1998). 
+71. Ruedl, C., Kuehnel, M., Karjalainen, K. & Steinhoff, U. MHC class II complexes 
+in developing dendritic cells. Science 282, 527–530 (1998). 
+72. Ruedl, C., Kuehnel, M., Karjalainen, K. & Steinhoff, U. MHC class II complexes 
+in developing dendritic cells. Science 282, 527–530 (1998). 
+73. Ruedl, C., Kuehnel, M., Karjalainen, K. & Steinhoff, U. MHC class II complexes 
+in developing dendritic cells. Science 282, 527–530 (1998). 
+74. Gretz, J.E., Norbury, C.C., Anderson, A.O., Proudfoot, A.E. & Shaw, S. Lymph-borne 
+chemokines and other low molecular weight molecules reach high endothelial venules 
+via specialized conduits while a functional barrier limits access to the lymphocyte 
+compartment in lymph node cortex. J. Exp. Med. 192, 1425–1440 (2000). 
+75. Ohoka, Y., Shibata, M., Aramaki, S. & Schrader, M. The structural aspects of 
+endocytic pathway traffic in rat submandibular lymph node. Microb. Microanal. 8, 
+116–133 (2002). 
+76. Ruedl, C., Kuehnel, M. & Karjalainen, K. In vivo matured Langerhans cells continue to 
+take up and process native proteins in vivo in the lymph node compartments. J. Immunol. 
+170, 7178–7182 (2002). 
+77. Turley, S.J. et al. Transport of peptide-MHC class II complexes in developing dendritic 
+cells. Science 282, 527–530 (2000). 
+78. Frickens, F.D., Lees, A., Birnbaum, R., Gause, W.C. & Morris, S.C. Dendritic cells 
+can present antigen in vivo in a tolerogenic or immunogenic fashion. J. Immunol. 
+157, 1406–1414 (1996). 
+79. Luo, G. & Lee, S. Homeostatic regulation of the immune system by receptor tyro- 
+sine kinases of the Tyro3 family. Science 293, 306–311 (2001). 
+80. Scott, R.S. et al. Phagocytosis and clearance of apoptotic cells is mediated by MER. 
+Nat. Rev. Immunol. 4, 201–211 (2004). 
+81. Savill, J. & Fadok, V. Corpse clearance defines the meaning of cell death. Nature 407, 
+784–788 (2000). 
+82. Fadok, V.A. et al. A receptor for phosphatidylserine-specific clearance of apoptotic 
+cells. Nature 405, 85–90 (2000). 
+83. Fadok, V.A. et al. Macrophages that have ingested apoptotic cells in vitro inhibit 
+proinflammatory cytokine production through autocrine/paracrine mechanisms 
+involving TGF, PGE2, and PAF. J. Clin. Invest. 101, 890–898 (1998). 
+84. Mosser, D.M., Zhang, X., Hsu, H.Y., Gehrmann, K. & Nshengea, E. IL-10 inhibits 
+macrophage function by selectively inhibiting phagocytosis. Immunity 9, 717–727 
+(1998). 
+85. Ruedl, C. et al. High levels of major histocompatibility complex I-self peptide com- 
+plexes on dendritic cells from the T cell areas of lymph nodes. J. Exp. Med. 186, 
+1865–1873 (1997). 
+86. Dong, R., Reis e Sousa, C. & Germain, R.N. Production, specificity, and functional- 
+ity of monoclonal antibodies to specific peptide-major histocompatibility complex 
+class I complexes by using exogenous peptide. Proc. Natl. Acad. Sci. 
+USA 94, 13856–13861 (1997). 
+87. Germain, R.N., Golan, D., Deck, M.B., Petzold, S.S. & Unanue, E.R. 
+Antigen processing and presentation by macrophages. J. Immunol. 142, 727–733 
+(1989). 
+88. Germain, R.N. Antigen processing and presentation by macrophages. J. Immunol. 
+142, 727–733 (1989). 
+89. Germain, R.N. Localization, 
+transport, and function of major histocompatibility complex class II complexes using a 
+monoclonal antibody. Immunity 6, 715–726 (1997). 
+
+NATURE IMMUNOLOGY VOLUME 4 NUMBER 8 AUGUST 2003 739
+```

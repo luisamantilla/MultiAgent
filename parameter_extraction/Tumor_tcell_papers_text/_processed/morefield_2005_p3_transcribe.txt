@@ -1,0 +1,118 @@
+```plaintext
+1590                                                                                  G.L. Morefield et al. / Vaccine 23 (2005) 1588–1595
+
+ity was calculated from the linearized form of the Langmuir
+equation as recently described [15]. The reported adsorp-
+tive capacities were the mean of three separate adsorption
+isotherms.
+
+The adsorption isotherms of BODIPY FL labeled AC by
+AH and AP was determined as described above.
+
+2.3. Fluorescent labeling of alpha casein
+
+Alpha casein (Sigma, St. Louis, MO) was labeled with
+BODIPY FL (Molecular Probes, Eugene, OR). A 5 mg/ml
+solution of AC was prepared by dissolving 75 mg of AC in
+14 ml of doubly distilled water ddH2O), adjusting the pH
+to 8.3 with 0.1 M NaOH and adjusting the volume to 15 ml
+with ddH2O. The pH of the AC solution was adjusted to pH
+8.3 because the reaction is most efficient between pH 7.5 and
+8.3 [16] and addition of BODIPY FL will slightly lower the
+pH. For labeling, 1 ml of the AC solution was combined with
+68 µl of 5 mg/ml BODIPY FL and mixed using a vortex mixer
+for 1 h at room temperature. The labeled AC was separated
+from unreacted dye by size exclusion chromatography using
+Sephadex G-50 fine (Sigma, St. Louis, MO) equilibrated with
+ddH2O. The BODIPY FL labeled AC eluted from the column
+first and was collected. The concentration of the labeled AC
+was determined by the BCA assay (Pierce, Rockford, IL) and
+was approximately 8 mg BODIPY FL labeled AC/ml.
+
+2.4. Dendritic cell culture
+
+Dendritic cells were derived from the bone marrow of
+10–12 weeks old female BALB/c mice. The mice were anes-
+thetized with 90 mg ketamine and 10 mg xylazine/kg and then
+euthanized. The femurs and tibias were collected in ice-cold
+Hank’s balanced salt solution (HBSS, Sigma, St. Louis, MO)
+with 50 µg/ml gentamycin. The muscles were removed with
+a scalpel and by rubbing the bones with tissue. The ends
+of the bones were then cut off with scissors and crushed.
+The bone marrow was flushed out with 2–3 ml of media in
+a syringe with a 25-gauge needle. All bone marrow cells
+were collected and washed twice with HBSS. The bone mar-
+row cells were cultured in 10 cm petri dishes containing ap-
+proximately 5 × 105 cells/ml in 10 ml total volume. The cells
+were maintained at 37 ◦C with 5% CO2 in RPMI 1640 with
+5% fetal calf serum (Sigma, St. Louis, MO), 0.05 µM β-
+mercaptoethanol (Sigma, St. Louis, MO), 3% supernatant of
+J558L cells transfected with granulocyte macrophage colony
+stimulating factor (GM-CSF), 2 mM l-glutamine, 100 U/ml
+penicillin, 100 µg/ml streptomycin and 0.25 µg/ml ampho-
+tericin B. After 3 days the nonadherent cells were collected
+and discarded and 10 ml of fresh media was added. On day
+5, 5 ml of media was replaced with fresh media. On day 7,
+an additional 5 ml of media was added to the cells. On day 8,
+the cells were collected, washed and resuspended in the me-
+dia without GM-CSF. The culture contained approximately
+75% immature DCs. The study was approved by the Purdue
+University Animal Care and Use Committee.
+
+2.5. Model vaccines
+
+A 0.1 mg/ml solution of BODIPY FL labeled AC was pre-
+pared by diluting an appropriate volume of BODIPY FL la-
+beled AC as prepared in Section 2.3 to 10 ml with ddH2O
+and adjusting the pH to 7.4. A 1 mg Al/ml suspension of each
+adjuvant was prepared as described in Section 2.1. The BOD-
+IPY FL labeled AC adsorbed to each adjuvant was prepared
+by combining 2.5 ml of 0.1 mg BODIPY FL labeled AC/ml
+with 2.5 ml of a 1 mg Al/ml suspension of each adjuvant and
+mixing with a magnetic stirrer for 1 h.
+
+2.6. Treatment of DCs with AC
+
+Immature DCs (1 × 106 cells/ml) were treated with a me-
+dia alone, solution of BODIPY FL labeled AC (0.01 mg/ml)
+or a suspension of BODIPY FL labeled AC (0.01 mg/ml) ad-
+sorbed to each adjuvant (0.1 mg Al/ml). Treatment groups
+were set up in 6 well plates with a total volume of 3 ml/well.
+For the cells treated with media alone, 0.6 ml of media was
+added to 2.4 ml of DCs. For the DCs treated with a solu-
+tion of AC, 0.3 ml of the 0.1 mg/ml BODIPY FL AC solution
+and 0.3 ml of media were added to 2.4 ml of DCs. For DCs
+treated with AC adsorbed to each adjuvant, 0.6 ml of each
+model vaccine was added to 2.4 ml of DCs. Following in-
+cubation at 37 ◦C for 1, 2, or 3 h, the DCs were washed
+twice with 0.25 ml PBS and analyzed by confocal micros-
+copy and flow cytometry.
+
+2.7. Confocal microscopy
+
+For analysis by confocal microscopy, 1 ml of treated DCs
+was washed twice in flow buffer (1 g BSA, 1 g sodium azide
+in 1 l phosphate buffered saline). After washing, 0.3 ml of 2%
+paraformaldehyde was added to each sample. The cells were
+stained with AlexaFluor 568 conjugated phalloidin (Molec-
+ular Probes, Eugene, OR). The phalloidin solution (0.1 ml)
+was diluted with 0.19 ml of PBS. The DCs were centrifuged at
+1500 rpm (537 × g) for 4 min at 4 ◦C and the supernatant was
+removed. The DCs were then resuspended in 0.2 ml of diluted
+phalloidin and incubated at 4 ◦C for 20 min. Following incu-
+bation the DCs were washed twice with 0.25 ml PBS. Each
+sample was then observed by confocal microscopy at 60×
+magnification. The z-series images obtained were created
+with Confocal Assistant (Universal Imaging Corp., Down-
+ingtown, PA) and Adobe Photoshop 7.0® (Adobe, San Jose,
+CA).
+
+2.8. Flow cytometry
+
+For analysis by flow cytometry DCs were stained with
+an antibody to MHC class II molecules (PE labeled anti-
+mouse I-A/I-E (M5/114.15.2) Beckton Dickenson, Franklin
+Lakes, NJ). Two milliliters of DCs from Section 2.5 were cen-
+trifuged, resuspended in 0.2 ml of 10% normal rabbit serum
+with 1% bovine serum albumin in PBS and incubated for
+```

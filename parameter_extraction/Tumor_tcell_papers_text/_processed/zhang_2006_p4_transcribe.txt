@@ -1,0 +1,45 @@
+Immunity  
+454  
+
+![Graphs](https://example.com/graphs)
+
+A  
+B  
+C  
+D  
+E  
+
+LCMV CD8 T cells x 10^6  
+(% YOPRO-1+ gp33+ CD8+)  
+Donor LCMV-specific  
+CD8 T cells x 10^6  
+(% YOPRO-1+ gp33+ CD8+)  
+(% BrdU+ gp33+ CD8+)  
+
+B6  
+Spib KO  
+Spib KO x Grb KO  
+
+B6  
+Spib KO  
+
+B6  
+Spib KO  
+
+B6  
+Spib KO  
+
+B6  
+Spib KO  
+
+Figure 3. Effect of SpiB on CTLs is Dependent on GrB  
+B6 and SpiB KO mice were infected with LCMV Armstrong (2 x 10^4 pfu/mouse i.p.), and then after 8 days the (A) mean number of gp33+ CD8+ spleen cells and (B) mean percentage YOPRO-1+ of gp33+ CD8+ cells were determined. P14 CD8 T cells (10^6) were purified from B6 or SpiB KO mice (CD45.2+) and adoptively transferred to B6 CD45.1+ congenic mice, and then the (C) mean number of donor LCMV-specific (CD45.2+ gp33+ CD8+) and (D) mean percentage of YOPRO-1+ donor cells determined. Recipient mice were infected and fed BrdU for 8 days, and then the (E) mean percentage BrdU+ donor cells determined. All means are ± SEM (n = 5 mice).  
+
+(Pircher et al., 1990). Naive P14 CD8 T cells (>90% pure) from SpiB KO and B6 mice (CD45.2+) were adoptively transferred into B6 CD45.1 congenic recipient mice that were then infected with LCMV. After 8 days, the number of donor LCMV-specific CD8 T cells (CD45.2+) from SpiB KO mice was diminished by 7-fold (p = 3 x 10^-3) compared to B6 P14 donor cells (Figure 3C). Therefore, the requirement for SpiB in CTLs is cell intrinsic. As for the whole animal experiments, there was a significant (p = 0.04) increase in the proportion of donor SpiB KO CTLs undergoing apoptosis after adoptive transfer to wild-type recipients (Figure 3D). There was, however, no significant difference (p = 0.2) in the rate of division of donor SpiB CD8 T cells compared to B6 controls over the 8-day expansion period after LCMV infection (Figure 3E). Thus, the diminished recovery of donor SpiB KO CTLs is a result of impaired survival due to increased apoptosis rather than impaired expansion.  
+
+Impaired CTL Immunity to Virus in SpiB-Deficient Mice  
+CTLs are critical for immunity to virus, and so we examined the ability of SpiB KO mice to mount a CTL response and clear LCMV. We examined the requirement for SpiB in immunity to high doses (10^6 pfu) of the clone 13 variant of LCMV Armstrong, which has previously revealed deficiencies in CTL immunity to virus (Ahmed et al., 1984; Matloubian et al., 1999). Ex vivo CTL activity was measured in standard 51Cr-release assays with gp33 pulsed targets. We observed a consistent deficit in LCMV-specific CTL activity in SpiB KO mice over the course of clone 13 infection (Figure 4A). For example, on day 10, there was a 6-fold decrease (p = 2 x 10^-4) in CTL activity in SpiB KO mice (23.4 ± 0.7% specific lysis, n = 5 mice; Splenocyte/Target ratio [S/T] = 50:1) compared to B6 controls (13.6% ± 1.7% specific lysis, n = 5 mice; S/T = 50:1).  
+
+The deficit in CTL activity resulted in correspondingly defective clearance of clone 13 LCMV (Figure 4B). Plaque assays revealed that the titer of LCMV was about 10 times higher in SpiB KO mice (p = 0.0067, day 8, p = 0.0043), and day 10 (p = 0.002) after infection. The lower number of LCMV-specific CTLs in SpiB KO mice, rather than any intrinsic defect in killing, results in impaired CTL activity. This was because, day 8 after infection with LCMV, although we observed defective CTL activity in SpiB KO mice as expected (Figure 4C), when specific lysis was normalized to the number of LCMV-specific CTLs (gp33+ CD8+ cells), there was no significant (p = 0.63; CTL/Target ratio = 1.0) difference between SpiB KO mice and B6 controls (Figure 4D).  
+
+We determined whether the impaired CTL-mediated clearance of clone 13 LCMV in SpiB KO mice was due to a cell-autonomous defective in CD8 T cells. Naive P14 CD8 T cells from SpiB KO and B6 mice were adoptively transferred into B6 recipients, which were then infected with clone 13 LCMV. On day 6, gp33-specific CTL activity was 5 times higher (S/T = 5.6; p = 6 x 10^-4) in recipients of B6 P14 CD8 T cells (Figure 4E) than the endogenous level in similarly infected B6 mice on day 6 (Figure 4E). Therefore, the majority of donor P14 CTLs in B6 recipients are derived from donor P14 CD8 T cells on day 6 after infection with clone 13 LCMV. There was significantly lower LCMV-specific CTL activity derived from SpiB KO P14 CD8 T cell donor cells (Figure 4E). For example, there was a 6-fold decrease (p = 1 x 10^-4) in donor SpiB KO CTLs (3.4% ± 1.2% specific lysis, n = 5 mice; S/T = 5.6) compared to donor B6 controls (19.1% ± 1.9% specific lysis, n = 5 mice; S/T = 5.6). The deficit in donor SpiB KO CTLs specific for clone 13 resulted in defective clearance, as evidenced by a

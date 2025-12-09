@@ -1,0 +1,51 @@
+```plaintext
+502                                                                                      Michael R. Betts and Richard A. Koup
+
+9. Stain cells with appropriate T-cell markers. It is particularly important to 
+include anti-CD3, to help differentiate background CD107a/b staining. When 
+examining SEB-specific responses, it is helpful to include an antibody to CD8, 
+because the vast majority of T-cell–expressed CD107a/b will be found on this 
+subset. If cells were permeabilized, stain also with anti-IFN-γ, to provide an 
+internal positive control for the SEB response.
+
+10. Wash cells with wash buffer, 5 minutes at 1800 rpm; re-suspend pellet in 1% 
+PFA.
+
+11. Analyze by flow cytometry. Data analysis and gating strategy is shown in 
+Fig. 2. Determine the minimum amount of CD107a/b antibody necessary to 
+provide the best separation and population size of the responding cells while 
+keeping background staining to a minimum.
+
+A
+
+B
+
+SSC-A
+
+CD3
+
+FSC-H
+
+CD107a/b
+Gate on CD3+ CD107+ cells
+
+Gate on small lymphocytes
+
+C
+
+D
+
+CD8
+
+IFN-γ
+
+CD107a/b
+Gate on CD8+ CD107+ cells
+
+Fig. 2 Gating schematic for analysis of CD107a and b expression on SEB-stimulated cells. The 
+initial gate is placed around small resting lymphocytes on a forward scatter channel versus a side 
+scatter channel plot (A). Next, the gated cells are subgated based on CD3 expression to analyze on 
+T cells (B). The CD3+ T cells are then further subdivided into CD8+ and CD8– cells, and CD8+ events 
+are gated upon (C). Finally, CD107a/b expression is plotted versus IFN-γ secretion using a quadrant 
+analysis to differentiate various subpopulations of cells based on response type (D).
+```

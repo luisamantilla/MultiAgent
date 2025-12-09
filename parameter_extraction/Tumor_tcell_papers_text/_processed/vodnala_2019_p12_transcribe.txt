@@ -1,0 +1,190 @@
+```plaintext
+RESEARCH | RESEARCH ARTICLE
+
+Conclusions
+T cells are subject to persistent antigen exposure 
+within tumors, resulting in continual TCR sig-
+naling and progressive cellular differentiation. 
+These processes drive T cell exhaustion and 
+some TIL populations retain stemness and harbor 
+the capacity to mediate tumor clearance. The 
+stemness of TILs is perhaps most evident after 
+immune checkpoint blockade or the reinfusion 
+of ex vivo expanded TILs, but the mechanisms 
+underlying this property and functional TIL 
+stemness were previously poorly understood. Here, 
+we report that TCF1hi characteristics of the TIL 
+stemness T cell effector function and preserves T cell 
+stemness.
+We propose a model whereby alterations in 
+metabolism and redox metabolism act to epi-
+genetically regulate gene transcription and T cell 
+stemness (fig. S14). Ultimately, the subcellular 
+location of AcCoA determines T cell stemness, 
+type and function. Our finding that Acss1 was 
+induced in the setting of TCF1hi is consistent 
+with reports indicating that acetate becomes the 
+major carbon source for metabolism during 
+the starvation state, and provides the basis for 
+rational translational applications of reducing 
+tumors. We discovered that provision of sup-
+plemental acetate during conditions of TIL ex-
+haustion preserves the program of T cell func-
+tion and stemness. The finding that acetate restores the function of CD8+ T cells 
+exhausted by stress response after acetate supple-
+mentation (fig. S 6, A to C, and fig. S10, A to H). (41).
+This is a balanced redox metabolism that 
+stabilize the greater need for available AcCoA to 
+drive cellular proliferation and expansion in 
+response (44).
+Our data support intervention and reprogram-
+ming of the metabolic state as a strategy to im-
+prove T cell–based immunotherapy for cancer. 
+These findings identify potential manipulation 
+of T cells via rewire ex vivo means as well as 
+durable genetic intervention to improve anti-
+tumor function. Our findings potentially provide 
+insights into the dynamic interplay between 
+the reduced suppression of T cell effector func-
+tion and its coincident influence upon stemness.
+
+REFERENCES AND NOTES
+1. S. A. Rosenberg, M. R. Restifo, Adoptive cell transfer 
+as personalized immunotherapy for human cancer. 
+Science 348, 62–68 (2015). doi: 10.1126/science.aaa4967 
+pmid: 25838374
+2. D. E. Speiser, D. C. Flatz, and tumor immunity in 
+patients after adoptive cell transfer with autologous 
+gene 224, 850–854 (2002). doi: 10.1126/science.1076614 
+pmid: 12484924
+3. S. A. Rosenberg et al., Durable complete responses in 
+heavily pretreated patients with metastatic melanoma 
+using T cell–based immunotherapy. Clin. Cancer Res. 17, 
+4550–4557 (2011). doi: 10.1158/1078-0432.CCR-11-0116 
+pmid: 21389135
+4. N. Zacharakis et al., Immune recognition of somatic muta-
+tions leading to complete durable regression in breast 
+Cancer Res. Med. 24, 740–737 (2018). doi: 10.1038/s41591-
+018-0047-8 pmid: 29662127
+5. A. H. Sharpe, N. Wolchok, Cancer immunotherapy using 
+checkpoint blockade. Science 359, 1350–1355 (2018). 
+doi: 10.1126/science.aar4060 pmid: 29567705
+6. S. Naik, S. B. Larsen, J. A. Cowley, Fates: How to Tango: 
+Dancing between Stem Cells in Health and 
+Disease. Cell 175, 906–920 (2018). doi: 10.1016/ 
+j.cell.2018.08.071 pmid: 30388454
+7. H. Gohar, H. Clervel, Tales from the crypt: New insights 
+into intestinal stem cells. Nat. Rev. Gastroenterol. Hepatol. 
+16, 39–49 (2019). doi: 10.1038/s41575-018-0087-7 
+pmid: 30446788
+8. C. Laffin et al., Wnt signaling arrests effector T cell 
+differentiation and generates CD8+ memory stem 
+cells. Nat. Med. 15, 808–813 (2009). doi: 10.1038/nm.1982 
+pmid: 19525966
+9. E. Gattinoni et al., A human memory T cell subset with stem 
+cell–like properties. Nat. Med. 17, 1209–1217 (2011). 
+doi: 10.1038/nm.2446 pmid: 21926977
+10. N. P. Restifo, L. Gattinoni, Linear relationship of 
+effector and memory T cells. Curr. Opin. Immunol. 
+25, 556–563 (2013). doi: 10.1016/j.coi.2013.09.003 
+pmid: 24642368
+11. M. Sade-Feldman et al., Defining T Cell States Associated 
+with Response to Checkpoint Immunotherapy in Melanoma. 
+Cell 175, 998–1013.e20 (2018). doi: 10.1016/j.cell.2018.10.038. 
+pmid: 30388456
+12. P. Phad et al., Chromatin states define tumor-specific T cell 
+dysfunction and reprogramming. Nature 545, 452–456 (2017). 
+doi: 10.1038/nature22367 pmid: 28514442
+13. K. Kuroda et al., Chromatin-Based Immunotherapy 
+Involves Diverse Mechanisms to CD8+ Tumor-Infiltrating 
+Lymph. Immunity 39, 184–195 (2013). doi: 10.1016/ 
+j.immuni.2018.07.014 pmid: 23911632
+14. S. Siddiqui et al., Intratumoral TCF1+PD-1+ T Cells with 
+Stem-like Precursor Phenotype Contribute in Response to 
+Vaccination and Checkpoint Blockade. Immunotherapy 
+Immunity 39, 55–121 (2016). pmid: 28056337
+15. J. J. Delaney et al., Defining CD8+ T cells that provide 
+proliferative burst. J. Clin. Invest. 129, 537–447 (2019). 
+doi: 10.1038/nature03934 pmid: 27502384
+16. C. H. June et al., Adoptive T cell therapy for cancer: 
+Harnessing the T cell response in tumors, the epigenetic 
+state of T cells. Science 121, 150–53 (2013). 
+doi: 10.1126/science.1230542 pmid: 23911632
+17. J. R. Wherry et al., T cell exhaustion in chronic infection 
+and cancer. Nat. Rev. Immunol. 12, 492–499 (2012). 
+doi: 10.1038/nri3241 pmid: 22918472
+18. J. C. Holst, Regulation of T cell signaling in T cell 
+exhaustion. Immunity 36, 415–428 (2012). 
+doi: 10.1016/j.immuni.2012.03.003 pmid: 22465102
+19. R. J. Kishton, W. M. Sukumar, P. Restifo, Metabolic Regulation 
+of T Cell Immunity. Annu. Rev. Immunol. 34, 35–68 (2016). 
+doi: 10.1146/annurev-immunol-032414-112014 
+pmid: 26799492
+20. J. Holst, A. Derk, S. Joseph, in Molecular Cell Biology, 
+R. Edin (2010), pp. 1–6.
+21. R. Gattinoni, L. Bachmann, O. Straume, L. A. Akslen, 
+Tumor necrosis is an indicator of shrink. In 
+Cancer Res. 69, 347–1482 (2009). 
+doi: 10.1097/PAS.0b013e3181a5e5d6 
+pmid: 22962374
+22. K. Koncar et al., Tumor necrosis (RO Status) with TNF stage 
+correlates with reduced residual disease (RO Status) as 
+associated with a poor prognosis. Anticancer Res. 33, 
+1999–1005 (2013). doi: 10.1016/j.cell.2018.10.038 
+pmid: 30388456
+23. E. J. Lee et al., Tumor suppression within the tumour 
+microenvironment limits T cell effector function. Nature 
+537, 533–543 (2016). doi: 10.1038/nature19364 
+pmid: 27626383
+24. L. Gattinoni, C. A. Klebanoff, M. R. Restifo, Paths to 
+stemness: Building the ultimate antitumor T cell. 
+Nat. Cancer 12, 671–684 (2012). doi: 10.1038/nrc3322 
+pmid: 22996603
+25. J. A. Schreiber et al., The effect of even a small change in 
+electrochemical potential gradients after active transport of 
+acetyl-CoA in brain stem tumor cells. Biochem. Biophys. 
+Acta 244, 15–25 (2015). doi: 10.1016/j.bbabio.2015.07.004 
+pmid: 25936542
+26. A. S. Fadley, M. J. McNally, P. J. Thomson, The energy 
+balance of acetyl-CoA metabolism in the presence and 
+absence of stress under both in vitro and in vivo 
+conditions. J. Biol. Chem. 363, 46–57 (2016). doi: 10.1016/j.bbabio.2015.07.004 
+pmid: 25936542
+27. J. C. Guzman, R. A. Glover, O. Z. Selinger, Potassium 
+channels in the brain: A selective inhibitor as a neurotoxin. 
+Neurochem. Res. 7, 637–644 (1982). doi: 10.1007/ 
+BF00913705 pmid: 6127092
+28. M. Levitt et al., Essential roles of energy metabolism for 
+potassium channels activate T cell integrin function. 
+Physical and functional association between Kv1.3 
+channels and beta1 integrins. J. Cell. Physiol. 1167, 
+1167–1175 (2004). doi: 10.1084/jem.20041667 
+pmid: 14699082
+29. R. G. Bellinelli, K. Smith, The Kennedy pathway—De novo 
+synthesis of phosphatidylethanolamine and 
+phosphatidylcholine. J. Biol. Chem. 412, 424–428 (2010). 
+doi: 10.1021/ja344786 pmid: 20503434
+30. X. Q. et al., Autophagy is essential for effector CD8+ 
+T cell survival and memory formation. Nat. Immunol. 
+15, 1152–1161 (2014). doi: 10.1038/ni.3025 
+pmid: 25362489
+31. D. J. Klionsky et al., Guidelines for the use and 
+interpretation of assays for monitoring autophagy. 
+Autophagy 12, 1–222 (2012). doi: 10.4161/auto.19496; 
+pmid: 22966492
+32. F. Pietrocola, E. Galluzzi, A. M. Bravo-San Pedro, 
+M. Madeo, G. Kroemer, Acetyl coenzyme A: A central 
+metabolite and second messenger. Cell Metab. 21, 
+805–825 (2015). doi: 10.1016/j.cmet.2015.05.014; 
+pmid: 26039450
+33. M. E. Handschin, Z. Zhang, E. Katsumata, J. Auner, Proteins, 
+acetylation in metabolism: metabolites and cofactors. 
+Rev. Endocrinol. 11, 263–269 (2015). doi: 10.1038/ 
+nrm.2015.11 pmid: 26038246
+34. S. T. Weinert et al., Acetylation dynamics and 
+stoichiometry in histone modifications. J. Biol. Chem. 
+290, 22489–22496 (2015). doi: 10.1074/mcp.M110.134766; 
+pmid: 24849616
+35. A. Dranetz, M. J. L. Roes, T. R. Anensen, The world of 
+acetyl-CoA. J. Biol. Chem. 375, 1864–1872 (2014). 
+doi: 10.1016/j.bbabio.2016.06.007

@@ -1,0 +1,117 @@
+```plaintext
+NATURE CANCER
+
+ARTICLES
+
+ing to a homogeneous response, the intensity of which depends on 
+the number of producing T cells (Fig. 3c). To distinguish between 
+these two possibilities, we repeated our experiments with differ- 
+ent numbers of T cells. We reasoned that, if IFN-γ is cell and a lim- 
+ited number of tumor cells, lowering the number of T cells should 
+reduce the frequency of responding tumor cells without affecting 
+the intensity of their response (best modeled by a bimodal distribu- 
+tion in tumor cell response) (Fig. 3c). By contrast, if IFN-γ primarily 
+acted as a shared resource, reducing the number of T cells should 
+decrease the intensity of the response in all cells (unimodal distri- 
+bution of tumor cell response). Supporting the latter hypothesis, we 
+found that a tenfold decrease in the number of transferred T cells 
+resulted in a homogeneous reduction in MHC class I upregula- 
+tion (Fig. 3f). Altogether, these experiments support the idea that 
+IFN-γ diffuses extensively in the tumor microenvironment. As a 
+result, the collective activity of IFN-γ-producing T cells generates a 
+widespread field of IFN-γ, the concentration of which dictates phe- 
+notypic changes across the whole tumor. We measured that, when 
+transferring 2 × 106 OT-I cells, the ratio of OVA+ Eμ-myc cells to OT- 
+I cells was approximately 1,000:1. By comparing the fold increase in 
+MHC class I levels observed in vivo with that seen in vitro (Fig. 1a), 
+we estimated that this T cell density resulted in an intratumoral con- 
+centration of IFN-γ of around 1 ng ml−1 (see Extended Data Fig. 5a,b). 
+This is obviously a rough estimate because several parameters 
+could potentially differ between the in vitro and the in vivo settings 
+(such as cytokine consumption or basal IFN-γ receptor (IFN-γR) 
+expression). To test whether the activity of IFN-γ may influence 
+tumor fate, we transferred tumors into wild-type or IFN-γR-deficient 
+mice. We observed phenotypic changes in tumor cells, suggesting effec- 
+tive diffusion in vivo, and most importantly found reduced tumor 
+growth in wild-type mice, but not in IFN-γR-deficient mice (Extended 
+Data Fig. 5c,d). This suggests that IFN-γ may influence tumor growth 
+in vivo. This discrepancy may originate from an altered sensitivity 
+of IFN-γ non-consumers to changes in IFN-γ expression, depending 
+on tumor cells in vivo. To test how T cell-derived IFN-γ may 
+affect tumor growth in vivo, we relied on our mosaic tumor system 
+and compared the impact of T cell-derived IFN-γ on the growth 
+of both antigen-positive and antigen-negative tumors. When reopi- 
+net mice were transferred with IFN-γ-competent T cells, we observed 
+that antigen-positive (OVA+) cells were eliminated, but also that 
+the antigen-negative tumors partly regressed (see Extended 
+Data Fig. 5e,f). This partial control was lost on transfer of IFN-γ- 
+deficient T cells (see Extended Data Fig. 5e,f), supporting the idea 
+that bystander IFN-γ activity may help limit tumor growth in vivo. 
+To extend these findings to solid tumors, we generated mosaic 
+tumors using the B16.F10 melanoma model. In this setup, again 
+we observed haloes of IFN-γ signaling in both antigen-posi- 
+tive (OVA+ B16) and antigen-negative (B16) cells in the presence 
+of T cells (Fig. 3g–i). Thus, extensive bystander activity of T cell- 
+derived IFN-γ is a property that also pertains to solid tumors.
+
+Widespread and sustained STAT1 signaling in the tumor micro- 
+environment. The observed bystander changes in tumor phenotype 
+prompted us to better characterize the spatiotemporal dynamics of 
+IFN-γ signaling in the tumor microenvironment. We focused on 
+STAT1 translocation in tumor cells, because this represents an early 
+event after cytokine exposure. To this end, we generated a fluores- 
+cent reporter combining a STAT1–GFP (green fluorescent protein) 
+fusion protein and a nuclear mCherry protein, and introduced this 
+probe into Eμ-myc lymphoma cells. As expected, in the absence of 
+stimulation, STAT1–GFP was cytoplasmic and excluded from the 
+nucleus (Fig. 4a). On in vitro addition of IFN-γ, a more uniform 
+(cytoplasmic and nuclear localization) distribution of STAT1–GFP 
+was rapidly observed, confirming the translocation of a fraction of 
+the STAT1–GFP pool (Fig. 4a). To quantify STAT1 translocation in 
+multiple cells, we designed an automated image analysis pipeline 
+based on the detection of cell and nuclear shape and computing of 
+Pearson’s correlation coefficients between STAT1–GFP and nuclear 
+mCherry signals (see Extended Data Fig. 6). With this strategy, sta- 
+tistically distinct translocation scores were observed for cells in the 
+presence or absence of IFN-γ (Fig. 4b). 
+We therefore used these distinct patterns of STAT1 localization to 
+identify cells with ongoing cytokine signaling in vivo by two-photon 
+imaging. In a first model, we analyzed the response of H-2k B cell lympho- 
+mas in response to Matrigel-embedded OT-I T cells, which expressed 
+a H-2k-specific transgenic TCR. In female Rag2−/− mice that were 
+sublethally exposed to these tumor–reporter mice, we predominantly 
+observed evidence of cytokine signaling in a large number of 
+tumor cells, which was confirmed by the clear colocalization in 
+two-photon images (Fig. 4c,d) and confirmed by automated com- 
+putation of STAT1 translocation scores (Fig. 4e). Importantly, STAT1 trans- 
+location was widespread and detected in tumor cells irrespective of 
+whether or not they were contacting T cells. Consistently, there was 
+no correlation between STAT1 translocation scores in individual tumor 
+cells and distance to the nearest T cells (Fig. 4f). Nuclear STAT1–GFP 
+typically persisted throughout the imaging period (approximately 
+1–2 h), suggesting sustained signaling (Fig. 4g, see Supplementary 
+Video 2). To extend these results, we repeated these experiments in a 
+second model relying on OVA+ Eμ-myc B cell lymphomas and OT-I 
+CD8+ T cells. In this setup, nuclear STAT1–GFP was observed 
+in the vast majority of tumor cells when OT-I effector CD8+ T cells 
+were transferred but not in the absence of T cells (see Extended data 
+
+Fig. 3 | Extensive bystander IFN-γ activity in the tumor microenvironment. a–f, Bystander activity of IFN-γ in the tumor microenvironment of B cell 
+lymphomas. Rag2−/− mice were injected with either Eμ-myc cells alone or a 1:1 mixture of Eμ-myc and OVA-expressing Eμ-myc B lymphoma cells (labeled 
+with different fluorescent proteins). On days 12–13, recipients were injected with OT-I T cells or left untreated. After 2 d, the bone marrow of the mice was 
+recovered and analyzed by flow cytometry. a, Representative histograms of H-2k and PD-L1 surface expression of OVA-expressing (left) or OVA-non- 
+expressing (right) Eμ-myc B lymphoma cells isolated from mice bearing mosaic tumors and injected with OT-I T cells (blue) or left untreated (filled 
+gray). Data represent three independent experiments with n = 4 mice per group in each experiment. b–d, H-2k (b); H-2 (c) and PD-L1 (d) surface 
+expression on tumor cells from mice injected with Eμ-myc cells only (black) or a 1:1 mixture of OVA-expressing (blue) and OVA-non-expressing (orange) 
+Eμ-myc cells. Each dot represents one mouse. Black lines indicate mean values. Data represent three independent experiments with n = 4 mice per group 
+in each experiment (*P < 0.05, two-tailed Mann–Whitney U-test). e, Proposed model of bystander IFN-γ diffusion in the tumor microenvironment (see text for 
+details). f, Representative histograms of surface expression of H-2k and PD-L1 on H-2k+ on OVA-expressing tumor cells isolated from mice either left untreated 
+(filled gray) or injected with 2 × 106 (light-blue line) or 2 × 105 (dark-blue line) OT-I T cells. Data represent n = 5 mice per group. g, Bystander activity of 
+IFN-γ in solid tumors. Rag2−/− mice were injected with a 1:1 mixture of B16 and OVA-expressing B16 cells (labeled with different fluorescent proteins). After 
+1 week, recipients were injected with OT-I T cells or left untreated. After 2 d, tumors were digested and analyzed by flow cytometry. H-2k (g), H-2 (h) or 
+PD-L1 (i) surface expression is shown on tumor cells from mice injected with a mixture of OVA-expressing (blue) and OVA-non-expressing (orange) 
+B16-F10 cells. Each dot represents one mouse. Black lines indicate mean values. Data represent two independent experiments with n = 4 mice per group in 
+each experiment (*P < 0.05, two-tailed Mann–Whitney U-test).
+
+NATURE CANCER | www.nature.com/natcancer
+```

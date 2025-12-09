@@ -1,0 +1,235 @@
+```markdown
+NATURE CANCER
+
+ARTICLES
+
+a
+
+IFN-γ
+
+anti-IFN-γ
+
+1 h
+
+24 h
+
+mRNA purification
+
+IFN-γ
+
+anti-IFN-γ
+
+6 h
+
+24 h
+
+mRNA purification
+
+IFN-γ
+
+24 h
+
+mRNA purification
+
+b
+
+\[
+\begin{array}{c}
+-2 \quad 0 \quad 2 \\
+\end{array}
+\]
+
+P2rx3
+
+Cd274
+
+Cd74
+
+Irf8
+
+Stat1
+
+H2-K1
+
+H2-D1
+
+Control
+
+1-h exposure
+
+6-h exposure
+
+24-h exposure
+
+c
+
+\[
+\begin{array}{c}
+\text{24-h exposure} \\
+254 \\
+\end{array}
+\]
+
+\[
+\begin{array}{c}
+1 \\
+\end{array}
+\]
+
+\[
+\begin{array}{c}
+12 \\
+\end{array}
+\]
+
+\[
+\begin{array}{c}
+1-h exposure \\
+0 \\
+\end{array}
+\]
+
+\[
+\begin{array}{c}
+1 \\
+\end{array}
+\]
+
+\[
+\begin{array}{c}
+6-h exposure \\
+0 \\
+\end{array}
+\]
+
+d
+
+16,000
+
+12,000
+
+8,000
+
+4,000
+
+0
+
+H2-K^b (gMFI)
+
+Unstim.
+
+1 h
+
+6 h
+
+24 h
+
+Duration of IFN-γ stimulation
+
+e
+
+20,000
+
+15,000
+
+10,000
+
+5,000
+
+0
+
+H2-D^b (gMFI)
+
+Eμ-myc
+
+Unstim.
+
+1 h
+
+6 h
+
+24 h
+
+Duration of IFN-γ stimulation
+
+f
+
+4,000
+
+3,000
+
+2,000
+
+1,000
+
+0
+
+PD-L1 (gMFI)
+
+B16.F10
+
+Unstim.
+
+1 h
+
+6 h
+
+24 h
+
+Duration of IFN-γ stimulation
+
+g
+
+1,000,000
+
+750,000
+
+500,000
+
+250,000
+
+0
+
+PD-L1 (gMFI)
+
+Unstim.
+
+1 h
+
+6 h
+
+24 h
+
+Duration of IFN-γ stimulation
+
+f
+
+g
+
+NES score
+
+Ranked motif
+
+h
+
+NES score
+
+Ranked motif
+
+\[
+\begin{array}{c}
+\text{IRF8-associated motifs} \\
+\text{STAT1-associated motifs} \\
+\text{Other transcription factor-} \\
+\text{associated motifs} \\
+\end{array}
+\]
+
+Fig. 5 | Sustained signaling is required to alter tumor cell phenotype. a, Experimental setup. Eμ-myc B lymphoma cells were stimulated with 5 ng ml^-1 of IFN-γ. At 1 h or 6 h, the stimulation was blocked by adding 50 μg ml^-1 of anti-IFN-γ monoclonal antibody. At 24 h, cells were recovered for mRNA-seq. b, Heatmap of differentially expressed genes. Gene expression is normalized by row. c, Venn diagrams of differentially expressed genes between the various stimulated and control samples. d,e, Tumor cells were stimulated with 5 ng ml^-1 of IFN-γ. At 1 h or 6 h, the stimulation was blocked by adding 50 μg ml^-1 of anti-IFN-γ monoclonal antibody. At 24 h, cells were recovered and analyzed by flow cytometry. Graphs represent H2-K^b (left), H2-D^b (middle) and PD-L1 (right) surface expression after indicated durations of stimulation on Eμ-myc (d) and B16.F10 (e) models. Each dot represents the mean of three technical replicates, representing three independent experiments. Unstim., unstimulated. f,g, Normalized enrichment score (NES) of the 10 most enriched motifs for the differentially expressed genes between 6-h-stimulated (f) and 24-h-stimulated (g) samples and control samples.
+
+activity, but a high number of NO-producing macrophages regulate activity at the tissue level in both NO-producing and NO-non-producing cells35,36.
+
+It has recently been shown that IFN-γ can bind to phosphatidylserine on the surface of tumor cells and be slowly released to prolong inflammation36. Such a mechanism, termed ‘catch and release’,
+
+NATURE CANCER | www.nature.com/natcancer
+```

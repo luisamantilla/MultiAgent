@@ -1,0 +1,143 @@
+```plaintext
+Immunity
+456
+
+A
+
+Cytosol
+
+Granule
+
+B6
+
+Spi6 KO
+
+GrB KO
+
+GrB
+
+67 kD
+
+25 kD
+
+casp8
+
+67 kD
+
+42 kD
+
+αActin
+
+42 kD
+
+B
+
+Cytosol GrA (V/mg)
+
+Granule GrA (V/mg)
+
+Cytosol GrB (V/mg)
+
+Granule GrB (V/mg)
+
+Cytosol Casp 3 (V/mg)
+
+Granule Casp 3 (V/mg)
+
+Figure 5. Spi6 Deficiency Increases Cyto-
+plasmic GrB and Apoptosis in CTLs
+
+(A) Western blots of reducing SDS-PAGE
+from the cytosol and granules of wild-type
+B6, Spi6 KO, or GrB KO P14 CTLs.
+(B) Mean specific activity (V) ± SEM of GrA,
+GrB, and caspase 3 (casp 3) from CTLs (n = 4
+mice).
+
+KO CTLs (Figure 5B). However, it is possible that the
+rupture of granules during the subcellular fractionation
+procedure may result in granzyme activity in cytosolic
+fractions. Therefore, we used confocal immunofluores-
+cence microscopy (CIM) to examine the effect of Spi6
+deficiency on granule stability in intact CTLs. The
+frequency of Spi6 KO CTLs devoid of GrB+ granules
+(>0.1 μm in diameter) was about 3 times greater than
+for B6 CTLs (p = 0.03), resulting in a 2-fold increase
+(p = 0.03) in the mean number of GrB+ granules per
+Spi6 KO CTL (Figures 6A and 6B). Furthermore, there
+was a corresponding increase in GrB staining in the
+cytoplasm of Spi6 KO CTLs (Figure 6A). We also ob-
+served a loss of GrB+ Pfn+ granules in Spi6 KO CTLs
+(Figure 6C), implying that Spi6 prevents GrB leakage
+into the cytoplasm by ensuring granule integrity.
+Granule vesicles from murine CTLs are composed of
+several clustered membrane bound electron-dense
+cores with a diameter of about 100 nm (Peters et al.,
+1991). We used transmission electron microscopy
+(TEM) to determine the number of electron-dense cores
+in 0.1 μm thick sections (n = 300) of Spi6 P14 CTLs, and
+after extrapolation based on the cell volume, the total
+number per CTL (Peters et al., 1991). Spi6 KO CTLs con-
+tained 7 times (p = 0.02) fewer electron-dense cores
+(14 ± 4) than B6 CTLs (102 ± 20), although there was
+no significant difference (p = 0.5) in the mean diameter
+of the electron-dense cores (B6 120 ± 30 nm, Spi6 KO
+125 ± 26 nm). Representative examples of electron mi-
+crographs of B6 and Spi6 CTLs are shown in Figure 6D.
+The defect in the number of granule cores in Spi6 CTLs is
+consistent with the decrease in the number of GrB+
+Pfn+ granules revealed by CIM (Figure 6C). As expected,
+about 40% of the electron-dense granule cores in wild-
+type CTLs were found in clusters of three or more, indi-
+cating the presence of a granule vesicle (Peters et al.,
+1991). However, we did not observe any clustering of
+the electron-dense granule cores into granule structures
+in Spi6 KO CTLs (Figure 6D). Thus, as well as reducing
+the number of core vesicles, Spi6 deficiency also seems
+to disrupt the organization of these cores into granule
+vesicles.
+
+The defect in granule integrity was GrB dependent be-
+cause inhibition of GrB by Z-AAD-CMK (Gong et al.,
+1999) gave a significant (p = 2 × 10^-5) increase in the
+number of granules in Spi6 KO CTLs (Figure 6E). As we
+observed before (Figure 5B), there was a 2-fold decrease
+(p = 9 × 10^-5) in granule-associated GrA-specific activity
+in Spi6 KO CTLs compared to B6 control CTLs (Fig-
+ure 6F). The defect in Spi6 KO CTLs could be corrected
+in Spi6 KO x GrB KO CTLs, as indicated by an increase
+in the level of GrA-specific activity in granules (Figure 6E).
+We conclude that the increased GrB activity in the cyto-
+plasm of Spi6 KO is the catalyst for the cytoplasmic break-
+down and amplification of GrB-mediated effects. The signifi-
+cant (p = 0.004) increase in granule-specific GrA activity
+in GrB KO CTLs over the level in B6 CTLs (Figure 6F) sug-
+gests that GrB-catalyzed breakdown of granules does not
+occur in wild-type CTLs. This is supported by the in-
+crease (p = 0.01) in the mean number of electron-dense
+granule cores in GrB CTLs (150 ± 67, n = 300 cell sec-
+tions) compared to B6 CTLs (102 ± 20) (Figure 5B).
+
+Discussion
+
+Studies that describe the expression of PI9 and Spi6 in
+leukocytes and inflammatory sites have led to the sug-
+gestion that serpins protect against GrB during immune
+reactions (Bladergroen et al., 2001; Hirst et al., 2003).
+These observations have been complemented by ecto-
+pic overexpression studies that show the potential
+for Spi6 in protecting from GrB-mediated death (Me-
+dema et al., 2001b; Phillips et al., 2004). However, artifi-
+cially high levels of Spi6 expression were required for
+cyto-protection (Medema et al., 2001b; Phillips et al.,
+2004), and so the physiological requirement for Spi6
+was not tested. To address this issue, we generated
+Spi6 KO mice and examined the viability, function, and
+structure of CTLs.
+
+We show that Spi6 protects CTLs from their own GrB
+by suppressing activity in the cytoplasm. The break-
+down of cytotoxic granules by GrB in the cytoplasm
+was unexpected, but likely amplifies the release of GrB
+and induction of apoptosis (Figure 7). How the increased
+```

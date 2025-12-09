@@ -1,0 +1,89 @@
+PD1-ACR T cells for PDL1+ cancer therapy
+
+![Graphs]
+
+A
+
+Cell numbers (10^6)
+
+0 2 4 6 8 10 12
+
+Time (days)
+
+- PD1 ACR T cells
+- control T cells
+
+B
+
+Cell numbers (10^6)
+
+0 2 4 6 8 10 12
+
+Time (days)
+
+- PD1 ACR T cells
+- control T cells
+
+C
+
+Fold increase thymidine incorporation
+
+0 1 2 3
+
+Time (Days)
+
+- PD1 ACR T cells
+- control T cells
+
+D
+
+Fold increase caspase activity
+
+0 0.5 1.0 1.5 2.0 2.5
+
+Time (Days)
+
+- PD1 ACR T cells
+- control T cells
+
+Figure 3. PD1-ACR T cells exhibited augmented proliferation upon engagement of PDL1+ tumor cells. A. CTL re-
+sponders cocultured with T98G stimulators. B. CTL responders cocultured with U87 stimulators were counted.
+C. Proliferation at day 3, day 6 and day 12 by thymidine incorporation when cocultured with PDL1+ U87 cells as
+compared to PDL1- T98G cells. D. Apoptosis was assessed at day 3, day 6 and day 12 by CD3 gating and the CASP-
+SCREEN flow cytometric apoptosis detection kit. All data are the ratio CTL responders cocultured with U87:T98G
+stimulators. Replicate experiments were represented as a mean (± SEM) fold increase (n = 3) in the caspase acti-
+vation when cocultured with PDL1+ U87 cells as compared to PDL1- T98G cells. *, p = 0.0212 and **, p < 0.001.
+
+The primers for β-actin, IL-2, IFN-γ, and TNF-α
+are as follows: β-actin (623bp)-For (CCTAGAG-
+CCAACCGTAAAAG) and Rev (TCTTTCATTGGTG-
+CTA GGAGCCA); IL-2 (222bp)-For (GAATGGAAT-
+TTAATATACGAAGATCC) and Rev (TGTTTCAG-
+ATCCCTTTATTGAGC); IFN-γ(180bp)-For (CTGAT-
+TTCAACTTCTTTGGCT) and Rev (TATCCGCTACA-
+TCTGAA TGA); TNF-α (325 bp)-For (CAGAGGGA-
+AAGGATGCCCA) and Rev (CCTTGGTCTGGTAG-
+GAGAC). All primer pairs were designed so
+that amplification occurs across an intron
+thereby allowing the distinction between the
+amplification from the genomic DNA and the
+cDNA.
+
+In vivo antitumor assays
+
+Xenograft tumor mouse model was established
+by abdominal subcutaneous injection of 5×10^4
+U87 cells into 6-week-old female BALB/cA-
+nude mice (Chinese Academy of Science Anhui
+Experimental Animal Center) as described pre-
+viously [20, 21]. All animal work was conducted
+at the Anhui University of Science & Technology
+Animal Facility and use Committee in accor-
+dance with the institutional guideline. About
+12-15 days after inoculation of the U87 cells,
+the mice were assigned to different groups (15
+in each group) and injected with a total of 1.0 ×
+
+464
+
+Am J Transl Res 2015;7(3):460-473

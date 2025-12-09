@@ -1,0 +1,95 @@
+```plaintext
+ARTICLES
+
+Tumor-associated B7-H1 promotes T-cell apoptosis: A potential mechanism of immune evasion
+
+HAIDONG DONG1, SCOTT E. STROME2, DIVA R. SALOMAO3, HIDETO TAMURA1, FUMIYA HIRANO1, 
+DALLAS B. FLIES1, PATRICK C. ROCHE3, JUN LU1, GEFENG ZHU1, KOJI TAMADA1, 
+VANDA A. LENNON3,4, ESTEBAN CELIS5 & LIEPING CHEN1
+
+1Departments of Immunology, 2Otorhinolaryngology, 3Laboratory Medicine and Pathology and 
+4Neurology, Mayo Clinic, Rochester, Minnesota, USA 
+Correspondence should be addressed to L.C.; email: chen.lieping@mayo.edu
+
+Published online: 24 June 2002, doi:10.1038/nm730
+
+B7-H1, a recently described member of the B7 family of costimulatory molecules, is thought to 
+be involved in the regulation of cellular and humoral immune responses through the PD-1 re- 
+ceptor on activated T and B cells. We report here that, except for cells of the macrophage lin- 
+eage, normal human tissues do not express B7-H1. In contrast, B7-H1 is abundant in human 
+carcinomas of lung, ovary and colon and in melanomas. The pro-inflammatory cytokine inter- 
+feron-γ upregulates B7-H1 on the surface of tumor cell lines. Cancer cell–associated B7-H1 in- 
+creases apoptosis of antigen-specific human T-cell clones in vitro, and the apoptotic effect of 
+B7-H1 is mediated largely by one or more receptors other than PD-1. In addition, expression of 
+B7-H1 on mouse P815 tumor increases apoptosis of activated tumor-reactive T cells and pro- 
+motes the growth of highly immunogenic B7-1+ tumors in vivo. These findings have implica- 
+tions for the design of T cell–based cancer immunotherapy.
+
+Interactions among subsets of immune cells through costimulatory 
+molecules and their receptors transmit biochemical signals 
+that amplify, dampify, differentiate and terminate immune re- 
+sponses. Abrogation of costimulatory activity, by administration 
+of monoclonal antibodies and soluble receptors that neutralize 
+costimulatory molecules, or by gene-targeted disruption of their 
+expression, results in compromised cellular and humoral im- 
+mune responses. This can be beneficial when it inhibits autoim- 
+mune diseases and rejection of transplanted organs12. The lack 
+of costimulatory activation can be detrimental, however, if it 
+compromises immune responses against cancer13. In addition to 
+their costimulatory function, many receptor–ligand interactions 
+are known to trigger anti-apoptotic pathways that prevent acti- 
+vation-induced T-cell death14,15. For example, triggering of CD28, 
+4-1BB and OX40 receptors costimulates growth of T cells and 
+prevents the death of activated T cells16. In contrast, engage- 
+ment of CTLA-4, a second receptor of B7-1 and B7-2, may inhibit 
+the growth of T cells by blocking cell-cycle progression10,11.
+
+B7-H1 is a cell-surface glycoprotein belonging to the B7 family 
+of costimulatory molecules. Stimulation of primary human 
+T cells in vitro with immobilized B7-H1 in the form of an im- 
+munoglobulin fusion protein (B7-H1Ig), along with mono- 
+clonal antibody against CD3 as a surrogate antigen, enhances 
+T-cell growth and IL-10 secretion17. In addition, cell-associated 
+B7-H1 costimulates T-cell growth, as demonstrated by stimulat- 
+ing proliferation of resting allogeneic CD4+ T cells18. 
+Administration of B7-H1 enhances CD4+ T-cell responses to 
+KLH and increases T helper cell–dependent synthesis of TNP 
+hapten–specific IgG2a17. Taken together, our results indicate that 
+B7-H1 may be involved in promoting Th2-biased responses. 
+Engagement of the PD-1 receptor by B7-H1 (PD-L1), however, in- 
+hibits proliferation and cytokine production by activated 
+T cells18. In addition, PD-1-deficient mice develop systemic au- 
+toimmune diseases15,16. An alternative explanation for these ob- 
+servations is that receptor(s) other than PD-1 may be engaged by 
+B7-H1 to regulate T-cell responses.
+
+Northern-blot analyses have shown B7-H1 mRNA transcripts 
+in a variety of non-lymphoid parenchymal organs, including the 
+heart, placenta, skeletal muscle and lung17. The wide distribution 
+of B7-H1 is suggestive of a broad role in local tissue physiology. 
+Here we detected B7-H1 protein in human cancers we exam- 
+ined but not in normal tissues. Further study indicated that 
+activated T cells interacting with tumor-associated B7-H1 led to 
+programmed cell death. This suggests a mechanism by which tu- 
+mors may evade immune destruction.
+
+Human cancers but not normal tissues express B7-H1 
+We used monoclonal antibody specific for B7-H1 to determine 
+immunohistochemically whether sites of B7-H1 protein expres- 
+sion correlated to sites of mRNA expression. We did not detect 
+immunoreactivity in any normal solid tissue examined, includ- 
+ing breast, colon, pancreas, kidney, uterus, skeletal muscle and 
+lung (Fig. 1a and Supplementary Figs. A and B online). Notably, 
+we detected immunoreactive macrophages in liver, lung and 
+thymus (data not shown). This finding accords with our earlier report that a 
+population of peripheral blood monocytes constitutively ex- 
+presses B7-H119.
+
+FACS analysis of tumor lines derived from a variety of human 
+tissues showed surface B7-H1 expression on 4 of 9 lung carcino- 
+mas and 1 of 3 ovarian carcinomas. We did not detect surface ex- 
+pression of B7-H1 on colonic or duodenal cell lines (4), leukemia 
+(5), choriocarcinoma (2) or melanoma lines (6). When treated 
+
+NATURE MEDICINE • VOLUME 8 • NUMBER 8 • AUGUST 2002 793
+```

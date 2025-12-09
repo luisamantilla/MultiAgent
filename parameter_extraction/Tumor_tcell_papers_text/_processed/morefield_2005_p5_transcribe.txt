@@ -1,0 +1,25 @@
+1592
+
+G.L. Morefield et al. / Vaccine 23 (2005) 1588–1595
+
+![Image](A) ![Image](B)
+
+![Image](C) ![Image](D)
+
+Fig. 1. Dendritic cells treated with a solution of BODIPY FL (green) labeled alpha casein. The cytoskeleton was stained red. The images are from a z-series of 43 slices. Key: (A) slice 4; (B) slice 13; (C) slide 26; (D) slice 37. The bars represent 10 μm.
+
+adjuvant, the AC was completely adsorbed in each model vaccine.
+
+The mean adsorptive capacity of BODIPY FL labeled AC by AH (2.1 mg/mg Al) and AP (0.38 mg/mg Al) was essentially the same as the unlabeled AC, indicating that the fluorescent label did not affect adsorption of AC by the aluminum-containing adjuvants. Thus, the results of studies with BODIPY FL labeled AC can be applied to AC.
+
+3.3. Elution of AC by cell culture media
+
+The adsorbed AC did not elute when each model vaccine was exposed to cell culture media for 3 h (Table 1). Thus, any AC internalized by DCs from the model AC/adjuvant vaccines must occur by phagocytosis of the adjuvant particles.
+
+3.4. Confocal microscopy
+
+The cytoskeleton of DCs was stained with phalloidin to enable visualization of the red DCs and green AC. Visual evidence for the internalization of AC by macropinocytosis was obtained when DCs that had been exposed to a solution (10 μg AC/mL) of BODIPY FL labeled AC were examined by confocal microscopy. Fig. 1A shows a focal plane at the top of two DCs. Only the red cytoskeleton of the DCs was visible. Fig. 1B and C show focal planes that are through the center of the DCs. In these images green fluorescence was present within the red cytoskeleton of the DCs. The green materials are pinocytic vesicles that contain BODIPY FL labeled AC. Finally, Fig. 1D shows a focal plane at the bottom of the DCs and only the red cytoskeleton was observed. The z-series showed that AC in solution was internalized by the DCs. Thus, antigen that elutes from aluminum-containing adjuvants following intramuscular or subcutaneous administration can be internalized by macropinocytosis.
+
+AH has a complex morphology [20,21]. The basic unit is fibrous primary particles having dimensions of 4.5 nm × 2.2 nm × 10 nm. However, the primary particles do not exist as solitary particles but form aggregates to minimize the surface free energy. AP also has a complex morphology [20]. The primary particles are platey having a diameter of approximately 50 nm. The primary particles aggregate to reduce the surface free energy. The aggregate diameters of the four adjuvant studied following adsorption of BODIPY FL labeled AC and exposure to cell culture media are presented in Table 1. The mean aggregate size decreased in the order AH > PTHAH > PTHAH > AP.
+
+Alpha casein adsorbed to AH was also internalized by DCs. Fig. 2A shows a focal plane at the top of two DCs that were exposed to a suspension of BODIPY FL labeled AC adsorbed to AH. The red cytoskeleton of the top of the DCs was apparent. The green fluorescence of BODIPY FL labeled AC adsorbed to AH was also seen in the field. Fig. 2B and C show focal planes within the DCs. Green fluorescent material was seen within the red cytoskeleton of the DCs. The

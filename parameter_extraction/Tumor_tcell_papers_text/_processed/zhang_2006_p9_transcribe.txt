@@ -1,0 +1,154 @@
+Spi6 Protects CTLs from Granzyme B  
+459  
+
+Adoptive Transfer  
+Naive CD8+ cells were purified (>90%) from the spleens of P14 mice  
+(CD45.2+) by positively sorting with anti-CD8 magnetic beads (Milt-  
+enyi Biotec) and adoptively transferred (10^6) by i.v. injection into  
+C57BL/6 CD45.1 mice and after 1 day infected with LCMV. To en-  
+sure P14 CD8 T cell division, recipients were given BrdU in their  
+drinking water (0.8 mg/ml) for 8 days after LCMV infection (Phillips  
+et al., 2004).  
+
+In Vivo CTL Assays  
+To measure ex vivo CTL activity after LCMV infection, RMA targets  
+were pulsed with gp33 (10^-7 M) for 1 hr and labeled with 51Cr,  
+then incubated with viable splenic leukocytes over a range of ratios  
+in quadruplicate. The percentage specific lysis was determined after  
+4 hr as follows: % specific release = (specific release − spontaneous  
+release)/(maximum release × spontaneous release) × 100 (Oper-  
+man et al., 2001). The percentage specific lysis of RMA cells in the  
+absence of gp33 was <10% and the spontaneous release was  
+<10% of the maximum release.  
+
+Subcellular Fractionation of CTLs  
+Splenokine (50^6/ml) from B6 P14 mice, Spi6 KO P14 mice, or Spi6  
+KO × GFR KO P14 mice were cultured with LCMV gp33 peptide  
+(KAVYNFATM) (10^-6 M) and IL-2 (10 U/ml) for 2 days to generate  
+CTLs (Phillips et al., 2004). CTLs were lysed by sonication in hypo-  
+tonic buffer (50 mM PIPES, 50 mM KCL, 5 mM EGTA, 2 mM MgCl2,  
+5 mM DTT [pH 7.6]), then centrifuged at 3000 × g for 10 min to re-  
+move nuclei, then 15,000 × g for 30 min to give cytosol (supernatant)  
+and granule (pellet) fractions (Sun et al., 1996). The granule pellet  
+was resuspended in 1% Triton X-100, 10 mM Tris-HCL, 150 mM  
+NaCl (pH 7.6) for 30 min on ice.  
+
+Antiserum  
+Antiserum was raised to a Spi6 peptide (amino acids 35–47)  
+(ACE-ILPDKQIRYSLYR) was raised in rabbits by standard proce-  
+dures (Cocalico et al., 1995). In brief, four rabbits were immunized  
+with the peptide conjugated to KLH and then boosted twice with in-  
+complete Freund’s adjuvant. Anti-Spi6 antibodies were affinity  
+purified on two columns of immunizing peptide, eluted with 0.1 M  
+glycine, and then dialyzed against PBS. Protein (50 μg) was resolved by  
+SDS-PAGE and transferred to nitrocellulose and probed with anti-Spi6  
+antiserum (7 μg/ml) and goat anti-rabbit IgG conjugated to horse-  
+radish peroxidase (HRP) (2 μg/ml) (Sigma-Aldrich), then visualized by  
+chemiluminescence (ECL kit, Amersham). Blots were also probed  
+with goat anti-mouse GrB (0.2 μg/ml) or B3/B5 systems) and anti-goat  
+IgG HRP (2 μg/ml) (Sigma Aldrich) or with anti-syntenin and coatal-  
+bodo clone ACNT005 (0.5 μg/ml) (Sigma Aldrich) and anti-mouse  
+IgG-HRP (2 μg/ml) (Sigma-Aldrich).  
+
+Protease Assay  
+Colorimetric assays for GrB were performed in reaction buffer with  
+Ac-IEPD-AFC at 0.2 mM (Liu et al., 2003) or GrA with BLT (N-ben-  
+zyloxycarbonyl-L-lysine thiobenzyl ester) at 0.2 mM (Podack et al.,  
+1991) and Ellman’s reagent at 1.75 mM in reaction buffer (100 mM  
+Tris-HCl) at 30°C. Assays for caspase 3 were performed in reaction  
+buffer with PIPES (pH 7.4), 8 mM DTT, 2 mM EDTA, 0.1% CHAPS  
+at 30°C with Ac-DEVD-pNA (Calbiochem) at 0.2 mM (Liu et al., 2003).  
+Protease activity was determined by normalizing to the amount of  
+protein. Units of activity are was defined before at equal amounts.  
+To inhibit GrB (Gong et al., 1999; Podack et al., 1991), Z-AAD  
+(OEM)-CMK (12.5 μM; Sigma Aldrich) was added for the duration  
+of 2 day cultures. Under these conditions, we observed 100% inhibi-  
+tion of GrB in both the cytosolic and cytolytic fractions.  
+
+C1M  
+P14 CTLs were seeded on wells of poly-L-lysine–coated slides, then  
+fixed and permeabilized in acetone/methanol and blocked with 10%  
+normal horse serum in PBS for 60 min at 20°C. P14 CTLs were  
+stained with anti-murine GrB Ab (1/800; R&D Systems) and anti-mu-  
+rine P1-8 mAb (1:100; Kamiya Biomedecal Inc) for 30 min at 20°C  
+in 2% BSA/PBS, then biotin-conjugated mouse anti-rat mAb (1:100;  
+BD Pharmingen) and FITC conjugated rabbit anti-rat antibody  
+(1:200; Molecular Probes) for 30 min at 20°C. After washing with  
+PBS, cells were further incubated with streptavidin-PE (1 μg/ml)  
+
+BD Pharmingen) and DAPI (Sigma Aldrich), washed, and mounted  
+in Vectashield (Vector Labs). Cells were examined with a Leica  
+SP2 AOBS spectral laser scanning confocal microscope operated  
+with the software LCS 2.5v1347. The mean number of granules  
+was determined from the counting of multiple cell images (10 cells  
+in 3 separate counts, n = 300) with a granule defined as point of stain-  
+ing with a diameter >0.1 μm.  
+
+TEM  
+Cells were stained with uranyl acetate/lead citrate, as described in  
+Supplemental Experimental Procedures. An electron microscope  
+(FEI/Technai F30) at 300 kV was used for examination. Electron-den-  
+sco vesicles were counted in 64 μm^2 cell areas (n = 300), and then  
+the total mean number per cell was determined assuming a mean  
+cell volume of 523 μm^3 (mean number per 64 μm^2 × 8.2 = mean total  
+number per cell).  
+
+Statistics  
+The significance of difference was measured using two-tailed Stu-  
+dent’s t tests.  
+
+Supplemental Data  
+Supplemental Data include one figure, three tables, and Supplemen-  
+tal Experimental Procedures and can be found with this article online  
+at http://www.immunity.com/cgi/content/full/24/4/451/DC1/.  
+
+Acknowledgments  
+We would like to thank R. Welsh for high titer stocks of LCMV Arm-  
+strong/Cl 13, and the University of Chicago Electron Microscopy  
+Core facility for TEM. We thank G. Franzoso and S. Byme for useful  
+discussions and M. Olson and J. Harty for help with Western blots.  
+
+Received: September 23, 2005  
+Revised: February 1, 2006  
+Accepted: February 6, 2006  
+Published: April 18, 2006  
+
+References  
+
+Ahmed, R., Salmi, A., Butler, L., Chiller, J.M., and Oldstone, M.B.A.  
+(1984). Selection of genetic variants of lymphocytic choriomeningitis  
+virus in spleens of persistently infected mice. J. Exp. Med. 160, 521–  
+540.  
+
+Badovinac, V.P., Trinnenaar, A.R., and Harty, J.T. (2000). Regulation of  
+antigen-specific T cell homeostasis by perforin and interferon-γ.  
+Science 290, 1354–1357.  
+
+Badovinac, V.P., Hamilton, S.E., and Harty, J.T. (2003). Viral infection  
+results in massive CD8+ T cell expansion and mortality in vaccinated  
+perforin-deficient mice. Immunity 18, 463–474.  
+
+Baetz, K., Isaaz, S., and Griffiths, G.M. (1995). Loss of cytotoxic T  
+lymphocyte function in Chediak-Higashi syndrome arises from a  
+secretory defect that prevents lytic granule exocytosis. J. Immunol.  
+154, 6122–6131.  
+
+Balaji, K.N., Schaschke, N., Machleidt, W., Catalfamo, M., and Hen-  
+kart, P.A. (2002). Surface cathepsin B protects cytotoxic lympho-  
+cytes from self-destruction after degranulation. J. Exp. Med. 196,  
+493–503.  
+
+Barbosa, M.D., Nguyen, Q.A., Tchernev, V.T., Ashley, J.A., Detter,  
+J.C., Blaydes, S.M., Brandt, S.J., Chotai, D., Hodgman, C., Solari,  
+R.C., and Kingsmore, S.F. (1996). Identification of the homologous  
+beige and Chediak-Higashi syndrome genes. Nature 382, 262–265.  
+
+Bladergroen, B.A., Strik, M.C.M., Bovenschen, N., van Berkum, O.,  
+Scheffer, G.L., Meijer, C.J.L.M., Hack, C.E., and Kummer, J.A.  
+(2001). The granzyme B inhibitor, protease inhibitor 9, is mainly  
+expressed by dendritic cells and at immune-privileged sites. J. Im-  
+munol. 166, 3218–3225.  
+
+Buchholtz, I., Oliver, H., Lutter, M., Lux, O., and Wang, X. (1999).  
+Biochemical pathways of caspase activation during apoptosis.  
+Annu. Rev. Cell Dev. Biol. 15, 269–290.

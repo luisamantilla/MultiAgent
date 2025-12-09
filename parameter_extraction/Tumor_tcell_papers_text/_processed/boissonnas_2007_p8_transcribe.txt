@@ -1,0 +1,152 @@
+```plaintext
+JEM
+
+of GFP-OT1 cells was quantified according to the distance 
+from the surface of the tumor (Fig. S5). Representative ex-
+amples of OT1-GFP cells in tumor sections are shown in 
+Fig. 6 A. During the early phase of rejection, most GFP-OT1 
+cells were found within the first 200-µm peripheral sections 
+of both EL4 and EG7 tumors (Fig. 6 B, top left). An accumu-
+lation of lymphocytes in the periphery of solid tumors has 
+been reported previously in other tumor models (33, 34), but 
+the actual mechanisms for this preferential infiltration through 
+the periphery are still unclear. To address possible macro-
+scopic heterogeneities in tumor vessel distribution that might 
+account for the peripheral infiltration pattern, we stained en-
+dothelial cells in tumor sections using anti-CD31 antibody. 
+We did not detect any significant difference in the density of 
+blood vessels (Fig. S6). This result, of course, does not ex-
+clude functional differences in the “permeability” of blood 
+vessels to lymphocytes in different regions of the tumors.
+
+In the late phase of rejection, similar to the early phase, 
+most OT1-GFP cells infiltrating EL4 tumors remain in the 
+periphery (Fig. 6 B, top right). In contrast, in the OVA-
+expressing EG7 tumors, an important redistribution of the 
+CTLs is observed during the late phase. The density of OT1-
+
+GFP cells in more central regions of the tumor increases, re-
+sulting in a homogeneous distribution from the periphery 
+to the tumor center. We conclude that CTLs infiltrate the 
+thymomas through the periphery and that deep tumor infil-
+tration during rejection requires antigen expression by the 
+tumor cells (since the OVA-negative EL4 tumors were not 
+infiltrated deeply).
+
+Antigen expression within the tumor causes the local ac-
+tivation (increased CD69 expression), IFN-γ production, 
+and cytotoxicity (tumor rejection) of OT1 cells (Fig. 1). To 
+investigate if deep tumor infiltration requires antigen recog-
+nition by individual T cells or is the consequence of overall 
+modifications in the tumor environment caused by antigen 
+recognition by the CTLs, we analyzed the infiltration of EG7 
+tumors by polyclonal, GFP-expressing T cells. The poly-
+clonal T cells were activated in vitro and then adoptively 
+transferred to EG7-bearing mice in the presence or absence 
+of OT1 cells. At days 5–6 after transfer, tumor rejection 
+started only in mice injected with polyclonal T cells and OT1 
+cells (unpublished data). Strikingly, these polyclonal T cells 
+accumulated and infiltrated the tumors deeply only in the 
+presence of OT1 cells (Fig. S7). We conclude that OT1 cells 
+
+A
+
+EG7 - Early
+
+EG7 - Late
+
+EL4 - Early
+
+EL4 - Late
+
+B
+
+Early
+
+Late
+
+Thymoma
+
+OT1 (cells/mm2)
+
+Tumor Depth (mm)
+
+***
+
+ns
+
+10000
+
+1000
+
+100
+
+10
+
+0.0-0.2
+
+0.2-0.4
+
+0.4-0.6
+
+0.6-0.8
+
+0.8-1.0
+
+1.0-1.2
+
+1.2-1.4
+
+1.4-1.6
+
+1.6-1.8
+
+Fibrosarcoma
+
+OT1 (cells/mm2)
+
+Tumor Depth (mm)
+
+10000
+
+1000
+
+100
+
+10
+
+0.0-0.2
+
+0.2-0.4
+
+0.4-0.6
+
+0.6-0.8
+
+0.8-1.0
+
+1.0-1.2
+
+1.2-1.4
+
+1.4-1.6
+
+1.6-1.8
+
+ns
+
+Figure 6. T cell infiltration through the periphery of tumors. OVA-
+specific OT1-GFP infiltration in EG7 and EL4 tumors (Thymoma) or MCA 
+tumors (Fibrosarcoma), expressing or not the OVA epitope, during the 
+early (day 3) and the late (day 6) phase of tumor rejection. (A) Repre-
+sentative epifluorescence micrographs of EG7 and EL4 tumor sections 
+(900 x 670 µm). The white line delimits tumor periphery. Bar, 210 µm. 
+(B) Distribution of OT1-GFP cells across OVA-expressing (black) or non-OVA-
+expressing tumors (white), during the early and the late phase of tumor 
+rejection, 3 d (round) and 6 d (square) after adoptive transfer (mean ± SD, 
+n = 3–8). ns, not significant. ***, P < 0.001.
+
+352
+
+IN VIVO CYTOTOXIC T CELL IMAGING IN TUMORS | Boissonnas et al.
+```

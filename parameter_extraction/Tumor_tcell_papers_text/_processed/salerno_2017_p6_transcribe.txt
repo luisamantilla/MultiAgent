@@ -1,0 +1,153 @@
+help to unravel how effective, multifunctional T cell responses can 
+be generated.
+
+Materials and Methods
+Activation and Expansion of Murine Effector and Memory CD8+ T Cells. Mice 
+were housed and bred at the Netherlands Cancer Institute (NCI). Experiments 
+are approved by the Experimental Animal Committee of the NCI. OT-I T cells 
+were activated as described (20). Activated T cells were rested for 3–13 d in 
+10 ng/mL recombinant murine (rm)IL-7, 20 U rmIL-2, or 10 ng/mL rmIL-15 
+(Peprotech). Splenic CD44lo and CD44hi OT-I cells, and splenic CD44lo 
+CD62L+ and CD44hiCD62L+ memory T cells from LCMV-Armstrong–infected 
+mice (6d; 106 pfu per mouse, i.p. injection) were FACS-sorted. T cells were 
+stimulated with 100 nM OVApas, as-peptide, or its low-affinity T4 variant, with 
+10 ng/mL PMA, 1 μg/mL monomycin (Sigma-Aldrich), or with peptide-loaded bone 
+marrow-derived DCs. Brefeldin A was added after 2 h. DCs were incubated 
+for 1.5 h with 100 nM peptide and washed twice. LCMV-specific memory T cells 
+were stimulated with 5 μg/mL GP33 and 5 μg/mL NP396 peptide (kind gift of 
+R. Arens, Leiden University Medical Center, Leiden, The Netherlands). Inhibi-
+tors were added to T cells 30 min before activation (Table S1).
+
+Flow Cytometry. Intracellular cytokine stainings were performed with BD Cytofix/
+Cytoperm kit (BD Biosciences). pI207m and pS6 was measured upon 4% PFA 
+fixation and ethanol permeabilization. For antibodies, see Table S2. Cells 
+were acquired with LSR Fortessa (BD Biosciences) and analyzed by using 
+FlowJo software (Tree Star, version 10).
+
+Polysome Fractionation. Activated T cells (40 × 106) were washed with PBS 
+containing 100 μg/mL cycloheximide. The cytoplasmic extract was layered 
+in 17–50% sucrose gradient (42) and centrifuged for 2 h at 178,305 × g (38,000 rpm) 
+at 4°C in a SW41Ti rotor (Optima L100XP ultracentrifuge; Beckman Coulter). RNA 
+was isolated by Phenol:Chloroform extraction. Total polyribosome-associated 
+mRNA levels were quantified by RNeasy Mini Kit (Qiagen). Relative 
+mRNA distribution was calculated as percent of the sum of mRNA from all 
+obtained fractions. Total mRNA levels were put at 100% for each condition.
+
+Quantitative PCR Analysis. cDNA was synthesized by using SuperScript III Reverse 
+Transcriptase (Invitrogen). Quantitative RT-PCR was performed with SYBR Green 
+on StepOne Plus RT-PCR (Applied Biosystems) (17). Gene expression levels were 
+calculated by the 2^−ΔCt analysis. Cytokine mRNA half-life was determined with 
+GraphPad Prism 6 by calculating the one-phase exponential decay curve.
+
+Western Blot. Cell lysates (1 × 106 cells/sample) were prepared by standard 
+procedures. Proteins were separated on a 15% SDS/PAGE and transferred onto 
+a nitrocellulose membrane by iBlot (Thermo). Anti-4E-BP1 (Cell Signaling 
+Technology) (43), followed by goat anti-rabbit-HRP secondary antibody (Dako), 
+was used.
+
+Statistical Analysis. Results are expressed as mean ± SD. Data were analyzed with 
+GraphPad Prism6. Unpaired or paired two-tailed Student’s t test was used when 
+comparing two groups, one-way ANOVA with Tukey’s multiple comparison, 
+or Dunnett’s multiple comparison with control group was used when comparing 
+≥ 3 groups. P values of <0.05 were considered statistically significant.
+
+ACKNOWLEDGMENTS. We thank the animal caretakers from the NCI; 
+K. Moore and A. Guislain for technical support; K. van Gisbergen for the 
+RNA-seq data; and S. Libregts, D. Ammen, and B. van Steensel for critical 
+reading of the manuscript. This research was supported by the Dutch Science 
+Foundation VIDI grant 917.14.214 (to M.C.W.).
+
+1. Han Q, et al. (2012) Polyfunctional responses by human T cells result from sequential 
+release of cytokines. Proc Natl Acad Sci USA 109:1607–1612.
+2. Nolz JC, Burchill MA, Harty JT (2013) IL-15–regulated memory CD8+ T cell responses 
+are controlled by opposing effects of IL-15Rα in dendritic cells and T cells. J Immunol 
+190:4836–4845.
+3. Tessier PA, et al. (1997) Chemokine networks in vivo: Involvement of C-X-C and C-C 
+chemokines in neutrophil extravasation in vivo in response to TNF-alpha. J Immunol 
+159:3595–3602.
+4. Griffin GK, et al. (2012) IL-17 and TNF-α sustain neutrophil recruitment during inflammation 
+through synergistic effects on endothelial activation. J Immunol 188:6287–6299.
+5. Nathan CF, Murray HW, Wiebe ME, Rubin BY (1983) Identification of interferon-
+gamma as the lymphokine that activates human macrophage oxidative metabolism 
+and antimicrobial activity. J Exp Med 158:670–689.
+6. Soudja SM, et al. (2014) Memory-T-cell-derived interferon-gamma instructs potent innate 
+cell activation for protective immunity. Immunity 40:974–988.
+7. Beutler BA (1999) The role of tumor necrosis factor in health and disease. J Rheumatol 
+Suppl 57:16–21.
+8. Hu X, Ivashkiv LB (2009) Cross-regulation of signaling pathways by interferon-gamma: 
+Implications for immune responses and autoimmune diseases. Immunity 31:539–550.
+9. O’Sullivan D, Sanin DE, Pearce EJ, Pearce EL (2019) Metabolic interventions in the immune 
+response to cancer. Nat Rev Immunol 19:324–335.
+10. McCaffrey PG, Goldfeld AE, Rao A (1994) The role of NFATp in cyclosporin A-sensitive 
+tumor necrosis factor alpha gene transcription. J Biol Chem 269:30445–30450.
+11. Teixeiro E, et al. (2005) IFNgamma production by CD8+ T cells depends on NFAT1 
+transcription factors and regulates T cell expansion. J Immunol 175:5931–5939.
+12. Ullman KS, Northrop JP, Verweij CL, Crabtree GR (1990) Transmission of signals from 
+the T lymphocyte antigen receptor to the genes responsible for cell proliferation and 
+immune function: The missing link. Annu Rev Immunol 8:421–452.
+13. Vallabhapurapu S, Karin M (2009) Regulation and function of NF-kappaB transcription 
+factors in the immune system. Annu Rev Immunol 27:693–733.
+14. Pei Y, et al. (2008) Nuclear export of NF90 to stabilize IL-2 mRNA is mediated by AKT-
+dependent phosphorylation at Ser647 in response to CD28 costimulation. J Immunol 
+180:222–229.
+15. Zhu P, et al. (2010) IL-2 mRNA stabilization upon PMA stimulation is dependent on 
+NF90, Ser640 phosphorylation by protein kinase C-theta, and nuclear export. J Immunol 
+185:2600–2609.
+16. Ghosh S, Hayden MS (2008) New regulators of NF-kappaB in inflammation. Nat Rev 
+Immunol 8:837–848.
+17. Rao A, Luo C, Hogan PG (1997) Transcription factors of the NFAT family: Regulation 
+and function. Annu Rev Immunol 15:707–747.
+18. Macian F (2005) NFAT proteins: Key regulators of T-cell development and function. 
+Nat Rev Immunol 5:472–484.
+19. Hogan PG, Chen L, Nardone J, Rao A (2003) Transcriptional regulation by calcium, 
+calcineurin, and NFAT. Genes Dev 17:2205–2232.
+20. Arens R, Schoenberger SP (2010) Plasticity in programming of effector and memory 
+CD8+ T-cell formation. Immunol Rev 235:190–205.
+21. Zhu J, Paul WE (2008) CD4 T cells: Fates, functions, and faults. Blood 112:1557–1569.
+22. Veiga-Fernandes H, et al. (2000) Tyrosine kinase receptor RET is a key regulator of 
+Peyer’s patch organogenesis. Nature 407:210–214.
+23. Hamilton SE, Wolkers MC, Schoenberger SP, Jameson SC (2006) The generation of 
+protective memory-like CD8+ T cells during homeostatic proliferation requires CD4+ 
+T cells. Nat Immunol 7:475–481.
+24. MacKay K, et al. (2016) Hobit and Blimp1 instruct a universal transcriptional program of 
+tissue residency in lymphocytes. Science 352:459–463.
+25. Gingras AC, et al. (1999) Regulation of 4E-BP1 phosphorylation: A novel two-step 
+mechanism. Genes Dev 13:1422–1437.
+26. Sonenberg N, Hinnebusch AG (2009) Regulation of translation initiation in eukary-
+otes: Mechanisms and biological targets. Cell 136:731–745.
+27. Powell JD, Delgoffe GM (2010) The mammalian target of rapamycin: Linking T cell 
+differentiation, function, and metabolism. Immunity 33:301–311.
+28. Oh-hora M, Rao A (2008) Calcium signaling in lymphocytes. Curr Opin Immunol 20:
+250–258.
+29. Navarro MN, Cantrell DA (2014) Serine-threonine kinases in TCR signaling. Nat 
+Immunol 15:808–814.
+30. Gorner E, Gottschalk RA, Allison JP (2011) Strength of TCR-peptide/MHC interactions 
+and the V to J CDR3 responses. J Immunol 186:5039–5049.
+31. Zehn D, King C, Bevan MJ, Palmer E (2012) TCR signaling requirements for activating 
+T cells and for generating memory. Cell Mol Life Sci 69:1565–1575.
+32. Imhof P, Anderson P (2013) Post-transcriptional regulatory networks in immunity. Nat 
+Immunol Rev 25:253–272.
+33. Huang H, Toki R, Kim CW, Katayama Y (2017) Protein kinase C (PKC) isozyme-specific 
+substrates and their design. Biotechnol Adv 35:162–176.
+34. Kumar V, et al. (2000) Functional interaction between RARITAP/TrmD and protein kinase 
+C (PKC) in the regulation of α-dependentin TCR activation. J Immunol 180:1891–1907.
+35. Wang Y, Yu L, Chen X, Pollard JW (2015) Activation of protein synthesis in mouse uterine 
+epithelial cells by estradiol-17β is mediated by a PKC-ERK1/2-mTOR signaling pathway. 
+Proc Natl Acad Sci USA 112:E1382–E1391.
+36. Herbert TP, Tee AR, Proud CG (2002) The extracellular signal-regulated kinase pathway 
+regulates the phosphorylation of 4E-BP1 at multiple sites. J Biol Chem 277:11591–11596.
+37. Cho YK, Son J, Kim SG, Roux PP, Bensimon A (2008) Enhancing differential inhibitory 
+effects of 4E-BP1 to mediate cell-type-specific responses of mRNA translation. Proc 
+Natl Acad Sci USA 105:17414–17419.
+38. Wang J, et al. (2010) E4-dependent HuR nuclear export and cytoplasmic mRNA 
+stabilization in T cell activation. J Immunol 185:2065–2131.
+39. Zubieta C, et al. (2007) Protein kinase C asphosphorylation phosphorylation of the mRNA-
+binding protein HuR: Implications for posttranscriptional regulation of cyclooxygenase-2. 
+Mol Cell Biol 18:137–2148.
+40. Baccarini M, et al. (2010) Multifunctional CD4(+) T cells correlate with vaccine-induced 
+protection against malaria. Proc Natl Acad Sci USA 107:4221–4226.
+41. Prendeville M, et al. (2007) Immunization with vaccinia virus induces polyfunctional 
+and phenotypically distinctive CD8(+) T cell responses. J Exp Med 204:1405–1416.
+42. Abercrom R, van Leeu WJ, Bondt A, Machens AW (2011) A zebrafish model of 
+protein translation reveals hematopoietic stem cell formation failure resulting 
+from ribosomal protein-mediated p53 stabilization. Blood 118:5485–5486.

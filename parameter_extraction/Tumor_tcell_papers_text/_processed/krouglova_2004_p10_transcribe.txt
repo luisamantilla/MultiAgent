@@ -1,0 +1,127 @@
+```plaintext
+2644                                                                                                           Krouglova et al.
+
+DISCUSSION
+
+In this article we wanted to determine absolute diffusion
+coefficients and we first showed that we are able to do this for
+a wide variety of molecular masses. We also show that our
+instrument does not suffer from non-Gaussian excitation
+profiles.
+
+The nice correlation between the diffusion coefficients and
+the molecular mass of several proteins (ovalbumin, BSA,
+catalase, ferritin, thyroglobulin) obtained from FCS mea-
+surements, corresponds perfectly with theory. This correla-
+tion allows us to estimate the molecular mass of tubulin in
+different conditions.
+
+The analysis of tubulin oligomerization in the presence of
+magnesium ions has also been described in this article. High
+magnesium concentrations induce the formation of tubulin
+oligomers and rings. In our experiments we found that at
+a concentration of 16 mM of MgCl2 the diffusion coefficient
+decreases with increasing tubulin concentration and this
+reflects the formation of open oligomers. The value of the
+diffusion coefficient of tubulin at its highest concentration
+obtained, in the presence of 16 mM Mg2+, is determined to
+be (2.8 6 0.3) 3 10^-11 m^2/s. We suppose that this diffusion
+coefficient is for oligomers of the tubulin dimer and we
+estimate it would contain not more than six tubulin dimers,
+as the diffusion coefficient of thyroglobulin with molecular
+mass of 669 kD is equal to 2.4 3 10^-11 m^2/s. The diffu-
+sion coefficient of tubulin is still higher than the value of
+2.2 3 10^-11 m^2/s of the cryptophycin-tubulin ring
+(containing eight dimers) also measured with FCS (Boukar-
+rat et al., 2003).
+
+Applying the theory of Oosawa and Kasai (1962) to the
+formation of tubulin oligomers allows us to obtain the
+association constant in the presence of 16 mM Mg2+. This
+value is determined to be 0.091 6 0.004 mM^-1 for the
+longitudinal model and 0.108 6 0.003 mM^-1 for the lateral
+model. Both values are in good agreement with the data
+obtained by Frigon and Timasheff (1975) and we cannot
+make the distinction between the two shapes.
+
+The forms of the tubulin oligomers that are studied in this
+article are different from tubulin rings. This can be concluded
+from the values of the diffusion coefficients of tubulin
+oligomers determined by FCS in the presence of Mg2+ and
+Flutax2. These values are still higher than the values for
+tubulin rings 4.9 3 10^-12 m^2/s (Palmer et al., 1982)
+measured by a quasielastic laser light scattering.
+
+The expected diffusion constant of the tubulin dimer is
+estimated from the Svedberg equation (Gelbert et al., 1977)
+to be 4.7 3 10^-11 m^2/s. Using laser light scattering
+a diffusion coefficient of 4.1 3 10^-11 m^2/s is found, which
+is very close. The diffusion coefficient of fluorescent BSA
+with molecular mass of 65 kD is determined to be (5.1 6 0.3)
+3 10^-11 m^2/s. Therefore, in our investigations the highest
+value of the diffusion coefficient of tubulin can be attributed
+to dimeric tubulin with molecular mass of 100 kD, showing
+that tubulin is not dissociated into monomers at nanomolar
+concentrations. These results are in agreement with the
+finding by Caplow and Fee (2002) of a dissociation constant
+of 10^-11 M for tubulin dimers determined by surface
+plasmon resonance.
+
+All measurements with tubulin are done after cold
+centrifugation at 4°C for 20 min to remove aggregates of
+tubulin. The analytical ultracentrifugation is also done to
+prove that no oligomers are previously present in the
+preparation of tubulin. The labeled tubulin is also measured
+at its concentrations varying between 2 nM and 10 nM and in
+the presence of nonlabeled tubulin. No significant differ-
+ences are obtained in the diffusion coefficient and this proves
+the absence of tendency of labeled tubulin to aggregate at
+low Mg2+ and nonassembly conditions.
+
+We also studied the diffusion of fluorescent paclitaxel.
+The main conclusion of this work is that at nanomolar
+concentration of fluorescent paclitaxel is able to recruit
+tubulin dimers, leading to the formation of tubulin oligomers
+with a finite size.
+
+Fluorescent derivatives of paclitaxel have already been
+studied by several authors. Some of them preferentially bind
+to microtubules, others to the unpolymerized, dimeric form.
+In our investigations we found evidence for the interaction of
+Flutax2 with tubulin in the dimeric state, already at tubulin
+concentrations of 0.25 mM. The diffusion coefficient of this
+complex is determined to be (4.1 6 0.3) 3 10^-11 m^2/s, which
+is very close to the diffusion coefficient of the tubulin dimer.
+With increasing concentration of tubulin the diffusion coefficient
+decreases down to (1.6 6 0.3) 3 10^-11 m^2/s indicating the
+formation of tubulin oligomers around the Flutax2 molecules.
+
+We found no binding of Flutax2 to microtubules
+preformed in the presence of excess paclitaxel, showing
+that the Flutax2 binding site is not available on paclitaxel-
+saturated microtubules. But FCS measurements show the
+incorporation of Flutax2 in microtubules, when tubulin-
+Flutax2 oligomers are preformed and microtubules are
+induced by addition of paclitaxel (close to stoichiometric
+amounts). These results suggest that preformed tubulin-
+Flutax2 oligomers are incorporated into microtubules and
+might be preferential nucleation sites.
+
+A sharp decrease of the average diffusion coefficient of the
+tubulin-Flutax2 complex upon addition of micromolar
+concentrations of tubulin (Fig. 4) and the deviation from
+linearity near the beginning of the binding plot (Fig. 7)
+probably indicate that tubulin has a high affinity for Flutax2
+and that the binding of further tubulin molecules to this
+complex decreases in affinity upon increasing the size of the
+oligomers. This type of assembly of tubulin oligomers
+induced by nanomolar concentration of Flutax2 is different
+from the open assembly that occurs in the presence of high
+concentration of Mg2+. This behavior is suggestive of a
+mechanism of cumulative strain, where successive associa-
+tion steps occur with decreasing affinity, a process that is
+formally similar to what happens in many in self-assembly
+(Davis, 1981) and that explains the finite size of the oligomers.
+
+Biophysical Journal 87(4) 2635–2646
+```

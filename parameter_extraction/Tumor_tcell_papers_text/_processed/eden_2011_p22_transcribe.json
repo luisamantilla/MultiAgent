@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "Table S9. Protein half-lives after addition transcription inhibitor actinomycin-D\n\n| Gene symbol | $T_{1/2}$ after actinomycin-D addition |\n|-------------|----------------------------------------|\n| BAG1        | 14.9 ± 12.0                            |\n| CKS2        | 3.2 ± 1.3                              |\n| DDX5        | 9.9 ± 1.9                              |\n| H2AFV       | 34.6 ± 15.1                            |\n| NASP        | 36.2 ± 11.8                            |\n\n21",
+  "model": "gpt-4o",
+  "page": 22,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 4.8,
+  "filename": "eden_2011.pdf",
+  "doc_id": "eden_2011"
+}

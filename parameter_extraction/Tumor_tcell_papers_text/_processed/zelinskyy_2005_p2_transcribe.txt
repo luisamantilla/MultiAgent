@@ -1,0 +1,152 @@
+```plaintext
+10620     ZELINSKY ET AL.                                                                                                          J. VIROL.
+
+Virus and virus infection. The FV stock used in these experiments was FV 
+complex containing B-tropic Friend murine leukemia helper virus (F-MuLV) 
+and polycythemia-inducing spleen focus-forming virus (29). The stock was pre-
+pared as a 10% spleen cell homogenate from BALB/c mice infected 14 days 
+previously with 3,000 spleen focus-forming units of uncloned virus stock. Persist-
+ently infected mice were mice that had been infected as above at least 8 weeks 
+prior to experimentation and which had recovered from acute splenomegaly. 
+Spleen virus levels in persistently infected mice were generally stable at approx-
+imately 104 infectious centers per spleen for 6 to 8 weeks postinfection (46).
+
+In vivo cytotoxicity assay. The in vivo cytotoxic T-lymphocyte assay described 
+by Barber et al. (5) was modified to measure cytotoxicity in FV-infected mice. 
+Briefly, FV-expressing FBL-3 and control EL-4 tumor cells were stained with 20 
+nM and 200 nM 5-(and 6)-carboxyfluorescein diacetate succinimidyl ester (CFSE), 
+respectively. The labeled cells (107 cells of each population) were then injected 
+subcutaneously into the indicated groups of mice. 24 h later the injection site was 
+surgically removed. The tumor cells were then separated from the skin using a 
+metal filter and analyzed for CFSE fluorescence by flow cytometry. Target cells 
+were distinguished from one another based on CFSE staining brightness. The 
+percent killing was calculated by the formula 100 – [(% FBL-3 in infected/%
+EL-4 in infected)/(% FBL-3 in uninfected/% EL-4 in uninfected) × 100].
+
+Intracellular granzyme staining and flow cytometry. Cell surface staining was 
+performed using Becton Dickinson (Heidelberg) reagents. T-cell antibodies were 
+anti-CD3, directed against the activation-associated glycosylated isoform of 
+CD43 (1B11), anti-CD4 (RM4-5), anti-CD8 (53-6.7), and anti-CD107a (1D4B). 
+Dead cells (7AAD or propidium iodide positive) were excluded from all flow 
+surface analyses. Intracellular granzyme A (polyclonal rabbit-anti-mouse gran-
+zyme A immunoglobulin G [IgG], protein A purified) and granzyme B (mono-
+clonal rat-anti-human granzyme B antibody, allophycocyanin-conjugated; clone 
+CB12, Caltag Laboratories, Hamburg) staining was performed using the Cytofix/
+Cytoperm intracellular staining kit (Becton Dickinson, Heidelberg). After label-
+ing for cell surface markers the spleen cells were washed and intracellular 
+staining for granzyme B was performed according to the manufacturer’s proto-
+col. Granzyme A was reacted with a polyclonal rabbit-anti-mouse granzyme A 
+IgG antiserum (kindly provided by M. Simon) and stained with a fluorescein 
+isothiocyanate-conjugated goat anti-rabbit IgG secondary antibody (Dianova, 
+Hamburg, Germany). Data were acquired on a FACScalibur flow cytometer 
+(Becton Dickinson, Heidelberg, Germany) from 30,000 to 80,000 lymphocyte-
+gated events per sample. Analyses were done using B.D. Cellquest Pro software 
+(version 4.0, Becton Dickinson, Heidelberg, Germany).
+
+Quantitative PCR. Total RNA was extracted from 106 CD43+ CD8+ T cells by 
+using the RNeasy Mini kit (QIAGEN, Hilden, Germany) according to the 
+manufacturer’s instructions. mRNA was transcribed by incubating total RNA 
+with an oligo(dT)15- primer (500 ng; Pharmacia, Freiburg, Germany) and 
+RevertAid H Minus Moloney murine leukemia virus reverse transcriptase (Fer-
+mentas, St. Leon-Rot, Germany) as advised by the manufacturer. The resulting 
+cDNA was used as a template for 18S rRNA (housekeeping gene), granzyme A, 
+granzyme B, and perforin amplification in the LightCycler system (Roche Diag-
+nostics, Mannheim, Germany) by using FastStart DNA Master SYBR Green I 
+(Roche, Basel, Germany). Primers used for expression of the cytotoxic mole-
+cules or 18S were used for quantification of mRNA molecules.
+
+The primers used were as follows: perforin (380 bp), 5' GCT GGT GCAA 
+GAT CTC C 3' (sense) and 5' GAC AGG AGT ACA ACA GAT GCA GC 3' 
+(antisense); granzyme A (360 bp), 5' GGG GAT CTA AGT CTA GTT GGA 3' 
+(sense) and 5' ATT GCA GGA GTC GTT TCC ACC AA 3' (antisense); gran-
+zyme B (135 bp), 5' TCA GGG TCC TGA TCC TTC AGT G 3' (sense) and 
+5' ATG AAG TTC CTC TGG CTA CTG 3' (antisense); 18S rRNA (99 bp), 5' 
+GCC ACC CGC CCC TAC C 3' (sense) and 5' CGG GCG GGT CAT 
+GGG AAT AAC 3' (antisense).
+
+Infectious-center assays. Serial dilutions of spleen cells from infected mice 
+were plated onto susceptible Mus dunni cells, cocultivated for 3 days, fixed with 
+ethanol, stained with F-MuLV envelope-specific monoclonal antibody 720, and 
+developed with peroxidase-conjugated goat anti-mouse IgG and substrate to 
+detect foci of infected cells.
+
+Tetramers and tetramer staining. The D’GagL tetramers were constructed by 
+Ton Schumacher and Ton Schumacher (The Netherlands Cancer Institute, Am-
+sterdam, The Netherlands) using a peptide in which the cysteine residues 
+were replaced with alanine hydroxyl acid to prevent irretrievable disulfide bond-
+ing, as has been described (44). This variant peptide is recognized by polyclonal 
+D’GagL-specific CD8+ T cells as determined by intracellular gamma interferon 
+staining. For detection of D’GagL-specific CD8+ T cells, nucleated spleen cells 
+were dual stained with fluorescein isothiocyanate-labeled anti-CD8 (Lyt-2) (BD 
+Pharmingen, Heidelberg, Germany) and phycoerythrin-labeled major histocom-
+patibility complex class I H-2Db tetramers specific for the FV GagL peptide (9)
+
+for 15 min at room temperature. Cells were washed two times, resuspended in 
+buffer containing trypan blue, and analyzed by flow cytometry.
+
+Western blotting. CD8+ CD43+ T cells were isolated from spleens of FV-
+infected (C57BL/10 × A.BY)F1 mice at 2 weeks postinfection (acute) and 8 
+weeks postinfection (persistent). CD8+ T cells were first enriched by positive 
+selection using anti-CD8 MicroBeads and magnetically activated cell sorting 
+(MACS, Miltenyi Biotech, Auburn, Calif.). CD8+ enriched cells were then 
+stained with anti-CD43-fluorescein isothiocyanate (1B11) and anti-CD8-allophy-
+cocyanin (53-6.7) (BD Biosciences-Pharmingen, San Jose, Calif.). CD8+ CD43+ 
+T cells were sorted on a FACSAria flow cytometer (BD Biosciences-Immuno-
+cytometry Systems) from a population gated on side scatter, forward scatter, and 
+exclusion of propidium iodide.
+
+Protein samples were prepared from 8 × 106 highly purified CD8+ CD43+ T 
+cells (>96%) using the M-PER reagent containing the HALT protease inhibitor 
+cocktail (Pierce Biotechnology, Rockford, Illinois). Protein from approximately 
+2.4 × 106 cell equivalents was separated on a 10% Tris-HCl Ready Gel (Bio-Rad, 
+Hercules, Calif.), and transferred to Immobilon P membranes (Millipore, Bil-
+lerica, Mass.). The membranes were probed with rabbit anti-mouse perforin 
+antibody (Torrey Pines Biolabs, Houston, Texas), with an horseradish peroxi-
+dase-conjugated anti-rabbit IgG (Pierce) and revealed by chemilumines-
+cence (SuperSignalWest Pico, Pierce). For quantification, the blots were stripped 
+and reprobed sequentially with rabbit anti-actin antibody (Sigma-Aldrich, St. 
+Louis, Missouri) and horseradish peroxidase-labeled anti-rabbit IgG and re-
+vealed by chemiluminescence.
+
+RESULTS
+
+Virus-specific CD8+ T cells with a cell surface effector phe-
+notype were present in mice persistently infected with FV.
+Previous experiments showed that virus-specific CD8+ T cells 
+adoptively transferred into persistently infected mice rapidly 
+became activated and proliferated as well as when transferred 
+into acutely infected mice (14). Thus, poor antigen presenta-
+tion could not account for lack of CD8+ T-cell function in 
+persistently infected mice. Flow cytometry revealed the expan-
+sion of activated CD8+ T cells during acute infection that was 
+still present during chronic infection as measured by expres-
+sion of the activation-associated glycoform of CD43 (B) (Fig. 
+1A). During both phases of infection, a large majority of the 
+CD43+ CD8+ T cells were also positive for CD69, a very early 
+activation marker, indicating recent engagement with antigen 
+(data not shown).
+
+To ensure that the activated population of CD8+ T cells 
+reflected the properties of virus-specific CD8+ T cells, the cells 
+were stained with a major histocompatibility complex class I 
+tetramer specific for cells recognizing the H-2Db-restricted 
+F-MuLV glycosylated Gag epitope (H-2DbGagL) (44). The 
+mean percentage of activated tetramer-positive CD8+ T cells 
+was significantly increased in both acutely and persistently in-
+fected mice, although it was lower in persistently infected ani-
+mals (Fig. 1B) consistent with their lower levels of spleen virus 
+(Fig. 1C). All tetramer-positive cells expressed the activation 
+marker CD43+ (Fig. 4) and the vast majority were also positive 
+for CD69 (data not shown). These results confirmed the pres-
+ence of a significant population of recently activated FV-specific CD8+
+T cells in persistently infected mice and made it possible to com-
+pare functional properties of CD8+ T cells with an effector phe-
+notype during acute and persistent FV infection.
+
+Impaired cytotoxicity in persistently infected mice. Previous 
+results showed that CD8+ T cells from persistently infected 
+mice were poorly cytotoxic in vitro compared to CD8+ T cells 
+from acutely infected mice (41) (data not shown). To confirm 
+that these results reflected the physiological situation, an in 
+vivo cytotoxic T-lymphocyte assay was performed by injecting
+```

@@ -1,0 +1,116 @@
+```plaintext
+1974                                                                                                              E. Agmon et al.
+
+(a) Process                      (c) Composite                               (a) 
+                                                                                  state
+                                                                                  update
+parameters, 
+update function
+
+(b) Store                                                                  (c)
+                                                                                  translation
+                                                                                  time
+state variables, 
+schema
+                                                                                  stochastic
+                                                                                  transcription
+                                                                                  time
+
+(d) 
+
+                                                                                  processes
+                                                                                  processes
+                                                                                  time
+                                                                                  mass
+                                                                                  shape
+                                                                                  steps
+
+(e) 
+
+boundary
+
+outer
+inner
+
+Compartment                     Hierarchy
+
+Fig. 1. Vivarium's model interface, illustrating the formal structure of the frame-
+work. (a) A Process, shown as a rectangular flowchart symbol, is a modular models
+that contain the parameters, an update function and ports. (b) A Store, shown as the
+flowchart symbol for a database, holds the state variables and schemas that deter-
+mine how variables are used. (c) Composite are bundles of processes and stores
+wired together by a bipartite network called a topology, which processes connect
+to stores through their ports. (d) Compartments are nested structures connected
+across a single level, which can be wired across compartments through composite
+stores. (e) Compartments are embedded in a hierarchy—depicted as a hierarchical
+network with lower layers. Outer compartments are shown above and inner com-
+partments below
+
+computational object that holds the system's state variables. A X.
+Vivarium process is a computational object that contains the update
+function f, which describes the inter-dependencies between the vari-
+ables and how they map from one time (t) to the next (t + Δt).
+Processes are configured by parameters r, which give the update
+functions a distinct shape of mapping from input values to output
+values.
+
+A step is a type of process for models that are not time-step-
+dependent (Fig. 2d). For example, after the counts of molecules are
+updated by dynamic processes, it might be necessary to calculate the
+resulting change in total cell mass. A mass step would read all the
+updated molecular counts, and multiply by molecular weight to re-
+calculate cell mass. A second step could then read cell mass, and use
+it to update other values such as cell volume, length and width based
+on a mathematical model of cell shape. Steps run in a fixed order
+after the dynamic processes have finished. This allows users to im-
+plement a type of dependency graph—for example the mass step
+runs before the cell shape step. Steps have been used to translate
+states between different modeling formats, implement fit or restric-
+tion operations to translate states between scales, and calculate
+processes that offload complexity. In principle, steps could also be
+used for statistical models that sample from an underlying distribu-
+tion, or structural models that apply various constraints to deter-
+mine spatial positioning of 3D shapes, such as atoms or molecules
+into provided volumes (Johnson et al., 2015; Ward et al., 2013).
+Processes include ports, which allow users to wire processes to-
+gether through variables in shared stores. Variables in a store each
+
+have a schema, which declare the data type and methods by which
+updates to the variable are handled—this includes methods such as
+updater, for applying update functions, and divider for gener-
+ating daughter states from a mother state. A topology (short for
+‘process-store interaction topology’) is a bipartite network that
+declares the connections between processes and stores. Each store
+is connected to a composite model with multiple, coupled pro-
+cesses. Ideal processes do not have hidden private states, and expose
+their states by exchanging them with stores. Some processes have
+states are unobservable, and would actually be used to improve perfor-
+mance since they do not have to synchronize. Externalize state
+variables in stores allow other processes to write to the same varia-
+bles, which solves those processes’ needs for read and update
+these same variables as the simulations run forward in time.
+
+Processes can be connected across a hierarchical representation
+of nested compartments. Vivarium uses a bipartite formalism
+(Milner, 2009)—a network with embeddable nodes that can be
+placed within other nodes, and which can be dynamically restruc-
+tured. Through their topologies, processes act as the hyperlinks of
+
+Fig. 2. The vivarium engine takes the system and runs it forward in time. (a) A basic
+simulation loop has processes view the states through their ports, run their update
+function for a given time step, and return an update. (b) Steps can run in par-
+allel on OS processes, which is placed on a long-running CPU thread, with state
+views and updates handled by message-passing. This allows for scaling across
+computers with many CPUs. (c) Processes can run at different time scales, and
+using variable time steps. Here, a translation process has its own operating fast
+time steps, and stochastic transcription is operating a variable time step deter-
+mined based on the state of the system at each time step’s start. (d) Steps are a sub-
+class of Process, used for models that are not time-step-dependent. Steps run in a
+fixed order, at the end of the simulation. (e) A directed acyclic graph (DAG)
+with a cell’s steps. Each specialized daughter state has the states updated by the
+dynamic processes. In this figure a dynamic process runs for A, followed by a mass
+step and a shape step. (e) A series of hierarchical compartments are simulated
+by a divide step, which can be implemented with a neighbor by an engulf up-
+date, then the engulfed compartment is deleted with a burst update. Other hierarchy
+updates include merge, add or delete
+```

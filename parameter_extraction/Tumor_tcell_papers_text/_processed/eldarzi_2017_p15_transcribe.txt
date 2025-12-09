@@ -1,0 +1,137 @@
+```plaintext
+El Darzi et al.                                                                                                                             15
+
+50. Taniguchi K, Yamamoto S, Hitomi E, et al. (2013) 
+Interleukin 33 is induced by tumor necrosis factor 
+alpha and interferon gamma in keratinocytes and 
+contributes to allergic contact dermatitis. Journal of 
+Investigational Allergology & Clinical Immunology 
+23: 428–434.
+
+51. Demyanets S, Konya V, Kastl SP, et al. (2011) 
+Interleukin-33 induces expression of adhesion molecules 
+and inflammatory activation in human endothelial cells 
+and in human atherosclerotic plaques. Arteriosclerosis, 
+Thrombosis, and Vascular Biology 31: 2080–2089.
+
+52. Numata T, Ito T, Maeda T, et al. (2016) IL-33 pro-
+motes ICAM-1 expression via NF-kB in murine mast 
+cells. Allergology International 65: 158–165.
+
+53. Blume C, Foerster S, Gilles S, et al. (2009) Human 
+epithelial cells of the respiratory tract and the skin dif-
+ferentially internalize grass pollen allergens. Journal 
+of Investigative Dermatology 129: 1935–1944.
+
+54. Bal V, McIndoe A, Denton G, et al. (1990) Antigen 
+presentation by keratinocytes induces tolerance in 
+human T cells. European Journal of Immunology 20: 
+1893–1897.
+
+55. Czernielewski JM and Bagot M (1986) Class II MHC 
+antigen expression by human keratinocytes results 
+from lympho-epidermal interactions and gamma-
+interferon stimulation. Journal of Investigative 
+Dermatology 86: 17–22.
+
+56. van der Fits L, van der Wel L, Laman JD, et al. 
+(2004) In psoriasis lesion skin the type I interferon 
+signaling pathway is activated, whereas interferon-
+alpha sensitivity is unaltered. Journal of Investigative 
+Dermatology 122: 51–60.
+
+57. Huttinger R, Staffler G, Majdic O, et al. (1999) Analysis 
+of the early selectiveness of CD1b: Involvement of the 
+chaperones calnexin and calreticulin, the proteasome 
+and beta(2)-microglobulin. International Immunology 
+11: 1615–1623.
+
+58. Meunier L, Vian L, Lagoueyte C, et al. (1996) 
+Quantification of CD1a, HLA-DR, and HLA class 
+I expression on viable human Langerhans cells and 
+keratinocytes. Cytometry 26: 260–264.
+
+59. Lundqvist C and Hammarstrom ML (1993) T-cell 
+receptor gamma delta-expressing intraepithelial 
+lymphocytes are present in normal and chronically 
+inflamed human gingiva. Immunology 79: 38–45.
+
+60. Scheynius A, Fransson J, Johansson C, et al. (1992) 
+Expression of interferon-gamma receptors in nor-
+mal and psoriatic skin. Journal of Investigative 
+Dermatology 98: 255–258.
+
+61. Ratthe C, Ennaciri J, Garces Goncalves DM, et al. 
+(2009) Interleukin (IL)-4 induces leukocyte infiltra-
+tion in vivo by an indirect mechanism. Mediators of 
+Inflammation 2009: 193970 (10 pp.).
+
+62. Seto K, Shoda J, Horibe T, et al. (2013) Interleukin-4 
+receptor alpha-based hybrid peptide effectively 
+induces antitumor activity in head and neck squamous 
+cell carcinoma. Oncology Reports 29: 2147–2153.
+
+63. David M, Ford D, Bertoglio J, et al. (2001) Induction 
+of the IL-13 receptor alpha2-chain by IL-4 and IL-13 
+in human keratinocytes: Involvement of STAT6, ERK 
+and p38 MAPK pathways. Oncogene 20: 6660–6668.
+
+64. Wang S, Teng Q, Jia L, et al. (2014) Infectious bursal 
+disease virus influences the transcription of chicken 
+gammaic and gammac family cytokines during infec-
+tion. PLoS ONE 9: e84503.
+
+65. Yasumura S, Lin WC, Weidmann E, et al. (1994) 
+Expression of interleukin 2 receptors on human carci-
+noma cell lines and tumor growth inhibition by inter-
+leukin 2. International Journal of Cancer 59: 225–234.
+
+66. Wery-Zennaro S, Letourneur M, David M, et al. 
+(1999) Binding of IL-4 to the IL-13Ralpha1(/ 
+IL-4Ralpha receptor complex leads to STAT3 phos-
+phorylation but not to its nuclear translocation. FEBS 
+Letters 464: 91–96.
+
+67. Aragane Y, Kulms D, Metze D, et al. (1998) 
+Ultraviolet light induces apoptosis via direct activa-
+tion of CD95 (fas/APO-1) independently of its ligand 
+CD95L. Journal of Cell Biology 140: 171–182.
+
+68. Konur A, Schulz U, Eissner G, et al. (2005) Interferon 
+(IFN)-gamma is a major biologic factor of keratinocyte 
+(HaCaT) apoptosis in vitro. British Journal of 
+Dermatology 152: 1134–1142.
+
+69. Trautmann A, Akdis M, Kleemann D, et al. (2000) 
+T cell-mediated Fas-induced keratinocyte apoptosis 
+plays a key pathogenetic role in eczematous dermati-
+tis. The Journal of Clinical Investigation 106: 25–35.
+
+70. Daehn IS, Varelias A and Raftery TE (2010) 
+T-lymphocyte-induced, Fas-mediated apoptosis is 
+associated with early keratinocyte differentiation. 
+Experimental Dermatology 19: 372–380.
+
+71. Federici M, Giustizieri ML, Scarponi C, et al. (2002) 
+Impaired IFN-gamma-dependent inflammatory 
+responses in human keratinocytes overexpressing 
+the suppressor of cytokine signaling 1. Journal of 
+Immunology 169: 434–442.
+
+72. Chaturvedi V, Bodner B, Qin JZ, et al. (2006) Knock 
+down of p53 levels in human keratinocytes increases 
+susceptibility to type I and type II interferon-induced 
+apoptosis mediated by a TRAIL dependent pathway. 
+Journal of Dermatological Science 41: 31–41.
+
+73. Hattori N, Korinne M, Yano S, et al. (2002) Interferon-
+gamma, a strong suppressor of cell proliferation, 
+induces upregulation of keratin K6, one of the inflam-
+matory- and proliferation-associated keratins. Journal 
+of Investigative Dermatology 119: 403–410.
+
+74. Chaturvedi V, Qin JZ, Denning MF, et al. (1999) 
+Apoptosis in proliferating, senescent, and immortal-
+ized keratinocytes. Journal of Biological Chemistry 
+274: 23358–23367.
+```

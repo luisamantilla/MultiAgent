@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "```plaintext\nNATURE CANCER                                                                                                      ARTICLES\n\nExtended Data Fig. 1 | In vitro IGS reporter cell characteristics. a, Median Katushka fluorescence intensity of IGS reporter-modified CFP+ OVCAR5 cells \nupon incubation with recombinant IFNγ under the indicated conditions. Bar graph shows mean of n=3 technical replicates, representative data of two \nindependent experiments are depicted. b, CFP+ IGS reporter modified OVCAR5 cells proficient or deficient for the IFNγR were incubated for 48h with \nthe indicated concentrations of recombinant IFNγ or IFNαR and Katushka expression was analyzed by flow cytometry. Bar graphs show mean of technical \nduplicates data obtained from one experiment. c, Percentage of IR-Dye positive IGS reporter-modified CFP+ OVCAR5 cells upon incubation with recombinant \nIFNγ under the indicated conditions. Bar graph shows mean of n=3 technical replicates. Representative data of two independent experiments are depicted. \nd, Percentage of IR-Dye positive Ag+ CFP+ or Ag+ IFNγR−/− OVCAR5 cells after 72h incubation with 100 ng/mL IFNγ. Bar graph shows mean of n=3 \ntechnical replicates. Representative data of three independent experiments are depicted.\n\nNATURE CANCER | www.nature.com/natcancer\n```",
+  "model": "gpt-4o",
+  "page": 13,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 11.0,
+  "filename": "hoekstra_2020.pdf",
+  "doc_id": "hoekstra_2020"
+}

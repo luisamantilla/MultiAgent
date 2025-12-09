@@ -1,0 +1,167 @@
+```plaintext
+ARTICLES                                                                                      NATURE CANCER
+
+due to diffusion well before they have the time to generate a local 
+biological effect. 
+    A direct consequence of this mode of action is that the activ-
+ity of IFN-γ will be determined at the tissue level by the overall 
+number of cytokine-producing cells. In this model, the collective 
+activity of T cells is essential because it determines the overall 
+cytokine concentration and the extent of tumor cell response, in 
+a manner resembling quorum sensing. Such a collective mode of 
+action was recently described for nitric oxide (NO)-producing 
+macrophages, where a single macrophage has a negligible intrinsic 
+
+a
+
+t = 0 min
+
+Nucleus   STAT1–GFP
+
+Fluorescence 
+(Percentage of max.)
+
+100
+
+0
+
+5     10     15
+Distance (µm)
+
+STAT1–GFP
+Nucleus
+
++IFN-γ
+t = 53 min
+
+Nucleus   STAT1–GFP
+
+Fluorescence 
+(Percentage of max.)
+
+100
+
+0
+
+5     10     15
+Distance (µm)
+
+STAT1–GFP
+Nucleus
+
+b
+
+1.0
+
+0.5
+
+0
+
+–0.5
+
+–1.0
+
+Unstimulated
+
++IFN-γ
+
+***
+
+Translocation score
+
+c
+
+No T cell
+
++ MataHari T cells
+
+STAT1–GFP
+
+CD8+ T cells
+
+d
+
+No T cell
+
+Nucleus   STAT1–GFP
+
+Fluorescence 
+(Percentage of max.)
+
+100
+
+0
+
+5     10     15
+Distance (µm)
+
+STAT1–GFP
+Nucleus
+
++ MataHari T cells
+
+Nucleus   STAT1–GFP
+
+Fluorescence 
+(Percentage of max.)
+
+100
+
+0
+
+5     10     15
+Distance (µm)
+
+STAT1–GFP
+Nucleus
+
+e
+
+1.0
+
+0.5
+
+0
+
+–0.5
+
+–1.0
+
+No T cell
+
++ MataHari T cells
+
+***
+
+Translocation score
+
+f
+
+1.0
+
+0.5
+
+0
+
+–0.5
+
+–1.0
+
+0     10     20     30     40     50     60
+Distance to the closest T cell
+
+R = –0.010
+P = 0.965
+
+Translocation score
+
+g
+
+0 min     10 min     20 min     30 min     40 min     50 min     60 min     70 min
+
+STAT1–GFP
+
+Nucleus
+
+NATURE CANCER | www.nature.com/natcancer
+```

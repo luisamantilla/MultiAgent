@@ -1,0 +1,131 @@
+```plaintext
+RESEARCH
+
+RESEARCH ARTICLE SUMMARY
+
+IMMUNOMETABOLISM
+
+T cell stemness and dysfunction in 
+tumors are triggered by a 
+common mechanism
+
+Suman Kumar Vodnala*, Robert Eil*, Rigel J. Kishton, Madhusudhanan Sukumar, 
+Tori N. Yamamoto, Ngoc-Han Ha, Ping-Hsien Lee, MinhHwa Shin, 
+Shashank J. Patel, Zhiya Yu, Douglas C. Palmer, Michael J. Kruhlak, Xiaojing Liu, 
+Jason W. Locasale, Jing Huang, Rahul Roychoudhuri, Toren Finkel, 
+Christopher A. Klebanoff, Nicholas P. Restifo†
+
+INTRODUCTION: Cancers persist and pro-
+gress despite the presence of tumor-infiltrating 
+lymphocytes (TILs). A paradox of tumor im-
+munology is that tumor antigen–specific TILs 
+are dysfunctional in situ and yet can mediate 
+regression of large metastatic tumors after 
+immune checkpoint blockade or adoptive cell 
+transfer. TILs are predominantly considered 
+“exhausted” because of chronic antigen ex-
+posure, but recent studies have revealed that 
+T cells within tumors exist in a continuum 
+of epigenetic, transcriptional, and metabolic 
+states. A small subset of T cell clonotypes in 
+TILs expressing the transcription factor TCF1 
+possess stem cell–like behaviors including self-
+
+renewal, multipotency, and persistence. Al-
+though these cells appear to be responsible for 
+tumor destruction in the setting of successful 
+immunotherapy, the mechanisms underlying 
+their generation and maintenance are unknown.
+
+RATIONALE: To progress from a naïve, stem 
+cell–like state after activation, T cells rely on 
+the uptake and consumption of extracellular 
+nutrients to enact robust aerobic glycolysis 
+and mTOR-driven anabolic growth. In multiple 
+organisms, the cellular response to starvation 
+preserves stemness and enhances organismal 
+longevity. Cellular necrosis is a feature of many 
+solid tumors, and higher densities of necrosis 
+
+are inversely correlated to patient survival. 
+Necrotic cells release intracellular contents 
+into the extracellular space. Because the intra-
+cellular concentration of potassium is higher 
+than the extracellular compartment (~145 mM 
+versus ~5 mM), local potassium levels within 
+the tumor interstitial space can exceed 40 mM. 
+We hypothesized that elevated extracellular 
+potassium found in tumor interstitial fluid 
+would disrupt the electrochemical gradient that 
+facilitates T cell nutrient uptake, simultaneously 
+limiting the acquisition of effector programs and 
+the coincident loss of stemness. In the present 
+work, we sought to explore the impact of high 
+levels of potassium found in tumors on T cell 
+stemness and antitumor capacity.
+
+RESULTS: We found that elevated extracel-
+lular potassium characteristic of the extracel-
+lular space within tumors reduced the uptake 
+and consumption of local nutrients by anti-
+tumor T cells, inducing a state of functional-
+caloric restriction. A starvation response en-
+sued, resulting in autophagy, mitochondrially 
+dominant metabolism, and 
+a paucity of available cofac-
+tors obligatory for histone 
+modification and the epi-
+genetic remodeling required 
+for progressive differentiation 
+into effector cells. Both nucleocytosolic 
+acetyl–coenzyme A (CoA) and methionine inter-
+mediates were depleted. Depletion of nucleo-
+cytosolic acetyl-CoA limited the acquisition of 
+histone acetylation, one of the principal 
+enhancers of genes encoding effector mol-
+ecules. Simultaneously, potassium de-
+reduced methionine intermediates, depressing 
+methylation of histone markers that normally 
+suppress stemness-associated programs. Treat-
+ment of antitumor T cells with elevated extra-
+cellular potassium as well as pharmacologic de-
+gene therapies mimicking mechanisms of func-
+tional starvation in T cells with retained 
+stemness, evidenced by self-renewal and multi-
+potency, thereby enabling the enhanced destruc-
+tion of large, established tumors.
+
+CONCLUSION: These data provide a link be-
+tween tumor-induced immune suppression and 
+the stem cell–like properties of some anti-
+tumor T cells. Moreover, these findings deepen 
+our understanding of how cancer can progress 
+despite the presence of T cells that continuously 
+harbor the capacity for its destruction. Finally, 
+we identify new therapeutic strategies to meta-
+bolically induce stemness programs in antitumor 
+T cells that enhance cancer immunotherapies. 
+
+Modified “Waddington valley” depicting T cell differentiation and the role of potassium in 
+preserving T cell stemness. Left: Physiologic conditions driving T cell differentiation after 
+activation (blue) to engage anabolic metabolism for acquiring effector functions (red). Right: 
+Starvation response resulting from elevated extracellular potassium (↑[K+]e, white snow in valleys) 
+drives catabolic metabolism and maintains T cell stemness. Height of the valley defines 
+T cell potential to differentiate; segments of the valley define duration to reach senescence or death.
+
+Vodnala et al., Science 363, 1417 (2019) 29 March 2019
+
+ON OUR WEBSITE
+Read the full article 
+at http://dx.doi.
+org/10.1126/
+science.aat0315
+
+The list of author affiliations is available in the full article online.
+*These authors contributed equally to this work.
+†Corresponding author. Email: restifon@mail.nih.gov
+Cite this article as: S. K. Vodnala et al., Science 363,
+eaat0315 (2019). DOI: 10.1126/science.aat0315
+
+1 of 1
+```

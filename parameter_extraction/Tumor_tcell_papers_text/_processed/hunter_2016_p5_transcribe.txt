@@ -1,0 +1,30 @@
+(75). Following entry into the LN, intranodal position, migration, and motility of T cells are mediated by C–C chemokine receptor type 7 (CCR7) and its two chemokine ligands, CCL19 and CCL21 (75, 76). Naïve T cells spend approximately 16–17 h surveying an LN for specific antigens and if undetected, transmigrate into cortical or medullary sinuses and exit through the efferent LV (28, 75). Below and in Table 1, we briefly review the chemotactic cues, adhesion molecules, and cellular processes involved in T cell egress from the LN into the efferent LVs.
+
+T Cell Egress vs. Retention: Interplay of S1P1, CD69, and CCR7
+
+Early findings that pertussis toxin (a natural inhibitor of Gαi- protein-coupled receptors, such as chemokine receptors) inhib- ited the export of mature T cells from the thymus (84), suggested that egress of T cells from the LN could also be an active process. Studies on the immunosuppressive activity of Fingolimod (FTY720), a now approved treatment for multiple sclerosis (85), incited further research on the molecular mechanism of T cell exit from LNs. FTY720 induces sequestration of lymphocytes in SLOs through retention and “log jamming” of lymphocytes on the abluminal side of the lymphatic sinuses, thereby inhibiting lymphocyte egress into circulation and migration to sites of disease (86–88). Besides histologic analysis of lymphatic sinuses, different lymphoid sinuses and LN egress experiments, in which T cell homing into LNs is first blocked and T cell numbers in the blood are then analyzed, have been instrumental in studying T cell egress from LVs (see Box 1).
+
+Role of S1P
+
+Several studies have shown that the egress-blocking activity of FTY720 can mainly be attributed to the action of FTY720 on sphingosine-1-phosphate (S1P) receptors, in particular, S1P receptor 1 (S1P1) expressed on T cells (8, 9, 89, 90). The natural ligand of S1P1 is S1P, an endogenous sphingolipid that mediates diverse cellular processes, including cell survival, cytoskeletal rearrangements, and cellular chemotaxis (91, 92). S1P levels in tissues are tightly controlled by sphingosine kinase 1 and 2 (Sphk1/2)-mediated production and S1P degradation, which depends on S1P lyase and other enzymes (93, 94). While eryth- rocytes, red blood cells, and the blood endothelium constitute major cellular sources of plasma S1P, lymph S1P is derived inde- pendently from the blood (91, 94). In fact, LECs were identified as the major source of S1P in lymph (41).
+
+S1P levels in the blood and in lymph are much higher than in lymphoid organs (77, 95). Low concentrations of S1P in lymphoid tissues and S1P abundance in lymph was shown to create a gradient across LECs, which induces transmigration of S1P1-expressing T cells into the lymphatic sinuses and egress into efferent lymph (93, 96): acting as a functional antagonist, FTY720 induces downregulation and degradation of S1P1 in T cells, thereby inhibiting S1P-mediated chemotaxis across the lymphatic sinuses (8). Similar to FTY720 treatment, adoptively transferred S1P1-deficient T cells were found to “log jam” around medullary and cortical sinuses and failed to egress into effer- ent lymph (8, 9, 23, 41). An analogous egress defect could also be evoked when the S1P gradient in LNs was experimentally destroyed, by inhibiting S1P lyase (77), or upon genetic deletion of Sphk1 and Sphk2 in LECs (41).
+
+Modulation of S1P1 for Fine-Tuning T Cell Transit Time through LNs
+
+Similar to FTY720, high concentrations of S1P1 modulators, including S1P1 internalization in T cells (92, 97). Consequently, S1P1-deficient T cells are retained in LNs, and disruption of S1P gradient in LNs prevents T cell egress (8, 9, 41, 77). Given that entry into LN sinuses, and subsequent egress from the LN, is S1P1 dependent, T cell transit time through the LN is in some manner dependent on S1P1-mediated resensitization to S1P in lymph. In addition to S1P1-induced receptor internalization, the C-type lectin CD69 has also been reported to regulate S1P1 surface expression in T cells. CD69 is an early T cell activation marker and is upregulated in T cells by various inflammatory media- tors, such as type I interferons (78, 93). CD69 has been shown to interact with S1P1, thereby inducing a receptor conformation similar to the ligand bound state, leading to S1P1 internalization
+
+TABLE 1 | Molecules regulating T cell exit from lymph nodes (LNs) through efferent lymphatic vessels (LVs).
+
+| Molecule | Selected reference | Comment |
+|----------|--------------------|---------|
+| S1P1/S1P | (8, 9, 41, 77) | S1P1-deficient T cells are retained in LNs; disruption of S1P gradient in LNs prevents T cell egress |
+| CD69 | (78, 79) | CD69 expression induces S1P1 internalization and degradation in T cells resulting in T cell retention in LNs |
+| C–C chemokine receptor type 7 (CCR7) | (22) | CCR7+ T cells egress more rapidly from LNs whereas CCR7 overexpressing T cells are retained |
+| CXCR4 | (80) | Synergizes with CCR7 in retaining T cells in LNs |
+| Leukocyte function-associated antigen 1 (FA-1)/ intercellular adhesion molecule 1 (ICAM-1) | (26) | CD4+ LFA-1++ T cells egress more rapidly from LNs. |
+| Common lymphatic endothelial and vascular endothelial receptor-1 (CLEVER-1) | (81) | Blockade of CLEVER-1 reduces T cell binding to LN sinuses in situ in vivo involvement not confirmed thus far |
+| Mannose receptor (MR)/L-selectin | (82) | Blockade of MR/L-selectin reduces T cell binding to LN sinuses in situ in vivo involvement not demonstrated thus far |
+| α9 integrin | (83) | Blockade of LEC-expressed α9 reduces T cell egress from LNs |
+
+Frontiers in Immunology | www.frontiersin.org 5 December 2016 | Volume 7 | Article 613

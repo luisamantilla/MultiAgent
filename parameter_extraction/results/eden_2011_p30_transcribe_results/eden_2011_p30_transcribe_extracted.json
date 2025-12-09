@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and values from the text:\n\n### DDX5\n- **Autoradiogram and Immunoblot (α DDX5 Ab)**\n  - **Control and α GFP, α DDX5**\n    - Time points (hours): 0, 3, 6, 10\n\n- **Input**\n  - Percentage: 15%\n  - Time points (hours): 0, 3, 6, 10\n\n### MYH9\n- **Autoradiogram and Immunoblot (α MYH9 Ab)**\n  - **Control and α GFP, α MYH9**\n    - Time points (hours): 0, 3, 6, 10\n\n- **Input**\n  - Percentage: 15%\n  - Time points (hours): 0, 3, 6, 10\n\nThese values represent the time points at which measurements were taken for both DDX5 and MYH9 proteins in the context of autoradiograms and immunoblots."
+}

@@ -1,0 +1,88 @@
+```markdown
+ARTICLES
+
+NATURE CANCER
+
+a
+
+![ratio OT-I T : OVA: Eμ-myc cells]
+
+number of injected OT-I T cells (x10^3)
+
+b
+
+fold change of MFI H-2 D^b
+relative to unstimulated
+
+log(IFN-γ concentration (ng/mL))
+
+in vivo estimated
+concentration:
+0.76 ng/mL
+
+c
+
+Eμ-myc % of live cells
+
+untreated
+
+IFN-γ
+
+d
+
+unstimulated
+
++ IFN-γ
+
+H2-K^b-PE.Cy7
+
+e
+
+OVA^+ Eμ-myc
+
+1:1 ratio
+
+Rag2^-/- mice
+
+Eμ-myc
+
+2 weeks
+
+5 days
+
+Flow
+cytometry
+
+Activated WT or IFN-γ^- OT-I T cells
+
+f
+
+OVA^+ Eμ-myc
+absolute number
+
+no T
+cells
+
+WT
+OT-I
+
+IFN-γ^-
+OT-I
+
+Extended Data Fig. 5 | T cell-derived IFN-γ can control bystander tumor cells. a, b, Estimating the intratumoral IFN-γ concentration upon T cell transfer.
+a, The ratio of OT-I T cells to OVA^+Eμ-myc tumors in the bone marrow (measured at day 2) is graphed as a function of the total number of transferred
+T cells. Results are shown as mean±SD with n=5 mice per group. b, The fold change in H2-D^b levels measured in Eμ-myc tumors in vitro is graphed as a
+function of IFN-γ concentration. The graph was used to infer the putative IFN-γ concentration in vivo (dashed red line) upon transfer of 20x10^3 T cells.
+c-f, Control of tumor burden by T cell-derived IFN-γ. c,d, Recipient female Rag2^-/- mice were injected with H-Y^+ Eμ-myc B lymphoma cells. After 3 weeks,
+mice were either injected i.v. with recombinant IFN-γ (1μg) twice (one day apart) or left untreated. On day 2, tumor burden c, and phenotype d, in the
+bone marrow were assessed by flow cytometry. Each dot represents one mouse (n=3 and n=4 mice for the untreated and the treated group, respectively).
+Red lines indicate mean values. (* P<0.05, two-tailed unpaired t-test). e-f, Functional activity of intratumoral IFN-γ. e, Experimental set-up. Rag2^-/- mice
+were injected with a 1:1 mixture of Eμ-myc and OVA-expressing Eμ-myc B lymphoma cells (labeled with different fluorescent proteins). On day 12-13,
+recipients were injected with either WT or IFN-γ-deficient OT-I T cells or left untreated. Five days later, the bone marrow was recovered and analyzed by
+flow cytometry. f, Graphs show the residual numbers of antigen-positive (top) and antigen-negative (bottom) tumors following transfer of the indicated
+T cell populations. Each dot represents one mouse (n=6 mice per group). Red lines indicate mean values. (* P<0.05, ** P<0.01, two-tailed Mann-Whitney
+U-test). Representative of two independent experiments. Of note, small deviation from the initial ratio seen in the absence of T cells is most likely due to
+minor differences in tumor cell division time.
+
+NATURE CANCER | www.nature.com/natcancer
+```

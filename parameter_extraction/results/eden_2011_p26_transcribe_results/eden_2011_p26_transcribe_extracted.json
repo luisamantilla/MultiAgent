@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and their values from the text:\n\n1. **k**: A parameter that defines the degree of reduction in intra-cellular degradation, where \\(0 \\leq k \\leq 1\\).\n2. **T'_{1/2}**: Post-stress protein half-life.\n3. **T_{1/2}**: Protein half-life prior to the stress.\n4. **T_CC**: Average cell cycle time.\n5. **T_CC**: Fixed measured cell cycle length, \\(T_{CC} = 22.5\\).\n6. **25**: This number appears at the end of the text, but without context, it is unclear what it refers to."
+}

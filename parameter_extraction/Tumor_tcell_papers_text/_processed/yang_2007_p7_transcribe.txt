@@ -1,0 +1,141 @@
+chemokines, although structurally distinct and exhibiting di-
+verse activities toward multiple targets, share the following
+characteristics: They are released rapidly in response to mi-
+crobial encounter and/or tissue injury; they exhibit dual ca-
+pacity of mobilizing and activating APC, in particular, DCs;
+and they are capable of enhancing the antigen-specific, adap-
+tive-immune response in vivo. These endogenous mediators
+have been proposed to behave as immune alarmins [26–28].
+HMGB1 has antibacterial activity [24], is released rapidly
+upon necrotic cell death [9], and is capable of enhancing
+antigen-specific immune response [10]. The identification of
+the DC-chemoattracting activity of HMGB1 in the present
+study suggests that it is capable of recruiting or mobilizing DCs
+to its site of release. Furthermore, HMGB1 is capable of
+activating APC (the present study and refs. [8, 10, 15, 23, 39]).
+Thus, HMGB1 can also be considered an alarmin.
+
+ACKNOWLEDGMENTS
+
+This project has been funded in part with federal funds from
+the National Cancer Institute, National Institutes of Health,
+under Contract No. N01-CO-12400. The contents of this pub-
+lication does not necessarily reflect the views or policies of the
+Department of Health and Human Services nor does mention
+of trade names, commercial products, or organizations imply en-
+dorsement by the U.S. Government. The publisher or recipient
+acknowledges right of the U.S. Government to retain a nonex-
+clusive, royalty-free license in and to any copyright covering the
+article.
+
+REFERENCES
+
+1. Goodwin, G. H., Johns, E. W. (1973) Isolation and characterization of two
+calf-thymus non-histone proteins with high contents of acidic and
+basic amino acids. Eur. J. Biochem. 40, 215–219.
+2. Bustin, M., Lehn, D. A., Landsman, D. (1990) Structural features of the
+HMG chromosomal proteins and their genes. Biochim. Biophys. Acta
+1049, 231–243.
+3. Andersson, U., Erlandsson Harris, H., Yang, H., Tracey, K. J. (2002)
+HMGB1 as a DNA-binding cytokine. J. Leukoc. Biol. 72, 1084–1091.
+4. Einck, L., Bustin, M. (1985) The intracellular distribution and function of
+the high mobility group chromosomal proteins. Exp. Cell Res. 156,
+295–310.
+5. Thomas, J. O., Travers, A. A. (2001) HMG1 and 2, and related “archi-
+tectural” DNA-binding proteins. Trends Biochem. Sci. 26, 167–174.
+6. Bustin, M. (1999) Regulation of DNA-dependent activities by the func-
+tional motifs of the high-mobility-group chromosomal proteins. Mol. Cell.
+Biol. 19, 5237–5246.
+7. Calogero, S., Grassi, F., Aguzzi, A., Voigtlander, T., Ferrier, P., Ferrari, S.,
+Bianchi, M. E. (1999) The lack of chromosomal protein Hmg1 does not
+disrupt cell growth but causes lethal hypoglycemia in newborn mice. Nat.
+Genet. 22, 276–280.
+8. Wang, H., Bloom, O., Zhang, M., Vishnubhakat, J. M., Ombrellino, M.,
+Che, J., Frazier, A., Yang, H., Ivanova, S., Borovikova, L., et al. (1999)
+HMG-1 as a late mediator of endotoxin lethality in mice. Science 285,
+248–251.
+9. Scaffidi, P., Misteli, T., Bianchi, M. E. (2002) Release of chromatin protein
+HMGB1 by necrotic cells triggers inflammation. Nature 418, 191–195.
+10. Rovere-Querini, P., Capobianco, A., Scaffidi, P., Valentinis, B., Cata-
+lanotti, F., Giazzon, M., Dumitriu, I. E., Muller, S., Iannacone, M.,
+Traversari, C., Bianchi, M. E., Manfredi, A. A. (2004) HMGB1 is an
+endogenous immune adjuvant released by necrotic cells. EMBO Rep. 5,
+825–830.
+11. Chen, G. Y., Liu, M., Wang, F., Rendon-Mitchell, B., Guo, Y., Susarla, S.,
+Ulloa, L., Yang, H., Fan, S., Goyert, S. M., Wang, P., Tracey, K. J., Sama,
+
+A. E., Wang, H. (2004) Bacterial endotoxin stimulates macrophages to
+release HMGB1 partly through CD14- and TNF-dependent mechanisms.
+J. Leukoc. Biol. 76, 994–1001.
+12. Rendon-Mitchell, B., Ochani, M., Li, J., Han, J., Wang, H., Yang, H.,
+Susarla, S., Czura, C., Mitchell, R. A., Chen, G., Sama, A., Tracey, K. J.
+(2003) IFN- induces high mobility group box 1 protein release partly
+through a TNF-dependent mechanism. J. Immunol. 170, 3890–3897.
+13. Wang, H., Li, W., Ochani, M., Justiniani, M., Lin, X., Yang, L., Al-
+Abed, Y., Metz, C., Miller, E. J., Tracey, K. J., Ulloa, L. (2006) Cholin-
+ergic agonists inhibit HMGB1 release and improve survival in experimental
+sepsis. Nat. Med. 10, 1216–1221.
+14. Dumitriu, I. E., Baruah, P., Valentinis, B., Voll, R. E., Herrmann, M.,
+Nawroth, P. P., Arnold, B., Bianchi, M. E., Manfredi, A. A., Rovere-
+Querini, P. (2005) Release of high mobility group box 1 by dendritic cells
+controls T cell activation via the receptor for advanced glycation end
+products. J. Immunol. 174, 7506–7515.
+15. Semino, C., Angelini, G., Poggi, A., Rubartelli, A. (2005) NK/iDC inter-
+action results in IL-18 secretion by DCs at the synaptic cleft followed by
+NK cell activation and release of the DC maturation factor HMGB1. Blood
+106, 609–616.
+16. Bonaldi, T., Talamo, F., Scaffidi, P., Ferrera, D., Porto, A., Bachi, A.,
+Rubartelli, A., Agresti, A., Bianchi, M. E. (2003) Monocytic cells hyper-
+acetylate chromatin protein HMG1 to redirect it towards secretion.
+EMBO J. 22, 5551–5560.
+17. Morio, T., Brett, J., Stalmans, I., Renaud, J., Chen, J. X., Xanthopoulos,
+M., Lundh, E. R., Vijay, S., Nitecki, D. et al. (1995) The receptor for
+advanced glycation end products (RAGE) is a cellular binding site for
+amphotericin. Evidence of neutrite outgrowth on coexpression of rage and
+amphotericin in the neuroblastoma system. J. Biol. Chem. 270,
+25752–25761.
+18. Huttenen, H. J., Fages, C., Rauvala, H. (1999) Receptor for advanced gly-
+cation end products (RAGE)-mediated neurite outgrowth and activation
+of NF-kB require the cytoplasmic domain of the receptor but different
+downstream signaling pathways. J. Biol. Chem. 274, 19919–19924.
+19. Rouhiainen, A., Kuja-Panula, J., Wilkman, E., Pakkanen, J., Stenfors, J.,
+Tuominen, R. K., Lepantalo, M., Carpen, O., Parkkinen, J., Rauvala, H.
+(2004) Regulation of monocyte migration by amphoterin (HMGB1). Blood
+104, 1174–1182.
+20. Palumbo, R., Sampaolesi, M., De Marchis, F., Tonlorenzi, R., Colombo, A.,
+Mondino, A., Cossu, G., Bianchi, M. E. (2004) Extracellular HMGB1, a
+signal of tissue damage, induces mesoangioblast migration and prolif-
+eration. J. Cell Biol. 164, 441–449.
+21. Dumitriu, I. E., Baruah, P., Bianchi, M. E., Manfredi, A. A., Rovere-
+Querini, P. (2005) Requirement of HMGB1 and RAGE for the maturation
+of human plasmacytoid dendritic cells. Eur. J. Immunol. 35, 2184–2190.
+22. Messmer, D., Yang, H., Telusma, G., Knoll, F., Li, J., Messmer, B.,
+Tracey, K. J., Chiorazzi, N. (2004) High mobility group box protein 1
+(HMGB1) is an endogenous stimulus for dendritic cell maturation and
+Th1 polarization. J. Immunol. 173, 307–313.
+23. Younes, H., Kamel, G. K., Bires, C. E., Ruben, S. M., French, F. S., Hall,
+S. H. (2003) Antimicrobial properties of the sperm-binding proteins, the
+defensins of human epididymis 2 (HE2) family: salt sensitivity, structural
+implications, and interaction with other cysteine-rich antimicrobials of
+Escherichia coli. Biochem. J. 372, 473–483.
+24. Yang, D., Biragyn, A., Hoover, D. M., Lubkowski, J., Oppenheim, J. J.
+(2004) Multiple roles of antimicrobial defensins, cathelicidins, and eos-
+inophil-derived neurotoxin in host defense. Annu. Rev. Immunol. 22,
+181–215.
+25. Yang, D., Chen, Q., Rosenberg, H. F., Rybak, S. M., Newton, D. L., Wang,
+Z. Y., Fu, Q., Tchernev, V. T., Wang, M., Schweitzer, B., Kingsmore, S. F.,
+Palefsky, J. M., Oppenheim, J. J., Howard, O. M. (2004) Human microbicide
+elafin prevents chemokine receptor-mediated infection. J. Immunol. 173,
+6134–6142.
+26. Yang, D., Oppenheim, J. J. (2004) Antimicrobial proteins act as “alar-
+mins” in joint immune defense. Arthritis Rheum. 50, 3014–3015.
+27. Oppenheim, J. J., Yang, D. (2005) Alarmins: chemotactic activators of
+immune responses. Curr. Opin. Immunol. 17, 359–365.
+28. Li, J., Wang, H., Mason, J. M., Levine, J., Yu, M., Ulloa, L., Czura, C. J.,
+Tracey, K. J., Yang, H. (2004) Recombinant HMGB1 with cytokine-
+stimulating activity. J. Immunol. Methods 289, 211–223.
+29. Thomas, J. O., Wilson, S., Yoshida, M. (1995) High-mobility group-like
+protein of non-histone chromosomal proteins HMG1 and HMG2 by using
+Polybuffer-exchanger PBE94. J. Chromatogr. 330, 39–46.
+
+Yang et al. HMGB1 induction of DC migration and activation 65

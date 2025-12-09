@@ -1,0 +1,128 @@
+```plaintext
+Merritt et al
+
+When the tumors reached 45 to 50 mm^2, AdCD40L (5 × 10^10 
+particle units in 100 μL PBS) was injected intratumorally. Seven 
+days after AdCD40L administration, the mice were killed and their 
+spleens were harvested. The spleens were minced with a razor and 
+passed through a 100-μm nylon mesh filter. The resulting spleno- 
+cyte suspensions were treated with ACK Lysing Buffer (Biosource 
+International, Camarillo, Calif) to lyse red blood cells and washed 
+with PBS. The Spisney murine cell enrichment procedure (Stem 
+Cell Technologies, Vancouver, BC, Canada) was then performed 
+to purify CD8+ T lymphocytes according to the manufacturer’s 
+instructions. Flow cytometric analysis indicated that 90% of the 
+purified splenocytes were CD8+ T lymphocytes (data not shown).
+
+Cytotoxic T-Lymphocyte Binding Assay
+To assess the ability of CTLs to bind to target cells, a conjugate- 
+formation binding assay was performed as described by Nakamura 
+and colleagues17 and Noguchi and colleagues.18 B16.F10 cells 
+were cultured in either complete DMEM or complete DMEM with 
+the addition of 500 U/mL of rmIFNγ for 48 hours. The cells were 
+collected using trypsin-ethylenediaminetetraacetic acid and 
+washed 3 times with PBS. The B16.F10 tumor cells were stained 
+with 1 μg/mL of hydroethidine (Molecular Probes, Junction City, 
+Ore) for 1 hour at 37°C. The purified CD8+ T lymphocytes from 
+AdCD40L-treated mice were stained with 1 μg/mL of sulfoflu- 
+oresceinacetate (Molecular Probes) for 1 hour at 37°C. The 
+stained CD8+ T lymphocytes were then cocultured with either 
+rmIFNγ-exposed B16.F10 cells or untreated B16.F10 cells at a 1:1 
+ratio (8 × 10^4 cells each) for 15 minutes at 37°C. Purified mouse 
+anti-mouse H-2Kb MAb (4 μg; Pharmingen) was added to se- 
+lected wells to assess the role of MHC class I in CTL binding. 
+Binding of CD8+ T lymphocytes and B16.F10 cells was then 
+quantified using a flow cytometry (FACStar; Becton Dick- 
+inson). The percentage of bound CD8+ cells was calculated as 
+follows: Binding (%) = (no. of green-red double positive counts)/ 
+(total no. of green positive counts) × 100.
+
+IFNγ Enzyme-Linked Immunospot Assay
+To quantify the frequencies of tumor-specific CTLs, the enzyme- 
+linked immunospot (ELISPOT) assay was employed. The ELIS- 
+POT assay is a sensitive and reproducible assay for the functional 
+and quantitative determination of the proportion of tumor-specific 
+CTLs19,20 and has become a standard method for the determination 
+of CTLs in immunotherapy clinical trials.20 Each spot observed in 
+the assay represents a single, tumor-specific, activated T lympho- 
+cyte, detected by its ability to secrete IFNγ.
+
+Target cell preparation. Target cells consisted of B16.F10 
+cells exposed to rmIFNγ (500 U/mL; 48 hours), untreated B16.F10 
+cells, or the syngeneic negative control cell line, LLC. Prior to 
+their use in the ELISPOT assay, target cells were washed with PBS 
+and treated with 100 μg/mL of mitomycin C (Sigma) at 37°C for 
+1 hour. The tumor cells were then washed in complete ELISPOT 
+medium (RPMI 1640 supplemented with 10% fetal bovine serum, 
+100 μg/mL streptomycin, 100 U/mL penicillin, 10 mmol/L N-2- 
+hydroxyethylpiperazine-N-2-ethanesulfonic acid buffer, 1 mmol/L 
+L-glutamine, and 5 × 10−5 mol/L β-mercaptoethanol) and resus- 
+pended at 10^6 cells/mL.
+
+Effector cell preparation. Effector cells for use in the ELIS- 
+POT assay were generated using the in vivo tumor model previ-
+
+General Thoracic Surgery
+
+ously described (see Generation and Purification of Tumor-Spe- 
+cific Cytotoxic T Lymphocytes). Four groups of effector cells were 
+prepared, which included total splenocytes from (1) AdCD40L- 
+treated mice, (2) AdCD40L-treated mice that had also received a 
+concomitant IP injection of rmIFNγ (5000 U), (3) AdNull-treated 
+mice, and (4) PBS-treated mice. Unlike the preparation for the 
+binding assay, CD8+ T cells were not purified from total spleno- 
+cytes for use in the ELISPOT assay, with the goal of preserving the 
+presence of antigen-presenting cells. The splenocytes were resus- 
+pended in complete ELISPOT medium at a concentration of 8 × 
+10^6 cells/mL.
+
+ELISPOT assay. Ninety-six–well multiscreen-IP membrane 
+plates (Millipore, Bedford, Mass) were coated with 100 μL of a rat 
+anti-mouse IFNγ MAb (Mabtech, Cincinnati, Ohio) at a concen- 
+tration of 10 μg/mL overnight at 4°C. The plates were blocked 
+with 150 μL of complete ELISPOT medium and incubated for 2 
+hours at 37°C. The blocking buffer was decanted and 4 × 10^5 
+splenocytes/50 μL of complete ELISPOT medium were added to 
+each well, followed by incubation for 2 hours at 37°C. Target cells 
+(5 × 10^4 cells/50 μL of complete ELISPOT medium) were then 
+added to each well and the plates were incubated for 20 hours at 
+37°C. After incubation, the plates were washed with PBS and 
+0.05% Tween 20 (Sigma). A biotinylated anti-rat IgG antibody 
+(Mabtech) was diluted to 1 μg/mL in PBS/0.5% bovine serum 
+albumin, and 100 μL was added to each well. The plates were 
+incubated for 2 hours at 37°C and washed with PBS/0.05% Tween 
+20. After washing, 100 μL of avidin-enzyme complex (Vector 
+Laboratories, Burlingame, Calif) was added to each well and 
+incubated for 1 hour at room temperature. The plates were then 
+washed and treated with 100 μL of 3-amino-9-ethylcarbazole 
+substrate (Sigma) and incubated for 4 minutes at room tempera- 
+ture, followed by rinsing with water to stop the reaction. The plates 
+were then analyzed with the KS ELISPOT Automated Reader 
+System (Carl Zeiss, Chester, Va).
+
+Evaluation of In Vivo MHC Class I Expression 
+Modulation on the Antitumor Properties of AdCD40L
+B16.F10 tumor cells (5 × 10^5 cells in 100 μL of PBS) were 
+injected into the right flanks of C57BL/6 mice. When the tumor 
+growth reached 45 to 50 mm^2, treatment with PBS, AdNull, or 
+AdCD40L (5 × 10^10 particles) was administered intratumorally in 
+100 μL of PBS. Additional mice received a single dose of IP 
+rmIFNγ alone (5000 U), with AdNull, or with AdCD40L. The size 
+of the flank tumors was assessed every 2 to 3 days by measuring 
+the largest perpendicular diameters using microcalipers and were 
+recorded as an average tumor area (mm^2). When the animals 
+appeared moribund or the tumor growth exceeded 15 mm in the 
+largest diameter, the mice were killed and this time point was 
+defined as date of death for survival analysis.
+
+Evaluation of MHC Class I Blockade with MHC Class 
+I MAb in Vivo
+To assess the role of MHC class I expression enhancement by 
+IFNγ in vivo, tumor-bearing mice receiving intratumoral 
+AdCD40L (5 × 10^10 particles) and IP IFNγ (5000 U) were treated 
+with 3 successive intratumoral injections of mouse anti-mouse 
+H-2Kb MAb (20 μg/100 μL PBS; Sigma) on days 8 to 10 after 
+tumor injection. Untreated mice and mice treated with AdCD40L 
+
+The Journal of Thoracic and Cardiovascular Surgery • Volume 127, Number 2 357
+```

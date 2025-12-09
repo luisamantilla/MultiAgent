@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the quantitative parameters and values extracted from the text:\n\n1. **Day 4 post-infection**: Refers to the time point in the simulation when the first row of results is shown.\n2. **Day 40 post-infection**: Refers to the time point in the simulation when the lower row of results is shown.\n3. **Diffusion coefficient for IFN 10 times larger than the diffusion coefficient for IL-2**: Indicates the relative difference in diffusion coefficients between IFN and IL-2 in the simulation."
+}

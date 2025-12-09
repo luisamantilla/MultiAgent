@@ -1,0 +1,94 @@
+```plaintext
+2638                                                                                                           Krouglova et al.
+
+RESULTS
+
+Labeled proteins in the FCS measurements
+
+Recently, Hess and Webb (2002) have demonstrated that the 
+observation volume in FCS under many measurement 
+conditions could be non-Gaussian in three dimensions. This 
+fact may lead to inaccurate results in the analysis of chemi-
+cal kinetic processes, the apparent appearance of a second 
+diffusing species, or some other type of nonstandard dif-
+fusion behavior. A signature of the non-Gaussian obser-
+vation volume is a strong maximum in the count rate per 
+molecule (cpm) as a function of the detector pinhole diam-
+eter (Hess and Webb, 2002).
+
+We have checked for the presence of this signature in 
+our measurements on the ConfoCor II by analyzing the 
+dependence of the cpm as a function of the pinhole diameter. 
+The results of this test are shown in Fig. 1. According to Hess 
+and Webb (2002) a well-distinguished maximum must ap-
+pear on the graph if the observation volume is not purely 
+Gaussian. In our case the value increases and levels off as 
+expected but the maximum opening is limited to 110 μm due 
+to the limited size of the glass fiber used behind the pinhole 
+and a further increase has no further influence.
+
+Another signature of a non-Gaussian observation volume 
+is the presence of a second component in the fitting of the 
+autocorrelation function from the solution even containing 
+only one type of molecules (Hess and Webb, 2002). In our 
+instrument the correlation curves resulting from the measure-
+ments of the solution containing only dye molecules can be 
+accurately fitted with a single component. Also in the case of 
+the fluorescent protein ovalbumin the autocorrelation 
+function can also be accurately fitted with a single 
+component. The autocorrelation function and the residues 
+are plotted in Fig. 2. The wavy shape of the plotted residuals 
+is 
+indicative of a second component is not observed in this 
+case.
+
+Proteins with different molecular mass from gel filtration 
+calibration kits such as ovalbumin (43 kD), catalase (232 
+kD), ferritin (440 kD), and thyroglobulin (669 kD) are 
+labeled by TAMRA and characterized at nanomolar 
+concentration in phosphate buffer (pH 7.0) by FCS. The 
+absence of aggregates for all these nonlabeled proteins at 
+this solution condition has been shown by sedimentation 
+equilibrium under similar solution conditions in Beckman 
+XLA analytical ultracentrifuge (Chacon et al., 2000).
+
+In the fitting of the correlation curves of these labeled 
+proteins the best fit is often obtained with a two-component 
+model. The fast component is assumed to be due to the free 
+dye, which seems to be difficult to remove, even after 
+a double passage through a G25 column. To check if the fast 
+component really corresponds to the free dye, the correlation 
+function is fitted with a two-component model without fixing 
+the diffusion time for the fast moving molecule. This fitting 
+procedure has been done for all fluorescent proteins. The 
+results show that the diffusion coefficient of the fast 
+component remains practically invariant for the whole range 
+of molecular masses (Fig. 3) and is equal to the diffusion 
+coefficient of the fluorescent dye measured separately in 
+buffer by FCS.
+
+The second or slow component is attributed to the labeled 
+protein. The dependence of the diffusion coefficient on the 
+molecular mass of the different fluorescently labeled proteins 
+is shown in Fig. 3.
+
+![A G(t)](image)
+
+![B G(t)-Fit deviation](image)
+
+FIGURE 2 (A) Autocorrelation function of a solution containing labeled 
+ovalbumin. The dashed line represents a one-component fit. The diffusion 
+time of labeled ovalbumin (concentration 2 nM) is determined to be 166 μs. 
+(B) Residuals for a one-component fit of the autocorrelation function.
+
+![Graph](image)
+
+FIGURE 1 Dependence of the apparent count rate per molecule (cpm) on 
+the diameter of the pinhole. The measurements are done on the LSM 510. 
+ConfoCor II at nanomolar concentrations of rhodamine 6G. The absence of 
+a pronounced maximum indicates a Gaussian distribution of the excitation 
+light. In our instrument the maximum opening is limited to 110 μm due to the 
+diameter of the glass fiber used between the pinhole and the APD.
+
+Biophysical Journal 87(4) 2635–2646
+```

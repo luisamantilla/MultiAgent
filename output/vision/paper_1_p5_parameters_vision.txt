@@ -1,0 +1,129 @@
+{
+  "tables": [
+    {
+      "parameter": "Volume constant νt",
+      "value": "100",
+      "units": "μm²",
+      "context": "Average cell diameter of 10 μm"
+    },
+    {
+      "parameter": "Volume multiplier λx",
+      "value": "9",
+      "units": null,
+      "context": "Volume multiplier"
+    },
+    {
+      "parameter": "Extracellular virus",
+      "value": "0.019",
+      "units": "μm² s⁻¹",
+      "context": "Diffusion coefficient"
+    },
+    {
+      "parameter": "Type I IFN",
+      "value": "0.052",
+      "units": "μm² s⁻¹",
+      "context": "Diffusion coefficient"
+    },
+    {
+      "parameter": "Interleukin 10",
+      "value": "0.327",
+      "units": "μm² s⁻¹",
+      "context": "Diffusion coefficient"
+    },
+    {
+      "parameter": "Macrophage - virus",
+      "value": "5000",
+      "units": null,
+      "context": "Chemotaxis parameter"
+    },
+    {
+      "parameter": "NK - chemokines",
+      "value": "5000",
+      "units": null,
+      "context": "Chemotaxis parameter"
+    },
+    {
+      "parameter": "CD8⁺ T - chemokines",
+      "value": "10000",
+      "units": null,
+      "context": "Chemotaxis parameter"
+    },
+    {
+      "parameter": "Uninfected - immune",
+      "value": "20",
+      "units": null,
+      "context": "Adhesion parameter"
+    },
+    {
+      "parameter": "Infected - immune",
+      "value": "10",
+      "units": null,
+      "context": "Adhesion parameter"
+    },
+    {
+      "parameter": "Dead - immune",
+      "value": "25",
+      "units": null,
+      "context": "Adhesion parameter"
+    },
+    {
+      "parameter": "Homotypic immune",
+      "value": "25",
+      "units": null,
+      "context": "Adhesion parameter"
+    },
+    {
+      "parameter": "Heterotypic immune",
+      "value": "10",
+      "units": null,
+      "context": "Adhesion parameter"
+    }
+  ],
+  "figures": [],
+  "text": [],
+  "equations": [
+    {
+      "parameter": "Infection rate",
+      "value": "βpI",
+      "units": null,
+      "context": "Transition rate"
+    },
+    {
+      "parameter": "Uninfected death rate",
+      "value": "dU",
+      "units": null,
+      "context": "Transition rate"
+    },
+    {
+      "parameter": "Infected death rate",
+      "value": "dI + aD",
+      "units": null,
+      "context": "Transition rate"
+    },
+    {
+      "parameter": "Recovery rate",
+      "value": "aU",
+      "units": null,
+      "context": "Transition rate"
+    },
+    {
+      "parameter": "Macrophage inflow rate",
+      "value": "η(μm + bμm)",
+      "units": null,
+      "context": "Inflow rate"
+    },
+    {
+      "parameter": "NK cell inflow rate",
+      "value": "η(μk + bμk)",
+      "units": null,
+      "context": "Inflow rate"
+    },
+    {
+      "parameter": "CD8⁺ T cell inflow rate",
+      "value": "ηpγ",
+      "units": null,
+      "context": "Inflow rate"
+    }
+  ],
+  "summary": "The page presents a model of epithelial sheet dynamics in response to influenza infection, detailing transition rates for infection, death, and recovery. It includes diffusion coefficients for extracellular virus and cytokines, as well as chemotaxis and adhesion parameters for immune cells. The model uses specific volume constants and multipliers to simulate cell interactions and immune responses. These parameters are crucial for understanding local immune responses and infection dynamics."
+}

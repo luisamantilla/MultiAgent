@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and values from the provided text:\n\n1. **Division Trigger Mass**: 200 fg (femtograms)\n2. **Environment**: 2D array of concentration values for glucose and lactase\n3. **Simulation Configuration**: Low initial glucose concentration\n4. **Simulation Time**: Onset of lactose metabolism triggered within a few hours\n\nThese parameters and values are related to the modeling and simulation processes described in the text."
+}

@@ -1,0 +1,130 @@
+```plaintext
+REVIEW
+
+© 2003 Nature Publishing Group http://www.nature.com/natureimmunology
+
+complexes several hours after injection of a large amount of lyso-
+zyme12, earlier work indicated that B cells lacking an antigen-specific
+surface immunoglobulin (Ig) molecule are very inefficient at taking up
+antigen and stimulating relevant CD4 T cells13. Indeed, in a different
+study in which less antigen was injected, less than 10% of the DCs in
+the draining lymph nodes produced pMHC class II complexes14. In
+any case, no matter how many B cells produce pMHC class II com-
+plexes from a given antigen, the paucity of B cells in the T cell areas
+indicates that B cells are unlikely to be the initial APCs for naïve T cells
+in most situations. In support of this contention, in vivo proliferation
+of antigen-specific CD4 T cells after immunization is normal in B
+cell–deficient mice15.
+
+Although these results indicate that B cells are not required, they
+may still participate in activating APCs for naïve CD4 T cells. In sup-
+port of this idea, naïve antigen-specific CD4 T cells proliferated in
+mice injected with antigen-pulsed B cells expressing surface
+immunoglobulin specific for the antigen17. The T cells were stimu-
+lated in part by direct recognition of pMHC class II complexes on the
+injected B cells. The antigen-specific CD4 T cells and B cells could have
+interacted as the B cells traveled out of the blood and through the T cell
+areas on the way to the B cell–rich follicles18. Direct initial presentation
+by B cells, however, may be limited to this special situation in which
+large numbers of B cells display pMHC class II complexes. Most of the
+literature on soluble antigens indicates that rare antigen-specific B
+cells only present pMHC class II complexes to CD4 T cells that were
+initially activated by DCs19,20 (Supplementary Video online,
+00:00:37–00:00:45).
+
+As B cells and macrophages are not required for activation of naïve
+CD4 T cells, and DCs are the only other MHC class II–expressing cells
+that occupy the T cell areas of the lymph nodes21, DCs are probably
+the essential APCs for initial pMHC class II presentation to naïve CD4
+T cells in most situations, although they may also be involved in the
+activation of B cells22 and natural killer cells23. In addition to this indi-
+rect evidence, direct confirmation that DCs are the main initiating
+APCs comes from two studies that examined the interaction between
+draining DCs and antigen-specific CD4 T cells in situ. One showed that
+ovalbumin-specific T cells formed small clusters around fluorescent
+DCs in draining lymph nodes 24 hours after subcutaneous injection of
+fluorochrome-labeled ovalbumin.24 Similarly, another showed that
+DCs were the main cell type forming fluorescent latex beads coated
+with ovalbumin, and that ovalbumin-specific T cells were found adja-
+cent to bead-containing DCs in peribronchial lymph nodes 12 hours
+after beads were given intranasally25. In addition, real-time micro-
+scope imaging showed that antigen-specific T cells form clusters 32
+hours after exposure to subcutaneously injected soluble antigen26.
+Although it was not demonstrated in the last study that DCs were in
+these T cell clusters, the location of these clusters in the T cell areas was
+consistent with the possibility that DCs were present. Indeed, a sepa-
+rate in vivo analysis of these clusters showed that they contain DCs27.
+
+These are important experiments, as they attempted to detect anti-
+gen presentation in situ. However, this approach has its limitations. By
+tracking intact antigen, it can only be assumed that the cells that con-
+tained the antigen and were interacting with antigen-specific T cells
+actually displayed the relevant pMHC complexes. Also, these experi-
+ments did not demonstrate that the DC–T cell interaction caused the
+interacting T cells to become activated. However, together with the
+studies of B cell– and macrophage-deficient mice, these physical find-
+ings provide evidence that DCs directly interact with naïve T cells and,
+that because these interactions are antigen-dependent, they probably
+represent actual antigen presentation events.
+
+Given that DCs are probably the cells that first present pMHC class
+II complexes to naïve CD4 T cells, the question then becomes which of
+the many DC subsets are involved. The answer to this question seems
+to depend on the form of the antigen and the way that it enters the
+
+Figure 1 Location of DC subsets in the lymph
+node. The skin contains two main types of
+immature DCs: Langerhans cells (dark blue) in the
+epidermis, and interstitial DCs (purple) in the
+dermis. The dermal DCs are probably similar in
+origin and function to interstitial DCs that exist in
+other nonlymphoid tissues, whereas Langerhans
+cells are unique to the epidermis. Both
+populations of DCs migrate to the draining lymph
+node through afferent lymphatic vessels at a low
+constant rate, which increases considerably in
+response to inflammatory signals. Inflamed skin
+also contains a population of monocytes (light
+blue), which, after migrating to the draining
+lymph node, can acquire a DC phenotype and
+morphology. In addition to these three skin-
+derived DC subsets, a skin-draining lymph node
+contains three DC subsets that enter through the
+HEV: blood-derived CD11b+ (orange), blood-
+derived CD8α+ (red) and plasmacytoid (green)
+DCs. Blood-derived CD8α+ DCs localize to the
+center of the cortex, whereas blood-derived
+CD11b+ DCs, Langerhans cell immigrants and
+dermal DC immigrants occupy the outer cortex,
+near the conduits that surround the HEVs and
+follicles.
+
+Langerhans cell
+Interstitial (dermal) DC
+Monocyte
+
+Blood-derived
+CD11b+ DC
+Blood-derived
+CD8α+ DC
+Plasmacytoid DC
+
+Skin
+Epidermis
+Dermis
+Afferent
+lymphatic
+vessel
+Subcapsular
+sinus
+B cell
+follicle
+HEV
+Efferent
+lymphatic
+vessel
+
+734
+
+VOLUME 4 NUMBER 8 AUGUST 2003 NATURE IMMUNOLOGY
+```

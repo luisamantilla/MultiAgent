@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "```plaintext\nARTICLES                                                                                      NATURE CANCER\n\ndue to diffusion well before they have the time to generate a local \nbiological effect. \n    A direct consequence of this mode of action is that the activ-\nity of IFN-γ will be determined at the tissue level by the overall \nnumber of cytokine-producing cells. In this model, the collective \nactivity of T cells is essential because it determines the overall \ncytokine concentration and the extent of tumor cell response, in \na manner resembling quorum sensing. Such a collective mode of \naction was recently described for nitric oxide (NO)-producing \nmacrophages, where a single macrophage has a negligible intrinsic \n\na\n\nt = 0 min\n\nNucleus   STAT1–GFP\n\nFluorescence \n(Percentage of max.)\n\n100\n\n0\n\n5     10     15\nDistance (µm)\n\nSTAT1–GFP\nNucleus\n\n+IFN-γ\nt = 53 min\n\nNucleus   STAT1–GFP\n\nFluorescence \n(Percentage of max.)\n\n100\n\n0\n\n5     10     15\nDistance (µm)\n\nSTAT1–GFP\nNucleus\n\nb\n\n1.0\n\n0.5\n\n0\n\n–0.5\n\n–1.0\n\nUnstimulated\n\n+IFN-γ\n\n***\n\nTranslocation score\n\nc\n\nNo T cell\n\n+ MataHari T cells\n\nSTAT1–GFP\n\nCD8+ T cells\n\nd\n\nNo T cell\n\nNucleus   STAT1–GFP\n\nFluorescence \n(Percentage of max.)\n\n100\n\n0\n\n5     10     15\nDistance (µm)\n\nSTAT1–GFP\nNucleus\n\n+ MataHari T cells\n\nNucleus   STAT1–GFP\n\nFluorescence \n(Percentage of max.)\n\n100\n\n0\n\n5     10     15\nDistance (µm)\n\nSTAT1–GFP\nNucleus\n\ne\n\n1.0\n\n0.5\n\n0\n\n–0.5\n\n–1.0\n\nNo T cell\n\n+ MataHari T cells\n\n***\n\nTranslocation score\n\nf\n\n1.0\n\n0.5\n\n0\n\n–0.5\n\n–1.0\n\n0     10     20     30     40     50     60\nDistance to the closest T cell\n\nR = –0.010\nP = 0.965\n\nTranslocation score\n\ng\n\n0 min     10 min     20 min     30 min     40 min     50 min     60 min     70 min\n\nSTAT1–GFP\n\nNucleus\n\nNATURE CANCER | www.nature.com/natcancer\n```",
+  "model": "gpt-4o",
+  "page": 8,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 22.48,
+  "filename": "thibaut_2020.pdf",
+  "doc_id": "thibaut_2020"
+}

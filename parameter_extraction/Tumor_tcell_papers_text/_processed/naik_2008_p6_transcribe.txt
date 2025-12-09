@@ -1,0 +1,130 @@
+```plaintext
+444
+
+perturbed monocyte development in early life and an absence of some 
+macrophage subsets.56,200–202 Although total DC numbers are down in 
+these mice,203 it is in accordance with total spleen size and so probably 
+does not reflect a specific defect in the DC compartment (Winter- 
+Pack et al.204, V Demeec, personal communication). Of the DCs that 
+are present, the splenic subtypes are also in their expected ratio and 
+density and exhibit normal functions (in the assays tested), suggesting 
+M-CSF is not obligatory for steady-state DC precursors, nor are the 
+precursors monocytes. However, M-CSF might play a role in the 
+maintenance of the pool of DC18 and in augmenting DC develop- 
+ment.205 M-CSF has also recently been described as a novel DC 
+poietin. In that study, the nonadherent cells ordinarily discarded in 
+M-CSF cultures (which are employed to generate macrophages) 
+contained DCs.206 
+
+Third, the major cytokine driving the generation of the steady-state 
+cDC subtypes in vivo appears to be Flt3 ligand (FL) as evidenced by an 
+absence of DCs in genetic knockouts of FL, or members of its signalling 
+pathway, such as STAT3.207,208 By contrast, these mice have normal 
+monocyte development209 and GM-CSF-derived DC development.207 
+
+Moreover, it is important to note that in vitro CD8+ DCs and GM- 
+CSF-derived DCs are fundamentally different in terms of their 
+derivation from precursors,59,210 in their function,191 and in their 
+genetic makeup.211 Thus, despite popular assumption, they may 
+represent distinct DC types. 
+
+Inflammatory TNF-a iNOS-producing DC 
+When would GM-CSF become important for monocyte-derived DC 
+development? In the absence of FL, GM-CSF is required for the 
+generation of DCs in the spleen, but not in the lung.212 In the spleen, 
+lung preparations of mice treated with LPS, generated TNF-a and 
+iNOS-producing DCs (Tip DCs) that were not present in the spleen 
+of FL-deficient mice, but were in the FL in vivo equivalent of GM- 
+CSF-driven monocyte-derived DCs came when a novel DC subtype 
+was identified in the spleen of mice 1–2 days after infection with 
+Listeria monocytogenes.213 This TNF-a (tumor necrosis factor-a) and 
+iNOS (inducible nitric oxide synthase) producing DC (Tip DC) was 
+unique in phenotype in that they were CD11cintCD11bhiMAC-3+ 
+unlike splenic steady-state cDC, which are CD11c+CD11bintMAC- 
+3- in mice deficient for the chemokine receptor CCR2, this DC subset 
+failed to develop in spleen, but CD11c+ cDC numbers were normal. 
+Interestingly, the Ly6Chi monocyte subset selectively expresses CCR2,40 
+and so was presumed to be the contributing precursor to this kind of 
+DC.44 Price in vitro evidence for such a process came in our model of 
+inflammation where CD11c+MHCII+Ly6Chi monocytes developed 
+into CD11cintMHCII+MAC-3+ DCs.59 Since the description of Tip 
+DCs, and even before, other CD11cintCD11bhi DCs have been 
+described that arise during many bacterial, viral and parasitic infec- 
+tions, and autoimmune sequelae (summarized in Table 2). Whether 
+these are involved in immunity, infection control or regulation will be 
+very important to dissect in the future. 
+
+GM-CSF-derived DCs and the in vitro equivalents of Tip DCs 
+In light of the above evidence, Xu and colleagues explored whether 
+GM-CSF-derived DC cultures represent Tip DCs rather than those of 
+the steady state.191 By all parameters tested, this appeared to be the 
+case. Specifically, GM-CSF-derived DCs, but not FL-derived DCs (see 
+below), were large and granular, had the phenotype 
+CD11c+MHCII+Mac-3+, could produce TNF-a and iNOS in response 
+to TLR agonists, and could develop from Ly6Chi monocytes—all 
+parameters which aligned with their Tip DCs, and not those of the 
+steady state or from FL cultures. Interestingly only activated GM-CSF- 
+
+derived DCs and Tip DCs produced chemokine ligand 2 (CCL2), 
+perhaps pointing to roles in further monocyte recruitment (CCL2 
+binds CCR2 on Ly6Chi monocytes), and produced IL-10, perhaps 
+indicating an immunosuppressive role. Related to this, Ly6Chi mono- 
+cytes have been implicated as the myeloid suppressor cells in a mouse 
+model of multiple sclerosis.214 
+
+FL-DERIVED DCs REPRESENT STEADY-STATE CD8+, CD8- 
+AND pDCs 
+If GM-CSF cultures do not best represent the steady-state DC path- 
+way, then can any other culture methods substitute? Immune 
+scientists provided the answer in a key publication,215 with a more 
+thorough examination of the question from our laboratory.174 In view 
+of the observations that FL treatment increased DC numbers,216,217 
+and that FL-/- mice had abrogated DC numbers,208 the immune 
+group devised a novel culture system to generate DCs.215 BM cell 
+cultures supplemented with FL for 9 days generated DCs in roughly 
+the same number as total BM cells initially seeded. Interestingly, in an 
+often-overlooked paper, these DCs were morphologically and 
+phenotypically distinct from GM-CSF-derived DCs,218 with further 
+characterization of these differences by Xu and colleagues191 (see 
+above). 
+
+Despite the lack of CD8 or CD4 expression, the investiga- 
+tors215,219,220 classified three DC subtypes in these cultures: 
+CD11c+B220+ pDCs, CD11bhiCD11clo DCs and CD11c+CD11bhi 
+DCs. Considering CD11c+CD11bhiDCs (which would have also 
+contained pDCs) upregulated surface CD86 after LPS activation and 
+secreted IL-12 upon TLR9 engagement, these DCs were considered 
+CD24hiSirp-a+ and CD24-Sirp-a+ DCs, and demonstrated they were 
+indeed bona fide equivalents of CD8+ and CD8- cDCs—not only 
+phenotypically, but also functionally (Figure 1). For example, only the 
+CD8+ FL-DC equivalents expressed CD8a and TLR3, produced 
+IL-12 p70 in response to TLR agonists, could cross-present cell- 
+associated antigen to CD8+ T cells, and were dependent on the 
+latent regulatory factor (IRF-8) transcription factor for its devel- 
+opment, among other unique features.174 Worth noting here for those 
+wishing to use this system is that CD8+ FL-DC equivalents could not 
+process nor present soluble antigen, unlike their in vivo counterparts (Sri 
+Naik and NS Wilson, personal observation). 
+If the research purpose is to investigate the development or function 
+of the steady-state pDC, CD8+ or CD8- cDCs, then FL cultures are 
+currently the simplest and most representative in vitro protocol. Most 
+importantly, one can get up to 20 times more total DCs from BM FL 
+cultures per mouse compared to spleen, and up to 80 times more 
+CD8+ DC equivalents. Access to a mouse FL-expressing Chinese 
+Hamster Ovary cell line is available upon request. 
+
+THE STEPS IN DC DEVELOPMENT 
+Determined so far... 
+So what are the steps in DC development? Our first line of experi- 
+ments to recapitulate the observations of others57,221 that Ly6Chi mono- 
+cytes and CD8- cDC could be precursors of CD8+ cDC did not yield 
+the same results.59,222 This fitted with previous and subsequent 
+data40,44,46,56 which destroyed the age-old assumption that monocytes 
+were precursors of all DCs. Instead, we and another group identified 
+spleen-resident precursors that were monocytes but that could 
+generate DCs upon transfer with relatively high efficiency into non- 
+irradiated recipients.39,59 These were termed pre-cDC. Although repre- 
+senting a minor population within spleen (0.05%), they accounted for 
+
+Immunology and Cell Biology
+```

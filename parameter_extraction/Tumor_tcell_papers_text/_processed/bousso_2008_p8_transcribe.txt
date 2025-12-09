@@ -1,0 +1,131 @@
+```plaintext
+REVIEWS
+
+How are these parameters collectively integrated by 
+T cells? Different studies have provided evidence that 
+Ca2+ signals are critical for the induction of T-cell arrest 
+on antigen recognition^252. It is tempting to speculate 
+that the intensity of Ca2+ signals, which can be influ- 
+enced by many factors, reflects the overall strength of 
+stimulation and directs T-cell behaviour during antigen 
+recognition. It is likely that future studies will lead to 
+the identification of new molecules that regulate the 
+stability of T-cell–DC interactions in vivo. It will be 
+equally important to determine which of these numer- 
+ous parameters can be regulated during the immune 
+response and can act as a molecular switch for the 
+formation of stable contacts.
+
+Distinct contacts, distinct outcomes?
+Linking the outcome of T-cell activation and contact 
+dynamics. The complex regulation of T-cell–DC contact 
+dynamics suggested that the pattern of interactions that is 
+experienced by an individual T cell may reflect and possi- 
+bly dictate its function. Studies that compared T-cell–DC 
+dynamics in experimental settings correlated alterations 
+in contact dynamics with different functional outcomes 
+(FIG. 2). Most often, conditions that induced robust T-cell 
+activation were associated with stable interactions and 
+T-cell arrest on DCs. For example, CD8+ T cells arrested 
+on DCs following an immunization regimen that led to 
+T-cell priming: anti-DEC-205–OVA plus lipopolysac- 
+charide (LPS) but not following prim immunizations reg- 
+imens that resulted in T-cell tolerance (anti-DEC-205–OVA 
+alone)^9. Similarly, a lower level of CD4+ T-cell activation 
+observed in the presence of high numbers of regulatory 
+T cells has been correlated with a reduced stability of 
+CD4+ T-cell–DC contacts^133. Finally, the lack of stable 
+interactions between CD8+ T cells and ICAM1-deficient 
+DCs following immunization with anti-DEC-205–OVA 
+was associated with impaired T-cell memory formation.
+
+However, exceptions to this general trend have also 
+been reported. For example, a reagent with anti- 
+DEC-205 that was conjugated to a potent antigenic 
+peptide efficiently triggered T-cell arrest on DCs, yet 
+induced CD4+ T-cell tolerance^9. Similarly, the formation 
+of stable clusters of CD4+ T cells has been documented 
+following administration of an oral immunization reg- 
+imen that induced tolerance^6. In summary, these studies 
+support the idea that stable T-cell–DC interactions are 
+necessary but not sufficient for optimal T-cell priming.
+
+Manipulating T-cell–DC contacts in vivo. An alternative 
+strategy for investigating the extent to which T-cell–DC 
+interaction dynamics shape the outcome of T-cell activa- 
+tion consists of experimentally manipulating T-cell–DC 
+contacts in the lymph node and measuring changes in 
+T-cell activation. A strategy to synchronize the forma- 
+tion and the dissociation of CD4+ T-cell–DC interactions 
+in vivo has been exploited to identify the T-cell 
+activation profile that is induced by an interaction of a 
+defined duration^6. At least 6 hours of contact between a 
+CD4+ T cell and an antigen-presenting mature DC were 
+required to initiate clonal expansion, whereas inter- 
+actions of 24 hours resulted in 5–6 rounds of cell division.
+
+These results highlight the importance of prolonged 
+interactions for efficient CD4+ T-cell activation in vivo. 
+Moreover, using multiple injections of antigen-bearing 
+DCs, it has also been possible to test the impact of mul- 
+tiple DC encounters on T-cell activation programmes. 
+After their initial activation, CD4+ T cells were shown to 
+be capable of integrating signals during subsequent con- 
+tacts with DCs, a process that was particularly important 
+for IFNγ production^55.
+
+Heterogeneity of T-cell fates. A common feature of most 
+T-cell responses is the generation of heterogeneous popu- 
+lations of effectors and memory T cells^256. The fact that 
+T-cell fate is closely linked to T-cell–DC contact dynam- 
+ics raises the possibility that differences in the number 
+and stability of DC encounters that are experienced by 
+different antigen-specific T cells could shape the func- 
+tional heterogeneity of the T-cell response. This theory 
+has been challenged by an elegant study that analysed 
+the T-cell response mounted by a single antigen-specific 
+T cell adoptively transferred under microscop control^6. 
+Although the progeny of each individual T cell was highly 
+diverse, the progenies of different T cells were quite 
+similar to one another, which suggests that diversifica- 
+tion of T-cell fate might not originate from differences 
+in initial antigen-recognition events. As strong antigen 
+stimuli were used in this study, clonal stimulation of all 
+antigen-specific T cells might have been provided. In 
+contrast to the generation of a diverse pool of effector 
+and memory T cells, the recent observation that 
+the initial T-cell division can be asymmetric and that the 
+daughter cells might adopt divergent fates suggests a 
+newly described mechanism for the functional diversi- 
+fication of T cells^257. Interestingly, asymmetric T-cell division 
+was associated with strong molecular clustering at the 
+immunological synapse, a feature that could be favoured 
+by stable T-cell–DC interactions.
+
+T-cell–DC contacts during infection. Our current knowl- 
+edge of the dynamics of T-cell activation in vivo has 
+been generated with model antigens that were directly 
+targeted to DCs. Although these studies have been 
+instrumental for dissecting spatio-temporal aspects of 
+T-cell–DC interactions, they provide only partial insights 
+into how T cells are primed by DCs during viral, bacte- 
+rial or parasitic infections. With each pathogen comes 
+a unique combination of parameters that ultimately 
+shapes T-cell–DC communication in the lymph node. 
+Among these are the type, number and localization of 
+antigen-bearing DCs, the cytokine and/or chemokine 
+milieu, the level and kinetics of antigen presentation, and 
+the TCR affinities of the responding T cells.
+
+To take these crucial aspects into consideration, it will 
+be fundamental to unravel the mode and regulation of 
+T-cell–DC interactions during infection with different 
+pathogens. One report analysed CD8+ T-cell priming in 
+mice that had been infected subcutaneously with a vac- 
+cinia virus or vesicular stomatitis virus that had both 
+been engineered to express an ovalbumin epitope^9.
+
+682 | SEPTEMBER 2008 | VOLUME 8                                                                 www.nature.com/reviews/immunol
+
+© 2008 Macmillan Publishers Limited. All rights reserved
+```

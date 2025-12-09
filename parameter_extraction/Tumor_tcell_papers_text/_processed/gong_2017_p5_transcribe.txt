@@ -1,0 +1,86 @@
+Downloaded from http://rsif.royalsocietypublishing.org/ on September 20, 2017
+
+![5](https://via.placeholder.com/15/000000/000000?text=+)
+
+rsif.royalsocietypublishing.org
+
+J. R. Soc. Interface 14: 20170320
+
+(a)
+
+![Image](https://via.placeholder.com/15/000000/000000?text=+)
+
+- cancer cell, PDL1-
+- cancer cell, PDL1+
+- T cell, effector
+- T cell, cytotoxic
+- T cell, suppressed
+
+(b)
+
+(i)
+
+![Graph](https://via.placeholder.com/15/000000/000000?text=+)
+
+- PDL1-
+- PDL1+
+
+(ii)
+
+![Graph](https://via.placeholder.com/15/000000/000000?text=+)
+
+- effector
+- cytotoxic
+- suppressed
+
+(c)
+
+(i)
+
+![3D Image](https://via.placeholder.com/15/000000/000000?text=+)
+
+day 20
+
+1 18 35
+
+α(IL-2)
+
+300 μm
+
+(ii)
+
+![3D Image](https://via.placeholder.com/15/000000/000000?text=+)
+
+day 30
+
+1 18 35
+
+α(IL-2)
+
+300 μm
+
+(d)
+
+(i)
+
+![2D Image](https://via.placeholder.com/15/000000/000000?text=+)
+
+day 20
+
+T cell: effector cytotoxic suppressed
+
+cancer cell: PDL1- PDL1+
+
+(ii)
+
+![2D Image](https://via.placeholder.com/15/000000/000000?text=+)
+
+day 30
+
+300 μm
+
+Figure 2. Tumour development baseline. (a) Three-dimensional distribution of different cell subsets. Insets show relative locations of T cells and cancer cells in the interior and at the tumour boundary. (b) Time courses of cancer and T-cell statistics tracked during simulation. (i) PDL1+ and PDL1- cancer cell counts. Shadow indicates ± standard deviation. (ii) Effector, cytotoxic and suppressed T-cell counts. Shadow indicates ± standard deviation. (c) Distribution of IL-2 concentration on days (i) 20 and (ii) 30. (d) Slices of simulated tumour at days (i) 20 and (ii) 30, showing distribution of different cell types. Orange box is simulated space of 1 mm edge lengths.
+
+T cell by $m_{\text{supp}} = 0.8$ after day 30 of each simulation. This takes into account the potential redundancy of signalling pathways and incomplete blocking. Results are shown in figure 5.
+
+Without treatment, tumours in all four scenarios are progressing from day 30 to day 50. In low mutational burden scenarios, tumour continues to grow with anti-PDL1 treatment.

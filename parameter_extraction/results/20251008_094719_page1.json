@@ -1,0 +1,7 @@
+{
+  "tables": [],
+  "figures": [],
+  "text": [],
+  "equations": [],
+  "summary": "The document discusses the importance of modeling viral infections, particularly influenza, using a multiscale, multicellular spatiotemporal approach. It highlights the limitations of ordinary differential equation models in capturing spatial effects and the immune response. The study aims to improve predictions of viral infection progression by integrating spatially resolved data and immune response components."
+}

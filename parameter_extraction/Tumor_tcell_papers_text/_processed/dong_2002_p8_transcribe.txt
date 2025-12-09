@@ -1,0 +1,115 @@
+```plaintext
+ARTICLES
+
+cancer line; H. Kobayashi for advice on T-cell culture; and K. Jensen for editing 
+the manuscript. Some of the results presented in this paper (expression of B7-
+H1 in human tumor lines) were presented at National Cancer Institute 
+Symposium, “Tumor escape from immune recognition: Molecular mechanism 
+and functional significance”, 22–23 August 1999, Baltimore, Maryland.
+
+Competing interests statement
+The authors declare that they have no competing financial interests.
+
+RECEIVED 8 MAY; ACCEPTED 5 JUNE 2002
+
+1. Chambers, C.A. & Allison, J.P. Co-stimulation in T cell responses. Curr. Opin. 
+Immunol. 9, 396–404 (1997).
+2. Jenkins, D. & Wu, L. Taylor, B. & Bluestone, J.A. CD28/B7 system of T cell co-stimu-
+lation. Annu. Rev. Immunol. 14, 243–258 (1996).
+3. Chen, L., Linsley, P.S. & Hellstrom, K.E. Costimulation of T cells for tumor immu-
+nity. Immunol. Rev. 145, 183–209 (1995).
+4. June, C.H., Ledbetter, J.A. & Thompson, C.B. & Thompson, C.B. Cost. Opin. Immunol. 
+7, 620–625 (1995).
+5. Watts, T.H. & DeBenedette, M.A. T cell co-stimulatory molecules other than CD28. 
+Curr. Opin. Immunol. 11, 286–293 (1999).
+6. Noel, P.J., Boise, L.H., Green, J.M. & Thompson, C.B. CD28 costimulation prevents 
+cell death during primary T cell activation. J. Immunol. 157, 636–642 (1996).
+7. Hurtado, J.C., Kim, Y.J. & Kwon, B.S. Signals through 4-1BB activate T cells and 
+induce cytokine secretion by T cells, and inhibit activation-induced cell death. 
+J. Immunol. 158, 2600–2609 (1997).
+8. Takahashi, C., Mittler, R.S. & Vella, A.T. 4-1BB is a bona fide CD8 T cell survival sig-
+nal. J. Immunol. 162, 5037–5040 (1999).
+9. Rogers, P.R., Song, J., Gramaglia, I., Killeen, N. & Croft, M. OX-40 promotes Bcl-xL 
+and bcl-2 expression and is essential for long-term survival of CD4+ T cells. 
+Immunity 15, 445–455 (2001).
+10. Krummel, M.F. & Allison, J.P. CTLA-4 engagement inhibits IL-2 accumulation and 
+cell cycle progression upon activation of resting T cells. J. Exp. Med. 183, 
+2533–2540 (1996).
+11. Walunas, T.L., Bakker, C.Y. & Bluestone, J.A. CTLA4 ligation blocks CD28-depen-
+dent T cell activation. J. Exp. Med. 183, 2541–2550 (1996).
+12. Chen, L. et al. Costimulation of antitumor immunity by the B7 counter-receptor 
+for the CTLA-4 inhibitory molecule on mouse tumor cells. Proc. Natl. Acad. Sci. 
+USA 89, 5537–5541 (1992).
+13. Leach, D.R., Krummel, M.F. & Allison, J.P. Enhancement of antitumor immunity by 
+CTLA-4 blockade. Science 271, 1734–1736 (1996).
+14. Townsend, S.E. & Allison, J.P. Tumor rejection after direct costimulation of CD8+ 
+T cells by B7-transfected melanoma cells. Science 259, 368–370 (1993).
+15. van Elsas, A., Hurwitz, A.A. & Allison, J.P. Combination immunotherapy of B16 
+melanoma using anti-cytotoxic T lymphocyte-associated antigen 4 (CTLA-4) and 
+granulocyte/macrophage colony-stimulating factor (GM-CSF)-producing vac-
+cines induces rejection of subcutaneous and metastatic tumors accompanied by 
+autoimmune depigmentation. J. Exp. Med. 190, 355–366 (1999).
+16. Egen, J.G., Kuhns, M.S. & Allison, J.P. CTLA-4: new insights into its biological func-
+tion and use in tumor immunotherapy. Nat. Immunol. 3, 611–618 (2002).
+17. Lenschow, D.J., Walunas, T.L. & Bluestone, J.A. CD28/B7 system of T cell costimu-
+lation. Annu. Rev. Immunol. 14, 233–258 (1996).
+18. Nagata, S. & Golstein, P. The Fas death factor. Science 267, 1449–1456 (1995).
+19. Peregrinis, I., Tan, E., Beohler, T. & Deaton, K.M. Fas-mediated tumour 
+apoptosis in human T cells. J. Immunol. 8, 143–152 (1996).
+20. Bae, S. et al. Functional expression of TRAIL by lymphoid and myeloid tumour 
+cells. J. Immunol. 166, 827–832 (1999).
+21. Liu, J. & Celis, E. Use of two predictive algorithms of the binding of peptides to 
+identification of tumor-reactive T-cell epitopes. Cancer Res. 60, 6225–6227 (2000).
+22. Greiner, J.W., Guadagni, F., Eiben, K.C. & Jones, C. The interleukin-10 promotes 
+activation-induced cell death of T lymphocytes mediated by Fas ligand. J. Clin. 
+Invest. 100, 2622–2633 (1997).
+23. Sykulev, Y. et al. High affinity reactions between antigen-specific T-cell receptors 
+and peptides associated with allogeneic and syngeneic major histocompatibility 
+complex class I proteins. Proc. Natl. Acad. Sci. USA 91, 11487–11491 (1994).
+24. Tamada, K., Tamura, H., Gibbs, V., Xu, Y., Pease, L.R., Blazar, B.R. & Chen, L. 
+Blockade of LIGHT/HVEM and PD-1/PD-L1 induces sublethal T cell anergy, pre-
+venting graft-versus-host disease. J. Clin. Invest. 109, 549–557 (2002).
+25. Chen, L., McGowan, P., Ashe, J., Shlomchik, J., Linsley, P.S. & Hellstrom, K.E. 
+Tumor immunogenicity determines the effect of B7 costimulation in CTL-medi-
+ated tumor immunity. J. Exp. Med. 179, 523–532 (1994).
+26. Smyth, M.J., Godfrey, D.I. & Trapani, J.A. A fresh look at tumor immunosurveillance 
+and immunotherapy. Nature Immunol. 2, 293–299 (2001).
+27. Griffith, T.S., Brunner, T., Fletcher, S.M., Green, D.R. & Ferguson, T.A. Fas 
+ligand-induced apoptosis as a mechanism of immune privilege. Science 270, 
+1189–1192 (1995).
+28. O’Rourke, J., Ebert, M.W., O’Sullivan, G.C., Collins, J.K. & Pidgeon, C. Tumor 
+counterattack: the best form of tumor defense? Nature Med. 5, 267–268 (1999).
+29. Street, S. & Galle, P. Immune evasion by tumors: a new role for Fas ligand in 
+tumor counterattack. Trends Immunol. 20, 43–46 (1999).
+30. Chappell, D.B., Zaks, T.Z., Rosenberg, S.A. & Restifo, N.P. Human melanoma cells 
+do not express Fas (Apo-1/CD95) ligand. Cancer Res. 59, 59–62 (1999).
+31. Nagata, M., Horikawa, N., Pabec, C. & Nagel, C.J. Green transfer of B7 ligand induces 
+tumor regression in vivo. Proc. Natl. Acad. Sci. USA 94, 13862–13867 (1997).
+32. Akashi, M., Sonoda, K. & Watanabe, K. Fas ligand expression and induction 
+of apoptotic cell death by the human tumor-associated antigen, RCAS1. Nature 
+Med. 5, 938–942 (1999).
+33. Hara, M., Yamaguchi, A. & Shinohara, K. & Kono, T. Induced expression of PD-1, a novel 
+member of the immunoglobulin gene superfamily, upon programmed cell death. 
+EMBO J. 11, 3887–3895 (1992).
+34. Nishimura, H., Nose, M., Hiai, H., Minato, N. & Honjo, T. Development of lupus-
+like autoimmune diseases by disruption of the PD-1 gene encoding an ITIM 
+motif-carrying immunoreceptor. Immunity 11, 141–151 (1999).
+35. Nishimura, H. et al. Autoimmune dilated cardiomyopathy in PD-1 receptor-defi-
+cient mice. Science 291, 319–322 (2001).
+36. Finger, L.R. et al. The human PD-1 gene: complete cDNA, genomic organization, 
+and developmentally regulated expression in B cell progenitors. Gene 197, 
+177–187 (1997).
+37. Chavapol, A.J., Zhu, G. & Chen, L. Immunoglobulin fusion protein as a tool for 
+evaluation of T-cell costimulatory molecules. Methods Mol. Med. 45, 247–255 
+(2000).
+38. Kobayashi, H., Wood, M., Sgon, Y., Apella, E. & Celis, E. Defining promiscuous 
+MHC class II helper T-cell epitopes for the HER2/neu tumor antigen. Cancer Res. 60, 
+5228–5236 (2000).
+39. Yu, Z., Kryzer, T.J., Griesmann, G.E., Kim, K.K., Benarroch, E. & Lennon, V.A. 
+CRMP-5 neuronal autoantibody: marker of lung cancer and thymoma-related au-
+toimmunity. Ann. Neurol. 49, 146–154 (2001).
+
+800
+
+NATURE MEDICINE • VOLUME 8 • NUMBER 8 • AUGUST 2002
+```

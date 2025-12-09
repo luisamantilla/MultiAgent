@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and their values from the text:\n\n1. **Lung carcinomas with B7-H1 immunoreactivity**: 21/21 patients\n2. **Ovarian carcinomas with B7-H1 immunoreactivity**: 20/23 patients\n3. **Colon carcinomas with B7-H1 immunoreactivity**: 10/19 patients\n4. **Melanomas with B7-H1 immunoreactivity**: 22/22 patients\n5. **Apoptotic death of M15 CTLs cocultured with mock/624mel cells**: 14 ± 5.6%\n6. **Apoptotic death of M15 CTLs cocultured with B7-H1/624mel cells**: 23 ± 4.7%\n7. **Relative increase in apoptotic death**: 62% (P < 0.05)\n8. **Inhibition of T cell apoptosis by antibody against B7-H1**: >50% (P < 0.05)\n9. **Increase in the number of viable T cells by antibody against B7-H1**: 1.4-fold (P < 0.05)"
+}

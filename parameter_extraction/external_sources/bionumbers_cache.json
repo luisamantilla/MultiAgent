@@ -1,0 +1,47 @@
+{
+  "106703": {
+    "bnid": "106703",
+    "name": "Diffusion coefficient of water in water",
+    "value": "2300",
+    "units": "\u00b5m^2/sec",
+    "context": "\"The NMR proton hopping times, tp, account for the abnormal proton mobility if one assumes that hopping is across a single water molecule at a time. Using the Einstein relation for mobility in three dimensions D = I^2/6tp, Meiboom was able to estimate a reasonable proton diffusion coefficient [ref 26]. Let us slightly modify this estimate by taking the hopping length as l = 2.5 \u00c5, the hydrogen-bond length between water and H30+ [ref 8], rather than the water-water distance of 2.8 \u00c5. Using tp = 1.5 ps gives D = 7 \u00d7 10^-5 Cm^2/s, a very reasonable estimate for the abnormal proton mobility at room temperature (subtract from the proton diffusion coefficient, 9.3 x 10^-5 cm^2/s, the water self-diffusion coefficient, 2.3 x 10^-5 cm2/s [ref 1]). Even the most modest coherent effect, with proton hopping across just two water molecules, already leads to a factor of 4 in the predicted mobility. Thus proton mobility is best described as an incoherent, Markovian hopping process.\" See BNID104087",
+    "organism": "Generic",
+    "citation": "Noam Agmon, The Grotthuss mechanism, Chemical Physics Letters 244 (1995) 456-462, doi:10.1016/0009-2614(95)00905-J p.458 left column top paragraph"
+  },
+  "104037": {
+    "bnid": "104037",
+    "name": "Diffusion coefficient of parvalbumin in cytoplasm",
+    "value": "37.4",
+    "units": "\u00b5m^2/sec\r\n                            Range: \u00b18.1 \u00b5m^2/sec",
+    "context": "parvalbumin diffuses out of frog skinned fibers with an isotropic, averaged diffusion coefficient of 3.74 \u00b1 0.81 \u00d7 10^-7 cm2/s at 4\u00b0C, which is ~1/3 the solution diffusion rate",
+    "organism": "Frog Rana temporaria",
+    "citation": "Lin PC, Kreutzer U, Jue T. Anisotropy and temperature dependence of myoglobin translational diffusion in myocardium: implication for oxygen transport and cellular architecture. Biophys J. 2007 Apr 192(7):2608-20.PubMed ID17218454"
+  },
+  "100299": {
+    "bnid": "100299",
+    "name": "Diffusion rate of animal cell",
+    "value": "0.05",
+    "units": "\u00b5m^2/sec\r\n                            Range: Table -link\u00b5m^2/sec",
+    "context": "See comment under table link.",
+    "organism": "Generic",
+    "citation": "\"Cell movements - from molecules to motility\", Dennis Bray, 2nd ed. Garland, 2001 pp. 6, Table 1-1"
+  },
+  "100295": {
+    "bnid": "100295",
+    "name": "Diffusion rate of bacterial cell",
+    "value": "0.5",
+    "units": "\u00b5m^2/sec\r\n                            Range: Table -link\u00b5m^2/sec",
+    "context": "Order of magnitude. ~1sec for a distance of 1 \u00b5m. See comment under table link.",
+    "organism": "Generic",
+    "citation": "\"Cell movements - from molecules to motility\", Dennis Bray, 2nd ed. Garland, 2001 pp. 6, Table 1-1"
+  },
+  "106693": {
+    "bnid": "106693",
+    "name": "Diffusion constant of p53-GFP",
+    "value": "15.4",
+    "units": "\u00b5m^2/sec\r\n                            Range: \u00b15.6 Table -link\u00b5m^2/sec",
+    "context": "Abstract: \"The diffusion constant of p53-GFP was estimated to be Dp53-GFP=15.4 \u00b5m^2/s, significantly slower than that of GFP alone, DGFP=41.6 \u00b5m^2/s.\" P.336 left column 2nd paragraph: \"The diffusion constant obtained for GFP in the nucleus (Table 1) is in close agreement with in vivo values published in the literature, e.g., D=43\u00b111 \u03bcm^2/s (ref 24) and D=58\u00b19 \u03bcm^2/s (ref 25) (although smaller values at \u223c15\u03bcm^2/s have also been reported, (ref 7) and references therein).\" P.336 right column top paragraph: \"Significantly, the parameters of the three-parameter fit were identical within error for those obtained for the sequence-specific DNA-binding mutants and the wild-type p53 fusion protein (Table 1). This further substantiates the notion that specific DNA binding does not contribute significantly to the slowed diffusion of p53-GFP compared to GFP.\" P.337 right column bottom paragraph: \"Nevertheless, [investigators] take [their] value k2=0.4/s as a sign of nonspecific DNA binding of unmodified p53. This conclusion is supported by [their] observation that the diffusional mobility of DNA binding mutants and wild-type p53-GFP are identical within error (Table 1).\" See note above table",
+    "organism": "Mammalian tissue culture cell",
+    "citation": "Hinow P, Rogers CE, Barbieri CE, Pietenpol JA, Kenworthy AK, DiBenedetto E. The DNA binding activity of p53 displays reaction-diffusion kinetics. Biophys J. 2006 Jul 1 91(1):330-42 p.338 table 1PubMed ID16603489"
+  }
+}

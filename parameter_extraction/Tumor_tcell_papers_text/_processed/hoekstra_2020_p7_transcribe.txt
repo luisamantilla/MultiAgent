@@ -1,0 +1,73 @@
+```plaintext
+NATURE CANCER                                                                                      ARTICLES
+
+the bystander tumor cell compartment by bioluminescence dem-          Discussion
+onstrated impaired outgrowth of IFN-γR-deficient bystander cells,     Exposure to IFN-γ can influence cell behavior in a number of ways
+relative to IFN-γR-deficient bystander cells in the same animal,      and can, for instance, inhibit tumor cell growth through induction
+in T-cell-treated mice but not in control mice (Fig. 5e). To assess   of apoptosis27, senescence28 and ferroptosis29. The current data pro-
+whether the observed deletion of Ag+ tumor cells through IFN-γR       vide evidence that CD8+ T cell activity in tumors can modulate the
+signaling could be due to antigen cross-presentation, we generated    behavior of a large fraction of the tumor mass, even when only a
+IFN-γR-proficient and IFN-γR-deficient bystander cells lacking the    small percentage of the tumor cells in that lesion can be recognized
+HLA-A*02 heavy chain that forms the restriction element for the       by CD8+ T cells, and even when tumor-antigen-specific T cells
+CDK4(96) neoantigen. Also, in a setting in which bystander tumor      are present at low frequencies (T cell:Ag+ target ratio of approxi-
+cells lack both antigen and the relevant human leukocyte antigen      mately 1:200; Extended Data Fig. 6). Furthermore, through the use
+(HLA) class I allele, widespread IFN-γR-dependent deletion of         of tumors that contain large substructures of Ag+ and Ag− tumor
+bystander tumor cells was observed after a T cell response had been   cells, we document that IFN-γ sensing can occur at long distances
+initiated (Fig. 5f). Impaired outgrowth of bystander tumor cells was  (>800 μm, equivalent to 30–40 cell layers) from sites of antigen
+observed in a setting in which Ag+ tumor cells and bystander cells    encounter, a substantially larger distance than, for instance, the
+were either intermingled or separated into larger domains, but was    maximal spread of oxygen derived from capillary blood vessels in
+more prominent in the former case (Fig. 5g). This suggests that       tumor tissue (4–8 cell layers30). The most probable explanation for
+IFN-γ is most likely to exert a selective pressure on the bystander   this widespread IFN-γ sensing would be substantial diffusion of
+tumor cell compartment in an early phase of genetic diversification   IFN-γ away from the immunologic synapse after T cell activation,
+of tumor tissues, when tumor cell compartments that can and can-      but a contribution of T cells that continue to secrete IFN-γ into the
+not be recognized by T cells are still in close proximity.            surrounding space after disengagement from the antigen-expressing
+
+a                                                                 b
+
+                                                                                     2,000
+                                                                                     1,500
+                                                                                     1,000
+                                                                                       500
+                                                                                         0
+                                                                                     Control + T cells Control + T cells
+                                                                                     72 144
+                                                                                     Time after treatment (h)
+
+c                                                                 d
+                                                                                     250
+                                                                                     200
+                                                                                     150
+                                                                                     100
+                                                                                      50
+                                                                                       0
+                                                                                     0 5 10 15 20
+                                                                                     Time (d)
+
+e                                                                 f
+
+                                                                                     32
+                                                                                     16
+                                                                                      8
+                                                                                      4
+                                                                                      2
+                                                                                      1
+                                                                                     0.5
+                                                                                     0.25
+                                                                                     0 5 10 15 20
+                                                                                     Time (d)
+
+g
+
+                                                                                     32
+                                                                                     16
+                                                                                      8
+                                                                                      4
+                                                                                      2
+                                                                                      1
+                                                                                     0.5
+                                                                                     0.25
+                                                                                     0 5 10 15 20
+                                                                                     Time (d)
+
+NATURE CANCER | www.nature.com/natcancer
+```

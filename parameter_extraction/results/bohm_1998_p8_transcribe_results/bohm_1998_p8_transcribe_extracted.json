@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and values from the text:\n\n1. **Cell Concentration**:\n   - CTLL-T cells: \\(10^6/\\text{ml}\\)\n   - B16.F10T cells: \\(10^6/\\text{ml}\\)\n\n2. **Incubation Time**:\n   - 12 hours at 37°C\n\n3. **Centrifugation**:\n   - 15 minutes at 2000 x g\n\n4. **Medium Usage**:\n   - 5% v/v\n\n5. **Antibody Concentration**:\n   - mAb R4-6A2 (anti-IFN-γ): 20 μg/ml\n\n6. **Assay Duration**:\n   - 4-hour assay\n   - 12-hour assay\n\n7. **Effector to Target (E:T) Ratios**:\n   - 10:1\n   - 1:1\n\n8. **Cell Transfer**:\n   - Subcutaneous transfer of \\(10^3\\) to \\(10^6\\) B16 cells\n\nThese parameters and values are related to the experimental conditions and results described in the text."
+}

@@ -1,0 +1,11 @@
+20. Detection of T-Cell Degranulation: CD107a and b
+
+509
+
+![Image of flow cytometry plots]
+
+Fig. 6  Removal of background CD107a/b expression through gating and CD14/CD19 staining. (A) Ungated SEB-stimulated cells are shown to demonstrate the level of CD107a/b labeling found on CD14/CD19⁺ cells. Note that the level of CD107a/b found on the CD14/CD19⁺ events is intermediate, as compared to the CD107a/b bright cells that do not co-stain with CD14/CD19. (B) By gating on small resting lymphocytes, a large proportion of CD107a/b dull events are removed. Note that this gating did not affect the CD107a/b bright events. Also, a small proportion of CD14/CD19⁺ cells remain within the small lymphocyte gate and are CD107a/b dull. (C) Changing the parameters compared in (B), we can see that a large proportion of CD107a/b dull events do not co-stain with the T-cell marker CD3. (D) Removing the remaining CD14/CD19⁺ events by negative gating dramatically reduces the remaining CD107a/b background expression on the non-T cells.
+
+more complete manner by measuring cytokine production and degranulation simultaneously. With polychromatic flow cytometry, multiple cytokines and degranulation can be measured simultaneously in activated CD4⁺ and CD8⁺ T lymphocytes.
+
+Aside from simply providing another quantitative measure of functionality for T cells, measurement of degranulation allows a direct link between cytolytic potential and cytokine production. Measurement of degranulation provides a positive marker for cytolytic activity of effector CD8⁺ T cells, unlike measurement of perforin in CD8⁺ T cells, which is lost if the cells degranulate as a result of

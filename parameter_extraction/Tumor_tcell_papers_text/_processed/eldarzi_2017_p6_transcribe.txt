@@ -1,0 +1,43 @@
+```plaintext
+6                                                                                  International Journal of Immunopathology and Pharmacology
+
+Adhesion Receptors
+
+CD49d                                      CD54
+4                                          50
+3                                          40
+2                                          30
+1                                          20
+0                                          10
+   3h  24h  48h  72h                          3h  24h  48h  72h
+
+Antigen Presentation Receptors
+
+CD1b                                       MHC I                                      MHC II
+4                                          150                                        20
+3                                          100                                        15
+2                                           50                                        10
+1                                            0                                         5
+   3h  24h  48h  72h                          3h  24h  48h  72h                          3h  24h  48h  72h
+
+Cytokine Receptors
+
+CD95                                       CD119                                      CD132
+4                                           8                                          8
+3                                           6                                          6
+2                                           4                                          4
+1                                           2                                          2
+   3h  24h  48h  72h                          3h  24h  48h  72h                          3h  24h  48h  72h
+
+MFI
+
+□ Unstimulated
+▒ IFN-γ
+░ IL-4
+■ TNF-α
+█ MDP
+
+Figure 2. Modulation of surface receptors on HaCaT cells following stimulation with IFN-γ, IL-4, TNF-α, or MDP. Unstimulated cells served as a control. Expression of surface receptors was determined by flow cytometry at 3, 24, 48, and 72h post-stimulation with 50ng/mL of each cytokine or 20 μg/mL of MDP. The data shown are representative of three independent experiments (n = 3), values are reported as mean of the total geometric mean fluorescent intensity (MFI) ± SEM. Statistically significant differences were determined by Student's t-test for unpaired samples (*P<0.05 vs unstimulated cells).
+
+increase in ICAM-1 level, TNF-α trailed behind with a significantly lower (*P<0.05) 17-fold increase in expression. In contrast, IL-4 and MDP did not significantly affect the level of ICAM-1 expression. Among the antigen presentation receptors analyzed, only IFN-γ brought forth a significant increase (*P<0.05) in the expression of CD1b, at 48 and 72h. The expression levels of MHC I and MHC II were also significantly elevated (*P<0.05) upon stimulation with IFN-γ starting at 24h (Figure 2). MHC I was upregulated by TNF-α at 48 and 72h, but not at 24h (Figure 2). The effect of TNF-α was significantly lower (*P<0.05) than that of IFN-γ, reaching a maximum of 1.6-fold increase as opposed to a 2.2-fold increase in expression induced by IFN-γ at 72h. IL-4, TNF-α, and MDP had no detectable effect on resting levels of CD1b and MHC II. With regard to the cytokine receptors tested, the expression of CD95 (FAS receptor) was elevated by IFN-γ and IL-4 at 24, 48, and 72h and by TNF-α at 48 and 72h (Figure 2). At 48h, a significant difference
+```

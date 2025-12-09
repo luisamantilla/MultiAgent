@@ -1,0 +1,84 @@
+```
+PLOS PATHOGENS                                                                                      Generate exhausted CD8+ T cells in vitro
+
+A                                                                                                   B
+
+100                                                                                                 25
+
+                                                                                                    20
+ 80
+                                                                                                    15
+ 60
+                                                                                                    10
+ 40
+                                                                                                     5
+ 20
+                                                                                                     0
+  0
+                                                                                                         Naive OT-I
+      Naive OT-I                                                                                         No peptide
+      No peptide                                                                                         Single peptide
+      Single peptide                                                                                     Repeat peptide
+      Repeat peptide
+
+%                                                                                                  #
+donor OT-I                                                                                         donor OT-I
+                                                                                                    (x10^6)
+
+C                                                                                                   D
+
+ 8                                                                                                   1.0
+
+ 6                                                                                                   0.8
+
+ 4                                                                                                   0.6
+
+ 2                                                                                                   0.4
+
+ 0                                                                                                   0.2
+
+                                                                                                     0.0
+      Naive OT-I                                                                                         Naive OT-I
+      No peptide                                                                                         No peptide
+      Single peptide                                                                                     Single peptide
+      Repeat peptide                                                                                     Repeat peptide
+
+%                                                                                                  #
+endogenous                                                                                         endogenous
+OVA257-264-Specific                                                                                OVA257-264-Specific
+CD8+ T cells                                                                                       CD8+ T cells
+                                                                                                    (x10^6)
+
+Fig 6. Repeat peptide stimulation decreases in vivo CTL expansion capacity. OT-I CD8+ T cells were cultured without peptide stimulation (no peptide), one-
+time stimulation (single peptide) or daily stimulation (repeat peptide) and sorted on day 5. Live CD8+ T cells were adoptively transferred into wild type mice
+which were then infected with the OVA257-264-expressing influenza virus WSN-OVA. Freshly isolated OT-I CD8+ T cells from a naive mouse were also
+transferred (naive OT-I). Lungs were harvested on day 10 post infection. (A) Frequency of donor CD45.1+ OT-I CD8+ T cells within total lung CD8+ T cells
+shown. (B) Absolute number of lung donor CD45.1+ OT-I CD8+ T cells depicted. (C) Frequency of endogenous CD45.2+ OVA-specific CD8+ T cells within
+total lung CD8+ T cells shown. (D) Absolute number of endogenous CD45.2+ OVA-specific CD8+ T cells shown. Each symbol represents one animal (n = 8–9)
+from n = 3 independent experiments. Line depicts mean ± SE. To determine significant differences between the different animal groups, a Mann-Whitney U test
+was used except for data in (A) (ANOVA with Tukey’s post hoc test). ***P<0.001, ****P<0.0001.
+
+https://doi.org/10.1371/journal.ppat.1008555.g006
+
+As shown in the principle component analysis (PCA) (Fig 7A), the samples clustered together
+and were distinctly separated depending upon their in vitro treatment. We identified 1196
+genes with more than 2-fold increased expression and 1218 genes with more than 2-fold
+downregulation in the repeat peptide stimulated cells relative to that in single peptide stimu-
+lated cells. The transcriptional profile of the repeat peptide stimulated cells is clearly more dis-
+tinct than those of the single and non-stimulated cells (Fig 7B and S1 Table). Among the
+upregulated genes, multiple inhibitory receptors encoding genes, including PD-1 (Pdcd1),
+Lag3, Tim3 (Havcr2), CD160, Tigit and CTLA4 were presented on the top of this list. As
+expected, the genes for the markers of the terminal differentiated effector cells, like GzmB,
+GzmC and Prf1 were also significantly upregulated on the repeat peptide stimulated cells (Fig
+7C). The transcription factors, Eomes and Tcf7 were downregulated by 4.0 and 6.6 fold, respec-
+tively, while Tox was found to be 2.9 fold increased in the repeat peptide stimulated cells com-
+pared to single peptide stimulated cells (Fig 7C), confirming our flow cytometry findings of
+these TFs (Fig 5B and 5C). Furthermore, TFs, which are associated with CTL exhaustion such
+as IRF4 [28], NR4a [29] and Batf [30] were also upregulated in the repeat peptide stimulated
+cells in comparison to single peptide and no peptide stimulated cells (Fig 7C).
+
+To assess whether differentially expressed genes in repeat peptide stimulated cells were
+enriched for genes that characterize in vivo exhausted CTL from LCMV cl13 infections, we
+
+PLOS Pathogens | https://doi.org/10.1371/journal.ppat.1008555 June 24, 2020                                                                 11 / 27
+```

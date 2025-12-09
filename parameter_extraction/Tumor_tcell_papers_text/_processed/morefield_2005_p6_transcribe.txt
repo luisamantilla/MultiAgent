@@ -1,0 +1,72 @@
+```plaintext
+G.L. Morefield et al. / Vaccine 23 (2005) 1588–1595
+
+1593
+
+(A)                     (B)
+
+(C)                     (D)
+
+Fig. 2. Dendritic cells treated with BODIPY FL (green) labeled alpha casein adsorbed to aluminum hydroxide adjuvant. The cytoskeleton was stained red. The
+images are from a z-series of 46 slices. Key: (A) slice 3; (B) slice 15; (C) slice 27; (D) slice 40. The bars represent 10 μm.
+
+diameter of the DCs was approximately 10 μm and the mean
+diameter of the BODIPY FL labeled AC/AH aggregates was
+17 μm (Table 1). Fig. 2B and C indicate that even though the
+diameter of the AH aggregates was larger than the DCs, the
+DCs were able to internalize portions of the AH aggregates.
+A recent study [22] showed that the primary particles in AH
+aggregates were loosely associated and deaggregation readily
+occurred. Fig. 2D shows a focal plane at the bottom of the
+DCs.
+
+The images in Fig. 2 indicate that AC adsorbed to AH was
+internalized by DCs through phagocytosis. However, the DCs
+did not internalize entire AH aggregates. Rather, the DCs
+engulfed and internalized fragments of the AH aggregates.
+
+3.5. Flow cytometry
+
+The DCs were also analyzed by flow cytometry to quan-
+tify the internalization efficiency of AC in solution and AC
+adsorbed to AH. When the fluorescence intensities were mea-
+sured, it was found that internalization of both AC in solution
+and AC adsorbed to AH occurred quickly as most internal-
+ization occurred during the first 30 min of exposure (Fig. 3).
+The DCs that were incubated with AC adsorbed to AH had
+a fluorescence intensity four times greater than DCs treated
+with the same amount of AC as a solution. This indicates
+that antigen internalization through phagocytosis of adsorbed
+antigen was more efficient than macropinocytosis of antigen
+in solution.
+
+3.6. Effect of adjuvant aggregate diameter
+
+The observation that enhanced internalization of adsorbed
+antigen occurred even though the adjuvant aggregates were
+larger than the DCs led to an experiment to study the effect
+of adjuvant aggregate size on the internalization of adsorbed
+
+BODIPY FL Fluorescence Intensity
+
+175
+150
+125
+100
+75
+50
+25
+0
+
+0          1          2          3
+
+Time (hr)
+
+Fig. 3. BODIPY FL fluorescence intensity of dendritic cells treated with
+BODIPY FL labeled alpha casein in solution (■); BODIPY FL labeled
+alpha casein adsorbed to aluminum hydroxide adjuvant (♦); BODIPY FL
+labeled alpha casein adsorbed to phosphate-treated aluminum hydroxide
+adjuvant-1 (×); BODIPY FL labeled alpha casein adsorbed to phosphate-
+treated aluminum hydroxide adjuvant-2 (◊); BODIPY FL labeled alpha
+casein adsorbed to aluminum phosphate adjuvant (▲).
+```

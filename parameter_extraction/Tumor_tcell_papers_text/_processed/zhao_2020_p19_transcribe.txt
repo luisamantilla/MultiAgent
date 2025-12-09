@@ -1,0 +1,57 @@
+```markdown
+PLOS PATHOGENS                                                                                      Generate exhausted CD8+ T cells in vitro
+
+In vitro killing assay
+AE17 cells were maintained in RPMI 1640 supplemented with 10% FBS (Gibco), 100 units/mL 
+Penicillin/Streptomycin (Life Technologies), 2 mM L-glutamine (Life Technologies), 0.05 mM 
+2-mercaptoethanol (Sigma), and were cultured at 37°C in 5% CO2. AE17 cells were pulsed 
+with 1 μg/ml OVA(257–264) Peptide (Anaspec Cat AS-60193) for 1 hour and then the cells were 
+washed thoroughly before they were labelled with the CellTrace Far Red fluorescent dye (Ther-
+moFisher Scientific Cat C34564/15396613). Un-pulsed cells were not labeled. A 1:1 mix of pep-
+tide pulsed and un-pulsed AE17 cells (10^5 each) were mixed and different numbers of T cells 
+(Effector: Target ratios: 3:1, 1:1, 0.3:1) were added. The cells were harvested after 16 hours, the 
+ratio of labeled and unlabeled tumor cell were detected by flow cytometry.
+
+Flow cytometry
+To investigate phenotypic and functional changes, cells were stained with monoclonal antibod-
+ies and analyzed using flow cytometry. The following fluorochrome-conjugated monoclonal 
+antibody combinations against surface and intracellular antigens were used; Inhibitory recep-
+tors and ligands: anti-CD8-eFluor 450 (53–6.7,eBioscience), anti-Lag3-APC (C9B7W, BD Bio-
+sciences), anti-PD-1-APC-Cy7 (19F.1A12, Biolegend), anti-CD244-PE (2B4, BD Biosciences; 
+eBio244F4, eBioscience), anti-Tim3-PE-Cy7 (RMT3-23, Invitrogen), anti-CD160-PE-CF594 
+(CNX46-3, BD Biosciences), anti-TIGIT-FITC (GIGD7, eBioscience); Activation and differenti-
+ation: anti-CD44-BV785 (IM7, BD Biosciences), anti-CD25-APC-Cy7 (PC61, BD Biosciences); 
+Cytokines and effector molecules: anti-IFN-γ-APC (XMG1.2, eBioscience), anti-TNF-α-AF488 
+(MP6-XT22, eBioscience), anti-IL-2-PE (JES6-5H4, eBioscience), anti-GranzymeB-PE-Cy7 
+(NGZB, eBioscience); Intracellular expression of transcription factors: anti-T-bet-PE (4B10, 
+Biolegend), anti-TCF1-APC (C63D9, Cell Signaling), anti-EOMES-PE - eFluor F610 (Dan11-
+mag, eBioscience), anti-Tox-PE (TXRX10, eBioscience). To exclude apoptotic and dead cells, 
+Annexin V conjugated with APC, Cy5.5 or PerCP-Cy5.5 (BD Biosciences) was included in all 
+the stains and 2.5 mM CaCl2 was added to all solutions.
+
+On day 5, cells were harvested and immediately stained for surface and intracellular anti-
+gens. For surface staining, cells were washed with FACS wash (FACS staining medium 3% FBS and 
+0.02% sodium azide) and incubated with 20μL mix of the pre-determined optimal concentra-
+tions of the fluorochrome-conjugated monoclonal antibodies at 4°C in the dark for 20 min-
+utes. The cells were then washed once with FACS wash and fixed with 1% PFA. For the 
+transcription factor staining, cells were first stained for surface antigens as described above. 
+Following the washing step, cells were fixed with FoxP3 Fixation Buffer (005523, eBioscience) 
+for 60 minutes in the dark at 4°C and then washed with Perm/Wash buffer (008333, 
+eBioscience) and stained with a mix of antibodies against transcription factors for 1 hour at 
+4°C in the dark. Cells were then washed twice with Perm/Wash buffer and fixed with 1% PFA. 
+Appropriate isotype controls were included for staining of transcription factors.
+
+To analyze cytokine production, cells were re-stimulated with the 10μg/ml OVA(257–264) 
+SIINFEKL peptide for 6 hours at 37°C, 5% CO2 in the presence of GolgiPlug (BD Biosciences) 
+and anti-CD107a-APC-Cy7 antibodies (1D4B, Biolegend). Cells were then stained with surface 
+marker antibodies as described above. After washing with FACS wash, cells were fixed with IC 
+Fixation Buffer (88–8824, eBioscience) at 4°C overnight, washed with Perm/Wash buffer and 
+stained for intracellular cytokines for 45 min in the dark at 4°C. After staining, cells were 
+washed twice with Perm/Wash buffer and fixed with 1% PFA.
+
+Cells were measured on a LSRFortessa (BD Biosciences) using application settings and at 
+least 200,000 events were collected. Data was then analyzed with FlowJo software (Version 
+9.9.4, Treestar, Ashland, OR, USA).
+
+PLOS Pathogens | https://doi.org/10.1371/journal.ppat.1008555 June 24, 2020                                                                 19 / 27
+```

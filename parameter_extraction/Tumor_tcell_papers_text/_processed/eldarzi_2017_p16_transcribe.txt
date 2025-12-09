@@ -1,0 +1,23 @@
+```plaintext
+16                                                                 International Journal of Immunopathology and Pharmacology
+
+75. Liang PF, Huang XY, Chen BF, et al. (2007) 
+    Inhibitory effect of epidermal growth factor on apop-
+    tosis in HaCaT keratinocytes induced by TNF-alpha. 
+    Zhonghua Shao Shang Za Zhi 23: 284–287.
+76. Reinartz J, Bechtel MJ and Kramer MD (1996) Tumor 
+    necrosis factor-alpha-induced apoptosis in a human 
+    keratinocyte cell line (HaCaT) is counteracted by 
+    transforming growth factor-alpha. Experimental Cell 
+    Research 228: 334–340.
+
+77. Sun J, Han J, Zhao Y, et al. (2012) Curcumin induces 
+    apoptosis in tumor necrosis factor-alpha-treated 
+    HaCaT cells. International Immunopharmacology 13: 
+    170–174.
+78. Faurschou A, Gniadecki R, Calay D, et al. (2008) TNF-
+    alpha impairs the S-G2/M cell cycle checkpoint and 
+    cyclobutane pyrimidine dimer repair in premalignant 
+    skin cells: Role of the PI3K-Akt pathway. Journal of 
+    Investigative Dermatology 128: 2069–2077.
+```

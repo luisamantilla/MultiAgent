@@ -1,0 +1,37 @@
+Figure S4.
+
+\[
+\begin{align*}
+&\text{16} \\
+&\text{14} \\
+&\text{12} \\
+&\text{10} \\
+&\text{8} \\
+&\text{6} \\
+&\text{4} \\
+&\text{2} \\
+&\text{0} \\
+\end{align*}
+\]
+
+\[
+\begin{align*}
+&\text{150} \\
+&\text{200} \\
+&\text{250} \\
+&\text{300} \\
+&\text{350} \\
+&\text{400} \\
+&\text{450} \\
+\end{align*}
+\]
+
+\[
+\text{P < 10}^{-4}
+\]
+
+\[
+\text{Sum of absolute error}
+\]
+
+%

@@ -1,0 +1,115 @@
+```
+NATURE CANCER
+
+ARTICLES
+
+Technologies), 100 U ml–1 of penicillin (Roche) and 100 μg ml–1 of streptomycin
+(Roche). After 24 h, cells were either left untreated or treated with 5 nM LCK
+inhibitor (Merck Millipore) for the indicated time periods. Cells were then
+washed three times with medium to remove already secreted IFN-γ, and cells
+were cultured for 30 h in 40 μl fresh conditioned medium or medium containing
+5 nM LCK inhibitor. Subsequently, supernatants were collected and IFN-γ
+concentrations were determined using the BD Cytometric Bead Array Human
+Th1/Th2/Th17 Cytokine Kit, according to the manufacturer’s protocol.
+
+Mice. NOD scid IL2rγnull22m/m mice were obtained from Jackson Laboratories.
+All animal experiments were approved by the Animal Welfare Committee of
+the Netherlands Cancer Institute (NKI), in accordance with national guidelines.
+All animals were maintained in the animal department of the NKI, housed in
+individually ventilated cage systems under specific-pathogen-free conditions, and
+received food and water freely. Mice were used at 8–26 weeks of age.
+
+In vivo tumor experiments. Mixed tumors, OVCAR5 cells, 8 × 106, or MDA-
+MB-231 cells, 5 × 106, were injected subcutaneously into the flank of NSG-P2m–/–
+mice on BD HSBS and 50 μg Matrigel (Corning), using indicated mixtures of
+tumor cell variants.
+
+Segmented tumors. First the major contributing cell population was injected
+subcutaneously into the flank of NSG-P2m–/– mice in BD HSBS plus 50 μl
+Matrigel. Subsequently, mice were placed on a 37 °C heating pad for 15 min, while
+the tumor cells and the 2% isoflurane (Pharmachemie BV) for isoflurane mixture.
+The minor cell compartment was then injected into the solidified agar together
+with BD HSBS plus 10 μl Matrigel, using a Veo Insulin syringe with a BD Ultra-Fine
+6-mm × 31G needle. Indicated mixtures of tumor variants were injected, and
+up to a total of 8 × 106 tumor cells per tumor site.
+
+Mixed tumors for intravital imaging. First, a mammary imaging window was
+surgically inserted into the flank of female mice under aseptic conditions, on top
+of the fourth mammary gland (for more details, see ref. 1). Subsequently, 8 × 106
+tumor cells were injected into the fat pad of the fourth mammary gland. Tumor
+animals were sedated with a 2% isoflurane/compressed air mixture, 30 min after
+tumor cell injection; mice were maintained hyperthermic (0.01 mg kg–1
+buprenorphine) and were imaged after subcutaneous injection of 0.1 mg kg–1
+buprenorphine. Mice were imaged using a customized imaging box on the
+microscope while being kept under constant anesthesia, with the imaging box and
+the microscope adjusted to 34.5 °C using a humid chamber. After each imaging
+session, mice were kept at 37 °C until they had fully recovered from anesthesia.
+Intravital images were acquired using an inverted Leica SP5 DIVE system with a
+MaiTai eHP DeepSee laser (Spectra-Physics) and Insight X3 (Spectra-Physics).
+Three-dimensional (3D) tile scans of the full visible tumor area were acquired
+with 10 μm Z-steps. The microscope was equipped with 4 HyD-RLD detectors:
+(1) GFP and mOrange2 were simultaneously excited at 819 nm (MaiTai eHP
+DeepSee) and 1,040 nm (Insight X3) and detected at 454–618 nm for GFP and
+562–585 nm for mOrange2, together with second harmonic generation (collagen
+(fibrosis)) at 406–416 nm. In a second sequential scan, GFP and Katshuka were
+simultaneously excited at 960 nm (MaiTai eHP DeepSee) and 1,191 nm (Insight
+X3) and detected at 491–598 nm for GFP and 619–683 nm for Katshuka. All
+images were collected at 1,024 × 1,024 and acquired with a ×25 water immersion
+objective with a free working distance of 2.40 mm (HCX FLUOTAR L 25×/0.95W
+VISIR 0.17).
+
+Post-processing and analysis of intravital microscopy data. For analysis, 3D
+tile scans acquired by intravital microscopy were imported in Imaris (Bitplane)
+software. To analyze cells, 3D binary images were created from the GFP (that is,
+Ag’), CFP (that is, Ag’) and Katshuka (that is, IGS) reporter channels based on a
+threshold that was optimized for each timepoint, channel and experiment, and
+split into cells with a diameter of 12.2 μm. Autofluorescent signal, that was not
+cell channel was excluded from analysis. For each signal, the total volume (as a
+measure of the number of cells) was determined in the ROI at a distance of 50 μm
+from the Katshuka+ CFP channel. The distance to the nearest Ag’ neighbors was
+calculated using the distance transformation and intensity center of Ag’ and
+neighbor cells.
+
+Staining and analysis of segmented tumors. Tumors were isolated from mice
+and placed between two coverslips. From these freshly isolated tumors, 3D tile
+scans were acquired by intravital microscopy (without image-based sampling as
+described in multivariable intravital microscopy). Using a custom-made ImageJ
+v1.52i macro (available on request), the number of Orange2+ and Katshuka+
+cells was determined from the GFP (that is, Ag’) and GFP (that is, Ag’) channels
+based on a threshold that was optimized for each timepoint, channel and
+experiment, and split into cells with a diameter of 12.2 μm. The number of
+Orange2+ T cells was quantified in 3D tile scans (500 × 500 × 100 μm3) in the
+Ag’ and Ag’ areas of segmented tumors by manually counting using ImageJ
+v1.52i. The number of tumor cells was estimated by dividing the tumor volume
+by the volume of a spherical tumor cell. The average volume of spherical tumor
+cells was determined by measuring the diameter of 50 cancer cells, yielding a
+volume of 24 μm3.
+
+Human tumor immunohistochemistry. Human tumor tissue was obtained
+from 51 patients (no data on specific patient characteristics) in accordance with
+national guidelines, following opt-out procedure and approved by the local
+medical ethical committee (institutional review board of the NKI, Antoni van
+Leeuwenhoek Hospital). Tumor tissue was collected from surgical specimens
+after macroscopic examination of the tissue by a pathologist. For each specimen,
+a fragment was formalin fixed and paraffin-embedded for histology. Then, 3-μm
+sections were cut from formalin-fixed, paraffin-embedded tumor material and
+slides were stained with anti-P2m (polyclonal, DAKO/Agilent) or anti-CD8
+(clone C8/144B, DAKO/Agilent) antibodies. Slides were counterstained with
+hematoxylin and Bliang reagent (Ventana Medical Systems). All slides were
+scanned with an Aperio Scanscope, uploaded on Slide Score (https://www.slidescore.com) and
+manually assessed for P2m and CD8 expression.
+
+Statistics and reproducibility. All repeated independent experiments showed
+similar results. Statistical analysis was performed in Prism 9 (GraphPad). Two-
+tailed Mann–Whitney U-tests and a two-tailed, paired t-test with normally
+distributed data. For all boxplots, center line represents the median, box limits
+represent upper and lower quartiles, and whiskers represent minimum and
+maximum values. No statistical methods were used to predetermine sample sizes. In
+the analysis of Fig. 4f, areas smaller than 4 × 104 μm2 were excluded from analysis
+due to the very small numbers of cells, and therefore high variability in the
+measurements. No further data were excluded from the analyses. Transient
+tumor-bearing mice (controls) were randomized. Intravital microscopy
+analysis was performed blinded, such that the person performing the analysis
+
+NATURE CANCER | www.nature.com/natcancer
+```

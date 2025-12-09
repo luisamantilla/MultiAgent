@@ -1,0 +1,22 @@
+Figure S6.
+
+Degradation log\(_2\) fold change
+
+\[
+\begin{align*}
+&5 \\
+&4 \\
+&3 \\
+&2 \\
+&1 \\
+&0 \\
+&-1 \\
+&-2 \\
+\end{align*}
+\]
+
+\[
+\begin{array}{cccccccccccccccccccccccccccccccccccccccc}
+\text{VIM} & \text{STMN1} & \text{ENO1} & \text{GAPDH} & \text{FSCN1} & \text{H2AFV} & \text{VCL} & \text{MYH9} & \text{BAG1} & \text{TARS} & \text{CALM2} & \text{RFC1} & \text{LMNA} & \text{VIM2} & \text{PSMB4} & \text{NASP} & \text{RPA2} & \text{DDX5} & \text{RPS7} & \text{VPS26A} & \text{DYNC1H1} & \text{COTL1} & \text{RPL22} & \text{K-Alpha-1} & \text{RPS3} & \text{ILF2} & \text{EEF2} & \text{RPS6} & \text{CKS2} & \text{RPS3A} & \text{DDX18} & \text{CD44} \\
+\end{array}
+\]

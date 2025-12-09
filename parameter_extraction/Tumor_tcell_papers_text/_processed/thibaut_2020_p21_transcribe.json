@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "```\nNATURE CANCER\n\nARTICLES\n\na\n\nIn vitro\n\nRaw data\n\nBackground subtraction\nContrast adjustment\n\nRaw data\n\nOtsu's thresholding\n\nSTAT1-GFP\nbinarized\n\nImage closing + holes filling\nDistance map + watershed\n\nCell envelops\n\nCorrelation between mCherry\nand STAT1-GFP channels\n\nCo-localization\nscore\n\nIn vivo\n\nRaw data\n\nBackground subtraction\nContrast adjustment\n\nRaw data\n\nLaplacian of Gaussian\nH-dome extraction\n\nSTAT1-GFP\nlocal maxima\n\nOtsu's thresholding\n\nSTAT1-GFP\nbinarized\n\nDistance map + watershed\n\nCell envelops\n\nCorrelation between mCherry\nand STAT1-GFP channels\n\nCo-localization\nscore\n\nb\n\nExtended Data Fig. 6 | Automated procedure for quantifying STAT1 translocation in tumor cells imaged in vitro or in vivo. a, The diagram recapitulates\nthe various steps used for image processing and quantification (see methods for details). b, Representative example of cell segmentation from the\nSTAT1-GFP signal in tumor cells. Scale bar: 50 μm.\n\nNATURE CANCER | www.nature.com/natcancer\n```",
+  "model": "gpt-4o",
+  "page": 21,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 10.8,
+  "filename": "thibaut_2020.pdf",
+  "doc_id": "thibaut_2020"
+}

@@ -1,0 +1,260 @@
+```
+NATURE CANCER                                                                                              ARTICLES
+
+leading to IFN-γ production by T cells and to assess the occurrence 
+of long-distance effects in antigen-negative areas.
+
+Strong bystander activity of T cell-derived IFN-γ in the tumor 
+microenvironment. Using the aforementioned setup, we asked 
+how T cells impact on the phenotype of tumor cells located in 
+antigen-positive versus antigen-negative areas. As IFN-γ induces 
+MHC class I and PD-L1 upregulation, we relied on these readouts 
+as a proxy for IFN-γ activity. We first used the Eμ-myc lymphoma 
+model. When OT-I T cells were transferred in mice bearing anti-
+gen-negative tumors only, no changes in MHC class I and PD-L1 
+levels were observed (Fig. 3b–d) despite the presence of T cells in 
+the tumor microenvironment (see Extended data Fig. 4e). This 
+confirmed that local antigen restimulation is required for IFN-γ 
+production. In mosaic tumors, the presence of T cells resulted in 
+an increased expression of MHC class I and PD-L1. Importantly, 
+both antigen-positive and antigen-negative tumor cells upregu-
+lated these markers to the same extent (Fig. 3a–d). The widespread 
+effects mediated by IFN-γ could be due to the activity of numer-
+ous T cells, each of them acting on a limited number of bystander 
+cells (Fig. 3e). Alternatively, efficient diffusion of IFN-γ may result 
+in a relatively uniform intratumoral cytokine concentration, lead-
+
+a
+
+20,000
+H2-Kb (gMFI)
+
+15,000
+
+10,000
+
+5,000
+
+0
+0 0.005 0.05 0.5 5 50
+IFN-γ concentration (ng ml–1)
+
+Eμ-myc
+
+b
+
+15,000
+H2-D b (gMFI)
+
+10,000
+
+5,000
+
+0
+0 0.005 0.05 0.5 5 50
+IFN-γ concentration (ng ml–1)
+
+c
+
+Eμ-myc
+Activated OT-I T cells
+
+d
+
+30,000
+PD-L1 (gMFI)
+
+22,500
+
+15,000
+
+7,500
+
+0
+0 0.005 0.05 0.5 5 50
+IFN-γ concentration (ng ml–1)
+
+B16-F10
+
+15,000
+H2-Kb (gMFI)
+
+10,000
+
+5,000
+
+0
+0 0.005 0.05 0.5 5 50
+IFN-γ concentration (ng ml–1)
+
+15,000
+H2-D b (gMFI)
+
+10,000
+
+5,000
+
+0
+0 0.005 0.05 0.5 5 50
+IFN-γ concentration (ng ml–1)
+
+30,000
+PD-L1 (gMFI)
+
+22,500
+
+15,000
+
+7,500
+
+0
+0 0.005 0.05 0.5 5 50
+IFN-γ concentration (ng ml–1)
+
+e
+
+Rag2–/– mice
+
+2 weeks
+
+2 d
+
+Flow 
+cytometry
+
+OVA Eμ-myc
+
+f
+
+80,000
+H2-Kb (gMFI)
+
+60,000
+
+40,000
+
+20,000
+
+0
+No T WT IFN-γ–/– 
+cells OT-I OT-I
+
+** **
+
+30,000
+H2-D b (gMFI)
+
+22,500
+
+15,000
+
+7,500
+
+0
+No T WT IFN-γ–/– 
+cells OT-I OT-I
+
+** **
+
+16,000
+PD-L1 (gMFI)
+
+12,000
+
+8,000
+
+4,000
+
+0
+No T WT IFN-γ–/– 
+cells OT-I OT-I
+
+** **
+
+g
+
+NK cells
+
+160,000
+H2-Kb (gMFI)
+
+120,000
+
+80,000
+
+40,000
+
+0
+No T WT IFN-γ–/– 
+cells OT-I OT-I
+
+* *
+
+Monocytes
+
+200,000
+H2-Kb (gMFI)
+
+150,000
+
+100,000
+
+50,000
+
+0
+No T WT IFN-γ–/– 
+cells OT-I OT-I
+
+** **
+
+80,000
+H2-Kb (gMFI)
+
+60,000
+
+40,000
+
+20,000
+
+0
+No T WT IFN-γ–/– 
+cells OT-I OT-I
+
+** **
+
+Neutrophils
+
+h
+
+20,000
+H2-Kb (gMFI)
+
+15,000
+
+10,000
+
+5,000
+
+0
+No T WT IFN-γ–/– 
+cells CAR CAR
+
+**** ****
+
+20,000
+PD-L1 (gMFI)
+
+15,000
+
+10,000
+
+5,000
+
+0
+No T WT IFN-γ–/– 
+cells CAR CAR
+
+**** ****
+
+NATURE CANCER | www.nature.com/natcancer
+```

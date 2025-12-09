@@ -1,0 +1,90 @@
+```plaintext
+ARTICLES                                                                                   NATURE CANCER
+
+a
+
+5000
+4000
+3000
+2000
+1000
+0
+
+MFI Kusabira
+
+0     1     3.33     10     33.3     100
+
+IFNγ (ng/mL)
+
+24 h
+48 h
+72 h
+
+b
+
+80
+60
+40
+20
+0
+-20
+-40
+
+Kusabira+ cells of 1 μg GCs
+
+cells
+
+IGS
+
+IGS IFNγR^-
+
+stimulus
+
+IFNγ (ng/mL)
+
+0     0.1     1     10     1000     0     0.1     1     10     1000
+
+IFNα (ng/mL)
+
+0     0.1     1     10     1000     0     0.1     1     10     1000
+
+c
+
+80
+60
+40
+20
+0
+
+% R-Dye+ cells
+
+0     1     3.33     10     33.3     100
+
+IFNγ (ng/mL)
+
+24 h
+48 h
+72 h
+
+d
+
+50
+40
+30
+20
+10
+0
+
+% R-Dye+ cells
+
+0     100
+
+IFNγ (ng/mL)
+
+- IFNγ
++ IFNγ
+
+Extended Data Fig. 1 | See next page for caption.
+
+NATURE CANCER | www.nature.com/natcancer
+```

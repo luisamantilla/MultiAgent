@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and values from the text:\n\n1. Range of \\( I_t \\) for 558-T1 tumor cells and IL-10\\(^{-/-}\\) P1CTL T cells: 100 pg/cm\\(^3\\) to 3400 pg/cm\\(^3\\).\n2. Range of \\( I_t \\) for 3.5B1-IL27 tumor cells and IL-10\\(^{-/-}\\)/P1CTL/IL27: 750 pg/cm\\(^3\\) to 1600 pg/cm\\(^3\\).\n3. Approximation for \\(\\frac{I_t + s_c}{I_t}\\): 2.\n4. \\(\\lambda_1 - \\mu_c\\): 0.295/day.\n5. \\(\\eta_t\\): 0.6/day.\n6. \\(s_c\\): 150 pg/cm\\(^3\\).\n7. Approximation for \\(\\frac{I_t}{I_t + s_c}\\): \\(\\frac{1}{3}\\).\n8. Range of \\( I_{10} \\): 1 pg/cm\\(^3\\) to 2000 pg/cm\\(^3\\).\n9. Approximation for \\(\\frac{I_{10} + s_c}{I_{10}}\\): 3.5.\n10. \\(\\eta_t\\) (final estimation): 0.345/day."
+}

@@ -1,0 +1,101 @@
+PLOS PATHOGENS
+
+Generate exhausted CD8+ T cells in vitro
+
+A
+
+OT-I mouse
+
+Purified CD8+ cells
+
+\[
+\begin{array}{cccccc}
+1 & 2 & 3 & 4 & 5 & 6 \\
+A & & & & & \\
+B & & & & & \\
+C & & & & & \\
+D & & & & & \\
+\end{array}
+\]
+
+No peptide
+
+Single peptide
+
+Repeat peptide
+
+Day 0
+
+10ng/ml OVA\(_{257-264}\)
+
+10ng/ml OVA\(_{257-264}\)
+
+Day 1
+
+Wash
+
+Wash
+
+10ng/ml OVA\(_{257-264}\)
+
+Day 2
+
+Wash
+
+Wash
+
+10ng/ml OVA\(_{257-264}\)
+
+Day 3
+
+10ng/ml OVA\(_{257-264}\)
+
+Day 4
+
+10ng/ml OVA\(_{257-264}\)
+
+Day 5
+
+Wash and rest 3 days
+
+Day 8
+
+Flow cytometry
+
+IR, TF
+
+6h OVA\(_{257-264}\) restimulation
+
+IC
+
+Flow cytometry
+
+IR, TF
+
+6h OVA\(_{257-264}\) restimulation
+
+IC
+
+Cytotoxicity Assay
+
+FACS Sort
+
+RNAseq
+
+MeD-seq
+
+B
+
+Live cell count (x10^6)
+
+Fold change of live cells
+
+\[
+\begin{array}{ccc}
+\text{No peptide} & \text{Single peptide} & \text{Repeat peptide} \\
+\end{array}
+\]
+
+PLOS Pathogens | https://doi.org/10.1371/journal.ppat.1008555 June 24, 2020
+
+4 / 27

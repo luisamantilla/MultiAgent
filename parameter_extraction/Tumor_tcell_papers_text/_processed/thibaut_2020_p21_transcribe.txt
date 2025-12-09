@@ -1,0 +1,70 @@
+```
+NATURE CANCER
+
+ARTICLES
+
+a
+
+In vitro
+
+Raw data
+
+Background subtraction
+Contrast adjustment
+
+Raw data
+
+Otsu's thresholding
+
+STAT1-GFP
+binarized
+
+Image closing + holes filling
+Distance map + watershed
+
+Cell envelops
+
+Correlation between mCherry
+and STAT1-GFP channels
+
+Co-localization
+score
+
+In vivo
+
+Raw data
+
+Background subtraction
+Contrast adjustment
+
+Raw data
+
+Laplacian of Gaussian
+H-dome extraction
+
+STAT1-GFP
+local maxima
+
+Otsu's thresholding
+
+STAT1-GFP
+binarized
+
+Distance map + watershed
+
+Cell envelops
+
+Correlation between mCherry
+and STAT1-GFP channels
+
+Co-localization
+score
+
+b
+
+Extended Data Fig. 6 | Automated procedure for quantifying STAT1 translocation in tumor cells imaged in vitro or in vivo. a, The diagram recapitulates
+the various steps used for image processing and quantification (see methods for details). b, Representative example of cell segmentation from the
+STAT1-GFP signal in tumor cells. Scale bar: 50 μm.
+
+NATURE CANCER | www.nature.com/natcancer
+```

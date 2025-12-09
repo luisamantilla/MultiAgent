@@ -1,0 +1,56 @@
+```markdown
+PLOS PATHOGENS                                                                                      Generate exhausted CD8+ T cells in vitro
+
+In vivo influenza model
+For influenza virus infection studies, live CD45.1+ OT-I cells were sorted from in vitro cultures 
+on a FACSAria III (BD Biosciences) using fluorochrome-conjugated Annexin V and anti-CD8 
+antibodies and 10,000 cells were intravenously transferred into 8–12 weeks old CD45.2 
++ C57BL/6J wild-type recipient mice. Naïve CTL were also freshly isolated from spleen of an 
+OT-I mouse and adoptively transferred. Three hours later, mice were anesthetized with 2.5% 
+isoflurane gas and infected intranasally with influenza virus strain A/WSN/33-expressing 
+OVA (WSN-OVA, a gift from Dr. D. Topham, University of Rochester Medical Center). Body 
+weight was measured daily to track the influenza infection. 
+
+Ten days post infection, the lung, spleen and mediastinal lymph nodes were harvested and 
+single cell suspensions were obtained after processing the tissues. As described previously [62], 
+lungs were digested for 2 h at 37°C with 3.0 mg/ml collagenase A and 0.15 μg/ml DNase I 
+(Roche) in RPMI 1640 containing 5% heat-inactivated FBS, 2 mM L-glutamine, 100 IU/ml 
+penicillin, 100 μg/ml streptomycin. Digested lungs were then filtered through a 40-μm cell 
+strainer (Falcon) and washed in the same media as above. PE-conjugated tetramers of H-2K^b 
+major histocompatibility complex class I loaded with OVA_(257–264) were used to identified the 
+antigen-specific CTLs in the lungs [63].
+
+RNA sequencing
+To compare the gene expression between the different culture conditions, RNA sequencing 
+was performed. On day 5, 1x10^6 live CD8+ T cells were sorted from the three different culture 
+conditions and immediately lysed with TRIzol LS reagent (Life Technologies) and stored at 
+-80°C. RNA was extracted according to manufacturer’s instructions. Bioanalyzer (Agi-
+lent) was used to determine the integrity of the extracted RNA. Barcoded sequencing libraries 
+were generated using the KAPA RNA HyperPrep kit (Roche Diagnostics) with RiboErase 
+(HMR) rRNA depletion. Library quality was assessed with the bioanalyzer and KAPA qPCR 
+was performed for quantification before cluster generation and 100-bp paired-end sequencing 
+on a Hiseq2500 machine (Illumina). Data sets are deposited in the Gene Expression Omnibus 
+(GEO) database repository under accession numbers GSE150120.
+
+Analysis of differential transcript abundance, normalization of read counts 
+by gene size, and downstream analyses
+Four independent biological replicates were analyzed for each condition. The quality of the 
+sequencing was verified using the FastQC software (http://www.bioinformatics.babraham.ac. 
+uk/projects/fastqc/). The demultiplexed fastq files were aligned using STAR software (v.2.5.3e) 
+[64] with default settings and mus musculus GRCm38 as alignment reference. Then bam files, 
+generated during alignment, were annotated using FeatureCount software (v1.6.1) [65] to 
+obtain the annotated files (count files). The annotation reference was gencode.vM15.gtf.
+
+Count data was preprocessed to remove low expressed genes. Then, log transformation 
+was applied to the clean counts for visualization and comparison purposes which include cor-
+relation and clustering analysis generating the heatmaps and PCA plots during the process. 
+For differential expression analysis, DESeq2 (DESeq2 R package, v1.22.2) [66] was used 
+directly in the clean count data.
+
+The list of differentially expressed genes was used to perform Ingenuity Pathway Analysis 
+(IPA, Qiagen, USA version 01–12) to further discern which pathways are involved in the CD8 
++ T cell exhaustion process. Pathway enrichment P-values (Fisher’s exact test) and activation 
+Z-scores were calculated by IPA and used to rank the significant pathways.
+
+PLOS Pathogens | https://doi.org/10.1371/journal.ppat.1008555 June 24, 2020                                                                 20 / 27
+```

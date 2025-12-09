@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and their values from the text:\n\n1. **Number of T-cells per area**: \n   - 0 to 40 T-cells per 2.5x10^2 μm^2\n\n2. **Estimated tumor cell : T-cell ratio**: \n   - 0 to 800\n\n3. **IFNγ concentration**: \n   - 0 to 80 pg/mL\n\n4. **LCKi incubation time**: \n   - 0h, 2h, 4h, 8h, 24h\n\n5. **LCKi inhibitor concentration**: \n   - 5 mM\n\n6. **Percentage of control**: \n   - 0% to 100%\n\n7. **Diameter of an average tumor cell**: \n   - 24 μm\n\n8. **Number of mice**: \n   - n=4 mice\n\n9. **Number of technical replicates**: \n   - n=3 technical replicates\n\n10. **p-value**: \n    - p=0.0003\n\nThese values are derived from the figures and descriptions provided in the text."
+}

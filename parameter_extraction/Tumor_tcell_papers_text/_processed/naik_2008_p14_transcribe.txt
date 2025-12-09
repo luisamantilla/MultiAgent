@@ -1,0 +1,70 @@
+```
+452                                                                                           DC subsets and their development
+                                                                                             SH Naik
+
+237 Ishikawa F, Niiro H, Iino T, Yoshida S, Saito N, Onohara S et al. The developmental
+    program of human dendritic cells is operated independently of conventional myeloid
+    and lymphoid pathways. Blood 2007; 110: 3591–3606.
+238 Veinotte PJ, Roddavey R, Kincade PW. Evolving views on the genealogy of B cells. Nat Rev
+    Immunol 2008; 8: 95–106.
+239 Shortman K, Liu YJ. Mouse and human dendritic cell subsets. Nat Rev Immunol
+    2002; 2: 151–161.
+240 Hochrein H, O’Keeffe M, Wagner H. Human and mouse plasmacytoid dendritic cells.
+    Hum Immunol 2002; 63: 1103–1110.
+241 Romani N, Holzmann S, Tripp CH, Koch F, Stoitzner P. Langerhans cells—dendritic
+    cells of the epidermis. Apmis 2003; 111: 725–740.
+242 Galibert L, Diemer GS, Liu ZJ, Johnson RS, Smith JL, Walter T et al. Nectin-like protein
+    2 defines a subset of T-cel l zone dendritic cells and is a ligand for class-I-restricted
+    T-cell-associated molecule. J Biol Chem 2005; 280: 21955–21964.
+243 McIlroy D, Troadec C, Grassi F, Samri A, Barrou B, Autran B et al.
+    Investigation of human spleen dendritic cell phenotype and distribution:
+    swells evidence of in vivo activation in a subset of organ donors. Blood 2001; 97:
+    3470–3477.
+244 Wood GS, Turner RR, Shirahata RG, Eng L, Warnke RA. Human dendritic cells and
+    macrophages. In situ immunophenotypic definition of subsets with distinct
+    specific morphologic and microenvironmental characteristics. Am J Pathol 1985;
+    119: 73–82.
+245 Vandebriel RJ, de Heer HJ, Maudat W, Nijdam E, Shortman K, Smit JJ et al. Primary
+    contains 2 distinct dendritic cell populations. Blood 2001; 97: 1733–1741.
+246 Hart DN. Dendritic cells: unique leukocyte populations which control the primary
+    immune response. Blood 1997; 90: 3245–3287.
+247 Summers KL, Hock BD, McKenzie JL, Hart DN. Phenotypic characterization of
+    dendritic cell subsets in human tonsils. Am J Pathol 2001; 159: 285–295.
+248 Dzionek A, Fuchs A, Schmidt P, Cremer S, Zysk M, Miltenyi S et al. BDCA-2, BDCA-3,
+    and BDCA-4: three markers for distinct subsets of dendritic cells in human peripheral
+    blood. J Immunol 2000; 165: 6037–6046.
+
+249 Maraskovsky E, Daro E, Roux E, Teepe M, Maliszewski CR, Hoek J et al. In vivo
+    generation of human dendritic cell subsets by Flt3 ligand. Blood 2000; 96: 878–884.
+250 McLellan AD, Heagerty PJ, McIlroy D, Munster DJ, Bruce LJ et al. Anatomic
+    location and T-cell stimulatory functions of human dendritic cell subsets defined by
+    CD1a and CD8 expression. Blood 2002; 99: 2084–2093.
+251 Dzionek A, Inagaki Y, Furue M, Kurashima C. Gene array clustering identifies function-
+    ally associated subsets of human in vivo blood dendritic cells and tonsillar dendritic cells. J Immunol
+    2005; 175: 4839–4846.
+252 Ueno H, Schmitt N, Ueno H, Sanjo O, Gess S, Schmitt N, Spangrasser T et al. In vivo
+    depletion of CD11c(+) dendritic cells abrogates priming of CD8(+) T cells by
+    exogenous cell-associated antigens. Immunity 2002; 17: 211–220.
+253 Naik S, Garrett KP, Short A, Bharath U, Kouro T, Akira S et al. Tollo-like receptors on
+    hematopoietic progenitor cells stimulate innate immune system replenishment.
+    Immunity 2006; 24: 801–812.
+254 Massberg S, Schaerli P, Knezevic-Maramica I, Kollnberger M, Tubo N, Moseman EA
+    et al. Immunosurveillance by hematopoietic progenitor cells trafficking through blood,
+    lymph, and peripheral tissues. Cell 2007; 131: 994–1008.
+255 Hirai H, Zhang P, Dayaram T, Hetherington CJ, Mizuno S, Imanishi J et al.
+    C/EBPbeta is required for ‘emergency’ granulopoiesis. Nat Immunol 2006; 7:
+    732–739.
+256 Vestdijk S, O’Keeffe M, Fry B, Glasmann B, Hochrein H, Sutter M. The long-term
+    but not the short-term antiviral effect of IFN-alpha depends on Flt3 ligand and DC.
+    Eur J Immunol 2006; 36: 1434–1442.
+257 Drachman H, Hefti H, Vestdijk S, Glasmann B, Riesen M, Ackermann M et al.
+    Antiviral effects of mice repeatedly vaccinated with modified vaccinia virus Ankara
+    transfer resistance to naive mice via lymphocytes 1 yr to naive one-week old mice.
+    J Immunol 2004; 172: 6304–6312.
+258 Marisrin P, Ryu H, Hodge MA, Zimper E, Furgas H, Hope-Brow M et al. Dramatic
+    increase in lymph node dendritic cell number during infection by live measles
+    virus occurs by a CDC2 L-dependent blood-borne DC recruitment. Blood 2007;
+    99: 1282–1288.
+
+Immunology and Cell Biology
+```

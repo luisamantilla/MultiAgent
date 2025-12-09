@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and values from the text:\n\n1. Normalized cell count (Ag⁻ IGS):\n   - 100\n   - 80\n   - 60\n   - 40\n   - 20\n   - 0\n\n2. Normalized cell count (Ag⁺):\n   - 100\n   - 80\n   - 60\n   - 40\n   - 20\n   - 0\n\n3. Katushka levels:\n   - 0\n   - 10⁴\n   - 10⁵\n\n4. Time points:\n   - 0h\n   - 120h\n\n5. Number of mice per condition in flow cytometric analysis:\n   - n=4 mice per condition\n\n6. Number of independent experiments for imaging:\n   - Three independent experiments with n=1 mouse each (CDK4R24C-specific CD8⁺ T cells)\n   - Two independent experiments with n=1 mouse each (HBSS)\n\n7. Scale bar for imaging experiments:\n   - 200 μm"
+}

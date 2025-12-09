@@ -1,0 +1,134 @@
+```
+node, as studies of lymph node architecture indicate that lymph-borne 
+soluble antigens do not have free access to the T cell areas71. 
+
+Antigens injected subcutaneously are transported from the tissue 
+into the subcapsular sinus of a connected lymph node through the 
+afferent lymphatic vessels72. Narrow conduits connect the subcapsular 
+sinus to perivenular spaces that surround the HEVs that pass through 
+the lymph node71. These conduits are composed of type I and type III 
+collagen fibers wrapped continuously on the outside with a coating of 
+90% reticular fibroblasts and 10% other cells, including DCs71,73. The 
+lumen of each conduit is not completely filled with the fibers, as small 
+molecules pass from the subcapsular sinus into the perivenular space 
+through these conduits. This network of conduits allows soluble pro- 
+teins generated in the tissue, such as cytokines and chemokines, to end 
+up on the lumenal side of the HEV. 
+
+Although the conduits are abundant in the T cell areas in which 
+naive T cells reside, large amounts of soluble molecules do not pass 
+from the subcapsular sinus or conduits into this area74. However, two 
+studies have indicated that leakage of soluble proteins out of the con- 
+duits probably occurs in some conditions14,43. Both studies showed 
+that pMHC class II complexes were made by lymph node DCs 6 
+hours after a subcutaneous injection of antigen. As tissue-derived 
+DCs require about 12 hours to migrate to the lymph node49, the DCs 
+that produced these early pMHC class II complexes must have already 
+been in the lymph node when they acquired the antigen. 
+
+This finding that pMHC class II complexes are generated very 
+early times indicates that at least some soluble antigen can leak out of the 
+conduits. This is supported by a study showing that small, protease- 
+solved collagen shards surrounding HEVs are not solid structures, but 
+rather sponges75. If soluble proteins can leak out of the conduits and 
+flow through these pores, then it is reasonable to assume that the cells 
+nearest the conduits would have the best access to this source of antigen 
+(Supplementary Video online, 00:00:24–00:00:31). Indeed, it was 
+demonstrated that almost no subcutaneously injected soluble antigen was 
+present in the conduits 30 minutes (Fig. 2a,b), some of the antigen 
+was in CD40+ cells near the conduits (Fig. 2c,d). These cells were 
+CD11c+CD11b+ Langerhans cell immigrants and dermal DC immi- 
+grants44. The fact that these cells produced pMHC class II complexes 
+from antigen that leaked from the conduits indicates that tissue-derived 
+DCs are still capable of antigen uptake and processing even though at 
+this time. This is unexpected, as post-migration DCs are thought to have 
+undergone the maturation process, and thus should be inefficient at 
+antigen uptake. However, one study indicated that this is not true for in 
+vitro–matured DCs76. Langerhans cells that were introduced to mature and 
+migrate from the skin through the use of a skin irritant and lipopolysac- 
+charide, and were then isolated from the lymph node, retained their 
+capacity to endocytose proteins, compared with in vitro–matured 
+Langerhans cells that had lost that ability. 
+
+The acquisition of free antigen from the conduits does not reduce the 
+importance of migrating DCs. Even in the study in which evidence of 
+presentation of free antigen was found43, it is likely that tissue-resident 
+DCs that acquired the antigen at the injection site migrated to the 
+lymph node and presented pMHC class II complexes. Indeed, the 
+CD11c+CD8α+ cells identified as APCs in this study could have been 
+such intranodal DC immigrants. Similarly, the interstitial DCs shown 
+to migrate from the vaginal epithelium were probably the main presen- 
+ters of herpes simplex virus 2 pMHC class II complexes68. Finally, it was 
+shown that dermal DCs, which pick up subcutaneously injected anti- 
+gen in the tissue and migrate to the lymph node at 24 hours, sustain the 
+activation of CD4 T cells that were initially activated by pMHC class II 
+complexes on resident lymph node DCs14 (Supplementary Video 
+online, 00:00:32–00:00:38). 
+
+Functional effects of DC antigen presentation 
+
+Although both resident and migrating DCs have the capacity to 
+acquire antigens and generate pMHC class II complexes, differences 
+between the two populations could have functional consequences. 
+Most evidence in the literature indicates that pMHC class II presenta- 
+tion by DCs that recently migrated from nonlymphoid tissue stimu- 
+lates T cell immunity. This property may be explained by the fact that 
+the migration of DCs from tissues is closely tied with stabilization of 
+pMHC complexes and increased expression of costimulatory mole- 
+cules such as CD80 and CD8644,49,77, which are required for optimal 
+activation of naive T cells. Because the rate of DC migration into lym- 
+phoid organs from nonlymphoid tissues is low in the absence of 
+inflammation50,59, pMHC complex presentation by highly stimula- 
+tory immigrants should only predominate in conditions of tissue 
+damage or infection, in which productive T cell immunity is desirable. 
+
+Although recent immigrants may be inherently stimulatory, other 
+DCs in the secondary lymphoid organs can be tolerogenic, at least in 
+certain circumstances. Mice injected with a DC-specific rat IgG2b 
+monoclonal antibody developed rat IgG2b–specific T and B cell toler- 
+ance, whereas mice injected with this antibody plus an inflammatory 
+adjuvant (IL-1) generated anti-rat IgG2b–specific immunity78. This 
+type of antigen-targeting experiment was repeated78, but with the 
+important modification that antigen-specific CD4 T cells were moni- 
+tored directly. CD205+ DCs (blood-derived DCs47, DCs, Langerhans 
+cells and interstitial DCs) were targeted in vivo for antigen uptake by 
+injection of antibody to CD205 fused to a peptide from hen egg 
+lysozyme (αDEC-HEL). HEL-specific CD4 T cells in those mice 
+proliferated and then disappeared in mice injected with αDEC-HEL 
+and the αDEC-HEL–specific mice expressed more CD40 and CD86, and 
+the same specific T cells proliferated and survived as memory cells. 
+Therefore, resident lymph node DCs are capable of inducing T cell tol- 
+erance or immunity, depending on the inflammatory context in which 
+they present pMHC complexes. 
+
+The finding that antigen targeting to DCs in the absence of inflam- 
+mation is tolerogenic for T cells raises the possibility that DCs are 
+involved in the induction of peripheral tolerance to self antigens. DCs 
+may be normally kept in a tolerogenic state by a process involving 
+engulfment of apoptotic cells. Mice with genetic defects in the disposal 
+of apoptotic cells have constitutively activated DCs79 and develop 
+autoimmunity80,80. Disposal of apoptotic cells and maintenance of T 
+cell tolerance may be linked by the fact that phagocytes that take up 
+apoptotic cells produce anti-inflammatory factors such as IL- 
+10,81,82,83, which inhibit the expression of costimulatory molecules84. 
+Resident DCs are well positioned for this purpose, as they constitu- 
+tively express self pMHC complexes85 and are located near naive T 
+cells, a fraction of which must be apoptotic as a consequence of normal 
+senescence. As migration of acutely activated DCs from nonlymphoid 
+tissues is thought to require inflammation51,57, these suppressed resi- 
+dent DCs would be the main cells capable of presenting pMHC com- 
+plexes derived from self antigens or foreign antigens injected in the 
+absence of inflammation. 
+
+Future directions 
+
+Most of our understanding of how DCs process and present antigens 
+to T cells comes from in vitro studies. Although in some cases antigen 
+is administered in vivo, in vitro T cell assays are still generally used to 
+detect the presence of pMHC complexes. This process involves the 
+removal of the DC and T cell from their natural environment, and 
+thus results from such experiments must be viewed with caution. 
+Other experiments attempting to identify antigen presentation events 
+
+NATURE IMMUNOLOGY VOLUME 4 NUMBER 8 AUGUST 2003 737
+```

@@ -1,0 +1,214 @@
+```plaintext
+RESEARCH | RESEARCH ARTICLE
+
+of T cells conditioned in [K+]e or control media 
+containing ~5 mM K+. This analysis revealed 
+that [K+]e exposure resulted in a significant 
+reduction of glycolytic intermediates and essential 
+amino acids within T cells (Fig. 1, A to C, and fig. 
+S1A). These alterations were attributable to a 
+reduction in electromotively coupled nutrient up- 
+take, because T cells either acutely incubated in 
+or treated with BaCl2, a nonselective inhibitor of 
+potassium channels in the plasma membrane, 
+had diminished uptake of fluorescently labeled 
+glucose and lipid analogs, 2-NBDG and BODIPY 
+FL C5, respectively (Fig. 1, D and E, and fig. S1, B 
+and C). Neither T cell survival nor proliferative 
+potential after restimulation were compromised 
+by [K+]e-mediated reduction of nutrient uptake 
+(fig. S1, D to F). We therefore propose that the 
+decreased levels of intracellular anionic metabolites 
+in the setting of unchanged extracellular nutrient 
+abundance induce a metabolic state reminiscent 
+of functional caloric restriction. These findings 
+are consistent with those of previous studies in 
+nonimmune cells that showed a close correlation 
+of the transmembrane potassium concentration 
+and membrane potential (Vm) with nutrient 
+uptake and metabolism (24–27) (Fig. 1F).
+
+Although most intracellular metabolites were 
+depressed globally, we noted enriched levels of 
+subsets of phospholipids species (Fig. 1G). These 
+included phosphatidylinositol, phosphatidylser- 
+ine, phosphatidylethanolamine, and CDP- 
+diacylglycerol, which are known compounds and 
+hallmark metabolites of the Kennedy pathway. 
+The abundance of these compounds, as well 
+as metabolites of phosphatidylethanolamine (PE), 
+an early initiator of autophagosome fusion and au- 
+tophagy (Fig. 1G), was increased in human CD8+ 
+T cells after [K+]e conditioning or revealed 
+enrichment in Kennedy pathway intermediates 
+(fig. S1G). Additionally, RNA sequencing (RNA- 
+seq) analysis of primary T cells resulted in the 
+presence or absence of [K+]e, demonstrated en- 
+richment of mRNA in autophagy-associated 
+transcripts (fig. S1D). These indicated that 
+levels of [K+]e characteristic of the TIME result 
+in selective accumulation of metabolites required 
+for autophagosome maturation and a gene ex- 
+pression signature indicative of ongoing autophagy.
+
+Functional caloric restriction mediated 
+by increased [K+]e promotes autophagy 
+and metabolic reprogramming
+
+We examined the acute effect of [K+]e on autophagic 
+flux in live T cells, we used an eGFP cleaved from 
+ferritin fluorescent protein mCherry-LC3b fusion 
+protein system (29) (Fig. 2, A and B, and fig. S2A). 
+Microtubule-associated protein 1 light chain beta 
+(LC3) is hydrolyzed to expose Gly120 to create 
+LC3-I (Fig. 1I). This mobile LC3 is then conju- 
+gated with PE to generate LC3-II, enabling 
+membrane expansion to create autophagosomes 
+(30). An autophagy-competent construct con- 
+taining a lysosome–Ala substitution (G120A) served 
+as a negative control (Fig. S2A). G120A macro- 
+scopy demonstrated loss of GFP fluorescence in 
+Cherry fusion in the presence of [K+]e, indicating 
+an autophagosome-lysosome fusion (Fig. 2C and 
+fig. S2B). Concurrent flow cytometric analysis 
+confirmed that [K+]e resulted in a greater propor- 
+tion of mCherry+GFP– cells, suggesting ongoing 
+autophagic flux (Fig. 2D). These dynamic changes 
+in fluorescence were not attributable to artifi- 
+cial spectral overlap, as the T cell surface marker 
+Thy1 was used as an independent validation of 
+transduction, reporter persistence, and increased 
+autophagy in [K+]e-treated cells (fig. S2C).
+
+The relative abundance of the autophagosome 
+proteins LC3-I and the PE-conjugated form, 
+LC3-II, were examined by immunoblot. We 
+found that the LC3-I/II-LC3b-I ratio was elevated 
+after [K+]e in both mouse and human T cells, 
+consistent with increased autophagosome for- 
+mation (Fig. 2, E and F) (30). Collectively, these 
+data demonstrate that the amount of T cells exposed 
+to [K+]e acquire a metabolic state defined by 
+functional caloric restriction and ongoing auto- 
+phagy. To investigate whether autophagy induced 
+by [K+]e was related to a starvation response 
+after depletion of intracellular nutrients, we mea- 
+sured the activity of the mammalian target of 
+adenosine monophosphate–activated protein 
+kinase nutrient-sensing signaling cascades in 
+both mouse and human CD8+ T cells. Increased 
+[K+]e-mediated reduced phosphorylation of 
+Ser637mTOR, Ser6RP (fig. S2, D to F), and two 
+modulators of ribosomal activity, S6 (Ser235/ 
+236; Fig. 2G and fig. S2G) and 4E-BP1 (Thr37/ 
+46), respectively. Moreover, combined analysis revealed 
+that the activity of the energy sensor AMPK (fig. 
+S2H), similarly driving the observed in human 
+CD8+ T cells, as evidenced by increased phos- 
+phorylation of Ser385/6 (Fig. 2H), suggesting induc- 
+tion of nutrient restriction (17).
+
+We next sought to measure the consequences 
+of this starvation response for the metabolic fitness 
+of T lymphocytes expanding in the TIME. In conditions 
+after [K+]e, T cells exhibited robust mitochondrial 
+activity, as evidenced by marked spare respiratory 
+capacity (Fig. 2I). [K+]e preserved the oxygen 
+consumption capacity of human TILs after ac- 
+tivation and proliferation, as well as that of 
+TCR-engineered T cells (Fig. 2J and fig. S3A). 
+Consistent with the induction of a mitochon- 
+drially dominant program of cellular metabolism, 
+we found that [K+]e-conditioned human CD8+ 
+T cells maintained a lower mitochondrial mem- 
+brane potential (ΔΨm) (fig. S3B). Scanning elec- 
+tron microscopy of T cells expanded in [K+]e 
+conditions revealed an increase in mitochondrial 
+number and quality (fig. S3C), which suggests that 
+T cells maintained mitochondrial integrity and 
+the capacity for marked on-demand oxygen con- 
+sumption. From these data, we conclude that cells 
+subjected to [K+]e, had limited ongoing con- 
+sumption of extracellular energy resources and a 
+state existed with a resultant induction of autophagy 
+and mitochondrially driven energy production.
+
+Functional caloric restriction depletes 
+nucleocytosolic AcCoA to suppress 
+effector programs
+
+The enhanced mitochondrial function of T ym- 
+phocytes exposed to [K+]e led us to quantify 
+AcCoA, a molecule that enables carbons derived 
+from carbohydrates, fats, and proteins to be uti- 
+lized in the citric acid cycle for oxidative phos- 
+phorylation. AcCoA also serves as a substrate 
+for histone and non-histone protein acetylation 
+(31, 32). Because the mitochondrial membrane 
+is impermeable to AcCoA, there are two dis- 
+tinct pools of AcCoA in cells: mitochondrial 
+and nucleocytosolic (the latter because cytosolic 
+AcCoA can move freely across the nuclear pore 
+complex) (Fig. 3A) (31). The quantity of AcCoA 
+in the mitochondria is estimated to be several 
+times that in the nucleocytosolic compartment. 
+Thus, total cellular AcCoA is a surrogate for mito- 
+chondrial AcCoA (33). In the setting of [K+]e, we 
+observed an elevation in total cellular AcCoA, 
+finding consistent with mitochondrial oriented 
+metabolism (Fig. 3B).
+
+Despite higher levels of total AcCoA, we mea- 
+sured a reduction in nucleocytosolic AcCoA and 
+its precursor, citrate, in T cells after [K+]e condi- 
+tioning (Fig. 3C). These findings, along with a 
+depletion of glycolytic products, suggested con- 
+tinued generation and utilization of AcCoA 
+within mitochondria in the TIME in oxidative 
+phosphorylation. To determine the effect of 
+[K+]e conditioning and consequent depressed 
+glycolysis on T cell activation, we measured total 
+acetylated Lys levels in mouse and human T cells 
+(fig. 3D and fig. S4A). We observed a notable reduc- 
+tion in the sum of acetylated Lys characteristic 
+of the effector T cell state (17).
+
+The acetylation of histone proteins acts to 
+disrupt T cell chromatin structure and promote 
+a euchromatic structural organization of the 
+relaxed gene transcription (34). We sought to 
+assess the potential epigenetic changes that 
+related to the limited acetylated availability of 
+AcCoA in the setting of [K+]e. Therefore, we 
+performed chromatin immunoprecipitation and 
+deep sequence analysis (ChIP-seq) of acetylated 
+Lys9 and Lys27 of histone H3 (H3K9; H3K27Ac) 
+and found decreased acetylation at both residues 
+for Ifng regulatory loci (Fig. 3E), to obtain a whole- 
+genome map of histone acetylation (H3K9Ac) 
+and AcCoA consequent chromatin accessibility, 
+performed ChIP sequencing (ChIP-seq). We ob- 
+served reduced acetylation of the promoter and 
+enhanced Ifng loci, as well as loci associated 
+with T cell activation and exhaustion, including 
+Pdcd1 (PD1), Ctla4 (B24), Havcr2 (Tim-3), and 
+Klrg1 (Fig. 3, F and G, and fig. S4, B and C). We 
+then performed RNA-seq under the same condi- 
+tions to measure the functional consequences of 
+H3K9 acetylation, with concordant results.
+
+To visualize patterns of changes to H3K9Ac at 
+a whole-genome level, we plotted relative change in 
+Lys9 versus Lys27 for differentially acetylated loci of 
+effector genes (Fig. 3H, left, and fig. S4A). We 
+found a notable reduction in activating H3K9Ac 
+histone marks at regulatory elements associated 
+with T cell effector and exhaustion programs. 
+Quantification by gene set enrichment analysis 
+(GSEA) revealed that H3K9Ac acetylation was 
+indeed lost at sites responsible for activation of 
+exhaustion “Tim3” versus “KCRUS” (PD) and ef- 
+fector transcriptional programs (Fig. 3H, right).
+
+Vodnala et al., Science 363, eaau0135 (2019) 29 March 2019 3 of 12
+```

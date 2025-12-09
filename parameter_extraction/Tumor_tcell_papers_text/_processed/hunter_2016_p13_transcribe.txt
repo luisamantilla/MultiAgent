@@ -1,0 +1,83 @@
+100. Carman CV, Martinelli RT. Lymphocyte-endothelial interactions: emerging understanding of trafficking and antigen recognition. Front Immunol (2015) 6:603. doi:10.3389/fimmu.2015.00603
+
+101. Wei SH, Rosen H, Matheu MP, Sanna MG, Wang SK, Jo E, et al. Sphingosine 1-phosphate receptor signaling inhibits transendothelial migration of medullary T cells to lymphatic sinuses. Nat Immunol (2005) 6(12):1228–35. doi:10.1038/ni1267
+
+102. Gebhardt T, Whitney PG, Zaid A, Mackay LK, Brooks AG, Heath WR, et al. Different patterns of peripheral migration by memory CD4+ and CD8+ T cells. Nature (2011) 477(7363):216–9. doi:10.1038/nature10339
+
+103. Gebhardt T, Mueller SN, Heath WR, Carbone FR. Peripheral tissue surveillance and residency by memory T cells. Trends Immunol (2013) 34(1):27–32. doi:10.1016/j.it.2012.08.005
+
+104. Mueller SN, Mackay LK. Tissue-resident memory T cells: local specialists in immune defence. Nat Rev Immunol (2016) 16(2):79–89. doi:10.1038/ nri.2015.3
+
+105. Nitzsche A, Boldt A, Abadier M, Haemmerle S, Lucic M, Vigl B, et al. Differential requirement for ROCK in dendritic cell migration within lymphatic capillaries in steady-state and inflammation. Blood (2012) 120(11):2249–58. doi:10.1182/blood-2012-03-420729
+
+106. Tal O, Lim HY, Gurevich I, Milo I, Shipony Z, Ng LG, et al. Dendritic cells and their leaky lymphatics provide conduit for breast cancer cell entry into the tumor-draining lymph nodes. Cancer Cell (2011) 20(2):214–5. doi:10.1016/j.ccr.2011.07.015
+
+107. Russo E, Teijeira A, Vaahtomeri K, Willrodt AH, Bloch JS, Nitschke M, et al. Intralymphatic CCL21 promotes tissue egress of dendritic cells through afferent lymphatic vessels. Cell Rep (2016) 14(7):1723–34. doi:10.1016/ j.celrep.2016.01.048
+
+108. Hampton HR, Bailey J, Tomura M, Brink R, Chtanova T. Microbe-dependent lymphatic migration of neutrophils modulates lymphocyte proliferation in lymph nodes. Nat Commun (2015) 6:7139. doi:10.1038/ncomms8139
+
+109. Swartz MA, Skobe M, Luu AM, Jain RK. Transport in lymphatic capillaries. I. Macroscopic measurements using residence time distribution theory. Am J Physiol (1996) 270(1 Pt 2):H324–9.
+
+110. Pope AJ, Johnson PC. Microcirculation and hemodynamics. Annu Rev Fluid Mech (2003) 37:43–69. doi:10.1146/annurev.fluid.37.042604.133933
+
+111. Dixon JB, Zawieja DC, Gashev AA, Cote GL. Measuring microlymphatic flow using fast video microscopy. J Biomed Opt (2005) 10(6):064016. doi:10.1117/1.2136351
+
+112. Dixon JB, Greiner ST, Gashev AA, Cote GL, Moore JE, Zawieja DC. Lymph flow, shear stress, and lymphocyte velocity in rat mesenteric prenodal lymphatics. Microcirculation (2006) 13(7):597–610. doi:10.1080/10739680600897200
+
+113. Bromley SK, Thomas SY, Luster AD. Chemokine receptor CCR7 guides T cell exit from peripheral tissues and entry into afferent lymphatics. Nat Immunol (2005) 6(9):895–901. doi:10.1038/ni1240
+
+114. Salmi M, Koskinen K, Elima K, Rantakari P, Jalkanen S. CD44 binds to macrophage mannose receptor on lymphatic endothelium and supports lymphocyte migration via afferent lymphatics. Circ Res (2013) 112(12):1577–82. doi:10.1161/CIRCRESAHA.111.300146
+
+115. Marttila-Ichihara F, Turja R, Miiluniemi M, Karikoski M, Maksimow M, Niemela J, et al. Macrophage mannose receptor on lymphatics controls cell trafficking. Blood (2008) 112(1):64–72. doi:10.1182/blood-2007-10-118984
+
+116. Karikoski M, Irjala H, Maksimow M, Miiluniemi M, Granfors K, Hernesniemi S, et al. Clever-1/stabilin-1 regulates lymphocyte migration within lymphatics and leukocyte entrance to sites of inflammation. Eur J Immunol (2009) 39(12):3477–87. doi:10.1002/eji.200939986
+
+117. Iftakhar EK, Fair-Makela R, Kukkonen A, Elima K, Karikoski M, Rantakari P, et al. Gene-expression profiling of different arms of lymphatic vasculature identifies candidates for manipulation of cell traffic. Proc Natl Acad Sci U S A (2016) 113(34):9635–40. doi:10.1073/pnas.1605345113
+
+118. Sallusto F, Lenig D, Forster R, Lipp M, Lanzavecchia A. Two subsets of memory T lymphocytes with distinct homing potentials and effector functions. Nature (1999) 401(6754):708–12. doi:10.1038/44385
+
+119. Campbell JJ, Murphy EE, Kunkel EJ, Brightling CE, Soler D, Shen Z, et al. CCR7 expression and memory T cell diversity in humans. J Immunol (2001) 166(2):877–84. doi:10.4049/jimmunol.166.2.877
+
+120. Clark RA, Chong B, Mirchandani N, Brinster NK, Yamanaka K, Dowgiert RK, et al. The vast majority of CLA+ T cells are resident in normal skin. J Immunol (2006) 176(7):4431–9. doi:10.4049/jimmunol.176.7.4431
+
+121. Weber M, Hauschild R, Schwarz J, Moussion C, de Vries I, Legler DF, et al. Interstitial dendritic cell guidance by haptotactic chemokine gradients. Science (2013) 339(6117):328–32. doi:10.1126/science.1228456
+
+122. Hopken UE, Vergnolle N, Lodenstein B, Grobe K, Eltzschig HK, Hamann A, et al. CCR7 deficiency causes ectopic lymphoid neogenesis and disturbed mucosal tissue integrity. Blood (2007) 109(3):886–95. doi:10.1182/ blood-2006-03-015332
+
+123. Menning A, Hopken UE, Siegmund K, Lipp M, Hamann A, Huehn J. Distinctive role of CCR7 in migration and functional activity of naive- and effector/memory-like Treg subsets. Eur J Immunol (2007) 37(6):1575–83. doi:10.1002/eji.200737001
+
+124. Skon CN, Lee JY, Anderson KG, Masopust D, Hogquist KA, Jameson SC. Transcriptional downregulation of S1pr1 is required for the establishment of resident memory CD8+ T cells. Nat Immunol (2013) 14(12):1285–93. doi:10.1038/ni.2745
+
+125. Mackay LK, Braun A, Macleod BL, Collins N, Tebartz C, Bedoui S, et al. Cutting edge: CD69 interferes with sphingosine-1-phosphate receptor-1 to suppress tissue egress of CD8+ T cells. J Immunol (2015) 194(5):2059–63. doi:10.4049/jimmunol.1402256
+
+126. Mackay LK, Rahimpour A, Ma JZ, Collins N, Stock AT, Hafon ML, et al. The developmental pathway for CD103(+)CD8+ tissue-resident memory T cells of skin. Nat Immunol (2013) 14(12):1294–301. doi:10.1038/ni.2744
+
+127. Wakim LM, Woodward-Davis A, Liu R, Hu Y, Villadangos J, Smyth G, et al. The molecular signature of tissue resident CD8 T cells isolated from the brain. J Immunol (2012) 189(7):3462–71. doi:10.4049/jimmunol. 1201305
+
+128. Sathaliyawala T, Kubota M, Yudanin N, Turner D, Camp P, Thome JJ, et al. Distribution and compartmentalization of human circulating and tissue- resident memory T cell subsets. Immunity (2013) 38(1):187–97. doi:10.1016/ j.immuni.2012.09.020
+
+129. Schenkel JM, Fraser KA, Vezys V, Masopust D. Sensing and alarm function of resident memory CD8+ T cells. Nat Immunol (2013) 14(5):509–13. doi:10.1038/ni.2568
+
+130. Ariotti S, Hogenbirk MA, Dijkgraaf FE, Visser LL, Hoekstra ME, Song JY, et al. T cell memory. Skin-resident memory CD8(+) T cells trigger a state of tissue-wide pathogen alert. Science (2014) 346(6205):101–5. doi:10.1126/science.1257530
+
+131. Vigl B, Aebischer D, Nitschke M, Iolyeva M, Roedl K, Martinez V, et al. Tissue inflammation modulates gene expression of lymphatic endothelial cells and dendritic cell migration in a stimulus-dependent manner. Blood (2011) 118(1):205–15. doi:10.1182/blood-2010-12-326843
+
+132. Johnson LA, Clasper S, Holt AP, Lalor PF, Baban D, Jackson DG. An inflammation-induced mechanism for leukocyte transmigration across lymphatic vessel endothelium. J Exp Med (2006) 203(12):2763–77. doi:10.1084/ jem.20051759
+
+133. Takahashi K, Donovan MJ, Rogers RA, Ezekowitz RA. Distribution of murine mannose receptor expression from early embryogenesis through to adulthood. Cell Tissue Res (1998) 292(1):311–23. doi:10.1007/s004410051020
+
+134. Linehan SA, Martinez-Pomares L, Stahl PD, Gordon S. Mannose receptor and its putative ligands in normal murine lymphoid and nonlymphoid organs: in situ expression of mannose receptor by subsets of macrophages, dendritic cells, perivascular microglia, and mesangial cells, but not dendritic cells. J Exp Med (1999) 189(12):1961–72. doi:10.1084/jem.189. 12.1961
+
+135. Salmi M, Koskinen K, Henttinen T, Elima K, Jalkanen S. CLEVER-1 mediates lymphocyte transmigration through vascular and lymphatic endothelium. Blood (2004) 104(13):3849–57. doi:10.1182/blood-2004-04-1222
+
+136. Dejardin E, Droin NM, Delhase M, Haas E, Cao Y, Makris C, et al. The lymphotoxin-beta receptor induces different patterns of gene expression via two NF-kappaB pathways. Immunity (2002) 17(4):525–35. doi:10.1016/ S1074-7613(02)00423-5
+
+137. Luster AD, Alon R, von Andrian UH. Immune cell migration in inflammation: present and future therapeutic targets. Nat Immunol (2005) 6(12):1182–90. doi:10.1038/ni1275
+
+138. Mackay LK, Stock AT, Ma JZ, Jones CM, Kent SJ, Mueller SN, et al. Long-lived epithelial immunity by tissue-resident memory T (TRM) cells in the absence of persisting local antigen presentation. Proc Natl Acad Sci U S A (2012) 109(18):7037–42. doi:10.1073/pnas.1202288109
+
+139. Mueller SN, Zaid A, Carbone FR. Tissue-resident T cells: dynamic players in skin immunity. Front Immunol (2014) 5:332. doi:10.3389/fimmu.2014.00332
+
+---
+
+Frontiers in Immunology | www.frontiersin.org 13 December

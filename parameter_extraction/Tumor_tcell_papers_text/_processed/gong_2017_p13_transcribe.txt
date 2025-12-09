@@ -1,0 +1,96 @@
+Downloaded from http://rsif.royalsocietypublishing.org/ on September 20, 2017
+
+morphology and progression. J. Theor. Biol. 263,  
+393–406. (doi:10.1016/j.jtbi.2009.11.024)  
+44. Madzkin F, Edgerton ME, Thompson AM, Cristini V.  
+2012 Patient-calibrated agent-based modelling of  
+ductal carcinoma in situ (DCIS): from microscopic  
+measurements to macroscopic predictions of clinical  
+progression. J. Theor. Biol. 301, 122–140. (doi:10.  
+1016/j.jtbi.2012.02.025)  
+45. Wang Z, Birch CM, Sagotsky J, Deisboeck TS. 2009  
+Cross-scale, cross-pathway evaluation using an  
+agent-based non-small cell lung cancer model.  
+Bioinformatics 25, 2389–2396. (doi:10.1093/  
+bioinformatics/btp416)  
+46. Mallet DG, De Pillis LG. 2006 A cellular automata  
+model of tumour-immune interactions.  
+J. Theor. Biol. 239, 334–350. (doi:10.1016/j.jtbi.  
+2005.08.002)  
+47. Enderling H, Hlatky L, Hahnfeldt P. 2012  
+Immunoediting: evidence of the multifaceted role  
+of the immune system in self-metastatic tumour  
+growth. Theor. Biol. Med. Model. 9, 31. (doi:10.  
+1186/1742-4682-9-31)  
+48. Hundsdorfer W, Verwer J. 2003 Numerical solution of  
+time-dependent advection-diffusion-reaction  
+equations. CERM Document Server. See http://cds.cern.  
+ch/record/1618251 (accessed 5 December 2016).  
+49. Helton JC, Davis FJ. 2003 Latin hypercube sampling  
+and the propagation of uncertainty in analyses of  
+complex systems. Reliab. Eng. Syst. Saf. 81, 23–69.  
+(doi:10.1016/S0951-8320(03)00058-9)  
+50. Marino S, Hogue IB, Ray CJ, Kirschner DE. 2008 A  
+methodology for performing global uncertainty and  
+sensitivity analysis in systems biology. J. Theor. Biol.  
+254, 178–196. (doi:10.1016/j.jtbi.2008.04.011)  
+51. Weeks SE, Barker B, Bober S, Greens K, Cline J,  
+Thompson A, Hlatky L, Hahnfeldt P, Enderling H.  
+2014 A multicompartment mathematical model of  
+cancer stem cell-driven tumor growth dynamics.  
+Bull. Math. Biol. 76, 1762–1782. (doi:10.1007/  
+s11538-014-9976-0)  
+52. Ilie M et al. 2016 Comparative study of the PD-L1  
+status between surgically resected specimens and  
+matched biopsies of NSCLC patients reveal major  
+discordances: a potential issue for anti-PD-L1  
+therapeutic strategies. Ann. Oncol. 27, 147–153.  
+(doi:10.1093/annonc/mdw459)  
+53. Lyford-Pike S et al. 2013 Evidence for a role of the  
+PD-1/PD-L1 pathway in immune resistance of HPV-  
+associated head and neck squamous cell carcinoma.  
+Cancer Res. 73, 1733–1741. (doi:10.1158/0008-  
+5472.CAN-12-2384)  
+54. Mathios D et al. 2014 PD-1, PD-L1, PD-L2  
+expression in the chordoma microenvironment.  
+J. Neurooncol. 121, 251–259. (doi:10.1007/s11060-  
+014-1673-5)  
+55. Taube JM. 2014 Unleashing the immune system:  
+PD-1 and PD-L1s in the pre-treatment tumor  
+microenvironment and correlation with response to  
+PD-1/PD-L1 blockade. OncoImmunology 3, e963413.  
+(doi:10.4161/21624011.2014.963413)  
+56. Le DT et al. 2015 PD-1 blockade in tumors with  
+mismatch-repair deficiency. N. Engl. J. Med. 372,  
+2509–2520. (doi:10.1056/NEJMoa1500596)  
+57. Taube JM et al. 2014 Association of PD-1, PD-1  
+ligands, and other features of the tumor immune  
+microenvironment with response to anti-PD-1  
+therapy. Clin. Cancer Res. 20, 5064–5074. (doi:10.  
+1158/1078-0432.CCR-13-3271)  
+58. Clark AG, Vignjevic DM. 2015 Modes of cancer cell  
+invasion and the role of the microenvironment.  
+Curr. Opin. Cell Biol. 36, 13–22. (doi:10.1016/j.ceb.  
+2015.06.004)  
+59. Milberg O, Cong G, Wang B, Vicini P, Narwal R,  
+Roskos L, Popel A. 2017 Abstract 4531: Systems  
+pharmacology to predict cellular biomarkers and  
+optimize mono- and combination-therapy regimens:  
+Focusing on immune checkpoint targets PD-1,  
+PD-L1 and CTLA4. Cancer Res. 77(Suppl. 13), 4531.  
+(doi:10.1158/1538-7445.AM2017-4531)  
+60. Vakoc BJ et al. 2009 Three-dimensional microscopy  
+of the tumor microenvironment in vivo using optical  
+frequency domain imaging. Nat. Med. 15,  
+1219–1223. (doi:10.1038/nm.1971)  
+61. Perfahl H, Hughes BD, Alarcon T, Maini PK, Lloyd  
+MC, Reuss M, Byrne HM. 2017 3D hybrid modelling  
+of vascular network formation. J. Theor. Biol. 414,  
+254–268. (doi:10.1016/j.jtbi.2016.11.013)  
+62. Girard P, Cucherat M, Guet D. 2004 Clinical trial  
+simulation in drug development. Thérapie 59,  
+297–304. (doi:10.2515/therapie:2004057)  
+
+13
+
+rsif.royalsocietypublishing.org J. R. Soc. Interface 14: 20170320

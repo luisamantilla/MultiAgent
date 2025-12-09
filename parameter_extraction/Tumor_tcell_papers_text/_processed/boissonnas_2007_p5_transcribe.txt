@@ -1,0 +1,121 @@
+```plaintext
+ARTICLE
+
+with no apparent stops. Therefore, resumed T cell motility in 
+antigen-expressing tumors occurs preferentially in regions 
+where the tumor cells are dead.
+
+Modes of CTL migration in tumors
+We next sought to characterize this resumed CTL migration 
+in more detail. Resumed CTL motility in regions of the tu- 
+mor where the tumor cells are dead followed an amoeboid 
+pattern (Videos S6 and S7, available at http://www.jem.org/ 
+cgi/content/full/jem.20061890/DC1). We observed impor- 
+tant changes in the cell shape, suggesting a strong adaptation 
+of the CTLs to the extracellular matrix and their ability to 
+squeeze through narrow spaces as observed in artificial three- 
+dimensional collagen matrix (32) or around stromal and tu- 
+mor cells. CTLs occasionally followed collagen fibers, which 
+were visualized by their SHG signals (Video S6). We also 
+observed OT1 cells dividing inside the EG7 tumors (0.8% of 
+the tracked OT1 cells, n = 1,249; Video S8). Because our 
+videos last 30 min, the proportion of divisions over 24 h could 
+be relatively high (up to 30–40% of the OT1 cells, as- 
+suming the rate of divisions remains the same over this period 
+of time). Divisions might have gone unnoticed in the EL4 
+tumors because of the near 10-fold lower T cell population. 
+Accumulation of tumor cells around blood vessels was ob- 
+served occasionally (Video S9), suggesting either regions of 
+preferential CTL extravasation or chemotaxis of CTLs for 
+the blood vasculature. Three-dimensional reconstitution 
+shows that CTLs are in close contact to blood vessels (Video 
+S10). Strikingly, CTLs moved frequently along blood vessels 
+(Video S7), adopting a more elongated morphology and un- 
+dergoing less important changes in their shape.
+
+To characterize and quantify the cells migrating along 
+blood vessels in more detail, we took advantage of certain re- 
+gions of the tumor periphery that displayed a highly orga- 
+nized blood vessel pattern oriented along the major axis 
+(Fig. 5 A). In these areas, numerous CTLs maintained close 
+contact with vessels during migration (Video S11, available at 
+http://www.jem.org/cgi/content/full/jem.20061890/DC1) 
+for relatively long distances (114 ± 63 μm, n = 17). The 
+CTLs adopted an anisotropic migration pattern along the 
+axes of the blood vessels as indicated by a higher correlation 
+coefficient (no-contact, r = 0.31 and contact, r = 0.73; 
+P < 0.001) (Fig. 5 A, bottom). The ability of several cells 
+to migrate from a blood vessel to another confirmed that 
+the CTLs are probably not in the lumen of the vessels, but 
+either in the tissue or within the “sheath” around the vessels. 
+Migration along blood vessels proceeds with a mean velocity 
+similar to that of the CTLs migrating at distance of visible 
+blood vessels (8.2 ± 2.4 μm/min and 8.6 ± 2.8 μm/min, 
+respectively; Fig. 5 B).
+
+The shape of CTLs during migration along blood ves- 
+sels seemed to differ from their morphology in other areas 
+of the tumor (examples are shown in Fig. 5 C, top, and 
+Video S12, available at http://www.jem.org/cgi/content/ 
+full/jem.20061890/DC1). Fig. 5 D, top, shows the evolution 
+of the elongation index (ratio between the length and the 
+
+JEM VOL. 204, February 19, 2007 349
+
+A
+
+No OT1
+
+Early
+
+Late
+
+EG-7
+
+EL-4
+
+B
+
+GFP
+
+PI
+
+Merge
+
+Early
+
+Late
+
+Figure 3. Tumor cell clearance during early and late phase.
+(A) Representative TPLSM images (160 × 160 μm) of GFP-EG7 or GFP- 
+EL4 tumors during early (day 3) and late (day 6) of tumor rejection 
+after adoptive transfer of 10^7 OT1 cells. Vessels (red) are imaged by intra- 
+venous injection of 70 kD rhodamine-dextran (2.5 μg/ml) and collagen 
+fibers (blue) using SHG signals. Capture parameters were identical for 
+all images. Bar, 44 μm. (B) TPLSM images (150 × 150 μm) of GFP-EG7 
+(green) during early (day 4) and late (day 6) phase of rejection after intra- 
+venous injection of propidium iodide (blue). Bar, 41 μm.
+
+The relative proportions of each type of OT1 categories 
+were quantified during the early phase (in regions of the tu- 
+mors where tumor cells are alive) and during the late phase 
+(in regions where most tumor cells are dead). As shown in 
+Fig. 4 E, the proportion of OT1 cells in the first two cate- 
+gories (Fig. 4 D, Stable and Confined) represents 55% in re- 
+gions of the tumor where the tumor cells are alive. In contrast, 
+in regions where most tumor cells are dead, categories 3 and 4 
+(Fig. 4 D, Serial and Fleet) represent ~90% of the OT1 cells. 
+Importantly, during the late phase, in regions of the tumor 
+where part of the tumor cells were alive, OT1-CTL cells 
+adopted an intermediate behavior, indicating again that re- 
+sumed motility OT1-CTL cells was dictated by the viability 
+of the tumor cells rather than by the adoptive transfer.
+
+We conclude that during the early phase of tumor rejec- 
+tion, OT1 cells are in contact with living tumor cells, either 
+completely arrested or following very constrained trajec- 
+tories, suggesting that they interact with several neighboring 
+tumor cells. During the late phase of tumor rejection, in the 
+regions where most tumor cells are dead, OT1 cells either 
+make very short arrests or migrate rapidly within the tumor 
+```

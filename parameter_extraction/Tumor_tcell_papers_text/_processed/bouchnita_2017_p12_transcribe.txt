@@ -1,0 +1,70 @@
+```plaintext
+Bouchrita et al. BMC Immunology 2017, 18(Suppl 1):29                                                                 Page 22 of 65
+
+infection is orchestrated by a B cell-lymphotoxin-dependent pathway. 
+Biol. 2001;10(5):4275–83.
+28. Bocharov G, Liston A, Greaves-Barragan L, Luzynina T, Chiglintsev E, 
+Chereshnev VA, et al. A Systems Immunology Approach to Plasmacytoid 
+Dendritic Cell Function in Cytopathic Virus Infections. PLoS Pathog. 
+2010;6(7):e1001017.
+29. Bocharov G, Chereshnev V, Gainova I, Bazhan S, Bachmetyev B, 
+Argilaguet J, Martinez J, Meyerhans A. Human Immunodeficiency Virus 
+Infection: From Biological Observations to Mechanistic Mathematical 
+Modelling. Math Model Nat Phenom. 2012;7(5):78–104.
+30. Cremasco V, Woodruff MC, Onder L, Cupovic J, Nieves-Bonilla JM, 
+Schlitzbag FA, Chang J, Cremasco F, Harvey CJ, Wucherpfennig K, 
+Ludewig B, Carroll MC, Turley SJ. B cell homeostasis and follicle confines 
+are governed by fibroblastic reticular cells. Nat Immunol. 2014;15(10): 
+973–81.
+31. Giese C, Marx U. Human immunity in vitro - solving immunogenicity and 
+more. Adv Drug Deliv Rev. 2014;69–70:103–22.
+32. Paul WE. The Immune System - Complexity Exemplified. Math Model Nat 
+Phenom. 2012;7(5):6–4.
+33. Moskophidis D, Lechner F, Pircher H, Zinkernagel RM. Virus persistence 
+in acutely infected immunocompetent mice by exhaustion of antiviral 
+cytotoxic effector T cells. Nature. 1993;362(6422):758–61.
+34. Moskophidis D, Battegay M, van den Broek M, Laine E, Hoffmann-Rohrer 
+U, Zinkernagel R. Role of virus and host variables in virus persistence or 
+immunopathological disease caused by a non-cytolytic virus. J. Gen. Virol. 
+1995;76(2):381–391.
+35. McMichael AJ, Borrow P, Tomaras GD, Goonetilleke N, Haynes BF. The 
+immune response during acute HIV-1 infection: clues for vaccine 
+development. Nat Rev Immunol. 2010;10(1):11–23.
+36. Cervantes-Barragan L, Lewis KL, Firner S, Thiel V, Hugues S, Reith W, 
+Ludewig B, Reizis B. Plasmacytoid dendritic cells control T-cell response 
+to chronic viral infection. Proc Natl Acad Sci USA. 2012;109(8):3012–7.
+37. Wilson NA, Reed J, Mettu RR, Santer DM, Hughes CM, Gilbride RM, 
+Wiseman RW, Bimber BN, Larsen BB, Mudd PA, Ericsen AJ, Xu G, 
+Whizin N, Bruwitz B, Planer SL, Turner JM, Legasse AW, Axthelm MK, 
+Nelson JA, Fruh K, Sacha JB, Estes JD, Keele BF, Edlefsen PT, Lifson JD, 
+Picker LJ. Immune clearance of highly pathogenic SIV infection. Nature. 
+2013;502(7469):100–4.
+38. Kaech SM, Wherry EJ. Heterogeneity and cell-fate decisions in effector 
+and memory CD8+ T cell differentiation during viral infection. Immunity. 
+2007;27(3):393–405.
+40. Fricke GM, Letendre KA, Moses ME, Cannon JL. Persistence and 
+Adaptation in Immunity: T Cells Balance the Extent and Thoroughness of 
+Search. PLoS Comput Biol. 2016;12(3):e1004818.
+41. Cappuccio A, Tieri P, Castiglione F. Multiscale modelling in immunology: 
+a review. Brief Bioinform. 2015;piibv021:1–11.
+42. Grossman Z, Paul WE. Dynamic tuning of lymphocytes: physiological 
+basis, mechanisms, and function. Annu Rev Immunol. 2015;33:677–713.
+43. Baker CTH, Bocharov GA, Paul CFM. Mathematical Modelling of the 
+Interleukin-2 T-Cell System: A Comparative Study of Approaches Based 
+on Ordinary and Delay Differential Equation. J Theor Medicine. 1997;1(2): 
+117–28.
+
+Submit your next manuscript to BioMed Central and 
+we will help you at every step:
+
+• We accept pre-submission inquiries
+• Our selector tool helps you to find the most relevant journal
+• We provide round the clock customer support
+• Convenient online submission
+• Thorough peer review
+• Inclusion in PubMed and all major indexing services
+• Maximum visibility for your research
+
+Submit your manuscript at 
+www.biomedcentral.com/submit
+```

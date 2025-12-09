@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and values from the text:\n\n1. **Microscopy Magnification**: 20x\n2. **Temperature**: 37°C\n3. **CO₂ Concentration**: 8%\n4. **Fluorescent Light Source Power**: 120w\n5. **CCD Camera Bit Depth**: 12 and 14 bit\n6. **YFP Filter Specifications**:\n   - Excitation: 500/20 nm\n   - Dichroic Splitter: 515 nm\n   - Emission: 535/30 nm\n7. **mCherry Red Filter Specifications**:\n   - Excitation: 575/50 nm\n   - Dichroic Splitter: 610 nm\n   - Emission: 640/50 nm\n8. **Plate Specification**: 12-well optical glass-bottom plates\n9. **Fibronectin Coating Concentration**: 10μM\n10. **Fibronectin Solution Concentration**: 0.1%\n11. **Fibronectin Dilution Ratio**: 1:100"
+}

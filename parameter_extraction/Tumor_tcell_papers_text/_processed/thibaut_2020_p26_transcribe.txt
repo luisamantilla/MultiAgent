@@ -1,0 +1,176 @@
+```plaintext
+ARTICLES                                                                                   NATURE CANCER
+
+a
+
+Contribution to IFNG signature
+0    0.05    0.10    0.15    0.20    0.25    0.30    0.35
+
+CD74
+HLA-F
+ISG15
+IFITM1
+TRIM22
+S100A14
+IFIT3
+C1R
+GBP1
+SAT1
+TYMP
+DHRS3
+IFI30
+CFH
+AIM2
+GSTK1
+
+b
+
+Density
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+
+0    5    10    15
+IFNG score
+
+Density
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+
+0    5    10    15
+IFNG score
+
+Density
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+
+0    5    10    15
+IFNG score
+
+Density
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+
+0    5    10    15
+IFNG score
+
+Density
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+
+0    5    10    15
+IFNG score
+
+Density
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+
+0    5    10    15
+IFNG score
+
+Density
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+
+0    5    10    15
+IFNG score
+
+Density
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+
+0    5    10    15
+IFNG score
+
+Density
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+
+0    5    10    15
+IFNG score
+
+Density
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+
+0    5    10    15
+IFNG score
+
+Density
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+
+0    5    10    15
+IFNG score
+
+Density
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+
+0    5    10    15
+IFNG score
+
+Density
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+
+0    5    10    15
+IFNG score
+
+Extended Data Fig. 10 | Distribution of IFN-γ signature in tumor cells from head and neck squamous cell carcinoma patients. a, Gene contribution to the
+IFNG signature in the tumor cells. b, Distribution of IFNG signature in tumor cells from 13 different patients with head and neck squamous cell carcinoma
+patients. Although the mean of the distribution varies from patient to patient, a relatively uniform distribution is observed in most patients.
+
+NATURE CANCER | www.nature.com/natcancer
+```

@@ -1,0 +1,27 @@
+```plaintext
+NATURE CANCER                                                                                                        ARTICLES
+
+a                                                                 b                                                                 c
+                                                                 HBSS
+                                                                 
+                                                                 106
+                                                                 105
+                                                                 104
+                                                                 103
+                                                                 0
+                                                                 10 0     101    102    103    104
+                                                                 Katushka
+                                                                 
+                                                                 1.72%
+                                                                 
+                                                                 + T Cells
+                                                                 
+                                                                 106
+                                                                 105
+                                                                 104
+                                                                 103
+                                                                 0
+                                                                 10 0     101    102    103    104
+                                                                 Katushka
+                                                                 
+                                                                 71.2%

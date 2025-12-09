@@ -1,0 +1,91 @@
+```plaintext
+NATURE CANCER                                                                                                               ARTICLES
+
+24. Perona-Wright, G., Mohrs, K. & Mohrs, M. Sustained signaling by canonical
+    helper T cell cytokines throughout the reactive lymph node. Nat. Immunol.
+    11, 520–526 (2010).
+25. Müller, A. et al. CD4+ T cells rely on proliferation bystander effector activity to control
+    leishmania infection. Immunity 37, 147–157 (2012).
+26. Haridas, V. et al. The IL-1 type I receptor signaling mouse: A model for high-
+    incidence spontaneous lymphoma and leukemia of early B cells. J. Exp. Med.
+    167, 353–371 (1988).
+27. Hart, I. R. The selection and characterization of an invasive variant of the B16
+    melanoma. Am. J. Pathol. 97, 587–600 (1979).
+28. Sugimura, K. & Stock, C. C. Studies in a tumor spectrum. I. Comparison of the
+    action of methylbis(2-chloroethyl)amine and 3-bis(2-chloroethyl)-
+    aminomethyl-1-methyl-2-oxindole-5-hydroxy-6-methylpyridine on the growth
+    of a variety of mouse and rat tumors. Cancer 5, 382–402 (1952).
+29. Milo, I. et al. The immune system profoundly restricts intratumor genetic
+    heterogeneity. Nat. Commun. 3, e243 (2018).
+30. Olof-Yaniv, I. et al. Catch and release of cytokines mediated by tumor
+    phosphatidylserine converts transient exposure into long-lived inflammation.
+    Mol. Cell 66, 635–647 e637 (2017).
+31. Ji, H. et al. Dysfunctional CD8+ T cells form a proliferative, dynamically
+    regulated compartment within human melanoma. Nat. Cell 176, 775–789 e778
+    (2019).
+32. Fan, T. et al. Generation of tumor heterogeneity through pathway
+    and gene set overdispersing analysis. Nat. Methods 9, 231–244 (2016).
+33. Kuper, A., Mosmann, T. R. & Kupfer, H. Polarized expression of cytokines in
+    cell conjugates of helper T cells and splenic B cells. Proc. Natl Acad. Sci. USA
+    88, 775–779 (1991).
+34. Egen, J. G. et al. Intravital imaging reveals antigen presentation
+    and T cell effector function in mycobacterial granulomas. Immunity 34,
+    807–819 (2011).
+35. Olchokor, R., Rytle, B., Muller, A. & Josse, P. Collective nitric oxide
+    production provides tissue-wide immunity during leishmania infection. J.
+    Clin. Invest. 124, 1711–1722 (2014).
+36. Postat, J., Delon, J. & Bousso, P. A. & Bousso, P. A. Metabolism-based
+    quorum sensing mechanism contributes to termination of inflammation by
+    inducing apoptosis. Nat. Med. 24, 655–658 (2018).
+37. Stahl, P. L. et al. Visualization and analysis of gene expression in tissue
+    sections by spatial transcriptomics. Science 353, 78–82 (2016).
+38. Shah, S., Lubeck, E., Zhou, W. & Cai, L. seqFISH accurately detects
+    transcripts in single cells and reveals robust spatial organization in the
+    hippocampus. Neuron 94, 752–758 e751 (2017).
+
+40. Wang, X. et al. Three-dimensional intact-tissue sequencing of single-cell
+    transcriptional states. Science 361, pii: eaat5891 (2018).
+41. Cazaux, C. et al. Single-cell imaging of CAR T cell activity in vivo reveals
+    extensive functional and anatomical heterogeneity. J. Exp. Med. 216,
+    1034–1049 (2019).
+42. Vincent, L. Morphological grayscale reconstruction in image analysis:
+    applications and efficient algorithms. IEEE Trans. Image Process. 2,
+    176–201 (1993).
+43. Janky, R. et al. iRegulon: from a gene list to a gene regulatory network using
+    large motif and track collections. PLoS Comput. Biol. 10, e1003731 (2014).
+44. Lake, B. B. et al. Integrative single-cell analysis of transcriptional and
+    epigenetic states in the human adult brain. Nat. Biotechnol. 36, 70–80 (2018).
+45. McInnes, L., Healy, J. & Melville, J. UMAP: uniform manifold approximation
+    and projection for dimension reduction. Preprint at arXiv https://arxiv.org/
+    abs/1802.03426 (2018).
+
+Acknowledgements
+We thank members of P. Bousso’s laboratory for critical review of the manuscript. We
+thank the mouse facility and Technology Core of the Center for Translational Research
+(CRT) at Institut Pasteur for support in conducting the present study. The work was
+supported by Institut Pasteur, INSERM, a starting grant (lymphocytecontrol) and an
+advanced grant (ENLIGHTEN) from the European Research Council (P. Bousso) and
+by the Bristol-Myers Squibb Foundation for Research in Immuno-Oncology.
+
+Author contributions
+R.T., I.M., M.C., F.L., Z.G., B.B. and C.C. conducted the experiments. R.T., I.M., M.C. and
+P.B. designed the experiments. I.A. and B.B. contributed to data analysis. R.T., I.M., M.C.,
+R.T., I.M., M.C., P. Bost and P. Bousso analyzed the data and wrote the manuscript.
+
+Competing interests
+The authors declare no competing interests.
+
+Additional information
+Extended data is available for this paper at https://doi.org/10.1038/s43018-020-0038-z.
+Supplementary information is available for this paper at https://doi.org/10.1038/
+s43018-020-0038-z.
+
+Reprints and permissions information is available at www.nature.com/reprints.
+
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+
+© The Author(s), under exclusive licence to Springer Nature America, Inc. 2020
+
+NATURE CANCER | www.nature.com/natcancer
+```

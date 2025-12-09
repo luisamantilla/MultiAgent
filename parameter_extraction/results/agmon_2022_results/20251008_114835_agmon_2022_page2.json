@@ -1,0 +1,14 @@
+{
+  "tables": [],
+  "figures": [],
+  "text": [
+    {
+      "parameter": "Vivarium score",
+      "value": "Δx = f(x,t,x)",
+      "units": null,
+      "context": "difference equation"
+    }
+  ],
+  "equations": [],
+  "summary": "The page discusses the integration of computational models in biology, emphasizing the need for combining different modeling approaches. Vivarium is introduced as a tool to facilitate this integration, allowing users to plug models together in a unified interface. The text highlights the flexibility of Vivarium in supporting various types of models and its potential to enhance model development and execution."
+}

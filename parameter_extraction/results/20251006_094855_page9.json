@@ -1,0 +1,51 @@
+{
+  "tables": [],
+  "figures": [
+    {
+      "parameter": "Initial viral load",
+      "value": [
+        "1",
+        "10",
+        "100",
+        "1000",
+        "10000"
+      ],
+      "units": null,
+      "context": "Initial conditions for simulation"
+    },
+    {
+      "parameter": "Uninfected cells",
+      "value": "10^3 to 10^-1",
+      "units": null,
+      "context": "Simulation results for uninfected cells over time"
+    },
+    {
+      "parameter": "Infected cells",
+      "value": "10^3 to 10^-1",
+      "units": null,
+      "context": "Simulation results for infected cells over time"
+    },
+    {
+      "parameter": "Extracellular virus",
+      "value": "10^3 to 10^-1",
+      "units": null,
+      "context": "Simulation results for extracellular virus over time"
+    },
+    {
+      "parameter": "Antibodies",
+      "value": "10^3 to 10^-1",
+      "units": null,
+      "context": "Simulation results for antibodies over time"
+    }
+  ],
+  "text": [
+    {
+      "parameter": "Initial infection fraction",
+      "value": "0.1%, 0.5%, 1%, 5%",
+      "units": "percent",
+      "context": "Variation in initial infection fraction for simulations"
+    }
+  ],
+  "equations": [],
+  "summary": "The page presents simulation results comparing spatial models to ODE models for viral infection. Initial viral loads range from 1 to 10,000, affecting the dynamics of uninfected and infected cells, extracellular virus, and antibodies. The study explores different initial infection fractions, showing that lower fractions can lead to non-fatal outcomes. The findings suggest that spatial models can replicate ODE model dynamics under certain conditions."
+}

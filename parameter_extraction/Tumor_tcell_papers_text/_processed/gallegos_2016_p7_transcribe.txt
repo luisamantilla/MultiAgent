@@ -1,0 +1,153 @@
+In the response. In this context, we emphasize that the programmed
+TCR downregulation did not commence until clonal expansion had
+peaked, at which point there can be millions of T cells of very high
+avidity distributed over the host. It is conceivable that a few million
+of such cells with full TCR expression would be difficult to restrain,
+especially given that at the peak of clonal expansion, antigen might
+still be abundant37. Therefore, these cells could generate substantial
+inflammatory damage if left unchecked38. From this perspective,
+programmed TCR downregulation seems to be an elegant solution
+whereby the biological activity of a given T cell clone is ‘tuned’ accord-
+ing to its intrinsic antigen reactivity, which ultimately favors cells of
+moderate avidity.
+
+It remains puzzling how T cells use the strength of initial antigen
+recognition to adjust TCR expression following days of clonal
+expansion. Published studies have shown that transient TCR down-
+regulation during initial T cell activation also correlates with antigen
+avidity, which means that functionally more potent ligands induce
+greater TCR downregulation39-41. In those experiments, TCR loss par-
+alleled the extent of full TCR phosphorylation and activation of the
+signaling kinase ZAP-70. Ultimately, such biochemical changes would
+have to induce chromatin remodeling, such that graded expression
+of a ‘TCR-targeting factor’, such as a ubiquitin ligase34-36, is achieved
+once T cells reach full clonal expansion. Thus, it might be expected
+that other molecules that influence TCR signaling would also contrib-
+ute to programmed TCR downregulation39,44. Indeed, CD4+ T cells
+with very low expression of CD5 also display poor TCR downregula-
+tion following expansion45. In our studies, C24 T cells displayed
+lower expression of CD5 but greater expression of CD8, which may
+have contributed to their poor TCR downregulation. It is important to
+
+also emphasize that while CD5 expression and basal phosphorylation
+of TCRζ often correlated46,47, the extent of basal phosphorylation and
+expression can also be upregulated on activated T cells48, so care
+needs to be taken when interpreting studies of this nature.
+
+During these investigations for the design of T cell–based
+immunization strategies, it is now clear that T cells with the highest
+long-term functionality are those that recognize antigen with inter-
+mediate avidity rather than very high avidity10,18-50. Given the effect of
+programmed TCR downregulation on T cell biological reactivity, moni-
+toring of TCR expression would prove a useful biomarker for helping
+new therapies elicit the optimal profile of responding T cells.
+
+METHODS
+
+Methods and any associated references are available in the online
+version of the paper.
+
+Note: Any Supplementary Information and Source Data files are available in the online
+version of the paper.
+
+ACKNOWLEDGMENTS
+
+We thank M. Samstein, H. Yan and S. Reddy for technical assistance. Supported
+by the US National Institutes of Health (F32 grant AI074248 to A.M.G.; AI080169
+to M.S.G. and E.G.P.; and P30 CA008748) and the Netherlands Organisation for
+Scientific Research (Veni grant 91614038 to J.W.J.v.H.).
+
+AUTHOR CONTRIBUTIONS
+
+A.M.G., M.S.G., E.G.P. and J.W.J.v.H. designed the study; A.M.G., H.X. and J.W.J.v.H.
+performed experiments and analyzed data; A.M.G. generated the C7 and C24
+mice and the LCMV–expressing ESAT6 strains; I.M.L. and B.S. bred and genotyped
+the C7 and C24 mice and provided technical assistance; J.W.J.v.H. first identified
+programmed TCR downregulation; and E.G.P. and J.W.J.v.H. wrote the manuscript.
+
+COMPETING FINANCIAL INTERESTS
+
+The authors declare no competing financial interests.
+
+Reprints and permissions information is available online at http://www.nature.com/
+reprints/index.html.
+
+1. Nikolich-Zugich, J., Slifka, M.K. & Messaoudi, I. The many important facets of
+T-cell repertoire diversity. Nat. Rev. Immunol. 4, 123–132 (2004).
+2. van Heijst, J.W. et al. Quantitative assessment of T cell repertoire recovery after
+hematopoietic stem cell transfer. Nat. Med. 19, 372–377 (2013).
+3. Busch, D.H. & Pamer, E.G. T cell affinity maturation by selective expansion during
+infection. J. Exp. Med. 189, 701–710 (1999).
+4. Corse, E., Gottschalk, R.A. & Allison, J.P. Strength of TCR-peptide-MHC interactions
+and in vivo T cell responses. J. Immunol. 186, 5039–5045 (2011).
+5. King, C.G. et al. T cell affinity regulates asymmetric division, effector cell
+differentiation, and tissue pathology. Immunity 37, 709–720 (2012).
+6. Rees, W. et al. An inverse relationship between T cell receptor affinity and antigen
+dose during CD4+ T cell responses in vivo and in vitro. Proc. Natl. Acad. Sci. USA
+96, 9781–9786 (1999).
+7. Savage, P.A., Boniface, J.J. & Davis, M.M. A kinetic basis for T cell receptor
+repertoire selection during an immune response. Immunity 10, 485–492 (1999).
+8. Varela-Rohena, A. et al. Control of HIV-1 immune escape by CD8 T cells expressing
+enhanced T-cell receptor. Nat. Med. 14, 1390–1395 (2008).
+9. Zehn, D., Lee, S.Y. & Bevan, M.J. Complete but curtailed T cell response to very
+low-affinity antigen. Nature 458, 211–214 (2009).
+10. Corse, E., Gottschalk, R.A., Krogsgaard, M. & Allison, J.P. Attenuated T cell
+responses to a high-potency ligand in vivo. PLoS Biol. 8, e1000481 (2010).
+11. Heissmeyer, V. et al. Stathmin, a cytosolic protein, modulates T cell receptor
+signaling by binding to ZAP-70. J. Exp. Med. 193, 1003–1012 (2001).
+12. Kalergis, A.M. et al. Efficient T cell activation requires an optimal dwell-time of
+interaction between the TCR and the pMHC complex. Nat. Immunol. 2, 229–234
+(2001).
+13. Vignali, D. et al. Functional avidity: a measure to predict the efficacy of effector
+T cells. Clin. Dev. Immunol. 2012, 586314 (2012).
+14. O’Garra, A. et al. The immune response: a complex dynamic. Annu. Rev. Immunol. 31,
+475–527 (2013).
+15. Wherry, E.J. & Kurachi, M. Molecular and cellular insights into T cell exhaustion.
+Nat. Rev. Immunol. 15, 486–499 (2015).
+16. Loom, W. et al. Diverse, bioactive peptides in human neutrophils. J. Immunol. 186,
+5769–5777 (2011).
+17. de Boer, R.J., Homann, D. & Perelson, A.S. Different dynamics of CD4+ and CD8+
+T cell responses during and after acute lymphocytic choriomeningitis virus infection.
+J. Immunol. 171, 3928–3935 (2003).
+18. McKinstry, K.K. et al. Effector CD4 T-cell transition to memory requires late cognate
+interactions that induce autocrine IL-2. Nat. Commun. 5, 5377 (2014).
+19. Pei, R., Kondo, M., Tanaka, T., Boom, W.H. & Harding, C.V. Inhibition of
+IFN-γ–induced class II transactivator expression by a 19-kDa lipoprotein from
+Mycobacterium tuberculosis: a potential mechanism for immune evasion.
+J. Immunol. 171, 175–184 (2003).
+20. Bold, T.D., Banaei, N., Wolf, A.J. & Ernst, J.D. Suboptimal activation of antigen-
+specific CD4+ effector cells enables persistence of M. tuberculosis in vivo. PLoS
+Pathog. 7, e1002063 (2011).
+21. Tsen, M. et al. Intravitreal migration of granulocytes and macrophages in
+T cell effector function. In mycobacterial granulomas. Immunity 34, 807–819
+(2011).
+22. Gallegos, A.M., Pamer, E.G. & Glickman, M.S. Delayed protection by ESAT-6-specific
+effector CD4+ T cells after airborne M. tuberculosis infection. J. Exp. Med. 205,
+2359–2368 (2008).
+23. Gallegos, A.M. et al. A y-interferon independent mechanism of CD4 T cell mediated
+control of M. tuberculosis infection in vivo. PLoS Pathog. 7, e1002052
+(2011).
+24. Crawford, F., Kozono, H., White, J., Marrack, P. & Kappler, J. Detection of antigen-
+specific T cells with multivalent soluble class II MHC covalent peptide complexes.
+Immunity 8, 675–682 (1998).
+25. Egen, J.G. & Allison, J.P. Cytotoxic T lymphocyte antigen-4 accumulation in the
+immunological synapse is regulated by TCR signal strength. Immunity 16, 23–35
+(2002).
+26. Williams, M. et al. Roberts, A.D., Blackman, M.A. & Woodland, D.L. Persistence and
+turnover of antigen-specific CD4 T cells during chronic tuberculosis infection in the
+mouse. J. Immunol. 170, 2046–2052 (2003).
+27. Badovinac, V.P., Porter, B.B. & Harty, J.T. Programmed contraction of CD8+ T cells
+after infection. Nat. Immunol. 3, 619–626 (2002).
+28. Keene, S.T. & Ahmed, R. Memory CD8+ T cell differentiation: initial antigen
+encounter triggers a developmental program in naive cells. Nat. Immunol. 2,
+415–422 (2001).
+29. Lee, W.L., Passos, G., Cecchini, L. & Mittler, J.N. Continued antigen stimulation is
+not required during CD4+ T cell clonal expansion. J. Immunol. 168, 1682–1689
+(2002).
+30. Mercado, R. et al. Early programming of T cell populations responding to bacterial
+infection. J. Immunol. 165, 6833–6839 (2000).
+31. van Stipdonk, M.J., Lemmens, E.E. & Schoenberger, S.P. Naive CTLs require a
+single brief period of antigenic stimulation for clonal expansion and differentiation.
+Nat. Immunol. 2, 423–429 (2001).
+
+NATURE IMMUNOLOGY ADVANCE ONLINE PUBLICATION 7

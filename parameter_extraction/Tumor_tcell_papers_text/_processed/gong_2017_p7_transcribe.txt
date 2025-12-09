@@ -1,0 +1,94 @@
+```plaintext
+Downloaded from http://rsif.royalsocietypublishing.org/ on September 20, 2017
+
+7
+
+rsif.royalsocietypublishing.org J. R. Soc. Interface 14: 20170220
+
+low mutational burden
+
+high mutational burden
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+PDL1− w/o blocker
+PDL1− w/ blocker
+PDL1+ w/o blocker
+PDL1+ w/ blocker
+
+cancer cell count
+
+cancer cell count
+
+cancer cell count
+
+cancer cell count
+
+high antigen strength
+
+low antigen strength
+
+time (day)
+
+time (day)
+
+Figure 5. Responses to PD1/PDL1 checkpoint blockade among simulated tumours. Solid line: no treatment. Dotted line: anti-PDL1 treatment is simulated by
+reducing cytotoxic T-cell suppression from PDL1+ cancer cells by half from day 30 onward. Time courses of PDL1 positive and negative cancer cell counts are
+shown for tumours from patients with (a) tumour neoantigens of low mutational burden and high antigen strength; (b) high mutational burden and high antigen
+strength; (c) low mutational burden and low antigen strength; (d) high mutational burden and low antigen strength.
+
+regardless of tumour antigen strength. The number of PDL1−
+cancer cells is smaller than in the cases where treatment is not
+given, but still increases nevertheless. The number of PDL1+
+cancer cells is even higher than in no-treatment cases, possibly
+induced by a more inflammatory TME resulting from reduced
+suppression of cytotoxic T cells. In high mutational burden
+scenarios, despite a brief initial increase of PDL1+ cells, cancer
+cell counts begin to decline after treatment is applied after
+day 30. Furthermore, in high mutational burden cases, the
+rate of tumour size reduction is affected by antigen strength.
+With high antigen strength, the tumour is eliminated before
+the end of simulation (figure 5c), while the reduction is less
+dramatic in the low antigen strength case (figure 5d).
+
+3.4. Scoring simulated tumour immuno-architecture as
+a potential biomarker for anti-PDL1 treatment
+efficacy
+Comparing the results in figures 4 and 5, we find that apparent
+visual similarities may not be indicative of similar prognosis for
+immune checkpoint blockade treatment. In figure 4a,d, both
+tumours appear to have similar sizes and both have PDL1+
+cancer cells similarly distributed in the tumour. However, the
+
+treatment outcome is very different (figure 5a,d). We use the
+model to demonstrate how simulated tumour cross sections
+can be analysed to assess potential predictive biomarkers.
+
+Following the ideas of exploratory scoring systems pro-
+posed by pathologists [11,12], we focus on the rim of the
+tumour, which is defined as the region consisting of points
+within a specified distance from the tumour surface
+(figure 6a). The distance threshold can be varied in future ana-
+lyses to optimize the power of the predictive biomarker. For
+each simulated tumour, three cross sections are taken, perpen-
+dicular to the x-, y- or z-axis, and all three go through the centre
+of the lattice. Euclidian distance to surface is calculated, and for
+each cross section a score is calculated as the fraction of cancer
+cells in the rim region that are PDL1 positive. We calculated the
+ratios of tumour sizes at day 50 (20 days post-treatment) and
+day 30 (pretreatment) as a measurement of tumour shrinkage
+(1: equilibrium; 0: elimination; >1: progression) (figure 6b). The
+scoring results using a threshold distance of 50 μm are shown
+in figure 6c.
+
+To assess how the width of evaluated rim affects predictive
+power of score, we examined a series of threshold distances
+for regionalization and calculated the receiver operating charac-
+teristic (ROC) curve (figure 6d). Results indicate that when
+```

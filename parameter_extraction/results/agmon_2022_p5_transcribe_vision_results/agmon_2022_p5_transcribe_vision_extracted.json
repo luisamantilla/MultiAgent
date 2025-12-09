@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and values from the text:\n\n1. **Agents**:\n   - 1 agent\n   - 12 agents\n   - 25 agents\n   - 43 agents\n\n2. **External Glucose Concentrations**:\n   - Units: mmol (millimoles)\n\n3. **Lac Operon mRNA**:\n   - Units: counts\n\n4. **β-galactosidase**:\n   - Units: counts\n\n5. **Total Colony Mass**:\n   - Units: fg (femtograms)\n\n6. **Lactose Permease**:\n   - Units: counts\n\n7. **Glucose Flux**:\n   - Units: mmol/L/s (millimoles per liter per second)\n\n8. **Lactose Flux**:\n   - Units: mmol/L/s (millimoles per liter per second)\n\n9. **Growth Rate**:\n   - Units: fg/s (femtograms per second)\n\n10. **Final Simulation State Time**:\n    - 12.0 hours"
+}

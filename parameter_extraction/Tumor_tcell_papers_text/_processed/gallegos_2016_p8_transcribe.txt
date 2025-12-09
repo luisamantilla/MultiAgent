@@ -1,0 +1,59 @@
+```plaintext
+ARTICLES
+
+32. Lauer, P., Chow, M.Y., Loessner, M.J., Portnoy, D.A. & Calendar, R. Construction,
+    characterization, and use of two Listeria monocytogenes site-specific phage
+    integration vectors. J. Bacteriol. 184, 4177–4186 (2002).
+33. Swanson, J.A. et al. Failure to synthesize the T cell CD3-ζ chain: structure and
+    function of a partial T cell receptor complex. Cell 68, 595–598 (1998).
+34. Cenciarelli, C. et al. Activation-induced ubiquitination of the T cell antigen receptor.
+    Science 257, 795–797 (1992).
+35. Narayanan, M. et al. CD3 chain CbL regulate T cell responsiveness by promoting
+    ligand-induced TCR down-modulation. Nat. Immunol. 3, 1192–1199 (2002).
+36. Vignali, D.A., Mollee, S., Saito, M. & Lanzavecchia, A. Degradation of T cell receptor
+    (TCR)-CD3-ζ complexes after antigenic stimulation. J. Exp. Med. 185, 1859–1864
+    (1997).
+37. Labrecque, N. et al. How much TCR does a T cell need? Immunity 15, 71–82
+    (2001).
+38. Schrum, A.G., Turka, L.A. & Palmer, E. Surface T-cell antigen receptor expression and
+    availability for long-term antigen signaling. Immunol. Rev. 196, 7–24 (2003).
+39. Viola, A. & Lanzavecchia, A. T cell activation determined by T cell receptor number
+    and tunable thresholds. Science 273, 104–106 (1996).
+40. Itoh, Y., Hemmer, B., Martin, R. & Germain, R.N. Serial TCR engagement and
+    down-modulation by peptide-MHC molecule ligands: relationship to the quality of
+    individual TCR signaling. J. Immunol. 162, 2073–2080 (1999).
+41. Valitutti, S., Miller, S., Cella, M., Padovan, E. & Lanzavecchia, A. Serial triggering
+    of many T-cell receptors by a few peptide-MHC complexes. Nature 375, 148–151
+    (1995).
+
+42. Germain, R.N. Maintaining system homeostasis: the third law of Newtonian
+    immunology. Nat. Immunol. 13, 902–906 (2012).
+43. Dianzani, M. TCR zeta-chain downregulation: curtailing an excessive inflammatory
+    immune response. Nat. Rev. Immunol. 4, 679–687 (2004).
+44. Anderson, S.M. & Wraith, D.C. Selection and fine tuning of the autoimmune T-cell
+    repertoire. Nat. Rev. Immunol. 2, 487–498 (2002).
+45. Weber, K.S. et al. Distinct CD4+ helper T cell roles involved in primary and
+    secondary responses to infection. Proc. Natl. Acad. Sci. USA 109, 9511–9516
+    (2012).
+46. Madi, A., Montero, J.P., Vriesekoop, N. & Germain, R.N. T cell-positive selection
+    uses self-ligand binding strength to optimize repertoire recognition of foreign
+    antigens. Immunity 38, 263–274 (2013).
+47. Persaud, S.P., Parker, C.R., Lo, W.L., Weber, K.S. & Allen, P.M. Intrinsic CD4+
+    T cell sensitivity and response to a pathogen are set and sustained by avidity for
+    thymic and peripheral complexes of self peptide and MHC. Nat. Immunol. 15,
+    266–274 (2014).
+48. Fiebig, A. et al. T cell receptor (TCR)-mediated repertoire selection and loss of TCR
+    Vβ5.2 diversity during the initiation of a CD4+ T cell response in vivo. J. Exp. Med.
+    192, 1719–1730 (2000).
+49. McGeachy, K., Ryan, K.R., Wraith, D.C. & Anderson, S.M. Activation thresholds
+    regulate T cell selection: peptide-induced tolerance in a transgenic myelin-
+    reactive T cell repertoire. J. Neuroimmunol. 156, 96–106 (2004).
+50. McMahon, E.J. et al. Relating TCR-peptide-MHC affinity to immunogenicity for the
+    design of tumor vaccines. J. Clin. Invest. 116, 2543–2551 (2006).
+
+© 2016 Nature America, Inc. All rights reserved.
+
+8
+
+ADVANCE ONLINE PUBLICATION NATURE IMMUNOLOGY
+```

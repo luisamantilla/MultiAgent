@@ -1,0 +1,57 @@
+```plaintext
+letters to nature
+
+marked change in T-cell–DC conjugation was apparent when LNs 
+were imaged at 8–12 h (Supplementary Information 9). Most 
+conjugates with antigen-presenting DCs lasted longer than 30 min 
+(86%), and the majority (64%) remained stable throughout the 
+60 min observation period. We followed single conjugates over up 
+to 3 h, indicating that these interactions can be sustained for a 
+substantial period. Prolonged interactions were still apparent at 
+20–26 h, but about 70% of the contacts had returned to short 
+encounter mode. One day later (44–48 h), T cells engaged in brief 
+contacts only (Supplementary Information 4).
+
+These observations indicate that naive CD8 T cells interacted 
+with antigen-presenting DCs in three sequential stages. Phase one 
+constituted the first approximately 8 h after T-cell entry into LNs 
+and was characterized by short encounters of rapidly migrating cells 
+with numerous DCs, preferentially in the vicinity of HEVs. By 
+contrast, in vitro stimulation of TCRs on T cells migrating on two- 
+dimensional surfaces provides an immediate stop signal followed by 
+assembly of the so-called supramolecular activation cluster or 
+immunological synapse at the contact site17–19. The formation of 
+mature synapses between naive T cells and antigen-presenting cells 
+requires about 30 min (ref. 20). It is controversial whether and when 
+immunological synapses form in vivo and whether they are required 
+for T-cell activation. For example, T-cell–DC interactions in col- 
+lagen matrices last only minutes but induce T-cell activation21. 
+Given the short duration of contacts during phase one, it is unlikely 
+that mature immunological synapses could have formed. Never- 
+theless, in contrast with LNs that did not receive DCs, T cells in DC- 
+containing LNs upregulated CD44 and CD69 during the first 8 h 
+
+![Image of graphs and plots]
+
+Figure 2 Effect of antigen on T-cell motility in LNs. a, Intranodal T cell migrating between 
+tetramethylrhodamine b-isothiocyanate–dextran-filled capillaries in the absence of 
+transferred DCs (see also Supplementary Information 7). Scale bar, 20 mm. b, Two- 
+dimensional (left; scale bar, 20 mm) and 3D (right; grid squares are 15.4 mm x 15.4 mm) 
+depiction of representative T-cell tracks. c, d, Representative frequency histograms of 3D 
+instantaneous velocities (upper panels) and turning angles (lower panels) of T cells 
+migrating in the absence (c) or presence (d) of LPS-matured DCs. Arrows in the upper 
+panels indicate medians (8.9 mm min-1 in c; 8.3 mm min-1 in d). e, Mean displacement 
+plots of T cells in the absence (blue) or presence (green) of LPS-matured DCs in LNs. 
+f, Time course of T-cell motility coefficients in the presence of control DCs (open circles) 
+and antigen-bearing DCs (filled circles). Triangle denotes T-cell motility coefficient without 
+DC injection. g, 3D instantaneous velocity histograms of T cells in representative LNs at 
+various times after adoptive transfer in the presence of antigen-pulsed (filled bars) or 
+control (open bars) DCs. Medians are indicated by arrows; values shown are in units of 
+mm min-1.
+
+156
+
+©2004 Nature Publishing Group
+
+NATURE | VOL 427 | 8 JANUARY 2004 | www.nature.com/nature
+```

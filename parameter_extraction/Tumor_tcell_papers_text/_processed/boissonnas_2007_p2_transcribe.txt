@@ -1,0 +1,104 @@
+JEM
+
+tomography imaging (19–21), but the actual resolution of 
+these methods is too low for single cell imaging. CTL-
+mediated cytotoxicity in solid tumors, in contrast, has not 
+been imaged thus far.
+
+Although adoptive transfer of T cells induces the rejec-
+tion of established solid tumors, both in murine models and 
+in cancer patients (22–25), very little is known about the ac-
+tual mechanisms of tumor invasion by CTLs and rejection. 
+For example, the relative contribution of direct tumor cell 
+killing by cytotoxic T cells compared with killing by other ef-
+fectors of innate immunity is still uncertain (26, 27). Various 
+hematopoietic cells, including macrophages, natural killers, 
+and neutrophils, were shown to infiltrate the tumors after 
+CTL response (28, 29).
+
+To analyze the infiltration and tumor cell killing in solid 
+tumors, we used a combination of tumor cells and CTLs 
+expressing recombinant fluorescent proteins. Both conven-
+tional and intravital, one- and two-photon microscopy al-
+lowed us to image the dynamics of CTL motility and tumor 
+infiltration by CTLs. We thus describe a complex, antigen-
+dependent topography of invasion and motility of CTLs in 
+solid tumors.
+
+RESULTS
+OT1-GFP cells infiltrate and reject OVA-expressing tumors
+To analyze the dynamics of tumor cell killing and infiltra-
+tion and in CTL motility within tumors, we inoculated indi-
+vidual C57BL/6 mice s.c. with two tumors: the EL4 thymoma 
+in one flank and the EG7 (OVA-expressing EL4 cells) in the 
+other flank. Naive GFP-expressing, OVA-specific, TCR-
+transgenic OT1 cells (OT1-GFP) were adoptively transferred 
+to the mice when the EL4 and EG7 tumors were 500–1,000 
+mm3 (around day 10). OT1-GFP cells induced the complete 
+rejection of EG7, but not of EL4 tumors, within 6–8 d (Fig. 
+1 A). After the adoptive transfer of OT1-GFP cells, the tu-
+mors continued to grow for 3 d. After 3–4 d, the tumor stops 
+growing before the size actually starts decreasing at days 5–6. 
+At days 7–8, the tumors continued to shrink and disappeared 
+completely. We defined two periods for the analysis of the 
+active rejection process: the “early” rejection phase corre-
+sponds to days 3–4 after adoptive transfer when the tumor 
+stops growing; the “late” rejection phase corresponds to days 
+5–6 when the size of the tumors starts to decrease, but before 
+complete rejection (which occurs at days 7–8).
+
+We first sought to analyze the activation of the transferred 
+OT1 cells in the draining lymph node or nondraining lymph 
+node EG7 tumors. As shown in Fig. S1 (available at http://
+www.jem.org/cgi/content/full/jem.20061890/DC1), OT1-
+GFP cells are primed in EG7 draining lymph nodes but 
+not in the nondraining ones. The transferred cells transiently 
+up-regulate CD69, maintain high levels of CD44, and dis-
+play decreased CD62L expression (Fig. S1, A and B and ref-
+erence 30). OT1 activation resulted in the expansion of the 
+OT1-GFP cells within the EG7 tumors, reaching 1.8% ± 
+1.8% ± 0.3 of total cells; P = 0.005) (Fig. S2, available at 
+http://www.jem.org/cgi/content/full/jem.20061890/DC1).
+
+\[
+\begin{array}{c}
+\text{A} \\
+\includegraphics[width=0.45\textwidth]{image1.png}
+\end{array}
+\quad
+\begin{array}{c}
+\text{B} \\
+\includegraphics[width=0.45\textwidth]{image2.png}
+\end{array}
+\]
+
+\[
+\begin{array}{c}
+\text{C} \\
+\includegraphics[width=0.45\textwidth]{image3.png}
+\end{array}
+\quad
+\begin{array}{c}
+\text{D} \\
+\includegraphics[width=0.45\textwidth]{image4.png}
+\end{array}
+\]
+
+Figure 1. Activation of specific T cells in antigen-expressing 
+tumors. C57Bl6 mice were injected s.c. with live 10^6 EG7 and EL4 tumor 
+cells in either flank. 8–10 d later, the mice were adoptively transferred with 
+10^7 purified naive CD8^+ cells from OT1-GFP mice. (A) Evolution of EG7 (■) 
+and EL4 (□) tumor size after adoptive transfer. (mean ± SD, n = 5 indepen-
+dent experiments). Early phase (day 3–4) and late phase (day 5–6) were 
+defined in Material and methods. (B) Density of OT1-GFP cells within EG7 
+and EL4 at early (day 3) and late (day 6) phase of tumor rejection were 
+calculated from tumor section by counting the number of OT1-GFP cells 
+per mm^2. (C) Expression of CD69 (hatched marked) and CD62L (gray) activa-
+tion markers in GFP^+ cells as analyzed by flow cytometry (LN, draining 
+LN) (mean ± SD, n = 3–6). (D) IFN-γ production of GFP^+ cells in EG7 
+and EL4 tumors after 3 hr of treatment with Brefeldin A without antigen 
+restimulation (mean ± SD, n = 5). *, P < 0.05; **, P < 0.01; ***, P < 0.001.
+
+346
+
+IN VIVO CYTOTOXIC T CELL IMAGING IN TUMORS | Boissonnas et al.

@@ -1,0 +1,146 @@
+```plaintext
+ARTICLES
+
+oxaliplatin (5 μg/ml) (Sanofi-Aventis) for 24 h. Alternatively, EL4 cells were 
+subjected to 6 Gy of X-ray irradiation (IR750, Philips). In some experiments 
+cells were transfected with HMGB1 siRNA or irrelevant siRNA 48 h before 
+in vitro treatment. All these treatments resulted in a population containing 
+~30% annexin V+ DAPI+ double-positive cells, as assessed by FACS analysis at 
+24 h. 3 × 106 dying CT26 cells or 5 × 106 dying EL4 cells were injected s.c. into 
+the left flanks of mice. Seven days later, mice were re-challenged in the right 
+flank with 5 × 105 live CT26 or EL4 cells. Tumor growth was then monitored 
+by weekly using calipers.
+
+Chemotherapy and radiotherapy of established tumors in mice. WT or loss-
+of-function mice were injected in the flank with 106 EL4 CT26 or TSA cells. Mice 
+were then randomly assigned into treatment groups of 4–6 mice each. Tumor 
+surface was monitored using calipers. When tumor size reached 40–80 mm2, 
+mice were treated with oxaliplatin (5 mg per kg body weight i.p. for EL4), 
+doxorubicin (2 mg injected intratumorally in 100 μl PBS, for CT26) or local 
+X-ray irradiation (for TSA). For radiotherapy, mice were briefly anesthe-
+tized using isoflurane, placed into plastic containers and locally irradiated 
+(9 Gy, 100 kV). The tumor was shielded by lead sheets, except for the area of 
+the tumor to be irradiated. For Glasgow osteosarcoma (GOS), oxaliplatin 
+(5 mg/kg intraperitoneally, (i.p.)) was administered at day 5 when tumors 
+became palpable56.
+
+Genotyping of TLR4 Asp299Gly, Thr399Ile and related SNPs. DNA was 
+isolated from frozen blood leukocytes from subjects. PCR primers (Applied 
+Biosystems) were used to amplify a 101-bp fragment containing the TLR4 
+Asp299Gly mutation (rs4986790) site. After PCR amplification, the alleles were 
+assigned to each subject, by comparing the signals from the two fluorescent 
+probes, FAM and VIC, and measuring the FAM/VIC ratio for each data 
+point56. Other TLR4 polymorphisms and CD14-260 C/T SNPs were also 
+determined using the same designed PCR primers and conditions.
+
+Note: Supplementary information is available on the Nature Medicine website.
+
+ACKNOWLEDGMENTS
+We thank A. Nougareter for helpful discussions; P. Thiberghien for providing DNA 
+samples for genotyping; E. Foucrat for help in statistical analyses; S. Viaud and 
+C. Chenot for technical assistance; the IGR animal facility for help in breeding 
+transgenic mice; G. Lavau (INSERM, University of South Antipolis, Valbonne, 
+France) for providing BAlb/c TLR2–/– mice; S. Akira (Osaka University, Japan) 
+and B. Ryffel (CNRS Orleans, France) for C57BL/6 Tlr4–/–, Tlr2–/–, Tlr3–/–, 
+Tlr4–/– (ref. 61), Tlr5–/–, Tlr6–/–, Tlr7–/–, Tlr9–/–, Tlr4–/– and Myd88–/– mice; 
+C. Théry (Institut Curie, Paris, France) for providing OVA-transfected TSA/CL4 
+and EL4 cells; E. Tartour (Hôpital Européen Georges Pompidou, Assistance 
+Publique-Hôpitaux de Paris, France) for providing B3Z and B09710 clones and 
+A. Carpentier (Centre Hospitalier Universitaire Pitié Salpêtrière, Paris, France) 
+for providing CpG oligonucleotide 68. This work was supported by special 
+grants from the Ligue contre le Cancer (G.K., L.Z.), Association pour le recherche 
+contre le cancer (G.M.), Institut National contre le Cancer (L.Z., G.K.), Fondation 
+pour la Recherche Médicale (G.K., L.Z., A.T.), Institut National de la Santé et de la 
+Recherche Médicale (G.K.), Association for International Cancer Research (G.K., 
+L.Z.) and European Union (TBC). Alstom for L.Z., RIGHT for G.K.).
+
+AUTHOR CONTRIBUTIONS
+L.A., F.G., A.T., M.G., G.M., M.C.M. and E.U. performed the in vivo and 
+in vitro experiments. C.O. performed in vivo experiments. A.C. performed 
+immunoprecipitations. B.R. provided transgenic mice. F.J.B., H.Y. and E.L. 
+provided essential reagents. R.L., C.N., J.P.M.A., M.C., V.J.C., E.C., S.D. and T.T. 
+recorded and provided the patients’ data. L.A. and P. Saulnier performed patient 
+genotyping. A.T., E.A. and F.G. conducted data analysis. S.A. offered scientific 
+advice and gave technical hints on the direction of the study. L.Z. and G.K. 
+conceived the study and wrote the manuscript. P. Saftig provided the LAMP2–/– 
+mice. J.B. set up the radiotherapy protocols in vivo.
+
+COMPETING INTERESTS STATEMENT
+The authors declare no competing financial interests.
+
+Published online at http://www.nature.com/naturemedicine
+Reprints and permissions information is available online at http://npg.nature.com/
+reprintsandpermissions/
+
+1. Gallucci, S., Lolkema, M. & Matzinger, P. Natural adjuvants: endogenous activators of 
+dendritic cells. Nat. Med. 5, 1249–1255 (1999).
+2. Albert, M.L., Sauter, B. & Bhardwaj, N. Dendritic cells acquire antigen from apoptotic 
+cells and induce class I-restricted CTLs. Nature 392, 86–89 (1998).
+3. Ronchietti, A. et al. Role of antigen-presenting cells in cross-priming of cytotoxic 
+T lymphocytes by apoptotic cells. J. Leukoc. Biol. 66, 491–501 (1999).
+4. Meya, B.F. et al. Differential priming of CD8+ and CD4+ T cells by superantigen-
+specific lymphocytes of HIV patients. AIDS Res. Hum. Retroviruses 10, 1097–1103 (1994).
+5. Winau, F. et al. Apoptotic vesicles crossprime CD8 T cells and protect against 
+tuberculosis. Immunity 24, 105–117 (2006).
+6. Casares, N. et al. Caspase-dependent immunogenicity of doxorubicin-induced tumor 
+death. J. Exp. Med. 202, 1691–1701 (2005).
+7. Obeid, M. et al. Calreticulin exposure dictates immunogenicity of cancer cell death. 
+Blood, the journal of LRP on the package. Cell 123, 321–334 (2005).
+8. Obeid, M. et al. Calreticulin exposure dictates the immunogenicity of cancer cell death. 
+Nat. Med. 13, 54 (2007).
+9. Medzhitov, R. & Janeway, C.A., Jr. Innate immunity: the virtues of a nonclonal system 
+of recognition. Cell 91, 295–298 (1997).
+10. Medzhitov, R. Toll-like receptors and innate immunity. Nat. Rev. Immunol. 1, 135–145 
+(2001).
+11. Jung, S. et al. In vivo depletion of CD11c+ dendritic cells abrogates priming of CD8+ 
+T cells by exogenous cell-associated antigens. Immunity 17, 211–220 (2002).
+12. Beutler, B. & Medzhitov, R. Controlling inflammation: a pharmacological approach and 
+beyond. Nat. Immunol. 7, 1029–1035 (2006).
+13. Jans, W.A. et al. Innate immunity: the virtues of a nonclonal system of recognition. 
+Cell 91, 295–298 (1997).
+14. Beutler, B. et al. Toll-like receptor 4-dependent activation of dendritic cells by beta-
+defensin 2. Science 298, 1025–1029 (2002).
+15. Park, C.S. et al. Inhibition of host resistance to infection by multiple Toll-like 
+receptors. Am. J. Physiol. Cell Physiol. 291, C924–C932 (2006).
+16. Huang, B. et al. Toll-like receptors on tumor cells facilitate evasion of immune 
+surveillance. J. Exp. Med. 203, 1651–1661 (2006).
+17. Tsan, M.F. et al. Nucleic acids of mammalian origin act as endogenous agonists of 
+Toll-like receptors and promote systemic lupus erythematosus. J. Exp. Med. 202, 
+1131–1139 (2005).
+18. Shiroshita, Y., Matoba, I., Takeuchi, A. & Nakanishi, Y. Infectivity of the 
+Toll-like receptor 4 on fusion between phagosomes and endosomes/lysosomes in 
+macrophages. J. Immunol. 172, 2033–2047 (2004).
+19. Delarocque, L., Rumel, R., Mellman, I. & Bousso, P. Chemotherapy-induced changes 
+in setting susceptibility to lysosomal proteolysis. J. Exp. Med. 203, 2049–2055 (2006).
+20. Song, Y. & Matzinger, P. Neutrophilcytes: an alternative class of molecules 
+involved in the innate immune responses. Nat. Rev. Immunol. 4, 469–478 
+(2004).
+21. Jiang, D. et al. Regulation of lung injury and repair by Toll-like receptors in 
+humans. J. Exp. Med. 191, 1179–1195 (2005).
+22. Biran, A. et al. Toll-like receptor 4-dependent activation of dendritic cells by beta-
+defensin 2. Science 298, 1025–1029 (2002).
+23. Park, C.S. et al. Inhibition of host resistance to infection by multiple Toll-like 
+receptors. Am. J. Physiol. Cell Physiol. 291, C924–C932 (2006).
+24. Tsung, A. et al. The nuclear factor HMGB1 mediates hepatic injury after murine liver 
+ischemia-reperfusion. J. Exp. Med. 201, 1135–1143 (2005).
+25. Scaffidi, P., Misteli, T. & Bianchi, M.E. Release of chromatin protein HMGB1 by 
+necrotic cells triggers inflammation. Nature 418, 191–195 (2002).
+26. Wang, H. et al. HMGB1: a late mediator of endotoxin lethality in mice. Science 285, 
+248–251 (1999).
+27. Rovere-Querini, P. et al. HMGB1 is an endogenous immune adjuvant released by 
+necrotic cells. EMBO Rep. 5, 825–830 (2004).
+28. Akirou, N. et al. TLR4 mutation associated with endotoxin hyporesponsiveness 
+in humans. Nat. Genet. 25, 187–191 (2000).
+29. Schaefer, L. et al. Toll-like receptors and atherogenesis. N. Engl. J. Med. 
+347, 185–192 (2002).
+30. Erdige, C., Stewart, J. & Pot, I.R. Monocytes heterozygous for the Asp299Gly and 
+Thr399Ile mutations in the Toll-like receptor 4 gene show no deficit in lipopolysac-
+charide signaling. J. Exp. Med. 197, 1791–1793 (2003).
+31. van der Graaf, C. et al. Functional consequences of the Asp299Gly Toll-like receptor 4 
+polymorphism. Cytokine 30, 264–268 (2005).
+32. Chang, J., Plummer, S., Casey, G. & White, K. TLR4 receptor 4 genetic variation 
+and advanced prostate cancer risk. Cancer Epidemiol. Biomarkers Prev. 16, 352–355 
+(2007).
+
+1058 VOLUME 13 | NUMBER 9 | SEPTEMBER 2007 NATURE MEDICINE
+```

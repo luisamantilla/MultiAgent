@@ -1,0 +1,28 @@
+Downloaded from http://rsif.royalsocietypublishing.org/ on September 20, 2017
+
+6
+
+rsif.royalsocietypublishing.org J. R. Soc. Interface 14: 20170220
+
+![Image](https://example.com/image.png)
+
+low mutational burden | high mutational burden
+---|---
+(a) | (b)
+(c) | (d)
+
+high antigen strength | low antigen strength
+
+Figure 3. (a–d) Three-dimensional distribution of cancer cells and T cells in simulated pretreatment tumours among patients with different tumour neoantigen characteristics at day 30.
+
+low mutational burden | high mutational burden
+---|---
+(a) | (b)
+(c) | (d)
+
+high antigen strength | low antigen strength
+
+T cell: ![Blue dot] effector ![Green dot] cytotoxic ![Red dot] suppressed  
+cancer cell: ![Light brown dot] PDL1− ![Dark brown dot] PDL1+
+
+Figure 4. Individual variation of pretreatment patterns among simulated tumours in patients with different tumour neoantigen characteristics at day 30. A tumour slice from a patient with (a) tumour neoantigens of low mutational burden and high antigen strength; (b) high mutational burden and high antigen strength; (c) low mutational burden and low antigen strength; (d) high mutational burden and low antigen strength.

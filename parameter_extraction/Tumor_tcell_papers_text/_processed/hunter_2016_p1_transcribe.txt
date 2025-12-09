@@ -1,0 +1,94 @@
+```markdown
+frontiers
+
+in Immunology
+
+REVIEW
+published: 21 December 2016
+doi: 10.3389/fimmu.2016.00613
+
+T Cell Trafficking through
+Lymphatic Vessels
+
+Morgan C. Hunter1, Alvaro Teijeira2 and Cornelia Halin1*
+
+1 Institute of Pharmaceutical Sciences, ETH Zurich, Zurich, Switzerland, 2 Immunology and Immunotherapy Department,
+CIMA, Universidad de Navarra, Pamplona, Spain
+
+T cell migration within and between peripheral tissues and secondary lymphoid organs
+is essential for proper functioning of adaptive immunity. While active T cell migration
+within a tissue is fairly slow, blood vessels and lymphatic vessels (LVs) serve as speedy
+highways that enable T cells to travel rapidly over long distances. The molecular and cel-
+lular mechanisms of T cell migration out of blood vessels have been intensively studied
+over the past 30 years. By contrast, less is known about T cell trafficking through the
+lymphatic vasculature. This migratory process occurs in one manner within lymph nodes
+(LNs), where recirculating T cells continuously exit into efferent lymphatics to return to
+the blood circulation. In another manner, T cell trafficking through lymphatics also occurs
+in peripheral tissues, where T cells exit the tissue by means of afferent lymphatics, to
+migrate to draining LNs and back into blood. In this review, we highlight how the anatomy
+of the lymphatic vasculature supports T cell trafficking and review current knowledge
+regarding the molecular and cellular requirements of T cell migration through LVs. Finally,
+we summarize and discuss recent insights regarding the presumed relevance of T cell
+trafficking through afferent lymphatics.
+
+Keywords: T cells, migration, trafficking, afferent, efferent, lymphatic vessels, lymph node
+
+INTRODUCTION
+
+In an antigen-inexperienced host, the frequency of naïve T cells specific for any given antigen
+is extremely low, several thousand at most (1, 2). Given that the diversity of possible antigens
+is almost countless and that T cell activation requires direct contact with antigen, naïve T cells
+constantly circulate through secondary lymphoid organs (SLOs) in pursuit of antigen (1, 2). Upon
+encountering antigen in SLOs, antigen-specific naïve T cells proliferate and become activated
+effector T cells (Teff) that egress from SLOs and enter peripheral tissue at sites of inflammation
+(2, 3). Most Teff die after antigen is cleared but a few antigen-experienced T cells remain for long-
+term protection and either develop into tissue-resident memory T cells (TRM), into central memory
+T cells (TCM) that recirculate between SLOs and blood, or into effector-memory T cells (TEM) that
+circulate through blood and home to inflamed tissue (1, 2). In addition to the abovementioned
+antigen-experienced cell types, regulatory T cells (Treg) also circulate between blood, tissue, and
+SLOs (2–4).
+
+Throughout the life of a T cell, the blood and lymphatic vasculature act as highways for T cell
+circulation. While much is known about T cell migration across and within the blood vasculature,
+much less is known about T cell migration into and within the lymphatic vasculature. Since the
+late 1950s, cannulation studies in sheep and rats have helped develop our current understanding
+of the cell subsets that circulate through lymphatic vessels (LVs). More recent technical advances
+
+OPEN ACCESS
+
+Edited by:
+Sonia Nadeau,
+Weill Cornell Medical College, USA
+
+Reviewed by:
+Theresa T. Lu,
+Weill Cornell Medical College, USA
+Susan Schwab,
+New York University School of
+Medicine, USA
+Jonathan Bromberg,
+University of Maryland, USA
+
+*Correspondence:
+Cornelia Halin
+cornelia.halin@pharma.ethz.ch
+
+Specialty section:
+This article was submitted to
+Inflammation,
+a section of the journal
+Frontiers in Immunology
+
+Received: 12 October 2016
+Accepted: 05 December 2016
+Published: 21 December 2016
+
+Citation:
+Hunter MC, Teijeira A and Halin C
+(2016) T Cell Trafficking through
+Lymphatic Vessels.
+Front. Immunol. 7:613.
+doi: 10.3389/fimmu.2016.00613
+
+Frontiers in Immunology | www.frontiersin.org 1 December 2016 | Volume 7 | Article 613
+```

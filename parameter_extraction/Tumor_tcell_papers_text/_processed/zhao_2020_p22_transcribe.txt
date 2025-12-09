@@ -1,0 +1,57 @@
+```plaintext
+PLOS PATHOGENS
+
+normality test. Homogeneity of variance was tested with Bartlett’s test. When data were nor-
+mally distributed and group variances were equal, an ANOVA with Tukey’s Multiple Compar-
+ison Test was performed. When data were normally distributed but group variances were
+unequal, a Student’s t test with Welch’s correction was performed. If data were not normally
+distributed a Wilcoxon signed rank test or a Mann–Whitney U test was performed. P values
+equal or lower than 0.05 were considered statistically significant with the numbers of stars in
+the figures indicating the p value: * = P ≤ 0.05, ** = P ≤ 0.01, and *** = P ≤ 0.001.
+
+Supporting information
+
+S1 Fig. Exhaustion related features are retained after 3 days resting. Cells were harvested on
+day 5, peptide was washed away and the cells were rested for 3 days without peptide. On day 8,
+cytokine production after restimulation is shown (A). The expression of inhibitory receptors
+(B) and transcription factors (C and D) are also shown on day 8. Each symbol represents one
+animal. Line depicts mean ± SE.
+(TIF)
+
+S2 Fig. Repeat-peptide stimulated cells maintain inhibitory receptor and transcription fac-
+tor differences after 6 hours of restimulation. After extra 6 hours of stimulation with OVA
+peptide (10μg/ml) on day 5, the percentage and MFI of inhibitory receptors (A) and the MFI
+of TCF1 (B) and TOX (C) are depicted. Representative FACS plots (D) and pooled data (E) of
+the frequency of PD-1 and T-bet co-expression on day 5 shown. Line depicts mean ± SE. Each
+symbol represents one animal. Data from 5–6 experiments.
+(TIF)
+
+S3 Fig. Repeat peptide stimulated cells expanded less in mediastinal lymph nodes and
+spleens in vivo. OT-I CD8+ T cells were cultured without peptide stimulation (no peptide),
+one-time stimulation (single peptide) or daily stimulation (repeat peptide) and sorted on day
+5. Live CD8+ T cells were adoptively transferred into wild type mice which were then infected
+with the OVA(257–264)-expressing influenza virus WSN-OVA. Freshly isolated OT-I CD8+ T
+cells from a naïve mouse were also transferred (naïve OT-I). The mediastinal lymph nodes (MLN)
+and spleens were harvested on day 10 post infection. Frequency of donor OT-I CD8+ T cells
+within spleen (A) and MLN (C) in total CD8+ T cells and the absolute number of donor cells
+in spleen (B) and MLN (D) are presented. Each symbol represents one animal (n = 8–9) from
+n = 3 independent experiments. Line depicts mean ± SE. To determine significant differences
+between the different animal groups, Mann-Whitney U test was used except for data in (A)
+(ANOVA with Tukey’s post hoc test). *P<0.05, ** P<0.01, ***P<0.001, ****P<0.0001.
+(TIF)
+
+S4 Fig. DNMT inhibitor decreases expression of inhibitor receptors on the repeat peptide
+stimulated cells. Pooled data showing day 5 inhibitor receptor MFI on repeat stimulated cells
+in the presence or absence of 20μM DNMT inhibitor. Inhibitor was added during the last 3
+days of culture. Data are from n = 6 animals, performed in 3 independent experiments. Line
+depicts mean ± SE. To determine significant differences between the different treatment,
+paired t-test was used *P<0.05, ** P<0.01, ***P<0.001.
+(TIF)
+
+S5 Fig. Exposure to IL-2 does not alter the exhaustion phenotypes in repeat peptide stimu-
+lated cells and CD80 is upregulated on repeat stimulated cells. CD8+ T cell exhaustion was
+induced in the presence of IL-2 (20U/ml) and IL-7/IL-15 (5ng/ml each). Cytokine production
+after OVA peptide restimulation for 6 hours (A) and inhibitory receptor expression on day 5
+
+PLOS Pathogens | https://doi.org/10.1371/journal.ppat.1008555 June 24, 2020 22 / 27
+```

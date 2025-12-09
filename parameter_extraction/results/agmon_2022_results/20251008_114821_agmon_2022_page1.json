@@ -1,0 +1,7 @@
+{
+  "tables": [],
+  "figures": [],
+  "text": [],
+  "equations": [],
+  "summary": "The page introduces Vivarium, a software designed to facilitate integrative multiscale modeling in computational biology. It aims to simplify the process for computational biologists to create and simulate complex biological models. Vivarium supports various modeling frameworks and can run simulations across multiple CPUs. The software is available on GitHub, and supplementary materials are provided for further exploration."
+}

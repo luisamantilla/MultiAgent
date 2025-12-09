@@ -1,0 +1,52 @@
+Their behavior is determined by the surrounding cells, by intracellular regulatory networks described by ordinary differential equations and by various substances in the extracellular matrix whose concentrations are described by partial differential equations. This approach was used to model hematopoiesis and blood diseases [11–17].
+
+Cells and concentrations. Cells in the lymph node:
+
+1. \( n_{\text{APC}}(x, t) \) - the density of APCs in T cell zone;
+2. \( n_{\text{CD4}}(x, t) \) - the density of CD4\(^+\) T cells in T cell zone (with different levels of maturity);
+3. \( n_{\text{CD8}}(x, t) \) - the density of CD8\(^+\) T cells in T cell zone (with different levels of maturity);
+
+Extracellular variables:
+
+4. \( I_2(x, t) \) - the concentration of IL-2 in T cell zone;
+5. \( C(x, t) \) - the concentration of type I IFN in T cell zone;
+
+Intracellular variables:
+
+6. \( I(t) \) - the intracellular concentration of IL-2-induced signalling molecules in the cell;
+7. \( C(i) \) - the intracellular concentration of type I IFN-induced signalling molecules in the ith cell;
+
+We state variables at the level of the whole organism:
+
+8. \( N_{\text{T}}(t) \) - the total number of effector CD8\(^+\)T cells in the body;
+9. \( N_{\text{inf}}(t) \) - the total number of infected cells in the body;
+
+Cell displacement. In the model, cells are represented by individual elastic spheres. There are two mechanisms of motion of cells in the lymph node. First of all they move in a random way. This motion allows naive T cells to meet APCs which is necessary for their activation, division and differentiation. Second, each two cells, when they meet, they push each other due to a direct mechanical interaction. We consider this interaction as an elastic force acting on cells and influencing their motion. Let us describe it in more detail.
+
+The cells divide and can increase their number which involves pushing each other leading to their displacement in the lymph node. We describe cells displacement by the following model. Let us denote the center of two cells by \( x_1 \) and \( x_2 \) and their radii by \( r_1 \) and \( r_2 \) respectively. Then, if the distance \( h_{12} \) between the two cells is less than the sum of their radii (\( r_1 + r_2 \)), there will be a repulsive force \( f_{12} \) between them. This force should depend on the difference between (\( r_1 + r_2 \)) and \( h_{12} \). Let us consider the case of one cell interacting with different cells in the lymph node. The total force applied to this cell will be \( F_i = \sum_{j \neq i} f_{ij} \). We describe the motion of the particles as the motion of their centers which can be found by the applying Newton’s second law:
+
+\[
+m\ddot{x}_i + \mu\dot{x}_i - \sum_{j \neq i} f_{ij} = 0,
+\]
+
+where \( m \) is the mass of the particle, \( \mu \) is the friction factor due to contact with the surrounding medium. The potential force between two cells is given explicitly by:
+
+\[
+f_{ij} = 
+\begin{cases} 
+K \frac{h_0 - h_{ij}}{h_{ij}(h_0 - h_1)}, & h_0 - h_1 < h_{ij} < h_0 \\ 
+0, & h_{ij} \geq h_0 
+\end{cases},
+\]
+
+where \( h_{ij} \) is the distance between the centers of the two cells i and j, \( h_0 \) is the sum of their radii, \( K \) is a positive parameter and \( h_1 \) is the sum of the incompressible part of each cell. The force between the particles tends to infinity if \( h_{ij} \) decreases to \( h_0 - h_1 \).
+
+Cell division and differentiation. APC and naive T cells enter the computational domain with a given frequency if there is available space. Naive T cells move in the computational domain randomly. If they contact APC, they divide asymmetrically (Fig. 3). The distant daughter cell is similar to the mother cell, the proximal daughter cell will enter cell phases of the cell life cycle, it will increase its size. When it divides, two daughter cells appear, the direction of the axis connecting their centers is chosen randomly from 0 to \( 2\pi \). The duration of the cell cycle is 18 hours with a random perturbation of \( -3 \) to 3 hours.
+
+We consider two levels of maturity of CD4\(^+\) T cells and three levels of CD8\(^+\) T cells. If a differentiated cell has enough IL-2 (see the next paragraph), then it divides and gives two more mature cells. Finally differentiated cells leave the lymph node. In the simulations, this means that they are removed from the computational domain.
+
+Intracellular regulation. The survival and differentiation of activated CD4\(^+\) and CD8\(^+\) T lymphocytes depends on the amount of signalling via the IL-2 receptor and the type I IFN receptor. It is controlled primarily by the concentration of the above cytokines in the close proximity of the respective receptors. The signalling events lead to the up-regulation of the genes responsible for cell proliferation, differentiation and death. One can use similar type of equation to model qualitatively the accumulation of the respective intracellular signalling molecules linked to IL-2- and type I IFN receptors. The IL-2 dependent regulatory signal dynamics in individual cells can be described by the following equation:
+
+\[
+\frac{dI}{dt} = \frac{\alpha_1}{hT} I_c(x_i, t) - aI_i.
+\]

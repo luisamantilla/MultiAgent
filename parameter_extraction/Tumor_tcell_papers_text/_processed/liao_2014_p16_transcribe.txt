@@ -1,0 +1,66 @@
+```plaintext
+27. Tanaka T, Wilke CM, Kryczek I, Chen GY, Kao J, et al. (2012) Interleukin-
+    10 ablation promotes tumor development, growth and metastasis. Cancer Res
+    72: 420–429.
+28. Fujis S, Shimizu K, Shimizu T, Lotze MT (2001) Interleukin-10 promotes the
+    maintenance of antitumor CD8(+) T cell effector function in situ. Blood 98: 2143–
+    2151.
+29. Bunt AM, Kijvan NIM, LJI, Walker MJ, Savage FJ, et al. (2003) Cutting edge:
+    IL-7 is an in vivo driver of B-1 but not B-2 progenitor cells. J Immunol 168:
+    2375–2380.
+30. Liu Z, Liu JQ, Talebian F, Wu LC, Li S, et al. (2013) IL-27 enhances the survival
+    of tumor antigen specific effector CD8+ T cells and programs them into IL-10-producing,
+    memory precursor-like effector cells. European Journal of Immunology 43: 468–
+    479.
+31. Byrne HM, Friedman A (2008) Models of cellular regulation. Oxford graduate
+    texts, Ed.
+32. Bresch D, Colin T, Grenier E, Ribba B, Saut O (2010) Computation modeling
+    of solid tumor growth: the avascular stage. SIAM Multiscale Modeling 32:
+    2321–2344.
+33. Byrne HM, Chaplain MAJ (1995) Growth of non-necrotic tumours in the
+    presence and absence of inhibitors. Math Biosci 72: 105–181.
+34. Chaplain MAJ, Dallon NP (2013) Mathematical modelling of cancer invasion:
+    The role of membrane-bound matrix metalloproteinases. Frontiers in Oncology
+    3: 1–14.
+35. Chaplain MAJ, Lolas G (2006) Mathematical modelling of cancer invasion of
+    tissue: dynamic heterogeneity. Networks and Heterogeneous Media 1: 399–439.
+36. McGillen JB, Gaffney EA, Martin NK, Maini PK (2013) A general reaction-
+    diffusion model of acidity in cancer invasion. J Math Biol.
+37. Stoma S, Eubank TD, Roberts RD, Marsh CB, Friedman A (2010)
+    Modelling the inhibition of breast cancer growth by c-myc. J Theor Biol 303:
+    141–151.
+38. Szymanska Z, Rodrigo CM, Lachowicz M, Chaplain MAJ (2009) Mathematical
+    modelling of cancer invasion of tissue: the role of cell-cell adhesion and of chemical
+    interactions. Math Models Methods Appl Sci 19: 257–281.
+39. Melichar S, Marinho FM, Young HA (2005) Interleukin-10 and the immune
+    response against cancer: a counterpoint. J Leukoc Biol 78: 1043–1051.
+40. Hoek JD, Gill J, Schreiber RD (2007) Type I interferons in antigen protection
+    against tumor development and cancer immunoediting. Cytokine & Growth
+    Factor Reviews 18: 359–369.
+41. Roth AD, Horvitz HR, Gertner GG, Kirkwood JM (1991) Effects of interferon-
+    gamma and tumor necrosis factor-alpha on the development of cytotoxic T
+    lymphocytes in autologous mixed lymphocyte tumor cultures with human
+    melanomas. Clin Exp Immunol 86: 175–172.
+42. Romanos MA, Scorz CA, Clare JJ (1992) Foreign gene expression in yeast: a
+    Review. Yeast 8: 423–488.
+43. Mariani S, Hoque HB, Ray CJ, Kirschner DE (2008) A methodology for
+    performing global uncertainty and sensitivity analysis in systems biology.
+    J Theor Biol 258: 119–136.
+44. Xu M, Mizoguchi I, Morishima N, Chiba Y, Mizuguchi J, et al. (2010)
+    Regulation of antitumor immune responses by the IL-12 family cytokines, IL-12,
+    -23, and -27. Clin Dev Immunol.
+45. Hunter M, Schwald V, Gunrich A, Braetke J, Pathan A, et al. (2008) IL-27
+    inhibits the dual expression of regulatory T cells via Stat1. International
+    Immunology 20: 223–234.
+46. Wojno ED, Hunter N, Stauffer JS, O'Hara C, MacLachlan E, et al. (2011) A
+    role for IL-27 in human regulatory T cell homeostasis and function. J Immunol.
+47. Lemke C, Arleham HT (2002) Novel treatments for metastatic cutaneous
+    angiosarcoma: case management of emergent toxicities. Clinical medicine
+    insights: oncology 6: 63–68.
+48. Liu KL, Bai XY, Friedman A (2013) The role of cd200-cd200r in tumor
+    immune evasion. J Theor Biol 328: 65–76.
+49. D'Angelo JA, Schlesinger LS (2008) Modeling the immune exhaust of
+    macrophages in the lung in response to infection. PNAS 106: 11246–11251.
+
+PLOS ONE | www.plosone.org 16 March 2014 | Volume 9 | Issue 3 | e91844
+```

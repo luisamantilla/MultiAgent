@@ -1,0 +1,78 @@
+```plaintext
+21
+
+of these cells. Cultures were prepared in medium alone 
+and medium containing various exogenous growth fac- 
+tors (IL1β, IL3, IL6, IL8, GM-CSF, G-CSF, TNFα) and 
+proliferation assayed by 3H-thymidine incorporation. 
+Exogenous IFNγ did not alter the proliferation of 
+endothelial cells, but IFNγ in combination with G-CSF, 
+IL6 or IL8 increased the proliferation of these cells. 
+Exogenous IFNγ caused a weak inhibition of Cal72 
+osteoblast proliferation and decreased HFL1 fibroblast 
+proliferation by at least 70% both for cultures with and 
+without exogenous cytokines.
+
+Effects of IFNγ on cytokine-dependent proliferation 
+by native human ALL blasts
+
+Acute lymphoblastic leukaemia blasts derived from 12 
+consecutive patients were cultured in medium alone and 
+in medium with various exogenous cytokines (IL4, IL10, 
+IL13, SCF, GM-CSF, FLt3L) [38]. ALL cells did not 
+proliferate in medium alone and for three patients 
+detectable proliferation was not observed with any 
+exogenous cytokine. FLt3L was the only cytokine that 
+induced detectable proliferation for all the other nine 
+patients, and IFNγ caused a strong inhibition of this 
+
+proliferation for five patients (Table 2). Detectable 
+proliferation was only observed for a minority of pa- 
+tients with the other cytokines, and either unaltered or 
+decreased proliferation was then observed with IFNγ 
+(data not shown).
+
+Discussion
+
+IFNγ is a cytokine released by most CD4+ and CD8+ T 
+cell clones, and this is true for healthy individuals, acute 
+leukaemia patients with chemotherapy-induced cytopae- 
+nia and bone marrow transplant recipients [6, 7]. IFNγ is 
+released by T cells activated in vitro in the presence of 
+native human AML cells [31, 39]. Taken together these 
+experimental observations strongly suggest that local 
+IFNγ release will be a part of antileukaemic T cell 
+
+Fig. 7 Effect of IFNγ on in vitro proliferation of AML cells 
+incubated in transwell culture together with either microvascular 
+endothelial cells (EC), HFL1 fibroblasts (FB), Cal72 osteoblastic 
+sarcoma cells (OB) or normal bone marrow stromal cells (BMSC). 
+The figure compares leukaemia cell proliferation for cultures with 
+(+) and without (−) IFNγ 50 ng/ml. Only those samples showing 
+detectable proliferation (i.e. > 1,000 cpm) for at least one of the 
+in vitro models (+/−) are presented
+
+Fig. 8 The effect of IFNγ on in vitro proliferation of nonleukaemic 
+cells cocultured with AML blasts in transwell cultures. Microvas- 
+cular endothelial cells (EC), HFL1 fibroblasts (FB) or Cal72 
+osteoblastic sarcoma cells (OB) were cultured together with AML 
+blasts in the presence (+) or absence (−) of IFNγ 50 ng/ml. Only 
+those patient samples showing detectable proliferation (i.e. 
+> 1,000 cpm) for at least one of the in vitro culture models (+/ 
+−) are presented
+
+EC          FB          OB          BMSC
+105
+3H-thymidine incorporation (cpm)
+103
+− +        − +        − +        − +
+IFNγ       IFNγ       IFNγ       IFNγ
+
+EC          FB          OB
+105
+3H-thymidine incorporation (cpm)
+104
+103
+− +        − +        − +
+IFNγ       IFNγ       IFNγ
+```

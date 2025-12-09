@@ -1,0 +1,181 @@
+# ==========================================================
+# merge_updated.py — merges new parameter files & moves processed sources
+# (Final cleaned version)
+# ==========================================================
+from pathlib import Path
+import json
+import shutil
+
+# === CONFIGURATION ===
+BASE_DIR = Path(__file__).resolve().parent  # directory containing this script
+INPUT_DIR = BASE_DIR / "Tumor_tcell_papers_text"      # where original text/json files live
+RESULTS_DIR = BASE_DIR / "results"                    # where extracted jsons are saved
+MERGED_FILE = RESULTS_DIR / "merged_parameters.json"  # merged output
+DONE_DIR = INPUT_DIR / "_processed"                   # moved processed source files
+DONE_DIR.mkdir(exist_ok=True)
+
+# --- Safety toggle ---
+dry_run = False   # 🔸 Set to False once you've confirmed behavior
+
+# ==========================================================
+# Load existing merged dataset if it exists
+# ==========================================================
+if MERGED_FILE.exists():
+    with open(MERGED_FILE, "r", encoding="utf-8") as f:
+        merged_data = json.load(f)
+else:
+    merged_data = {"parameters": {}, "summaries": []}
+
+# ==========================================================
+# Collect and iterate through all result JSONs
+# ==========================================================
+all_jsons = sorted(RESULTS_DIR.rglob("*.json"))
+print(f"🔍 Found {len(all_jsons)} files to check for new parameters")
+
+new_added = 0
+new_summaries = 0
+processed_stems = set()
+
+for file in all_jsons:
+    if file.name == "merged_parameters.json":
+        continue
+
+    with open(file, "r", encoding="utf-8") as f:
+        try:
+            page_data = json.load(f)
+        except json.JSONDecodeError:
+            print(f"⚠️ Skipping unreadable JSON: {file.name}")
+            continue
+
+    added_any = False
+
+    # ======================================================
+    # Merge parameters
+    # ======================================================
+    for section in ["tables", "figures", "text", "equations"]:
+        for param in page_data.get(section, []):
+            if not isinstance(param, dict):
+                continue
+
+            name = param.get("parameter")
+            if not name:
+                continue
+
+            # --- metadata for this appearance ---
+            new_entry = {
+                "value": param.get("value"),
+                "units": param.get("units"),
+                "context": param.get("context"),
+                "source": file.name,
+                "section": section
+            }
+
+            # --- Case 1: parameter is new ---
+            if name not in merged_data["parameters"]:
+                merged_data["parameters"][name] = {
+                    "value": new_entry["value"],
+                    "units": new_entry["units"],
+                    "context": new_entry["context"],
+                    "source": new_entry["source"],
+                    "section": new_entry["section"],
+                    "instances": [new_entry]
+                }
+                new_added += 1
+                added_any = True
+
+            # --- Case 2: parameter already exists ---
+            else:
+                existing = merged_data["parameters"][name]
+
+                # If old format (no "instances"), upgrade it
+                if "instances" not in existing:
+                    base = existing.copy()
+                    merged_data["parameters"][name] = {
+                        "value": base.get("value"),
+                        "units": base.get("units"),
+                        "context": base.get("context"),
+                        "source": base.get("source"),
+                        "section": base.get("section"),
+                        "instances": [base]
+                    }
+                    existing = merged_data["parameters"][name]
+
+                # Append new occurrence
+                existing["instances"].append(new_entry)
+                added_any = True
+
+    # ======================================================
+    # (Optional) Merge summaries — currently disabled
+    # ======================================================
+    # Keeping this block disabled since we’re removing summaries later
+    # if "summary" in page_data:
+    #     merged_data["summaries"].append({"page": file.name, "summary": page_data["summary"]})
+    #     new_summaries += 1
+    #     added_any = True
+    # elif "text_output" in page_data:
+    #     merged_data["summaries"].append({"page": file.name, "summary": page_data["text_output"]})
+    #     new_summaries += 1
+    #     added_any = True
+
+    # ======================================================
+    # Track processed stems for file movement
+    # ======================================================
+    if added_any:
+        processed_stems.add(file.stem.replace("_extracted", ""))
+
+# ==========================================================
+# 🔧 Cleanup Step: Deduplicate identical parameter instances
+# ==========================================================
+for name, param_data in merged_data["parameters"].items():
+    if "instances" not in param_data:
+        continue
+    unique_instances = []
+    seen = set()
+    for inst in param_data["instances"]:
+        key = tuple(str(inst.get(k)) for k in ["value", "units", "context", "source", "section"])
+        if key not in seen:
+            seen.add(key)
+            unique_instances.append(inst)
+    param_data["instances"] = unique_instances
+
+# ==========================================================
+# 🧽 Cleanup Step: Remove redundant top-level fields
+# ==========================================================
+for name, param_data in merged_data["parameters"].items():
+    if "instances" in param_data:
+        merged_data["parameters"][name] = {"instances": param_data["instances"]}
+
+# ==========================================================
+# 🧹 Remove summaries section entirely
+# ==========================================================
+if "summaries" in merged_data:
+    del merged_data["summaries"]
+
+# ==========================================================
+# Save updated merged database
+# ==========================================================
+with open(MERGED_FILE, "w", encoding="utf-8") as f:
+    json.dump(merged_data, f, indent=2, ensure_ascii=False)
+
+# ==========================================================
+# Move or delete processed source text/JSON files
+# ==========================================================
+if processed_stems:
+    print(f"\n🧹 Processing {len(processed_stems)} source file groups...")
+else:
+    print("\nℹ️ No new processed files to move or delete.")
+
+for stem in processed_stems:
+    possible_sources = list(INPUT_DIR.glob(f"{stem}.*"))
+    for src in possible_sources:
+        if src.suffix.lower() in [".txt", ".json"] and src.exists():
+            if dry_run:
+                print(f"🔸 [DRY RUN] Would move: {src.name}")
+            else:
+                dest = DONE_DIR / src.name
+                shutil.move(src, dest)
+                print(f"✅ Moved processed source: {src.name} → _processed/")
+
+print("\n🟢 Merge complete.")
+if dry_run:
+    print("⚠️ DRY RUN MODE: No files were moved. Set dry_run=False when ready.")

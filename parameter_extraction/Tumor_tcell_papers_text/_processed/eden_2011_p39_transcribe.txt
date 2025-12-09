@@ -1,0 +1,24 @@
+Figure S8.
+
+\[
+\begin{array}{c|c}
+\text{Legend} & \\
+\hline
+\text{Black line} & k = 1.0 \\
+\text{Blue line} & k = 0.5 \\
+\text{Cyan line} & k = 0.2 \\
+\text{Magenta line} & k = 0.1 \\
+\end{array}
+\]
+
+\[
+\begin{array}{c|c}
+\text{Y-axis} & >50, 50, 40, 30, 20, 10, 0 \\
+\hline
+\text{X-axis} & 0, 10, 20, 30, 40, 50, >50 \\
+\end{array}
+\]
+
+\[
+T_{cc}
+\]

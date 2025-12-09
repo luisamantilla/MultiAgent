@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and values from the text:\n\n1. Time intervals:\n   - 0 hours\n   - 5 hours\n   - 10 hours\n   - 15 hours\n\n2. Bleaching durations:\n   - No bleaching\n   - 2 min bleaching\n   - 4 min bleaching\n\n3. Measurement units:\n   - Protein fluorescence (F.U.)\n   - log(P(t) - P(0)) (F.U.)"
+}

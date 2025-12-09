@@ -1,0 +1,22 @@
+from pathlib import Path
+import json
+
+results_dir = Path("parameter_extraction/results")
+merged_file = results_dir / "merged_parameters.json"
+
+# Load merged data
+with open(merged_file) as f:
+    merged = json.load(f)
+
+# 1. Find the last source processed
+sources = [v["source"] for v in merged["parameters"].values()]
+latest = max(sources, key=lambda s: s)  # chronological
+print("🧩 Last processed result file:", latest)
+
+# 2. List unprocessed .txt files
+input_dir = Path("parameter_extraction/Tumor_tcell_papers_text")
+processed_stems = {Path(src).stem.split("_page")[0] for src in sources}
+unprocessed = [f for f in input_dir.glob("*.txt") if f.stem not in processed_stems]
+print(f"📁 {len(unprocessed)} unprocessed text files remain.")
+for f in unprocessed[:5]:
+    print(" -", f.name)

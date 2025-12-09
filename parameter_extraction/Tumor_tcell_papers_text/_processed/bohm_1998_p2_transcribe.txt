@@ -1,0 +1,110 @@
+```
+T Cell-Mediated, IFN-γ-Facilitated Rejection of Murine B16
+Melanomas1
+
+Waltraud Böhm,* Stefan Thoma,* Frank Leithäuser,‡ Peter Möller,* Reinhold Schirmbeck,*
+and Jörg Reimann2*
+
+The murine melanoma cell line B16.F10 (H-2b) was used to study specific T cell responses that reject tumors. Stable B16 trans-
+fectants were established that express viral Ags, either the hepatitis B surface Ag (HBsAg) or the large tumor Ag (T-Ag) of SV40.
+B16 cells and their transfected sublines were CD40+CD44+ but expressed no or low levels of the myeloid molecules CD154
+(CD40L), CD48, CD54, CD80, and CD86. Surface expression of MHC class I (K b, D b) and class II (I-A b) molecules by B16 cells
+was low, but strikingly up-regulated by IFN-γ. CD95 (Fas) and CD95 ligand (CD95L (FasL)) were “spontaneously” expressed by
+B16 cells growing in vitro in serum-free medium; these markers were strikingly up-regulated by IFN-γ. B16 cells coexpressing
+CD95 and CD95L were irreversibly programmed for apoptosis. In vitro, noninduced B16 transfectants stimulated a specific IFN-γ
+release response, but no cytolytic response (in a 4-h assay) in MHC class I-restricted CTL; in contrast, IFN-γ-induced B16 targets
+were efficiently and specifically lysed by CTL. In vivo, B16 transfectants were specifically rejected by DNA-vaccinated syngeneic
+hosts through a T-dependent immune effector mechanism. The tumors showed evidence of massive apoptosis in vivo during the
+rejection process. The data suggest that CTL-derived IFN-γ enhances an intrinsic suicide mechanism of these tumor cells in
+addition to facilitating lytic interactions of effectors with tumor targets. The Journal of Immunology, 1998, 161: 897–908.
+
+T ransplantable murine melanomas are well-established
+models for the study of experimental cancer therapies.
+Melanomas express different tumor-associated Ags,
+which are potential targets for novel designs of therapeutic cancer
+vaccines. Melanoma-associated Ags include the tyrosinase and
+tyrosine-related protein (TRP)-1/2 (1–3) or the MAGE and GAGE
+Ags in humans (4–9). Many immunotherapeutic approaches have
+tested using the murine B16 melanoma cell line (and its sublines)
+that originated in the C57BL/6 (H-2b) mouse strain. B16 mela-
+noma cells express some of these melanoma-associated Ags, and
+their growth can be controlled in vivo by different classes of spe-
+cific or nonspecific immune effector cells.
+
+Some tumor cells express the CD95 receptor for the TNF-like
+CD95 ligand (CD95L).3 These tumors can potentially be erad-
+icated by CD95L produced locally by tumor-infiltrating lympho-
+myeloid cells (10). Cells from primary or metastatic lesions of
+some tumors, and from some in vitro established tumor cell lines,
+express the CD95L; this was shown for colon adenocarcinomas
+(11), hepatocellular carcinomas (12, 13), leukemias (14), and mela-
+nomas (15). These CD95L-expressing tumor cells can escape im-
+mune surveillance by inducing apoptosis of CD95+ immune ef-
+fector cells (16, 17). Coexpression of CD95 and CD95L by normal
+
+Institutes of *Medical Microbiology and †Pathology, University of Ulm, Ulm, Ger-
+many
+
+Received for publication August 22, 1997. Accepted for publication March 23, 1998.
+
+The costs of publication of this article were defrayed in part by the payment of page
+charges. This article must therefore be hereby marked advertisement in accordance
+with 18 U.S.C. Section 1734 solely to indicate this fact.
+
+1 This study was supported by a grant from the Wilhelm-Sander-Stiftung, to J.R.
+2 Address correspondence and reprint requests to Dr. Jörg Reimann, Department of
+Medical Microbiology and Immunology, University of Ulm, Albert-Einstein-Allee
+11, D-89081 Ulm, Germany. E-mail address: joerg.reimann@medizin.uni-ulm.de
+
+3 Abbreviations used in this paper: L ligand (e.g., CD95L, CD40L, FasL); MHC, mi-
+MHC class I/II; T-Ag, tumor Ag of SV40; HBsAg, hepatitis B surface Ag;
+FCM, flow cytometry; CTL, CTL line; PE, phycoerythrin; TUNEL, terminal deoxy-
+nucleotidyl transferase TUNEL TdT-mediated dUTP-biotin nick end labeling; 7-AAD,
+7-amino-actinomycin D.
+
+and tumor cells has been found. Cells of some activated lympho-
+cyte subsets coexpress CD95 and CD95L. These cells undergo
+apoptosis (or “activation-induced cell death”), and this mechanism
+seems to represent one form of a physiologic down-regulation of
+immune responses (18–20). Although CD95 is abundantly ex-
+pressed by hepatocytes, CD95L+ hepatocellular carcinomas (12)
+and colon adenocarcinomas (13) escape apoptosis (13). Colon
+adenocarcinoma cells or leukemia and lymphoma cells coex-
+press CD95 and CD95L but acquire resistance to CD95-induced
+apoptosis (11, 14).
+
+Although expression of MHC-I/II and costimulator molecules
+on the surface of noninduced B16 tumor cells is low or absent,
+primed CTL can play a role in rejecting this tumor. In vitro, pre-
+sentation of antigenic peptides in the context of MHC-I glycopro-
+teins by B16.F10 cells to CD8+ CTL lines (CTLL) triggers IFN-γ
+(IFN-γ) release but not specific lysis of the tumor cells by CTL.
+IFN-γ enhances MHC expression by B16.F10 cells and thereby
+renders them susceptible to CTL-mediated specific lysis. In addi-
+tion, we describe the cytokine-amplified apoptosis of murine
+B16.F10 melanoma cells. By enhancing expression of CD95 and
+CD95L by a subset of B16 cells, CTL-derived IFN-γ irreversibly
+commits this tumor cell subset to apoptosis. In vivo, T cells effi-
+ciently reject B16.F10 tumor cells. This suggests that IFN-γ-de-
+pendent apoptosis of CD95L+/CD95+ tumor cells can play a role
+in tumor rejection in vivo.
+
+Materials and Methods
+
+Mice
+
+C57BL/6J mice (H-2b) were bred and kept under specific pathogen-free
+conditions in the animal colony of the University of Ulm. Breeding pairs
+of these mice were obtained from Bomholtgard (Ry, Denmark). Male and
+female mice were used at 12 to 16 wk of age.
+
+Cell lines
+
+The Rascher virus-transformed T lymphoma line, RBL5, is derived from
+a C57BL/6J (H-2b) mouse. The RBL5/S and RBL5/T transfectants (ex-
+pressing the hepatitis B surface Ag (HBsAg) or the SV40 large tumor Ag
+(T-Ag)) have been described (21–23). The H-2b melanoma cell lines
+
+Copyright © 1998 by The American Association of Immunologists
+0022-1767/98/$02.00
+```

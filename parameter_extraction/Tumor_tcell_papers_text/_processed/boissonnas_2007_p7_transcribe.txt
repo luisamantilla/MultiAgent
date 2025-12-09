@@ -1,0 +1,65 @@
+```plaintext
+ARTICLE
+
+A
+
+No Contact
+
+Contact
+
+B
+
+ns
+
+Velocity (μm min^-1)
+
+No Contact
+
+Contact
+
+C
+
+No Contact
+
+Contact
+
+D
+
+Elongation Index
+
+0
+
+300
+
+600
+
+900
+
+Time (s)
+
+Elongation Index
+
+0
+
+300
+
+600
+
+900
+
+Time (s)
+
+***
+
+Figure 5. Distinct migratory patterns of T cells within tumors.
+(A) TPLSM images of OT1-GFP cells (green) within an EG7 tumor during the late phase of tumor rejection (day 5). Vessels (red) are labeled by 70 kD rhodamine-dextran. Several representative migration tracks of OT1-GFP cells are shown for cells either in close contact or not with blood vessels (green); individual tracks are plotted after normalization of their initial positions (bottom). Bar, 120 μm. (B) Scatter plot of the mean velocities of OT1 cells either in contact or not with blood vessels. ns, not significant. (C) Representative cell shapes of cells in close contact (right) or not (left) with the blood vessels (45 x 45 μm). Cells at distance or in close contact with blood vessels were tracked (mean = 10 min in both conditions), and the means of their elongation index during their migratory path were plotted (bottom). ***, P < 0.001. Bar, 28 μm. (D) Top graph shows the elongation index along time of representative cells migrating at distance (black) or in close contact (red) with blood vessels. Straight lines indicate the mean value of the elongation index for cells in close contact (1.9, red) or at distance (1.6, black) from blood vessels. Bottom graph shows the elongation index along time of a representative cell that migrates first within the tumor matrix (black) and thereafter in close contact with a blood vessel (red). Straight line indicates the mean value of its elongation index (1.9, black).
+
+We conclude that single CTLs can migrate along blood vessels using high or low elongation indexes. Elongations indexes higher than 2 lasting for several min were only observed in cells migrating along blood vessels and not in cells migrating at distance of blood vessels. In the latter, the elongation index was very variable and eventually increased over 2 for short periods of time, reflecting a higher deformability of the cells, most likely a result of constraints imposed by the extracellular matrix encountered during the crawling.
+
+Deep infiltration in antigen-expressing tumors
+Because two-photon imaging is technically restricted to peripheral area of the tumors, we next sought to analyze the topography of CTL infiltration deeper into the tumor and to analyze the role of antigen recognition in this process. To do so, we had to quantify infiltration by CTLs in regions of the tumor beyond the penetration limit of the two-photon microscope. We therefore made ordered sequential frozen sections of either EG7 or EL4 tumors at different time points after adoptive transfer of GFP-OT1 cells (Fig. S5). The number
+
+JEM VOL. 204, February 19, 2007
+
+351
+```

@@ -1,0 +1,36 @@
+vector was then introduced as a single copy into the genome of the 
+L. monocytogenes strain 10403S via conjugation. Following selection by 
+chloramphenicol, successful transconjugants were confirmed by PCR and 
+passaged through B6 mice to ensure virulence.
+
+For recombinant L. monocytogenes–ESAT6 infection, bacteria were grown 
+in Brain Heart Infusion broth (BD Biosciences) until early log phase (OD600 
+of 0.1). Cultures were washed in PBS and injected intravenously into B6 
+mice at a dose of 5 x 10^3 CFU for primary infections and 5 x 10^5 CFU for 
+secondary infections.
+
+Real-time PCR analysis. To analyze gene expression of adoptively transferred 
+CD90.1+ CD7 and CD4 T cells, these cells were purified from the spleens of 
+CD90.2+ recipient mice using CD90.1 MicroBeads (Miltenyi Biotec) and 
+separation over two consecutive MS columns (Miltenyi Biotec). Eluted cells 
+
+were lysed in RLT buffer (QIAGEN), homogenized using QIAshredder 
+columns (QIAGEN) and stored at -80 °C. Total RNA from frozen homoge- 
+nates was extracted using an RNeasy mini kit (QIAGEN), followed by cDNA 
+generation using a QuantiTect Reverse Transcription kit (QIAGEN). TaqMan 
+probe-based real-time PCR analysis was performed on a StepOnePlus Real- 
+Time PCR System (Applied Biosystems), using a DyNAmo probe qPCR kit 
+(Thermo Scientific) and specific TaqMan probes (Invitrogen). Actb was used 
+as endogenous control. Relative gene expression was determined using the 
+Comparative CT method.
+
+Statistical analysis. Statistical analysis was performed using an unpaired 
+two-tailed Student’s t test, assuming that data was normally distributed and 
+there was equal variance between the groups under comparison. P < 0.05 was 
+considered statistically significant.
+
+© 2016 Nature America, Inc. All rights reserved.
+
+NATURE IMMUNOLOGY
+
+doi:10.1038/ni.3386

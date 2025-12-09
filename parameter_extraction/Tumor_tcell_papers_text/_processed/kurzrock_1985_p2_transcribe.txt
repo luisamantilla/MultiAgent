@@ -1,0 +1,151 @@
+```
+IFN-γ IN CANCER PATIENTS
+
+tration of 0.2 mg/ml for dose levels ≤0.1 mg/sq m and 1.0 mg/ml for 
+higher dose levels. 
+
+Patient Selection and Study Design. Ten patients with disseminated 
+cancer were entered on the study. All patients had histopathological 
+confirmation of their diagnosis. Patients were ambulatory with a perfor- 
+mance status >50% (24) and had not received antitumor therapy 
+for a minimum of 3 weeks prior to entrance in the study. Eligibility criteria 
+included a life expectancy of at least 3 months and preserved hepatic 
+(bilirubin, <3 mg/dl), renal (creatinine, <2 mg/dl), and hematological 
+functions (granulocytes, ≥1,500/cu mm; platelets, ≥100,000/cu mm). 
+Informed consent was obtained in accordance with institutional policy. 
+
+Two patients were entered sequentially at each dose level, starting 
+with the lowest dose. The dose levels were 0.01 (0.2 x 10^1), 0.05 (1 x 
+10^1), 0.10 (2 x 10^1), 0.25 (5 x 10^1), 0.5 (10 x 10^1), 1.0 (20 x 10^1), and 
+2.5 mg/sq m (50 x 10^1 units/sq m). Each patient was treated on a twice- 
+weekly schedule with i.m. injections alternating with i.v. bolus injections, 
+the latter being administered over 5 min. A minimum of 2 h to 72 h was 
+required between injections. However, at the discretion of the invest- 
+igators, longer intervals were used depending on biological effects. Each 
+patient was escalated to the next dose level, providing there were no 
+serious adverse effects after receiving treatment by each route of admin- 
+istration at the prior dose level. Each patient received a maximum of 4 
+dose levels. 
+
+Patients were monitored daily. All symptoms were recorded and 
+classified as mild, moderate, or severe. "Mild" referred to symptoms that 
+caused no change in performance levels and did not require medication 
+for relief. "Moderate" symptoms were those that required medication for 
+relief. "Severe" signified symptoms that were inadequately relieved by 
+medication and caused a greater than 25% drop in performance status. 
+Vital signs including heart rate, blood pressure, temperature, and respi- 
+ratory rate were recorded before injection and at 1, 2, 4, 6, 8, 12, and 
+24 h after i.v. injections. A physical examination was done before 
+the initial dose and twice weekly thereafter, while the patient was on the 
+study. An electrocardiogram and chest roentgenogram were done before 
+the study and after the final dose. A complete blood count was done 
+every 24 h. Electrolytes and a chemistry profile including renal and liver 
+function tests were measured before and 24 h after each dose. Triglyc- 
+
+erides and cholesterol were measured weekly. A urinalysis, prothrombin 
+time, partial thromboplastin time, and creatinine clearance test were obtained 
+before each injection and at the end of the study. 
+
+Evaluation of tumor size was done by physical examination and 
+appropriate radiological studies and scans as well as tumor markers. 
+The criteria for responses have been previously described (9). 
+
+Pharmacology Studies. Venous serum samples were collected prior 
+to injection and at 1, 2, 4, 6, 8, 12, and 24 h following i.m. doses; and at 
+10 min, 30 min, and 1, 1.5, 2, 3, 4, 6, 8, 12, and 24 h after i.v. doses. 
+Blood samples were centrifuged, and the serum was decanted and 
+stored at 0°C until analysis. Serum IFN-γ titers were measured by both 
+a bioassay and ELISA at Genentech, Inc. The bioassay was performed 
+using an antiviral cytopathic effect as described previously (25), with the 
+human lung cancer cell line A549 as a target of EMC virus. The 50% 
+end point was determined, and the interferon titer was expressed as the 
+reciprocal of that dilution. All samples were corrected to the reference 
+IFN-γ standard, Gg 23-901-530, of the NIH. A solid-phase ELISA was 
+performed using a sandwich technique with 2 polyclonal antibodies to 
+IFN-γ, one of which was conjugated to a horseradish peroxidase label. 
+The means of blood levels for each dose at each route of administration 
+were calculated. Serum disappearance curves and nonlinear regression 
+analyses were carried out using these values. Serum half-lives, volumes 
+of distribution, and the area under the concentration curve (C x t) were 
+then calculated by standard techniques (20). 
+
+The presence of antibodies to IFN-γ was determined by solid-phase 
+plates obtained before study and 1 and 28 days after completion of the 
+study. A modification of the bioassay was used in which neutralization 
+of a fixed amount of interferon-containing samples was measured. 
+
+RESULTS 
+
+Ten patients with metastatic cancer were treated. There were 
+6 women and 4 men with a median age of 55 years (range, 35 
+to 80 years). Three patients had renal cell carcinoma; 2 had 
+sarcomas; and one each had adenocarcinoma of colon, nodular 
+poorly differentiated lymphocytic lymphoma, carcinoma, multiple 
+myeloma, and adenocarcinoma of the lung. Seven of the patients 
+had previously received chemotherapy, and one patient had 
+previously received partially purified buffy coat IFN-α. 
+
+The pharmacokinetic parameters of rIFN-γ are shown in Ta- 
+bles 1 and 2. In patients receiving rIFN-γ by the i.m. route, titers 
+detected by ELISA were adequate for pharmacology studies in 
+3 to 8 treatments at each dose level from 0.1 to 2.5 mg/sq m 
+(Table 1). However, titers were detectable by bioassay only at 
+the higher dose levels, and the titers detected were low. After 
+i.v. bolus administration of rIFN-γ, titers were below the limits of 
+sensitivity of the ELISA assay (0.4 ng/ml) at doses below 0.1 
+mg/sq m and of the bioassay (40 units/ml) at doses below 0.25 
+mg/sq m. At doses above these levels, adequate pharmakoci- 
+
+Table 1 
+Serum pharmacokinetics of rIFN-γ by ELISA after i.m. administration
+
+\[
+\begin{array}{|c|c|c|c|c|c|}
+\hline
+\text{Dose (mg/sq m)} & t_{\frac{1}{2}} \text{ (min)} & V_d \text{ (liters)} & C \times t \text{ (ng/ml \times min)} & \% \text{ of dose} \\
+\hline
+0.1 \text{ (6)} & 91.6^a & 34.5^a & 1,259 & 50 \\
+0.25 \text{ (8)} & 96 & 247 & 5,192 & 52.3 \\
+0.5 \text{ (7)} & 141 & 462 & 8,566 & 52.3 \\
+1.0 \text{ (5)} & 146 & 2,800 & 10,500 & 73.7 \\
+2.5 \text{ (9)} & 142 & 2,648 & 24,640 & 52.3 \\
+\hline
+\end{array}
+\]
+
+\[
+t_{\frac{1}{2}}, \text{absorption half-life; } V_d, \text{clearance half-life; } C \times t, \text{exposure time (concentration } \times \text{ time); Clp, plasma clearance.}
+\]
+
+\[
+^a \text{Values expressed as means.}
+\]
+
+Table 2
+Serum pharmacokinetics of IFN-γ by ELISA and by bioassay after i.v. administration
+
+\[
+\begin{array}{|c|c|c|c|c|c|c|}
+\hline
+\text{Dose (mg/sq m)} & \text{No. of patients} & t_{\frac{1}{2}} \text{ (min)} & V_d^a \text{ (liters)} & C \times t \text{ (ng/ml \times min)} & \text{Clp (ml/kg \times min)} \\
+\hline
+0.1 & 7 & 34.5 & 20.3 & 172.2 & 275 & 7.3 \\
+0.25 & 8 & 29.7 & 24.3 & 17.2 & 766 & 5.5 & 4.8 \\
+0.5 & 7 & 25.7 & 35.7 & 15.7 & 1,028 & 5.5 & 4.8 \\
+1.0 & 5 & 29.9 & 12.8 & 15,267 & 12,550 & 3.3 & 4.0 \\
+2.5 & 2 & 33.6 & 29.9 & 11.9 & 12,550 & 3.3 & 4.0 \\
+\hline
+\end{array}
+\]
+
+\[
+V_d, \text{volume of distribution; } C \times t, \text{exposure time (concentration } \times \text{ time); Clp, plasma clearance.}
+\]
+
+\[
+^a \text{Values expressed as means.}
+\]
+
+CANCER RESEARCH VOL. 45 JUNE 1985
+2867
+```

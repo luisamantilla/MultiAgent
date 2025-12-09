@@ -1,0 +1,227 @@
+```plaintext
+PLOS PATHOGENS
+
+Generate exhausted CD8+ T cells in vitro
+
+A
+
+PC2: 7% variance
+
+0.5
+
+0.0
+
+-0.5
+
+-20
+
+-10
+
+0
+
+10
+
+20
+
+PC1: 84% variance
+
+No peptide
+
+Single peptide
+
+Repeat peptide
+
+B
+
+Repeat
+
+Single
+
+No
+
+peptide
+
+peptide
+
+peptide
+
+C
+
+No peptide
+
+Single peptide
+
+Repeat peptide
+
+Gzma
+
+Tnfα
+
+Fasl
+
+Gzmb
+
+Ifng
+
+Prf1
+
+Cd2d4
+
+Cd226
+
+Cd274
+
+Cd160
+
+Tigit
+
+Lag3
+
+Pdcd1
+
+Ctla4
+
+Cd38
+
+Havcr2
+
+Runx3
+
+Tox
+
+Tbx21
+
+Bcl7
+
+Nr4a
+
+Irf4
+
+Lef
+
+Tcf7
+
+Eomes
+
+Dnmt3a
+
+Tnfsf4
+
+Tnfrsf25
+
+Ccr5
+
+Color key
+
+and Histogram
+
+Row Z-Score
+
+-2
+
+0
+
+2
+
+D
+
+Upregulated in exhaustion
+
+0.4
+
+0.3
+
+0.2
+
+0.1
+
+0.0
+
+Running
+
+Enrichment Score
+
+Repeat peptide
+
+Single peptide
+
+Rank in gene list
+
+NES=2.11
+
+FDR q=0.00
+
+Downregulated in exhaustion
+
+0.0
+
+-0.1
+
+-0.2
+
+-0.3
+
+-0.4
+
+-0.5
+
+Running
+
+Enrichment Score
+
+Repeat peptide
+
+Single peptide
+
+Rank in gene list
+
+NES=-2.48
+
+FDR q=0.00
+
+E
+
+Positive z-score
+
+Negative z-score
+
+2.5
+
+5.0
+
+7.5
+
+-log10(p-value)
+
+T cell exhaustion
+
+Signaling pathway
+
+Regulation of
+
+hypoxia inducible
+
+factor (HIF)
+
+Eicosanoid
+
+biosynthesis
+
+NF-kB pathway
+
+Regulation of cellular
+
+response to cytokine stimulus
+
+Role of BRCA1 in DNA
+
+damage response
+
+ROS signaling
+
+Interferon signaling
+
+NF-kB activation by viruses
+
+PLOS Pathogens | https://doi.org/10.1371/journal.ppat.1008555 June 24, 2020 12 / 27
+```

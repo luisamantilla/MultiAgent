@@ -1,0 +1,110 @@
+```plaintext
+most of the spleen’s DC precursor activity in a 5-day in vivo transfer 
+assay, could generate both DC subtypes without much further division 
+and could even be further separated using CD24 into CD8+ cDC-only 
+precursors or CD8− cDC-only precursors (Figure 1). The equivalents 
+of CD11c+MHCII− pre-DCs were also found in BM and other 
+lymphoid organs,39,89 and at earlier times in FL cultures.210 
+Thus, DCs can arise from a precursor that is resident within the 
+lymphoid organ itself, and this cell is not a monocyte. 
+What about earlier precursors to the pre-DCs? As expected, DCs 
+can be derived from haematopoietic stem cells (HSCs), but they are 
+unique in their derivation from both CMPs and CLP progenitors, as 
+long as they express surface fms.123,227–229 Further downstream, Fogg 
+et al.45 have identified a precursor within the CMP fraction that could 
+produce cDCs (both CD8+ and CD8−) and macrophages, but not 
+granulocytes, pDCs or any other lineage (Figure 1). In contrast, our 
+group210 and that of Manz230 have identified a precursor in BM as well 
+as in FL cultures, termed pro-DCs, which could generate both CD8+ 
+and CD8− cDC subtypes as well as pDCs, but not macrophages or any 
+other lineage (Figures 1 and 3). Pro-DCs generate pre-DCs en route to 
+the generation of the DC subtypes. 
+Whether MDP and pro-DCs represent distinct or overlapping 
+populations is not clear (Figure 3). What might account for the 
+differences? Phenotypically, MDPs and pro-DCs are very similar in 
+phenotype (both are Lin−Sca-1−IL7Rα−CD11bint). However, at least in 
+our hands, most but not all pro-DCs are CD34+CD16/32−/int, whereas 
+MDPs are largely CD34−/16/32+. We also find that not all in vivo 
+pro-DCs are M-CSFR+/39. A second important difference is that we 
+find that MDPs are more dependent on GM-CSF. Given the GM-CSF 
+cytokine, it is possible that MDPs are precursors of monocyte-derived 
+DCs, but not monocyte-independent steady-state DCs. Arguing 
+against this was that MDPs could generate large numbers of CD8+ 
+and CD8− cDCs, but not pDCs, on a per-cell basis in vivo.45 However, 
+as the assays in that part of the study were not clonal, so there is a 
+possibility that macrophage and DC precursors were distinct popula- 
+tions within cells classed as MDPs. Another possibility is that there are 
+multiple routes to DC production and both pro-DCs and MDPs make 
+a contribution. There is precedence for this considering both CLPs 
+and CMPs can give rise to all splenic DC subtypes. Certainly further 
+comparison between the two progenitors will be required. 
+
+Blood-derived or organ-resident precursors 
+Since DCs are found in the blood of humans, it had been generally 
+assumed that they are derived in the BM and circulate as DCs to the 
+organs, and there is evidence to support this.35,228,229 However, as 
+several groups, including ours have identified or implied organ- 
+resident DC precursors,39,56,59,89,139,210 it suggests that the final step 
+of differentiation may take place within the organ itself for some DC 
+subtypes. We speculated in one study that the existence of pre-cDCs 
+could indicate derivation from a long-term organ-resident reservoir of 
+DC precursors, and/or that they represented ‘in-transit’ cells from the 
+BM en route to DC development.59 Liu et al.230 tackled this question 
+elegantly by utilizing mouse pairs that differ in CD45 allotype and are 
+physically joined, like Siamese twins, so their bloodstream and there- 
+fore leukocyte migration is shared (parabiotic mice). As leukocytes 
+are circulating at long lived, they reached a 50:50 host:partner 
+chimerism 7 days after anastomoses, as would be expected. However, 
+only 17–35% of host DCs were partner derived. The authors con- 
+cluded that this implied DC chimerism reflected the short half-life 
+of DC precursors in blood—that is, most host-derived blood-borne 
+DC precursors have already replaced or extravasated host tissue 
+when they can reach the partner. Formally, the parabiotic experiments 
+cannot fully exclude longer-term intraplenic DC precursors for the 
+reason that each experiment was terminated before the host: 
+parabiotic separation, where most DCs were again of host origin 
+within 10–14 days. Caution should be exercised when interpreting this 
+as a longer half life of DCs, rather than the 3–5 days originally 
+described,231,232 if there were remnant donor DC precursors also 
+present in partner spleen after separation. Nevertheless, unless the 
+process of parabiotic separation somehow alters DC homeostasis, it 
+appears that many, if not all, DCs are derived from circulating 
+precursors. 
+What then are such circulating DC precursors? One or more of 
+many stages of the DC development process could account for 
+replenishment. DCs themselves may develop in BM and then be 
+released into the bloodstream to replenish the splenic DC pool, even 
+though such cells are barely detectable in the bloodstream.37 Alter- 
+natively, one or more of the pre-DC,39,56,59,89,210 pro-DC,210 MDPs45 
+or an as yet unidentified DC precursor may do the job. Pre-DCs are 
+clearly a good candidate considering they are found in many organs, 
+including BM, blood and spleen, and can give rise to DCs.39,56,59,89,210 
+Cells with the phenotype of pro-DCs are also present in spleen (SH 
+Naik, unpublished observations), so may also play a role. 
+None of the aforementioned studies need be contradictory—just 
+their interpretation. Thus DC homeostasis may involve a coordinated 
+regulation of limited to major self-renewal56,139,233,234 and derivation 
+from blood-derived precursors230 that include one more of the pre- 
+DC, pro-DC or MDP populations. 
+
+THE ‘GRADED’ COMMITMENT MODEL 
+The large expansion of pro-DCs and the use of the FL culture system 
+afforded us the unique opportunity to perform single cell, clonal 
+assays for the first time. We asked the simple question of whether a 
+single precursor could produce all three of the pDC, CD8+ and CD8− 
+cDC subtypes, or whether there are individual subtype-committed 
+
+Figure 3 The confusion regarding dendritic cell (DC) development from 
+‘intermediate’ stage precursors. All DCs appear to derive from fms-like 
+tyrosine kinase 3 (flt3)-expressing progenitors, whether they are common 
+myeloid progenitor (CMP) or common lymphoid progenitor (CLP) derived. 
+One group has identified a downstream macrophage-DC precursor (MDP) of 
+conventional CD8+ & CD8− conventional DCs (cDCs) and macrophages, but 
+not plasmacytoid cells (pDCs) or other lineages. In contrast, two other 
+groups have identified pro-DCs (also known as common DC precursors 
+(CDPs)) that generate conventional CD8+ and CD8− DCs and pDCs but not 
+macrophages or other lineages. Whether these are distinct, overlapping or 
+incorrectly described pathways remains to be determined. 
+
+Immunology and Cell Biology
+```

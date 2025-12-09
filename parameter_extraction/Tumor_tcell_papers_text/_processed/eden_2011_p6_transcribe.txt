@@ -1,0 +1,47 @@
+```plaintext
+1.8 Pulse-chase protocol for measuring protein half-lives
+
+Approximately 2x10^6 cells were plated onto 10 cm dishes and cultured for 24 
+hours as described above. To perform pulse-chase, cell monolayers were rinsed twice 
+with warm sterile PBS and starved of methionine and cysteine for 1 h at 37 °C by 
+incubation in 5ml of Pulse-chase medium: methionine/cysteine-free RPMI 1640 (Sigma, 
+R-7513) supplemented with 10% dialyzed FBS (Biological Industries Beit Haemek) and 
+2mM L-glutamine. Following starvation, the cells were labeled for 1 hour at 37 °C with 4 
+ml of Pulse-chase medium containing 1 mCi (250 μCi/mL) of [35S]methionine/cysteine 
+(EasyTagTMExpress35S35S Protein Labeling Mix, #PENEG772, PerkinElmer). The radioactive 
+medium was then removed, the cells rinsed three times with PBS, re-fed with Pulse- 
+chase medium supplemented with 2.5 mM L-Methionine and 2.5 mM L-Cysteine 
+Hydrochloride Hydrate (Biological Industries Beit Haemek), and incubated for the 
+indicated times. The cells were then collected and lysed with modified RIPA buffer (50 
+mM Tris-HCl , pH 7.4; 150 mM NaCl; 1 mM EDTA; 1% NP-40; 0.25% Na-deoxycholate; 1 
+mM PMSF and 1 μg/ml of each aprotinin, leupeptin and pepstatin). Protein 
+concentrations were determined by BCA protein assay (Thermo Scientific). The proteins 
+of interest were recovered from 200 μg of cell lysates by immunoprecipitation using 
+anti-GFP or protein-specific antibodies listed below. The immunoprecipitates were 
+subjected to SDS-PAGE, and protein bands were detected by autoradiography. Parallel 
+gels were blotted onto nitrocellulose membrane and probed with protein-specific 
+antibodies to ensure correct identification of the protein bands of interest.
+
+The following antibodies were used in the study:
+
+Antibody against Myosin IIA/MYH9 (M8064) was purchased from Sigma; anti-GFP 
+antibody (11814460001) was purchased from Roche; antibodies against p68/DDX5 (sc- 
+32858), Trx (sc-20146), OP18/STMN1 (sc-55531), normal rabbit IgG (sc-2027) and 
+normal mouse IgG (sc-2025) were purchased from Santa-Cruz; anti-K-α-1/Tubulin α 
+(ab44928 and ab15246) and anti-DDX18 (ab70527) antibodies were obtained from 
+Abcam.
+
+For immunoprecipitation each antibody was used at amount of 9 μg. For 
+immunoblot analysis the antibodies were diluted as following: anti-GFP 1:600, anti- 
+MYH9 1:800, anti-DDX5 1:300, anti-Tubulin 1:150, anti-Trx 1:250, anti-DDX18 1:1000, 
+anti-STMN1 1:200.
+
+To determine protein half-lives, intensities of the relevant protein bands were 
+quantified from the autoradiographs using custom Matlab software. We assumed that 
+the levels of the radioactive labeled protein, \( P(t) \), decay in time at a rate that is 
+exponential in the removal rate, α according to the following equation:
+
+\[
+\text{Eq. (5)} \quad P(t) = P_0 e^{-\alpha t} ,
+\]
+```

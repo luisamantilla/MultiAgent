@@ -1,0 +1,95 @@
+```plaintext
+16
+
+Presentation of the data
+
+Cell proliferation was assayed by ³H-thymidine incor-
+poration and the mean counts per minute (cpm) of
+triplicate determinations were used in all calculations.
+Detectable ³H-thymidine incorporation was defined as
+>1,000 cpm. A significant alteration of ³H-thymidine
+incorporation was defined as a difference corresponding
+to (1) an absolute value of at least 2,000 cpm and (2) this
+absolute value being >20% of the corresponding con-
+trol. For statistical analysis the Wilcoxon’s signed rank
+test was performed. Differences were regarded as sig-
+nificant when P<0.05 with a two-sided test.
+
+Results
+
+IFNγ is released by T cells activated in the presence
+of native human AML cells and bone marrow
+stromal cells
+
+Native human AML cells are characterized by con-
+stitutive release of several immunoregulatory cytokines
+that can have antigen-nonspecific effects on the release
+of IFNγ by activated T cells [31]. This constitutive re-
+lease differs between patients [31]. To investigate whe-
+ther IFNγ release by normal T cells could take place in
+the presence of this leukaemia-determined cytokine
+network, AML cells derived from 14 consecutive pa-
+tients were cultured together with leukaemia-support-
+ing bone marrow stromal cells in the lower chamber of
+transwell cultures, and normal PBMC derived from a
+healthy individual were incubated in the upper cham-
+ber. The cultures were performed in Stem Span™ med-
+ium with and without anti-CD3 MoAb as the T cell
+activating signal. High IFNγ levels were detected in the
+supernatants for anti-CD3-stimulated PBMC in the
+presence of AML cells and stromal cells (exceeding
+2,000 pg/ml for all patients but one), whereas low levels
+(<100 pg/ml) were observed for control cultures
+without T cells (Fig. 1). Thus, T cells can be activated
+to release high levels of IFNγ in the presence of native
+human AML cells.
+
+Previous studies have demonstrated that IFNγ can
+increase the AML cell expression of several membrane
+molecules involved in immune recognition, including
+HLA-class II (especially HLA-DR), CD40, CD54,
+CD80 and possibly CD83 [32, 33]. We therefore inves-
+tigated whether similar alterations could be observed
+when native human AML cells were cultured together
+with normal, activated, IFNγ-secreting T cells. Leukae-
+mia cells derived from nine consecutive patients were
+cultured in the lower chamber of transwell cultures and
+anti-CD3-stimulated normal T cells in the upper cham-
+ber. Membrane molecule expression was compared after
+4 days for cocultured AML cells and cells incubated in
+medium alone. The percentages of HLA-DR⁺ AML
+cells were relatively high for both cells cultured with and
+
+without T cells (median 65 and 82%, respectively), but
+the mean fluorescence intensity (MFI) was significantly
+increased for cocultured cells (median 21, variation
+range 0–50) compared with cells incubated in medium
+alone (median 59, range 12–131; P=0.011). Coculture
+did not alter CD40, CD80 and CD83 expressions (all
+cultures showing <10% positive cells).
+
+CD19 (IFNγ receptor) is expressed by native human
+AML cells
+
+The expression of CD19 was examined for AML blasts
+derived from 39 randomly selected patients (Fig. 2).
+CD19 expression was detected for all patients (median
+percentage of positive cells 85%, variation range 22–
+99%), and more than 70% CD19⁺ cells were observed
+for 29 out of the 39 patients. High expression was ob-
+served independent of morphological signs of differen-
+tiation (FAB classification), cytogenetic abnormalities
+or Flt3 mutations. For all patients, CD19 positivity
+
+![IFNγ concentration, ng/ml](image)
+
+Fig. 1 IFNγ concentrations in culture supernatants when normal T
+cells were activated with anti-CD3 in the presence of AML cells and
+BMSC. Normal PBMC were cultured in the upper chamber
+and BMSC + AML cells in the lower chamber of transwell
+cultures. AML cells were derived from 14 consecutive patients.
+Cultures were prepared either in medium alone (−) or with (+)
+anti-CD3, and supernatants were collected after 4 days. IFNγ levels
+were determined by ELISA analysis (P=0.002). Cultures with
+AML cells or PBMC alone showed undetectable IFNγ levels
+```

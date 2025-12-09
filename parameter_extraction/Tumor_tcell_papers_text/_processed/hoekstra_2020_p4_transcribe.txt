@@ -1,0 +1,50 @@
+```
+ARTICLES                                                                                   NATURE CANCER
+
+a
+
+          IL-2 twice daily
+  ────────────────────────────────────────────────────────────────────────────────────────────────────────
+  -14 d          0 h          16 h  24 h  32 h  40 h  48 h          72 h          120 h
+  Window         T cell injection                                  IVM
+  implantation
+  tumor cell injection
+
+b
+
+Katushka
+  0 h             16 h            24 h            32 h
+
+Katushka
+Av Ag+ Katushka
+
+Katushka
+  40 h            48 h            72 h            120 h
+
+Katushka
+Av Ag+ Katushka
+
+c
+
+Katushka+ of IGS cells (%)
+100 ──────────────────────────────────────────────────────────────────────────────────────────────────────
+  80 ──────────────────────────────────────────────────────────────────────────────────────────────────────
+  60 ──────────────────────────────────────────────────────────────────────────────────────────────────────
+  40 ──────────────────────────────────────────────────────────────────────────────────────────────────────
+  20 ──────────────────────────────────────────────────────────────────────────────────────────────────────
+   0 ──────────────────────────────────────────────────────────────────────────────────────────────────────
+       0       16       24       32       40       48       72       120
+                               Time (h)
+
+Fig. 3 | Kinetics of IFN-γ sensing by bystander tumor cells. a, Illustration of imaging window setup and experimental timeline. At the indicated
+timepoints in the 0 h to 120 h time window, intravital imaging of tumor lesions was performed. b, Sequential, intravital, two-photon imaging of
+tumors consisting of 10% GFP+Ag+ tumor cells (green) and 90% CFP+ IGS reporter bystander tumor cells (cyan) was initiated 14 d after injection of
+tumor cells (8 × 105 cells total) into the mouse mammary gland. On IGS reporter activation, cells gain Katushka signal (white in upper panel, red in
+lower panel). A representative imaging series of a tumor region with Katushka reporter expression (top panel) and merger of GFP+Ag+ (green),
+CFP+Ag+ (cyan) and Katushka reporter (red) (lower panel) signal is depicted over time. Data are representative of c. c, Quantification of the percentage
+of IGS Katushka+ reporter cells in the Ag+ cell population showing the mean ± s.d. over time. Symbols represent data from different animals
+(n = 5 mice for time, t = 0, 16, 24 and 32 h; n = 4 mice for t = 40, 48 and 72 h; and n = 3 mice for t = 120 h, obtained in all independent experiments).
+IVM, intravital microscopy.
+
+                                                                                   NATURE CANCER | www.nature.com/natcancer
+```

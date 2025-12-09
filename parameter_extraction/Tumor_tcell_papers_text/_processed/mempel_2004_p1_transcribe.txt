@@ -1,0 +1,142 @@
+```plaintext
+letters to nature
+
+Acknowledgements The authors thank S. L. Opitz, N. Watson and E. Dikovaia for technical 
+support; K. Hoeffelinger and T. Foltz for assistance with intravital lymphocyte injection and 
+W. Lenski for critical revisions of the manuscript. This work was supported by grants from the 
+National Institutes of Health, the National Science Foundation Biotechnology Process 
+Engineering Center, and the Dutch Cancer Society Koningin Wilhelmina fonds. G.Q.D. is a 
+Birnbaum Scholar of the Leukemia and Lymphoma Society of America. J.G. was sponsored by the 
+Human Frontier Science Foundation. K.E. is a Junior Fellow in the Harvard Society of Fellows.
+
+Competing interests statement The authors declare that they have no competing financial 
+interests.
+
+Correspondence and requests for materials should be addressed to G.Q.D. 
+(george.daley@childrens.harvard.edu).
+
+T-cell priming by dendritic 
+cells in lymph nodes occurs 
+in three distinct phases
+
+Thorsten R. Mempel, Sarah E. Henrickson & Ulrich H. von Andrian
+
+The CBR Institute for Biomedical Research, Department of Pathology, 
+Harvard Medical School, 200 Longwood Avenue, Boston, Massachusetts 02115, 
+USA
+
+Primary T-cell responses in lymph nodes (LNs) require contact- 
+dependent information exchange between T cells and dendritic 
+cells (DCs). To examine the dynamics of T-cell priming in 
+normal LNs, the resident lymphocyte pool is composed of non- 
+synchronised populations of different dwell times that display het- 
+erogeneous behaviour in mouse LNs in vivo. Here we use 
+two-photon microscopy in vivo to study antigen-presenting DCs 
+and T cells whose dwell time in LNs was synchronized. 
+During the first 8 h after entering the blood, T cells under- 
+went multiple short encounters with DCs, progressively 
+decreased their motility, and upregulated activation markers. 
+During the subsequent 12 h T cells formed long-lasting stable 
+conjugates with DCs and began to secrete interleukin-2 and 
+interferon-g. On the second day, coinciding with the onset of 
+proliferation, T cells resumed their rapid migration and other 
+actions. Thus, T-cell priming by DCs occurs in three successive 
+stages: transient serial encounters during the first activation 
+phase are followed by a second phase of stable contact culminat- 
+ing in cytokine production, which makes a transition into a third 
+phase of high motility and rapid proliferation.
+
+Naive T cells recirculate continually between the blood and LNs 
+for antigen search1. The intranodal encounter of a peptide–major 
+histocompatibility complex (MHC) complex that is recognized by a 
+T-cell antigen receptor (TCR) will only result in full-fledged T cell 
+activation upon co-stimulation provided by mature DCs. These 
+professional antigen-presenting cells collect antigens in peripheral 
+tissues and migrate to LNs through lymph vessels. T-cell priming by 
+DCs induces activation markers, cytokine secretion, and prolifer- 
+ation. Several reports have analysed the dynamics of T-cell–DC 
+interactions in excised LNs, but methods and results have been 
+variable and it is unknown how the absence of lymph and blood 
+flow or environment influences T-cell–DC interactions2. There is 
+therefore still no comprehensive description of what happens in a 
+physiological setting when naive T cells enter LNs that contain 
+antigen-presenting DCs.
+
+We have used two-photon microscopy3 to study lymphocyte 
+migration and interactions with DCs within popliteal LNs of 
+anaesthetized mice. Our preparation preserved physiological 
+blood and lymph flow4, whereas, in our hands, lymph flow was 
+
+compromised when we attempted to adapt the well-established 
+inguinal lymph-node preparation to two-photon imaging5 (not 
+shown). Recipient mice received footpad injections of fluorescent 
+DCs, which entered lymph vessels and accumulated in the popliteal 
+LN during the following day. Differentially tagged TCR transgenic 
+CD8+ T cells were injected intravenously 18 h later (Fig. 1a). T cells 
+homed rapidly through high endothelial venules (HEVs) into 
+popliteal LNs, where they constituted 1–2% of all CD8+ cells 2 h 
+after injection. At this point, further lymphocyte homing was 
+blocked by the injection of anti-L-selectin6. This ensured that all 
+imaged T cells had entered popliteal LNs during the initial 2-h 
+window and enabled us to study synchronized resident cells during 
+the subsequent 2 days.
+
+Initially, we examined the phenotype of injected DCs that 
+migrated to draining LNs (Fig. 1b). Immature splenic CD11c+ 
+DCs from CD45.1+ donors were injected into CD45.2+ congenic 
+recipients. Because immature DCs express little or no CCR7—a 
+chemokine receptor required for DC migration into lymphatics and 
+within LNs7—we co-injected lipopolysaccharide (LPS), a stimulus 
+which induces DC maturation and CCR7 expression8. Conse- 
+quently, DCs recovered from popliteal LNs were mature and either 
+CD11b+CD8a+ or CD11b+CD8a–. CD8a–high input DCs were 
+rarely detected in LNs. This might reflect an inability of CD8a–high 
+DCs to migrate to LNs, or the downregulation of CD8a during 
+transit.
+
+To examine DCs in situ, we administered footpad injections of 
+red fluorescent DCs and analysed their behaviour within popliteal 
+LNs. After 20 h a fraction of DCs (about 20–50%) resided 
+in the subcapsular sinus and the superficial cortex. The remainder 
+congregated in distinct regions within the deep cortex, where they 
+were closely aligned to T cell clusters (Fig. 1c). This arrangement 
+was consistent with the notion that DCs are retained by 
+the non-uniform distribution of DCs in the deep cortex became 
+apparent after fluorescence-based extraction from thick 
+lymph-node vessels. In line with recent observations13, many 
+DCs lined up around HEVs in strategic positions to interact with 
+newly homed T cells (Supplementary Fig. 1b; Supplementary 
+Information 2, 3). This distribution pattern became less apparent 
+day 2 or 3 after injection (Supplementary Information 4).
+
+One day after injection, DCs in T-cell areas were more 
+motile, whether they presented antigen to T cells or not (Fig. 1c–g; 
+Supplementary Information 5). The median three-dimensional 
+(3D) instantaneous velocity was 6.6 mm min–1 (Fig. 1e), which 
+is in good agreement with measurements of three-dimensional veloc- 
+ities in explanted LNs9. Individual DCs followed random paths 
+without apparent directional bias. Even sessile DCs constantly 
+extended and retracted dendrites and pseudopods. The motility of 
+both antigen-pulsed and control DCs was highest between 2 and 8 h 
+after T-cell transfer (20–26 h after DC injection) and decreased over 
+time (Fig. 1f, g; Supplementary Information 5). This progressive 
+decrease in motility might reflect DC 'exhaustion', which has been 
+proposed to occur after LPS activation14.
+
+Migratory dynamics in LNs were closely dependent on physio- 
+logical conditions: T cells and DCs stopped migrating and assumed 
+a round shape within minutes after cardiovascular arrest (Sup- 
+plementary Information 6), even in a tissue temperature main- 
+tained at 36 °C, a requirement for interstitial T-cell migration15. In 
+animals without DC injection, intranodal T cells moved 
+rapidly, reaching peak 3D velocities of 10.0 mm min–1 (Fig. 2a–c; 
+Supplementary Information 7). In LNs draining DC-injected foot- 
+pads, 3D velocities were equivalent (Fig. 2c, d) but T cells turned at 
+steeper angles and covered a smaller volume of the paracortex, 
+resulting in decreased motility coefficients, even when DCs carried 
+no antigen (Fig. 2e, f). Mean T-cell displacement plots in the 
+antigen-containing LNs revealed a plateau at about 15 mm displace- 
+ment (Fig. 2e), indicating that, although T cells, thus, DC pulses 
+interactions induced LN paracortex partitioning into smaller com- 
+partments in which incoming T cells were retained, perhaps owing 
+```

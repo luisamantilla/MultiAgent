@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and values from the text:\n\n1. **LY294002 concentration**: 10 μmol/L\n2. **Coculture ratio**: 1:10 (PDL1⁺ U87 cells: PD1-ACR T cells)\n3. **Injection dose**: 2.5 × 10⁶ T cells per dose\n4. **Injection schedule**: Days 8, 10, 12, and 14 (total of 4 injections)\n5. **Statistical significance**: p < 0.05\n6. **Sample size for statistical analysis**: n = 3\n7. **Survival rate at the end of the study**:\n   - PD1-ACR T cells: 75%\n   - Control T cells: 20%\n   - PBS: 0%"
+}

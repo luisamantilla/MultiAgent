@@ -1,0 +1,35 @@
+PD1-ACR T cells for PDL1+ cancer therapy
+
+[14] Vinay DS, Kwon BS. 4-1BB (CD137), an inducible costimulatory receptor, as a specific target for cancer therapy. BMB Rep 2014; 47: 122-129.
+
+[15] Chacon JA, Pilon-Thomas S, Sarnaik AA, Radvanyi LG. Continuous 4-1BB costimulatory signals for the optimal expansion of tumor-infiltrating lymphocytes for adoptive T-cell therapy. Oncoimmunology 2013; 2: e25581.
+
+[16] Zhang G, Wang L, Cui H, Wang X, Zhang G, Ma J, Han H, He W, Wang W, Zhao Y, Liu C, Sun M, Gao B. Anti-melanoma activity of T cells redirected with a TCR-like chimeric antigen receptor. Sci Rep 2014; 4: 3571.
+
+[17] Porter DL, Levine BL, Kalos M, Bagg A, June CH. Chimeric antigen receptor-modified T cells in chronic lymphoid leukemia. N Engl J Med 2011; 365: 725-733.
+
+[18] Zhong XS, Matsushita M, Plotkin J, Riviere I, Sadelain M. Chimeric Antigen Receptors Combining 4-1BB and CD28 Signaling Domains Augment PI3kinase/AKT/Bcl-XL Activation and CD8+ T Cell-mediated Tumor Eradication. Mol Ther 2010; 18: 413-420.
+
+[19] Wu L, Martin TD, Vazeux R, Unutmaz D, KewalRamani VN. Functional evaluation of DC-SIGN monoclonal antibodies reveals DC-SIGN interactions with ICAM-3 do not promote human immunodeficiency virus type 1 transmission. J Virol 2002; 6: 5905-5914.
+
+[20] Starck L, Scholz C, Dörken B, Daniel PT. Costimulation by CD137/4-1BB inhibits T cell apoptosis and induces Bcl-xL and c-FLIP(short) via phosphatidylinositol 3-kinase and AKT/protein kinase B. Eur J Immunol 2005; 35: 1257-1266.
+
+[21] Lee do Y, Choi BK, Lee DG, Kim YH, Kim CH, Lee SJ, Kwon BS. 4-1BB signaling activates the t cell factor 1 effector/β-catenin pathway with delayed kinetics via ERK signaling and delayed PI3K/AKT activation to promote the proliferation of CD8+ T Cells. PLoS One 2013; 8: e69677.
+
+[22] Ahmadzadeh M, Johnson LA, Heemskerk B, Wunderlich JR, Dudley ME, White DE, Rosenberg SA. Tumor antigen-specific CD8+ T cells infiltrating the tumor express high levels of PD-1 and are functionally impaired. Blood 2009; 114: 1537-1544.
+
+[23] Lin GH, Snell LM, Wortzman ME, Clouthier DL, Watts TH. GITR-dependent regulation of 4-1BB expression: implications for T cell memory and anti-4-1BB-induced pathology. J Immunol 2013; 190: 4627-4639.
+
+[24] Tomita Y, Yuno A, Tsukamoto H, Senju S, Yoshimura S, Osawa R, Kuroda Y, Hirayama M, Irie A, Hamada A, Jono H, Yoshida K, Tsunoda T, Kohrogi H, Yoshitake Y, Nakamura Y, Shinohara M, Nishimura Y. Identification of CCD41-derived long peptides bearing both CD41 and CD81 T-cell epitopes: CCD41-specific CD41 and CD81 T cells in prostate cancer patients. Int J Cancer 2014; 134: 352-366.
+
+[25] Di Caro G, Bergomas F, Grizzi F, Doni A, Bianchi P, Malesci A, Laghi L, Allavena P, Mantovani A, Marchesi F. Occurrence of tertiary lymphoid tissue is associated with T-cell infiltration and predicts better prognosis in early-stage colorectal cancers. Clin Cancer Res 2014; 20: 2147-2158.
+
+[26] Fedorov VD, Sadelain M, Kloss CC. Novel approaches to enhance the specificity and safety of engineered T cells. Cancer J 2014; 20: 160-165.
+
+[27] Liu B, Chen W, Evavold BD, Zhu C. Accumulation of Dynamic Catch Bonds between TCR and Agonist Peptide-MHC Triggers T Cell Signaling. Cell 2014; 157: 357-368.
+
+[28] Monserrat J, Sánchez MA, de Paz R, Díaz D, Mur S, Reyes E, Prieto A, de la Hera A, Martínez A, C, Alvarez-Mon M. Distinctive patterns of naïve/memory subset distribution and cytokine expression in CD4 T lymphocytes in ZAP-70 B-chronic lymphocytic patients. Cytometry B Clin Cytom 2014; 86: 32-43.
+
+473
+
+Am J Transl Res 2015;7(3):460-473

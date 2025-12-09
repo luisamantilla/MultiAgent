@@ -1,0 +1,103 @@
+```plaintext
+902                                                                 IMMUNE REJECTION MECHANISMS OF MURINE B16 MELANOMAS
+
+                                                                 HBsAg(S)-specific CTLL                T-Ag-specific CTLL
+
+                                                                                   4 h assay
+                                                                                   
+                                                                                   % specific lysis
+                                                                                   30
+                                                                                   20
+                                                                                   10
+                                                                                   0
+                                                                                   E / T ratio
+
+                                                                                   A
+                                                                                   — RBL5(+) 
+                                                                                   — RBL5/5 (−)
+
+                                                                                   % specific lysis
+                                                                                   30
+                                                                                   20
+                                                                                   10
+                                                                                   0
+                                                                                   E/T ratio
+
+                                                                                   B
+                                                                                   — RBL5
+                                                                                   — RBL5/T
+
+                                                                                   % specific lysis
+                                                                                   50
+                                                                                   40
+                                                                                   30
+                                                                                   20
+                                                                                   10
+                                                                                   0
+                                                                                   E / T ratio
+
+                                                                                   C
+                                                                                   — B16.F10 (−)
+                                                                                   — B16.F10/S (−)
+                                                                                   — B16.F10 (+)
+                                                                                   — B16.F10/S (+)
+
+                                                                                   % specific lysis
+                                                                                   70
+                                                                                   60
+                                                                                   50
+                                                                                   40
+                                                                                   30
+                                                                                   20
+                                                                                   10
+                                                                                   0
+                                                                                   E / T ratio
+
+                                                                                   D
+                                                                                   — B16.F10 (−)
+                                                                                   — B16.F10/T (−)
+                                                                                   — B16.F10 (+)
+                                                                                   — B16.F10/T (+)
+
+                                                                                   12 h assay
+
+                                                                                   % specific lysis
+                                                                                   50
+                                                                                   40
+                                                                                   30
+                                                                                   20
+                                                                                   10
+                                                                                   0
+                                                                                   E / T ratio
+
+                                                                                   E
+                                                                                   — B16.F10 (−)
+                                                                                   — B16.F10/S (−)
+
+                                                                                   % specific lysis
+                                                                                   70
+                                                                                   60
+                                                                                   50
+                                                                                   40
+                                                                                   30
+                                                                                   20
+                                                                                   10
+                                                                                   0
+                                                                                   E / T ratio
+
+                                                                                   F
+                                                                                   — B16.F10 (−)
+                                                                                   — B16.F10/T (+)
+
+                                                                                   (−) without, or (+) with IFNγ
+
+FIGURE 5. Specific CTL-mediated lysis of transfected B16.F10 cells. CTLL specific for HBsAg (A, C, E) or T Ag (B, D, F) were generated in C57BL/6 mice by DNA vaccination. In a 4-h ^51Cr release assay, these CTLL specifically lysed IFN-γ-pretreated, but not nonpretreated, transfected B16.F10 targets (C, D). In a 12-h assay, these CTLL showed specific cytolytic reactivity toward noninduced B16.F10 transfectants (E, F). E:T ratios are 20:1, 10:1, 5:1, and 2.5:1.
+
+subset was nonviable (stained with the nucleic acid dye 7-AAD) and apoptotic (reacted with the apoptosis marker annexin V and reacted in TUNEL stain). From the cell sorter-purified CD95^+CD95L^+ subset, no cells could be expanded in vitro and no viable cells were recovered 12 to 24 h after sorting, indicating that this B16 subset is irreversibly programmed for death. Ligation of surface CD95 with Ab on CD95^+CD95L^+ B16 cells may have triggered apoptosis, but this seems unlikely in view of the observation that cell sorter-purified CD95^+CD95L^− B16 cells readily grew in vitro (data not shown). Cells of the transfected B16.F10/S and B16.F10/T sublines showed a similar surface expression pattern of CD95 and CD95L (data not shown).
+
+B16 cells stimulate IFN-γ release by CTL and are susceptible to specific CTL-mediated lysis
+
+CTLL specific for MHC I-binding epitopes of the T-Ag or the HBsAg were obtained from DNA-vaccinated C57BL/6 mice (23, 26). To detect specific IFN-γ release of CD8^+ CTLL in response to the class I-restricted presentation of epitopes of the two viral proteins by the transfected melanoma cells, CTL were cocultured
+
+Downloaded from https://academic.oup.com/immunology/article/16/2/897/5054002 by Duke University user on 09 July 2025
+```

@@ -1,0 +1,52 @@
+```
+ARTICLES                                                                                     NATURE CANCER
+
+a                                                                 b
+40                                                               800
+
+                                                                 600
+30
+                                                                 Estimated tumor cell : T-cell ratio
+Number of T-cells per 2.5x10^2 μm^2
+
+20                                                               400
+
+                                                                 200
+10
+
+0                                                                0
+    Ag Area      Ag (IGS Area)                                       Ag Area      Ag (IGS Area)
+
+c                                                                 d
+80                                                               100
+
+60                                                                80
+IFNγ (pg/mL)
+
+                                                                  % of control
+40                                                                60
+
+                                                                  40
+20
+                                                                  20
+
+0                                                                 0
+    medium only T cells only 0h 2h 4h 8h 24h                          LCKi
+    LCKi incubation time (after 2h stim)
+    before wash and 3h secretion window
+
+Extended Data Fig. 6 | CD8+ T-cell quantification in Ag+ and Ag (IGS reporter tumor areas. a, Quantification of mOrange2+ CD8+ T-cells in tumors with
+spatially separated GFP+Ag+ (green) and CFP+Ag+ IGS reporter cell (cyan) islands obtained by sequential injection, as described in Fig. 4d. e, Number
+of mOrange2+ T-cells was determined in multiple three-dimensional stacks of 2.5*10^2 μm^2 in either Ag+ or Ag areas. Symbols represent individual
+mice, and mean and SD for n=4 mice are depicted, obtained from two independent experiments. Normal distribution was confirmed by D'Agostino
+and Pearson omnibus normality test. Two tailed unpaired t-tests were performed, p=0.0003 (***). b, Estimate of the ratio of tumor cells to T-cells in
+Ag+ and Ag areas under the assumption that the diameter of an average tumor cell is 24 μm. c, Purified CD8+ T-cells were activated with plate-bound
+anti-CD3/anti-CD28 antibodies for 2h. Subsequently, cells were either left untreated or were treated with 5mM LCKi inhibitor for the indicated times. Cells
+were washed to remove previously secreted IFNγ, and fresh control medium or medium containing 5mM LCKi inhibitor was added to the cells. After 3h
+incubation, supernatants were collected and IFNγ concentrations were analysed. Bar graph shows mean IFNγ concentrations of n=3 technical replicates.
+Representative data of four independent experiments are depicted. d, As in c, depicting the IFNγ concentration in supernatants obtained from 2h LCK
+inhibitor treated cell cultures as a percentage of IFNγ concentration in control, non treated cell cultures. Dots represent four independent experiments,
+using different T cell donors in each experiment.
+
+                                                                                     NATURE CANCER | www.nature.com/natcancer
+```

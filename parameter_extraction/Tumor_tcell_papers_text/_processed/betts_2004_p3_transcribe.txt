@@ -1,0 +1,41 @@
+20. Detection of T-Cell Degranulation: CD107a and b
+
+499
+
+![Image](https://via.placeholder.com/150)
+
+**A**
+
+Granule Membrane
+
+CD107a  
+CD107b  
+CD63
+
+Granule core
+
+Perforin  
+Granzymes  
+Granulysin  
+Proteoglycan
+
+**B**
+
+Cytotoxic granule
+
+Activation  
+Granules move  
+to cell membrane
+
+Membranes merge  
+Degranulation
+
+αCD107a/b
+
+Cell membrane
+
+**Fig. 1** Schematic representation of a CD8\(^+\) T-cell cytolytic granule (A) and the principle mechanism of degranulation as it relates to measurement by CD107a/b expression (B). (A) Cytolytic granules are membrane-bound organelles related to lysosomes. A delimiting outer membrane contains various lysosomal membrane proteins, including CD107a, CD107b, and CD63. This surrounds a densely packed core, containing perforin, various granzymes, and granulysin, complexed with proteoglycan. (B) Upon activation of a CD8\(^+\) T-cell, pre-formed cytotoxic granules move toward the outer membrane of the cell in a polarized fashion toward the site of antigen presentation. Upon reaching the plasma membrane, the membrane of the granule and the plasma membrane merge, releasing the contents of the granule into the extracellular space. At this time, the CD107a and CD107b proteins from the granule membrane are accessible at the cell surface for specific antibody binding.
+
+dense core composed of various proteins, including perforin and granzymes (Peters et al., 1991) (Fig. 1A). The granule core is surrounded by a lipid bilayer containing numerous lysosomal-associated membrane glycoproteins (LAMPs), including CD107a (LAMP-1), CD107b (LAMP-2), and CD63 (LAMP-3).
+
+During the process of degranulation, the lytic granule membrane merges with the plasma membrane of the activated CD8\(^+\) T cell (Peters et al., 1991) and the contents of the granule are then released into the immunological synapse between the CD8\(^+\) T cell and the target cell (Fig. 1B). As a result of this process, the granular membrane, including CD107a, CD107b, and CD63 glycoproteins therein, is incorporated into the plasma membrane of the responding CD8\(^+\) T cell (Fukuda, 1991; Peters et al., 1991). High-level expression of CD107a and b on the cell surface of activated T cells requires degranulation, because degranulation inhibitors, such as colchicine, dramatically reduce cell-surface expression of CD107a and b (Betts et al., 2003). Protein synthesis inhibitors, such as cycloheximide, do not prevent expression, indicating that cell-surface CD107a/b expression on activated T cells occurs as a result of degranulation and not de novo synthesis of the CD107 proteins (A. Oxenius, 2003, unpublished observations).

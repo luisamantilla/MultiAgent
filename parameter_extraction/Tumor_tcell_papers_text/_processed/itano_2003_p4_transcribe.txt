@@ -1,0 +1,106 @@
+REVIEW
+
+from the antigen. This early display of pMHC class II complexes coin-
+cided with CD69 induction on, and IL-2 production by, antigen-
+specific CD4 T cells.
+   Analysis of DC subsets in the skin-draining nodes can be complicated
+by the similar surface phenotype of Langerhans cell immigrants and
+dermal DC immigrants. Both populations express similar amounts of
+CD11c, MHC class II and CD40, and can be distinguished only by subtle
+differences in the amounts of CD80, CD11b and CD205. Thus, the
+MHC class II+ populations of DCs shown to cause tumor rejection64 or
+delayed-type hypersensitivity reactions60 could have included dermal
+DCs. In the future, it will be necessary to use Langerhans cell–specific
+markers such as Langerin59,65 to unambiguously determine which skin-
+derived DC subsets are involved in antigen presentation.
+   Interstitial DC immigrants in lymph nodes are similar to Langerhans
+cell immigrants except that their immature forms are located in inter-
+stitial spaces other than the epidermis. The involvement of interstitial
+DC immigrants as APCs can be inferred from several recent reports. As
+described above, pMHC class II complexes displayed by interstitial
+(dermal) DC immigrants was directly detected using the Y-Ae antibody
+after subcutaneous injection of a soluble antigen containing a T-cell
+addition, CD11c+, MHCII+ cells containing fluorochrome-labeled oval-
+bumin appeared in the lung-associated lymph nodes after intratracheal
+administration of this antigen66. As these cells expressed CD11b and
+CD205, not CD80, they were probably interstitial DCs that acquired
+antigen in the interstitial tissue of the trachea and then migrated to the
+draining lymph nodes. When isolated from the peribronchial lymph
+nodes, these DCs stimulated ovalbumin-specific CD4 T cells in vitro66,
+indicating that the cells displayed the relevant pMHC class II complexes
+in vivo. However, T cell priming in these conditions occurs in mice
+lacking lymph nodes, raising the possibility that the initial pMHC class
+II presentation takes place in the lung parenchyma67, not the secondary
+lymphoid organs as in most other immune responses.
+   Interstitial DC immigrants may also be the initiating APCs for anti-
+gens that enter the body through the reproductive tract. Interstitial DC
+immigrants from the submucosa, but not Langerhans cell immigrants
+or blood-derived CD8α+ DCs, stimulated herpes simplex virus 2–
+specific CD4 T cells after intravaginal inoculation of herpes simplex
+virus 2 (ref. 68).
+
+Figure 2 Localization of lymph node DCs, injected soluble antigen and
+collagen network in situ. Small soluble proteins introduced into tissue travel
+rapidly to the draining lymph node through the afferent lymphatic vessels.
+The proteins first enter the subcapsular sinus of the lymph node, and then
+enter the conduits that connect the subcapsular sinus to HEVs that border
+the B cell–rich follicles. In each of two serial sections, a fluorescent protein
+(red) is found in the conduits of the draining lymph node 30 minutes after
+injection. B cell–rich follicles are shown in blue (stained with antibody to
+B220). (a) Conduits containing collagen type III (green) fibers link the
+subcapsular sinus (SC) to the HEVs (round or elliptical objects), and
+are densest near the B cell–rich follicles. At 30 minutes after subcutaneous
+injection, soluble antigen (red) co-localizes with the subcapsular sinus and
+conduits nearest the subcapsular sinus. (b) Higher magnification of the area
+outlined by the white square in a shows that some of the soluble protein
+colocalizes with the conduits (yellow; arrows), whereas some antigen is
+located just outside of but is associated with the conduits (red; circle). (c)
+DCs expressing large amounts of CD40 (green) near the follicles may have
+access to soluble antigen (red) that is carried in the conduits that are
+abundant in this area. (d) Higher magnification of the area outlined by the
+white square in c shows CD40+ DCs containing antigen (yellow; arrows).
+
+   Subcutaneously injected fluorescent microspheres are engulfed not
+only by interstitial DCs but also by monocytes that quickly enter the
+injection site from the blood, probably in response to inflammatory
+mediators induced by tissue damage caused by the injection52. Within
+24 hours, cells containing more than one bead and expressing large
+amounts of MHC class II and CD11c can be found among DC–specific
+molecules, but small amounts of CD11c and no Langerhans cell markers,
+appear in the draining lymph nodes. Monocytes that engulf particles
+and transmigrate in vitro across artificial endothelial cell layer also
+acquire phenotypic characteristics of DCs69. These results indicate that
+monocytes enter that tissue sites and engulf particles receiving signals to
+differentiate into DCs in the process of migrating from the tissue into
+an afferent lymphatic vessel. Although these monocyte-derived DCs
+are able to stimulate naive T cells in vitro70, their function in antigen
+presentation in vivo has yet to be determined.
+
+Migrating and resident DCs
+   In vitro studies have shown that proinflammatory cytokines cause
+Langerhans cells and other types of immature DCs to express more co-
+stimulatory molecules, reduce antigen uptake and processing, and stabi-
+lize surface pMHC class II complexes71. This process, often referred to as
+DC maturation, is thought to be coupled with DC migration, as
+inflammatory stimuli also induce tissue-resident DCs to travel to the
+draining lymph nodes. These linked processes would ensure that DCs
+migrating from the tissue are prepared to stimulate the appropriate
+naive T cells after arriving in the draining lymph node. Based on this
+model, most of the tissue-derived DCs that first arrive in the lymph
+node should have the properties of mature DCs. Indeed, Langerin-positive
+cells from skin-draining lymph nodes have large amounts of MHC class
+II molecules, and most express the maturation markers 2A1, CD86 and
+CD40 (ref. 2). However, a small subset of Langerin-positive cells were found
+to be 2A1–, and thus seemed to be immature59. As discussed below,
+these immature cells may be important in presenting pMHC class II
+complexes derived from soluble antigens acquired in the lymph nodes.
+   The sites at which the DCs in the aforementioned studies acquired
+antigen are not always apparent. It has been assumed that most of the
+DCs that present pMHC class II complexes to CD4 T cells acquired their
+antigens at the point of entry in the body before migrating to the lymph
+
+© 2003 Nature Publishing Group http://www.nature.com/natureimmunology
+
+736
+
+VOLUME 4 NUMBER 8 AUGUST 2003 NATURE IMMUNOLOGY

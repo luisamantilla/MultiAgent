@@ -1,0 +1,13 @@
+5.5  YFP insertion and the N-terminal rule
+
+One important determinant of protein in-vivo half-life is the amino-acid at its N-terminus (the N-terminal rule) (26-27). The YFP tagged proteins in the present library, were inserted as an artificial internal exon (mainly exons 2-5) (7, 11). Hence, the YFP tags do not abolish the N-terminal amino-acids and are less likely to interfere with the degradation signals than N-terminal fusions to fluorescent proteins.
+
+5.6  Temporal resolution of bleach-chase
+
+When performing bleach-chase using time-lapse microscopy one can achieve high temporal resolution (order of minutes) for hours and even days. The temporal resolution of bleach-chase is limited by the rate of the fluorescent tag folding and maturation, which ranges between a few minutes and two hours, depending on the type of fluorophore and environmental condition (28-30). Proteins that are constitutively degraded at a rate faster than fluorophore maturation time would therefore not be observable using the present assay.
+
+5.7  Additional applications of bleach-chase
+
+The present approach can be used to study protein degradation in different cellular compartments (e.g. nucleus versus cytoplasm) because bleach-chase allows a microscopy-based assay of protein removal. Additionally, bleach-chase facilitates measurements of degradation rates as a function of cell-cycle stage, without the need for chemical or physical synchronization. This can be achieved by applying bleach-chase to a population of unsynchronized cells, followed by in-silico synchronization (7, 11). Finally, one can use bleach-chase to retrieve protein production rates by using the measured removal rate and protein levels and applying Eq. 2 in Box S1.
+
+26

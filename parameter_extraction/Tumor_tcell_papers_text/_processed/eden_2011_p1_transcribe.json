@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "```\nRevised 13 January to include the figures.\n\nwww.sciencemag.org/cgi/content/full/science.1199784/DC1\n\nSupporting Online Material for\n\nProteome Half-Life Dynamics in Living Human Cells\n\nEran Eden,* Naama Geva-Zatorsky, Irina Issaeva, Ariel Cohen, Erez Dekel, Tamar\nDanon, Lydia Cohen, Avi Mayo, Uri Alon*\n\n*To whom correspondence should be addressed. E-mail: eraneden@gmail.com (E.E),\nurialon@weizmann.ac.il (U.A.)\n\nPublished 13 January 2011 on Science Express\nDOI: 10.1126/science.1199784\n\nThis PDF file includes\n\nMaterials and Methods\nSOM Text\nFigs. S1 to S8\nTables S1 to S9\nReferences\n\nOther Supporting Online Material for this manuscript includes the following:\n(available at www.sciencemag.org/cgi/content/full/science.1199784/DC1)\n\nMovie S1\n```",
+  "model": "gpt-4o",
+  "page": 1,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 7.18,
+  "filename": "eden_2011.pdf",
+  "doc_id": "eden_2011"
+}

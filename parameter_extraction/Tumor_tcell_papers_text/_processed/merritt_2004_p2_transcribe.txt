@@ -1,0 +1,121 @@
+```plaintext
+General Thoracic Surgery                                                                                       Merritt et al
+
+tumor cells are thought to escape the antitumor immune 
+response by its attenuating their expression of MHC class I 
+molecules. For example, class I is only inconsistently ex- 
+pressed by human lung cancer cells in vitro and in vivo.4-8 
+
+Many agents, including some cytokines and chemother- 
+apeutics, have been shown to enhance MHC class I expres- 
+sion by tumor cells.8-10 One of the most well-characterized 
+modulators in this regard is interferon-gamma (IFNγ), 
+which has been shown to enhance class I expression in 
+multiple human lung cancer cell lines.8,10 Despite this, a 
+paucity of data exists concerning the modulation of class I 
+molecule expression by IFN in established tumors in vivo. 
+In our laboratory, we have developed active antitumor im- 
+munotherapy strategies that are dependent on the generation 
+of tumor-specific, cellular immunity.11,12 One of these strat- 
+egies has involved the transduction of established murine 
+tumors with an adenovirus (Ad) gene transfer vector con- 
+taining the gene for CD40 ligand (AdCD40L).11 However, 
+these strategies have been clearly less effective in murine 
+tumors that express low levels of MHC class I.11,12 Given 
+that IFNγ enhances the expression of class I by tumor cells 
+in vitro,8-10 we hypothesized that administration of IFNγ to 
+mice bearing established tumors would up-regulate MHC 
+class I expression by the tumors and, subsequently, enhance 
+tumor-specific cellular immunity induced by AdCD40L. In 
+this regard, the data show that (1) exposure of B16.F10 
+tumor cells to IFNγ augments MHC class I expression in 
+vitro and in vivo and enhances tumor cell binding to tumor- 
+specific cytotoxic T lymphocytes (CTLs); (2) treatment of 
+tumor-bearing mice with a single dose of IFNγ results in 
+more efficient generation of tumor-specific CTLs by an 
+active immunotherapy strategy (AdCD40L); (3) exposure of 
+B16.F10 tumor cells to IFNγ enhances tumor-specific CTL 
+activation in coculture; (4) a single dose of IFNγ adminis- 
+tered to tumor-bearing mice augments the antitumor activity 
+and cure rate of an established immunotherapy strategy 
+(AdCD40L); and (5) these synergistic effects of IFNγ are 
+attenuated by the administration of an anti-MHC class I 
+monoclonal antibody (MAb).
+
+Materials and Methods 
+Mice 
+Female wild-type C57BL/6 (H-2b) mice (6-8 weeks old) were 
+obtained from Jackson Laboratories (Bar Harbor, Me). The mice 
+were housed under specific pathogen-free conditions and treated 
+according to the National Institutes of Health guidelines. All 
+animal procedures were approved by the Institutional Animal Care 
+and Use Committee.
+
+Cell Culture 
+B16.F10 (H-2b) and Lewis Lung Carcinoma (LLC; H-2b) are 
+syngeneic to C57BL/6 mice. The cell lines were obtained from 
+American Type Culture Collection (ATCC, Manassas, Va; catalog 
+no. CRL 6475) and maintained in complete Dulbecco’s modified 
+
+Eagle’s medium (DMEM; 10% fetal bovine serum, 100 μg/mL 
+streptomycin, and 100 U/mL penicillin) at 5% CO2 and 37°C.
+
+Adenovirus Vectors 
+All gene transfer vectors used in this study are replication-defi- 
+cient, E1-, E3-vectors based on the adenovirus serotype 5 (Ad5) 
+genome. AdCD40L contains an expression cassette with the mu- 
+rine CD40L cDNA under the control of the cytomegalovirus 
+early-immediate promoter/enhancer.11 AdNull, a control vector, is 
+similar to AdCD40L but contains an empty expression cassette.13 
+Adenovirus vectors were propagated in human embryonic kidney 
+cells (293 cells; ATCC) and purified through 2 cesium chloride 
+gradient ultracentrifugations as previously described.14,15 The vi- 
+ral particle concentration was determined by ultraviolet absor- 
+bance at 260 nm.16
+
+Quantification of MHC Class I Expression in Vitro 
+To determine whether IFNγ up-regulates the expression of class I 
+by B16.F10 cells in vitro, 50% confluent B16.F10 cells were 
+exposed to 500 U/mL of recombinant murine IFNγ (rmIFNγ; 
+Roche Diagnostics, Mannheim, Germany) for 48 hours in com- 
+plete DMEM at 37°C. The cells were harvested, washed 3 times 
+with phosphate-buffered saline (PBS), and stained with either 
+fluorescein isothiocyanate (FITC)-conjugated mouse anti-mouse 
+H-2Kb MAb or FITC-mouse immunoglobulin G (IgG)2κ isotype 
+control antibody (Pharmingen, San Diego, Calif). The cells were 
+then subjected to flow cytometric analysis (FACStar, Becton Dick- 
+inson, San Jose, Calif) to determine H-2Kb MHC class I expres- 
+sion.
+
+Modulation of MHC Class I Expression in Vivo 
+To assess the ability of IFNγ to enhance MHC class I expression 
+by established tumors in vivo, 5 × 105 B16.F10 cells were 
+injected subcutaneously in the right flanks of wild-type 
+C57BL/6 mice. When the tumors were approximately 45 to 50 
+mm2 (day 8), a single subtherapeutic dose (5000 U) of rmIFNγ 
+was administered into the peritoneal cavity (IP). The animals 
+were killed and the tumors harvested 24 or 48 hours after 
+rmIFNγ injection. Untreated tumor-bearing mice served as neg- 
+ative controls. The tumors were resected from the right flank, 
+embedded in Optimal Cutting Temperature compound (Sakura 
+Finetek, Torrance, Calif), snap-frozen in a 2-methylbutane/dry 
+ice bath, and prepared as 10-μm frozen sections. The tumor 
+sections were blocked with 5% goat serum (Sigma Chemical 
+Co, St Louis, Mo) for 20 minutes, washed with PBS, and 
+incubated with a biotin-conjugated mouse anti-mouse H-2Kb 
+MAb (Pharmingen) for 2 hours. The slides were then washed 
+with PBS and incubated with avidin-horseradish peroxidase 
+solution (Pharmingen) for 30 minutes. After further washing 
+with PBS, the tumor sections were exposed to 3,3’-diaminoben- 
+zidine chromagen substrate (Pharmingen) for 10 minutes, 
+washed with PBS, and counterstained with hematoxylin. Fol- 
+lowing 3 washes with deionized water, the tumor sections were 
+rehydrated with 95% ethanol and mounted for light microscopy.
+
+Generation and Purification of Tumor-Specific 
+Cytotoxic T Lymphocytes 
+To generate activated tumor-specific CD8+ CTLs, 5 × 105 
+B16.F10 cells were injected into the right flanks of C57BL/6 mice.
+
+356 The Journal of Thoracic and Cardiovascular Surgery • February 2004
+```

@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "```\nFigure S7.\n\nA\n\nNo. of cells\n0 0.5 1 1.5 2 2.5 3\n\nP\n0 0.5 1 1.5 2 2.5 3\n\nV\n0 0.5 1 1.5 2 2.5 3\n\nP_t\n0 0.5 1 1.5 2 2.5 3\n\nV_t\n0 0.5 1 1.5 2 2.5 3\n\nP_t / V_t\n0 0.5 1 1.5 2 2.5 3\n\nP_t / No. of cells\n0 0.5 1 1.5 2 2.5 3\n\nTime (no. of cell cycles)\n```",
+  "model": "gpt-4o",
+  "page": 36,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 8.04,
+  "filename": "eden_2011.pdf",
+  "doc_id": "eden_2011"
+}

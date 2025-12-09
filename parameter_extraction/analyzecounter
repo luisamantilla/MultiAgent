@@ -1,0 +1,13 @@
+import json
+from collections import Counter
+
+data = json.load(open("parameter_extraction/results/merged_parameters.json"))
+params = data["parameters"]
+
+# Count by biological process keywords
+context_counts = Counter(info["context"] for info in params.values())
+
+print(f"Total parameters: {len(params)}\n")
+print("Top 10 biological contexts:")
+for k, v in context_counts.most_common(10):
+    print(f"{k}: {v}")

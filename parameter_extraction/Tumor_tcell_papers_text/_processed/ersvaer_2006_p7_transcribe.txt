@@ -1,0 +1,84 @@
+```plaintext
+19
+
+Table 1 The effect of IFNγ on cytokine-dependent proliferation by native human AML cells: a summary of the results for 67 consecutive 
+patients
+
+Exogenous      Number of patients     Statistical comparison of proliferative response     Number of patients 
+cytokine       with detectable        (mean cpm ± standard error)                          with > 20% inhibitionb
+               proliferation
+               in IFNγ-free controlsa
+
+               Cultures without IFNγ  Cultures with IFNγ  P valuec
+
+None           21                     5,885 ± 1,376       9,692 ± 3,456                   NS  –
+IL1R1a         25                     5,768 ± 1,113       5,169 ± 1,519                   NS  –
+IL1β           40                     11,911 ± 3,353      6,006 ± 1,679                   0.001 16/40
+IL3            49                     17,543 ± 3,661      12,048 ± 2,015                  0.052 22/49
+SCF            50                     22,491 ± 4,553      11,078 ± 2,510                  < 0.0005 36/50
+Flt3L          53                     15,107 ± 3,252      12,313 ± 1,914                  NS  –
+GM-CSF         48                     13,554 ± 3,099      7,929 ± 1,425                   0.039 23/48
+G-CSF          49                     16,037 ± 3,716      9,672 ± 1,912                   0.015 25/49
+
+Native human AML cells were cultured in serum-free medium and proliferation assayed as 3H-thymidine incorporation after 7 days. The 
+results are presented as counts per minute (cpm)
+NS no significance
+a A total of 67 consecutive patients were examined, but only those patients with detectable proliferation (> 1,000 cpm) either in the IFNγ-
+containing or corresponding IFNγ-free control were included in the statistical analysis
+b The column indicates the number of patients who showed an IFNγ-induced alteration corresponding to at least 2,000 cpm and exceeding 
+20% of the control response
+c The two-tailed Wilcoxon’s signed rank test was used for the statistical analysis
+
+Effects of IFNγ on the constitutive AML cell release 
+of IL1β and GM-CSF
+
+The levels of GM-CSF and IL1β were determined for 
+AML cells derived from 65 consecutive patients, when 
+cells were cultured in medium alone and together with 
+only for 14 patients (range 3–30 pg/ml) and GM-CSF 
+release for 10 patients (range 3–2,313 pg/ml). IFNγ 
+caused no significant alteration of these levels. In addi-
+tion, the effect of IFNγ on AML cell proliferation was 
+investigated when cells were cultured in the presence of 
+exogenous IL1Rα. IL1Rα had no significant effect on 
+the autonomous AML blast proliferation in our in vitro 
+model, and IFNγ did not alter blast proliferation in the 
+presence of IL1Rα (Table 1).
+
+Effects of IFNγ on the constitutive AML cell release 
+of angioregulatory chemokines
+
+Angiogenesis is probably important both for leuko-
+genesis and chemosensitivity in AML, and the consti-
+tutive release of angioregulatory mediators by the 
+leukaemia cells [34] is probably important for the local 
+regulation of bone marrow angiogenesis in AML. We 
+therefore investigated the effect of exogenous IFNγ on 
+the constitutive release of pro- and antiangiogenic 
+chemokines by AML cells. Leukaemia cells derived from 
+65 consecutive patients were cultured in vitro in medium 
+alone or together with IFNγ for 48 h before the levels of 
+angioregulatory chemokines were determined (Fig. 6). 
+Constitutive release of proangiogenic CXCL8 was ob-
+served for most patients (57/67), and CXCL8 levels were 
+slightly decreased in the presence of IFNγ (P = 0.0004). 
+In contrast, constitutive increased levels of antiangio-
+
+![Difference in viability (%)](image)
+
+Fig. 5 The effect of IFNγ on cytarabine-induced AML cell 
+apoptosis. Leukaemic cells derived from 10 consecutive patients 
+were examined. The median percentage of viable cells was 40% 
+(variation range 17–84) after 24 h and 29% (range 17–83) after 
+48 h for cells cultured in medium alone; and viability was decreased 
+both by cytarabine 1.0 μM (24 h: median viability 26%, range 18–
+57; 48 h: median 18; range 9–30) and 0.1 μM (24 h: median 
+viability 37%, range 17–82; 48 h: median 25; range 17–80). The 
+figure compares the effect of IFNγ 50 ng/ml on AML cell viability 
+for cells cultured in the medium alone (horizontal axis) and medium 
+with cytotoxic drugs (vertical axis). The results are presented as the 
+difference in percentage of viable cells for cultures with and without 
+IFNγ, and we present the overall results for both concentrations 
+and both time intervals (*P = 0.02; **P = 0.008; ***P < 0.001. 
+Other symbols are explained in the figure)
+```

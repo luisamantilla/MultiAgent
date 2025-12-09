@@ -1,0 +1,139 @@
+```
+ARTICLES
+
+a
+
+Total IFNG UMI production
+
+0 20 40 60 80 100
+
+CD8+ T cells
+
+b
+
+Contribution to IFNG signature
+
+0 0.1 0.2 0.3 0.4
+
+CXCL10
+GBP1
+CXCL9
+GBP5
+GBP4
+FAM26F
+STAT1
+IRF1
+SLAMF7
+WARS
+NFKBIA
+C3
+
+c
+
+Mean IFNG score in monocytes/macrophages
+
+R = 0.75
+P = 0.017
+
+0 10 20 30 40
+
+IFNG+ cells among CD8+ cells (%)
+
+d
+
+Density
+
+0 0.2 0.4 0.6
+
+0 5 10
+
+IFNG score
+
+Percentage of IFNG+ among CD8+ T cells: 11.0%
+
+Density
+
+0 0.2 0.4 0.6
+
+0 5 10
+
+IFNG score
+
+Percentage of IFNG+ among CD8+ T cells: 17.0%
+
+Density
+
+0 0.2 0.4 0.6
+
+0 5 10
+
+IFNG score
+
+Percentage of IFNG+ among CD8+ T cells: 31.4%
+
+e
+
+0 0.1 0.2 0.3 0.4 0.5
+
+GBP1
+GBP5
+WARS
+CXCL9
+TNFAIP2
+IGHG4
+
+f
+
+Mean IFNG score in neutrophils
+
+R = 0.85
+P = 0.0031
+
+0 10 20 30 40
+
+IFNG+ cells among CD8+ cells (%)
+
+g
+
+Density
+
+0 0.5 1.0
+
+0 2.5 5.0 7.5 10.0
+
+IFNG score
+
+Percentage of IFNG+ among CD8+ T cells: 11.0%
+
+Density
+
+0 0.5 1.0
+
+0 2.5 5.0 7.5 10.0
+
+IFNG score
+
+Percentage of IFNG+ among CD8+ T cells: 17.0%
+
+Density
+
+0 0.5 1.0
+
+0 2.5 5.0 7.5 10.0
+
+IFNG score
+
+Percentage of IFNG+ among CD8+ T cells: 31.4%
+
+Fig. 6 | Assessing IFN-γ bystander activity in human melanoma samples. Measurement of the IFN-γ signature in the tumor microenvironment of
+melanoma patients using single-cell RNA-seq. a, Contribution of distinct cell clusters to IFNG RNA unique molecular identifier (UMI) production.
+Data are compiled from all patients analyzed (n = 8). b, Gene contribution to the IFN-γ signature in the monocyte/macrophage cluster. c, Association
+between the percentage of IFN-γ+ cells ( >1UMI) among CD8+ cells and the IFN-γ score in monocytes/macrophages (R represents Pearson’s correlation
+coefficient; statistical significance was assessed using Fisher’s test). d, Distribution of the IFN-γ signature in monocytes/macrophages from three different
+patients harboring distinct frequencies of IFN-γ+ CD8+ T cells (density in a.u., arbitrary units). e, Gene contribution to the IFN-γ signature in the
+neutrophil cluster. f, Association between the percentage of IFN-γ+ cells among CD8+ cells and the IFN-γ score in neutrophils (R represents Pearson’s
+correlation coefficient; statistical significance was assessed using Fisher’s test). g, Distribution of IFN-γ signature in neutrophils from three different
+patients harboring distinct indicated frequencies of IFN-γ+ CD8+ T cells.
+
+NATURE CANCER | www.nature.com/natcancer
+```

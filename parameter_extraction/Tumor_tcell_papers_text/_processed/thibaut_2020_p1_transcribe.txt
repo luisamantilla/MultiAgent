@@ -1,0 +1,98 @@
+```plaintext
+nature
+cancer
+
+ARTICLES
+https://doi.org/10.1038/s43018-020-0038-2
+
+Bystander IFN-γ activity promotes widespread
+and sustained cytokine signaling altering the
+tumor microenvironment
+
+Ronan Thibaut1,2, Pierre Bost3,4,5,6, Idan Milo1,6, Marine Cazaux1,2, Fabrice Lemaître1, Zacarias Garcia1,
+Ido Amit3, Béatrice Breart1, Clémence Cornuot1, Benno Schwikowski4 and Philippe Bousso1 ✉
+
+The cytokine interferon (IFN)-γ produced by tumor-reactive T cells is a key effector molecule with pleiotropic effects during
+anti-tumor immune responses. Although IFN-γ production is targeted at the immunologic synapse, its spatiotemporal activity
+within the tumor remains elusive. In the present study, we report that, although IFN-γ secretion requires local antigen recogni-
+tion, IFN-γ diffuses extensively to alter the tumor microenvironment in distant areas. Using intravital imaging and a reporter
+for STAT1 translocation, we provide evidence that T cells mediate sustained IFN-γ signaling in remote tumor cells. Furthermore,
+tumor phenotypic alterations required several hours of exposure to IFN-γ, a feature that disfavored local IFN-γ activity over
+diffusion and bystander activity. Finally, single-cell RNA-sequencing data from melanoma patients also suggested bystander
+IFN-γ activity in human tumors. Thus, tumor-reactive T cells act collectively to create large cytokine fields that profoundly
+modify the tumor microenvironment.
+
+IFN-γ is a key soluble effector molecule during anti-tumor immune
+responses. Mice deficient for IFN-γ production are prone to
+develop spontaneous or carcinogen-induced tumors, highlight-
+ing the crucial role of this cytokine in tumor immunity1,2. Because
+IFN-γ also plays an important role during tumor immunoediting3,
+the absence of this anti-programmed death 1 (anti-PD-1) ther-
+apy in mice has been shown to be dependent on IFN-γ production
+by CD8+ T cells and the associated interleukin (IL)-12 production
+by dendritic cells4. Moreover, in melanoma patients, acquired resis-
+tance to anti-cytotoxic T-lymphocyte antigen 4 therapy has been
+associated with mutations in the IFN-γ signaling pathway5.
+
+Several mechanisms have been described to explain the benefi-
+cial impact of IFN-γ in the tumor microenvironment. For exam-
+ple, IFN-γ can exert direct cytotoxic or cytostatic effects on tumor
+cells6,7, and contribute to senescence and tumor ferroptosis8.
+In addition, IFN-γ signaling on stromal cells can lead to reduced
+angiogenesis in the tumor bed, limiting nutrients and oxygen
+access9,10. IFN-γ signaling can also lead to major histocompatibility
+complex (MHC) class I upregulation, thereby increasing tumor sensi-
+tivity to CD8+ T cell-mediated lysis11. Finally, IFN-γ orchestrates
+the recruitment of natural killer (NK) cells, T cells and invariant
+NK T cells to the tumor by triggering production of the chemokines
+CXCL9, CXCL10 and CXCL11 (ref. 12).
+
+Conversely, intratumoral IFN-γ may have detrimental effects on
+the outcome of anti-tumor immune responses. In this regard, it has
+been reported that IFN-γ increases tumor cell genomic instability13,
+a process that may favor tumor escape from the immune pressure.
+IFN-γ can also induce the expression of ligands for inhibitory recep-
+tors such as PD ligand 1 (PD-L1) and PD-L2 on stromal and tumor
+cells14, contributing to the inhibition of tumor-infiltrating T cells15,16.
+IFN-γ could also induce the differentiation of tumor-reactive T cells by
+favoring activation-induced cell death17. Finally, long-term IFN-γ
+exposure has been associated with deep transcriptomic changes in
+tumor cells that can contribute to the failure of immune checkpoint
+blockade therapy18.
+
+Despite our understanding of molecular and cellular mechanisms
+triggered by IFN-γ, we critically lack information on the spatio-
+temporal activity of this cytokine in the tumor microenvironment.
+Quantitative rules regulating cell–cell communication are only
+starting to be considered19 but are essential to understand complex
+immune responses. Fundamental questions remain to be addressed.
+Does IFN-γ act primarily in discrete areas or more widely in the
+tumor microenvironment? How is IFN-γ spatially shaped by
+the number of cytokine-producing T cells? What is the duration of
+IFN-γ exposure required to alter tumor cell function and phenotype?
+It is well established that IFN-γ is secreted by T cells in a directional
+manner toward the immunologic synapse formed with target cells20.
+On T cell receptor (TCR) stimulation, IFN-γ production is also
+thought to be a brief (few hours) long event21. Although these two
+features are expected to favor a local activity of IFN-γ around the
+sites of cytokine production, the extent of IFN-γ diffusion in tissue
+has yet to be fully understood. Indeed, using in vitro settings, it has
+been shown that the immunologic synapse does not perfectly restrict
+IFN-γ secretion, which accounts for bystander activity of IFN-γ
+in cells that are not in contact with cytokine-producing T cells22.
+Evidence for bystander IFN-γ activity has also been reported in vivo
+in the mesenteric lymph node after Toxoplasma gondii infection23
+and in the dermis infected with Leishmania major24. Yet, the extent
+and functional consequences of IFN-γ diffusion in the microenvi-
+ronment of distinct tumor types remain unclear.
+
+In the present study, we investigated the spatiotemporal activity
+of IFN-γ in the tumor microenvironment using B cell lymphoma
+
+1Dynamics of Immune Responses Unit, Equipe Labellisée Ligue Contre le Cancer, Institut Pasteur, INSERM U1223, Paris, France. 2University Paris Diderot,
+Sorbonne Paris Cité, Collège Pasteur, Paris, France. 3Department of Immunology, Weizmann Institute of Science, Rehovot, Israel. 4Systems Biology Group,
+Center for Bioinformatics, Biostatistics, and Integrative Biology and USR 3756, Institut Pasteur CNRS, Paris, France. 5Sorbonne Université, Paris, France.
+6These authors contributed equally: Pierre Bost, Idan Milo. ✉e-mail: philippe.bousso@pasteur.fr
+
+NATURE CANCER www.nature.com/natcancer
+```

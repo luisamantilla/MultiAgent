@@ -1,0 +1,129 @@
+```plaintext
+440                                                                                           DC subsets and their development
+                                                                                                           SH Naik
+
+immune response appear to have developed over evolutionary time.12 
+DCs appear to be one of the most important of these processes and 
+they must contend with several variables when providing such a link. 
+These include (1) the distinct kinds of pathogens, (2) distinct routes of 
+infection and (3) the inhibitory mechanisms employed by pathogens 
+to limit their detection.
+
+How do DCs sense infections? Pathogens unwittingly, or at least 
+unwittingly, signal their presence by their associated molecular 
+patterns or resulting pathology,13 for which DCs, in turn, have pattern 
+recognition receptors.14 If this is the case, could not the one kind of 
+DC conceivably arm itself with all receptors and respond only in 
+accordance to each infection? The answer could be ‘yes’, and one might 
+find an example if lower-order animals were probed for such a 
+putative ancestral DC subtype. But at least in many mammalian 
+species, the answer appears to be ‘no’, with the presence of many 
+distinct and overlapping DC subtypes.7,15–18 Perhaps ancestral DCs 
+split at some evolutionary stage, and the advantages of a division of 
+labor of multiple DC subtypes outweighed the simplicity of having 
+just the one—akin to the split in T versus B lymphocytes that occurred 
+in the transition from jawless to jawed vertebrates.12,19 This is 
+speculation and the issue is better suited to the dedicated immune 
+evolutionary literature.
+
+DC CLASSIFICATION
+As previously described, DCs can be categorized by some general 
+properties of their life history.7 Our group has preferred to classify the 
+DC family by the following criteria (upon which I have elaborated 
+further in Table 1): first, whether they are derived from a common 
+myeloid organ (‘migratory’), develop and reside within the lymphoid 
+organs (‘resident’) or develop in the bone marrow (BM) and are 
+circulating in the bloodstream (‘circulating’); third, whether they are 
+present in the uninfected ‘steady state’ or whether they arise with 
+infection or inflammation (‘inflammatory’); fourth, into the different 
+subtypes and fifth, whether the DC itself is ‘unactivated’ or ‘activated’ 
+(the latter could result in T-cell activation or tolerization) (Table 1). 
+Each of these classes could, in turn, be given more levels of 
+complexity (for example, which organ they are resident in, different 
+types of activation and so on), but for the purpose of this review it will 
+be left there. Any cell of the DC family, at any one time, should be 
+amenable to a value for each of the five classifiers described above.
+
+Pre-DCs versus DCs
+Cells in the immediate previous step of DC development are classified 
+as pre-DCs. They can differentiate into DCs by default in the steady 
+state, or may require additional signals only provided by infection or 
+inflammation.7 This is an important distinction to make as some pre-
+DCs, such as monocytes and plasmacytoid cells (pDCs), also have 
+unique functions in the steady state, independent of their capacity for 
+DC differentiation (discussed later), and are circulating. Nevertheless, 
+their potential as pre-DCs ascribes them a property to distinguish 
+them from non-DC APCs such as B cells and macrophages. Other pre-
+DCs, such as pre-conventional DCs (pre-cDCs) develop into DCs by 
+default in the steady state (also discussed later). ‘Developed’ DCs, by 
+contrast, are ‘dendritic’ when freshly isolated, even though there may 
+still be differences in levels of ‘maturation’ or immunogenicity (see 
+below).
+
+Migratory
+Migratory DCs are ‘born’ in the periphery, act there as sentinels for 
+pathogens or peripheral self-antigen, then migrate via the lymphatics 
+toward draining lymphoid organs. This process is usually accompa-
+nied by a kind of maturation and occurs at a basal rate in the steady 
+state20–22 so that they are found in the draining lymphoid organs as 
+‘mature’ DCs.23 Surprisingly, this process can occur even in germ-free 
+or Toll-like receptor (TLR) signaling-independent scenarios.24,25 but 
+can also be enhanced upon infection or inflammation.26,27 Subtle 
+crucial differences other than major histocompatibility (MHC) class II 
+levels, a classic activation marker, differentiate mature steady-state 
+DCs versus mature pathogen-activated DCs. Factors can include co-
+stimulatory molecules and cytokine production that must always be 
+taken into account when determining any influence on T-cell fate.31 
+Langerhans cells (LCs) and dermal DCs fit into the migratory DC 
+category.
+
+Resident
+Lymphoid-tissue resident, or ‘simply resident DCs’, are located in all 
+lymphoid organs of the steady state. They are distinct from migratory 
+DCs in that they are not derived from the periphery, but rather from 
+the BM. Resident DCs include the CD8+ cDCs, the CD11b+ cDCs, 
+CD11c+ CD45RA+ MHC IIint cDC, which can be further broken into 
+two broad subsets: the CD8+ cDC and the CD8− cDC.5,36 Most CD8− 
+cDCs also express CD4 but are largely overlapping in function with 
+those that do not.23,34
+
+Circulating
+Although it is clear that some pre-DCs, including pDCs and Ly6Chi 
+monocytes, can circulate in blood and extravasate tissues depending 
+on the circumstances, one should take care not to refer to these as 
+circulating DCs. Some arguments favor that cDC migrate via the 
+blood and can seed the spleen and lymphoid organs.34,35 However, 
+CD11cHi cDC are actually not found in significant numbers in the 
+blood,36,37 and only some in BM.38 The majority of CD11c+ cells in the 
+blood are B220+ pDCs, DN5+ NK cells, MHCII− pre-DCs39 or 
+Ly6Clo monocytes (which might also overlap with blood pre-
+DC1).37,40,41 No cell freshly isolated from mouse blood has, to my 
+knowledge, been demonstrated to be a good T-cell activator without 
+prior hematopoietic development.37 Why this conflicts with the 
+observation of DCs in human blood18 is unknown, but might be 
+explained by ‘dirty’ humans versus ‘clean’ mice, or indicate a species 
+difference.
+
+THE PLAYERS
+Monocytes
+Monocytes can be pre-DCs, and are phagocytic cells of the myeloid 
+lineage that are found in several organs, including blood, BM and 
+spleen at low levels (Figure 1). Upon infection or inflammation, they 
+are recruited into the bloodstream and organs for innate immune 
+functions42,43 (Figure 2). They represent a relatively terminal stage in 
+what is often referred to as the mononuclear phagocyte system, or 
+MPS44 and probably derive from monocyte-DC precursors—
+
+Table 1 DC classification
+
+| DC stage       | Pre-DC       | Developed DC |
+|----------------|--------------|--------------|
+| 2 DC life history | Migratory    | Resident     | Circulating |
+| 3 host state   | Steady state  | Inflammatory |
+| 4 DC subtype   | The different DC subtypes |
+| 5 DC activation state | Unactivated | Activated |
+
+Abbreviations: DC, dendritic cell; pre-DC, precursors of DC.
+
+Immunology and Cell Biology
+```

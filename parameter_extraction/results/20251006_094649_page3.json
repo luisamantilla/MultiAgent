@@ -1,0 +1,93 @@
+{
+  "tables": [],
+  "figures": [
+    {
+      "parameter": "B",
+      "value": null,
+      "units": null,
+      "context": "B cell in schematic model"
+    },
+    {
+      "parameter": "E",
+      "value": null,
+      "units": null,
+      "context": "Epithelial cell in schematic model"
+    },
+    {
+      "parameter": "CDE",
+      "value": null,
+      "units": null,
+      "context": "CD4+ T cell in schematic model"
+    },
+    {
+      "parameter": "T",
+      "value": null,
+      "units": null,
+      "context": "T cell in schematic model"
+    },
+    {
+      "parameter": "N",
+      "value": null,
+      "units": null,
+      "context": "Neutrophil in schematic model"
+    },
+    {
+      "parameter": "M",
+      "value": null,
+      "units": null,
+      "context": "Macrophage in schematic model"
+    },
+    {
+      "parameter": "X",
+      "value": null,
+      "units": null,
+      "context": "Infected cell in schematic model"
+    },
+    {
+      "parameter": "V",
+      "value": null,
+      "units": null,
+      "context": "Virus in schematic model"
+    }
+  ],
+  "text": [],
+  "equations": [
+    {
+      "parameter": "Pr(add Q\u0304 \u2192 type cells)",
+      "value": "1 - e^(-f\u0394t) \u03a3 (f\u0394t)^j / j!",
+      "units": null,
+      "context": "Probability of adding cells over a period"
+    },
+    {
+      "parameter": "Pr(remove s(t) = Q\u0304)",
+      "value": "1 - e^(-x\u0394t)",
+      "units": null,
+      "context": "Probability of removing cells"
+    },
+    {
+      "parameter": "Pr(\u03c4(s, t + \u0394t) = \u015c | \u03c4(s, t) = Q\u0304)",
+      "value": "1 - e^(-u\u0394t)",
+      "units": null,
+      "context": "Probability of cell transition"
+    },
+    {
+      "parameter": "\u03b3(s\u0304, Q\u0304, A\u0304v)",
+      "value": "rA\u0304v / A\u0304s\u0304Q\u0304 - \u03bbA\u0304v / A\u0304s\u0304Q\u0304",
+      "units": null,
+      "context": "Cellular process rate"
+    },
+    {
+      "parameter": "H = \u03a3 \u03bbi(||\u03c8(s, t)|| - \u03bd(c(s, t)))^2",
+      "value": null,
+      "units": null,
+      "context": "Energy function for cell migration"
+    },
+    {
+      "parameter": "P(\u03c3(y, t) \u2192 \u03c3(y', t))",
+      "value": "e^(-\u0394H / T)",
+      "units": null,
+      "context": "Probability of cell site copying"
+    }
+  ],
+  "summary": "The page describes a model of influenza infection and immune response using a cellularized approach. It includes equations for cell transition probabilities and cellular process rates. A schematic model illustrates various cell types involved, such as B cells, epithelial cells, and macrophages. The model aims to simulate spatial dynamics and interactions between different cell types in the immune response."
+}

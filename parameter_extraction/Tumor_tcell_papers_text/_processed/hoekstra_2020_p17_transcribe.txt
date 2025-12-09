@@ -1,0 +1,51 @@
+```plaintext
+NATURE CANCER                                                                                   ARTICLES
+
+a
+
+2.0
+1.5
+1.0
+0.5
+0.0
+
+Volume Ag+ (relative)
+
+0     16     24     32     40     48     72     120
+                      time (h)
+
+b
+
+1000
+ 800
+ 600
+ 400
+ 200
+   0
+
+Distance to nearest Ag+ cell (µm)
+
+0     16     24     32     40     48     72     120
+                      time (h)
+
+1000
+ 800
+ 600
+ 400
+ 200
+   0
+
+Distance to nearest Ag+ cell (µm)
+
+0     16     24     32     40     48     72     120
+                      time (h)
+
+Extended Data Fig. 5 | Analysis of T cell mediated loss of Ag-presenting tumor cells over time. a, Relative GFP+ volume in tumors from imaging 
+experiments described in Fig. 2 quantified over time. Mean and SEM are depicted for n=5 mice (n=5 mice for time 0, 16, 24, and 32 h; n=4 for 40, 48, and 
+72 h; n=3 for 120 h, from data obtained in all independent experiments. b, The distance between CFP+ bystander tumor cells and the closest GFP+ Ag+ 
+tumor cell was determined at indicated time points from tumors described in Fig. 2 for n=2 mice. Data are obtained from two independent experiments, 
+boxplot presenting the minimum, 25th percentile, median, 75th percentile and the maximum for total sample size per timepoint see Source Data 
+ED_Fig5_source table.
+
+NATURE CANCER | www.nature.com/natcancer
+```

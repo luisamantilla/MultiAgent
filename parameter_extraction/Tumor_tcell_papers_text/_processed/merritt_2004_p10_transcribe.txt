@@ -1,0 +1,130 @@
+```plaintext
+adenovirus vector-mediated expression of CD40 ligand in tumor cells. 
+Hum Gene Ther. 1999;10:1375-87.
+12. Lee JA, Mathiowitz A, Yamada R, Crystal RG, Korst RJ. Adenovirus 
+vector-mediated expression of a truncated form of the p65 nuclear 
+factor κB cDNA in dendritic cells enhances their function resulting in 
+immune-mediated suppression of preexisting murine tumors. Clin 
+Cancer Res. 2002;8:3580-91.
+13. Hersh JR, Crystal RG, Byvig B. Modulation of gene expression after 
+replication deficient, recombinant adenovirus-mediated gene transfer by 
+the product of a second adenovirus vector. Gene Ther. 1995;2:124-31.
+14. Rosenfeld MA, Yoshimura K, Trapnell BC, Yoneyama K, Rosenthal 
+ER, Dalemans W, et al. In vivo transfer of the human cystic fibrosis 
+transmembrane conductance regulator gene to airway epithelium. Cell. 
+1992;68:143-55.
+15. Rosenfeld MA, Siegfried W, Yoshimura K, Yoneyama K, Fukayama 
+M, Stier LE, et al. Adenovirus-mediated transfer of a recombinant 
+alpha1-antitrypsin gene to the lung epithelium in vivo. Science. 1991; 
+252:431-4.
+16. Mittereder N, March KL, Trapnell BC. Evaluation of the concentration 
+and bioactivity of adenovirus for gene therapy. J Virol. 1996;70:7498-509.
+17. Nakamura T, Takahashi H, Koyanagi M, Yagita H, Okumura K. 
+Activation of a natural killer clone upon target cell binding via CD2. 
+Eur J Immunol. 1991;21:831-4.
+18. Noguchi K, Tanimura H, Yamauel H, Iwahashi M, Tsunoda T, Tani M, 
+et al. Enhancement of tumor cell susceptibility to tumor-infiltrating 
+lymphocytes by cisplatin. J Cancer Res Clin Oncol. 1997;123:345-51.
+19. Lewis J, Janetzki S, Schaed S, Panageas KS, Wang S, Williams L, et 
+al. Evaluation of CD8+ T cell frequencies by the ELISPOT assay in 
+healthy individuals and in patients with metastatic melanoma immu- 
+nized with tyrosinase peptide. Int J Cancer. 2000;87:391-8.
+20. Scheibenbogen C, Romero P, Rivoltini L, Herr W, Schmittel A, 
+Cortinovis J-C, et al. Quantitation of antigen-reactive T cells in periph- 
+eral blood by IFN-γ-ELISPOT assay and chromium-release assay: a 
+four-centre comparative trial. J Immunol Methods. 2000;244:81-9.
+21. Doherty PC, Knowles BB, Wettstein PJ. Immunological surveillance 
+of tumors in the context of major histocompatibility complex restric- 
+tion of T cell function. Adv Cancer Res. 1984;42:1-65.
+22. Hui KM. Re-expression of major histocompatibility complex (MHC) 
+class I molecules on malignant tumor cells and its effect on host-tumor 
+interaction. BioEssays. 1999;18:121-6.
+23. Marrack P, Kappler J. The T-cell repertoire for antigen and MHC. 
+Immunol Today. 1988;9:308-15.
+24. Greenlee RT, Murray T, Bolden S, Wingo PA. Cancer statistics, 2000. 
+CA Cancer J Clin. 2000;50:7-33.
+25. Hollinshead A, Stewart TH, Takita H, Dalbow M, Conannon J. 
+Adjuvant specific lung cancer immunotherapy trials. Tumor-associated 
+antigens. Cancer. 1977;60:1249-62.
+26. Biedler TM, Maclean AM, Foreman MD, Cerosaletti KM, Frelinger 
+JG, Lord EM. Class-I MHC expression in the mouse lung carcinoma 
+line: 1. a model for class-I inducible tumors. Int J Cancer. 1999;69:82-9.
+27. Yamada M, Shiroki T, Kawaguchi Y, et al. CD40-CD40 ligand 
+(CD154) engagement is required but not sufficient for modulating 
+MHC class I, ICAM-1 and Fas expression and proliferation of human 
+non-small cell lung tumors. Int J Cancer. 2001;92:589-99.
+28. Al-Moundhri M, O'Brien M, Souberbielle BE. Immunotherapy in lung 
+cancer. Br J Cancer. 1998;78:282-8.
+29. Gleave ME, Elhilali M, Fradet Y, Davis I, Venner P, Saad F, et al. 
+Interferon gamma-1b compared to placebo in metastatic renal-cell 
+carcinoma. N Engl J Med. 1998;338:1265-71.
+
+Discussion
+Dr Dao D. Nguyen (Bethesda, Md). How toxic is IFNγ injec- 
+tion to animals?
+
+Dr Merritt. We gave a single intraperitoneal injection at the 
+time that we gave an intratumoral injection of either AdCD40 
+ligand or the control vector.
+
+Dr Nguyen. For future application, how do you envision using 
+this strategy in human immunotherapy? I guess, and Dr Korst can 
+correct me, if you’re planning to develop this treatment for lung 
+cancer, for example, which is very poor at expressing MHC class 
+I, how do you plan to up-regulate class I expression?
+
+Dr Merritt. Well, in terms of toxicity, it’s already been worked 
+out for IFNγ in previous studies treating human renal cell carci- 
+noma. We would essentially give an intratumoral injection of the 
+AdCD40 ligand and then give intravenous IFNγ at the time of 
+therapy.
+
+Dr Nguyen. Are you planning to use all the pharmacologics 
+that might up-regulate for MHC class I? We have done that before 
+using a drug like decitabine, which is a demethylating agent, and 
+there is increase in expression of class I in the culture lung cancer 
+cell lines. Do you have any plan of using all the strategies besides 
+IFNγ used to up-regulate the MHC class I expression?
+
+Dr Merritt. No. Initially we would start with giving intrave- 
+nous IFNγ in combination with our adenoviral gene transfer vector 
+to see if we could get efficacy. That would be the initial experi- 
+ment.
+
+Dr Richard J. Battafarano (St Louis, Mo). It’s pretty clear 
+that you need class I expression for your CTLs to lyse the tumor 
+cells. But really, what your data shows is that you need class I 
+expression to actually generate the immune response, I assume 
+through your dendritic cells, because the CD40 ligand would 
+enhance the dendritic cells. Why do you think class I expression is 
+so important on the tumors at the time that you’re generating the 
+immune response? It’s clear why it would be important at the time 
+you’re trying to lyse the tumor cells. Why do you think class I 
+expression is important then?
+
+Dr Merritt. In previous studies where the AdCD40 ligand was 
+used as a monotherapy, there was actually an antitumor response 
+that was demonstrated in mirroring cell lines that were immuno- 
+genic and that expressed MHC class I. And in the murine cancer 
+lines that did not express class I, there was a less effective 
+antitumor effect. We think that the IFNγ is augmenting the MHC 
+class I up-regulated on the immunogenic cell lines, therefore 
+making these cells more susceptible to CTL-mediated cell lysis.
+
+Dr Battafarano. But do you think that there is something else 
+being up-regulated, that there is some other tumor antigen that 
+might be being up-regulated in there, and that’s really what the 
+dendritic cells are processing?
+
+Dr Merritt. Do you mean in terms of costimulatory molecules? 
+It would be hard for us to ascertain that based on just this study 
+alone. But it is a possibility.
+
+Dr Robert J. Korst (New York, NY). The Achilles’ heel of this 
+strategy is that it is hard to predict which tumors will be refractory 
+to IFN gamma, and which will upregulate class I with other agents, 
+including retinoids. Also, the exact mechanism behind this upregu- 
+lation is unclear.
+
+364 The Journal of Thoracic and Cardiovascular Surgery • February 2004
+```

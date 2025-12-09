@@ -1,0 +1,128 @@
+IL-27 Enhances Immune Response to Tumor
+
+demonstrated in [25–28], that CTL IL-10 production contributes 
+to tumor rejection. These results have important implications for 
+designing IL-27-based immunotherapy against human cancer.
+
+In the present paper, we develop a mathematical model that 
+describes the anti-tumor activity of CD8+ T cells in terms of IFN-γ 
+and IL-10 productions, when these T cells are activated by IL-27 
+from the tumor microenvironment. The model is based on the 
+experiments by Liu et al. [30] (with mice infected with 
+plasmacytoma) whereby cancer cells are transfected with an IL-
+27 vector so that IL-27 is released in the tumor microenvironment. 
+We show that the model simulations agree qualitatively with the 
+experimental results of [30]. We next extend the model to include 
+therapeutic treatment of cancer in wild type mice by injection of 
+IL-27. We note however, that in this case, the tumor microen-
+vironment includes both CD4+ and CD8+ T cells (whereas in the 
+experiments with transgenic mice of [30] the CD8+ T cells were 
+taken to be dominant). As mentioned above, IL-27 promotes the 
+secretion of IL-10 and IFN-γ by CD4+ T cells [9–11], and we 
+assume that these cytokines have the same effect on tumor 
+rejection as those secreted by CD8+ T cells. We then use CD8+ T 
+cells to represent both cells, CD4+ and CD8+. In the modified 
+model the only source of IL-27 comes from the drug, since cancer 
+cells do not generally secrete IL-27. We compare the efficacy of 
+different strategies of IL-27 injections. For example, we found that 
+continuous injection of IL-27 for 24 weeks at a fixed amount F, 
+within a certain range, is more effective than intermittent injections 
+of the amount 2F, full three weeks at a time with three weeks 
+spacing between injections, for 24 weeks. These strategies may 
+however just be viewed just as suggestions since they may only 
+represent the injection of a single drug, or a combination in bone or 
+soft tissue, and since, furthermore, the model does not include 
+other important factors in tumor progression such as angiogenesis 
+and the immune response.
+
+Results
+
+Mathematical model
+In this model, we assume that the tumor is spherical and that it 
+initially lies in a spherical tissue of radius L. The variables that will 
+be used in the model are listed below and we assume that all the 
+variables are radially symmetric:
+
+\[
+I_{27}(r,t) : \text{concentration of Interleukin-27 in pg/cm}^3,
+\]
+\[
+I_{10}(r,t) : \text{concentration of Interleukin-10 in pg/cm}^3,
+\]
+\[
+T(r,t) : \text{tumor antigen specific activated CD8^+ T} 
+\]
+\[
+\text{T cell density, cell/cm}^3,
+\]
+\[
+I_{\gamma}(r,t) : \text{concentration of Interferon-γ in pg/cm}^3,
+\]
+\[
+c(r,t) : \text{tumor cell density, cell/cm}^3,
+\]
+
+where r is the distance from a point \(x=(x_1,x_2,x_3)\) to the origin: 
+\(r = \sqrt{x_1^2 + x_2^2 + x_3^2}\) and \(0 \leq r \leq L\). These variables satisfy a system of 
+partial differential equations based on the network exhibited in Figure 1. 
+The parameter values are estimated in Methods. In our model we shall 
+include diffusion of cells and cytokines, as was done in many other 
+mathematical tumor models (which include plasmacytoma [31–38]) 
+and IL-27. The following equation describes the evolution of 
+\(I_{27}\):
+
+\[
+\frac{\partial I_{27}}{\partial t} = D_{I27} \frac{1}{r^2} \frac{\partial}{\partial r} \left( r^2 \frac{\partial I_{27}}{\partial r} \right) + \frac{\alpha_{27} c}{c + \sigma_{27}} - \mu_{27} I_{27}. \tag{1}
+\]
+
+The first term represents the diffusion of \(I_{27}\) with coefficient 
+\(D_{I27}\). The second term describes the production of \(I_{27}\) by 
+the concentrations of the tumor cells and normal healthy cells, for 
+simplicity, here and in the sequel all diffusivities are assumed to be 
+spatially uniform. In the experiment in [30], Liu et al. used gene 
+transfected tumor cells, J558-IL-27, to produce \(I_{27}\) in the tumor 
+microenvironment. Accordingly, we use the second term to 
+describe the production of \(I_{27}\) by the transfected J558-IL-27 
+tumor cells. The last term stands for the degradation of \(I_{27}\). The 
+parameter values of Equation (1) are given in Table 1.
+
+IL-10. The Interleukin-10 (IL-10) in Figure 1 is pro-inflamma-
+tory, in accordance with the experiments of [30]. It satisfies the 
+equation:
+
+\[
+\frac{\partial I_{10}}{\partial t} = D_{I10} \frac{1}{r^2} \frac{\partial}{\partial r} \left( r^2 \frac{\partial I_{10}}{\partial r} \right) + \frac{\alpha_{10} T}{T + \sigma_{10}} 
+\]
+\[
++ \frac{\alpha_{10 \gamma} I_{27}}{I_{27} + \sigma_{10}} - \mu_{10} I_{10}. \tag{2}
+\]
+
+\[
+\text{production by CTL without } I_{27} \quad \text{degradation}
+\]
+
+\[
+\text{production by CTL promoted by } I_{27}
+\]
+
+Table 1. Parameters for the IL-27 equation.
+
+\[
+\begin{array}{|l|l|l|l|}
+\hline
+\text{Parameter} & \text{Description} & \text{Value with unit} & \text{Reference} \\
+\hline
+D_{I27} & \text{diffusion coefficient of } I_{27} & 1.25 \times 10^{-7} \text{cm}^2/\text{day} & [48] \& \text{estimated} \\
+\alpha_{27} & \text{production rate of } I_{27} \text{ from tumor} & 1.5 \times 10^{-3} \text{pg/cell/day} & [30] \& \text{estimated} \\
+\mu_{27} & \text{degradation rate of } I_{27} & 2/\text{day} & [48] \& \text{estimated} \\
+\hline
+\end{array}
+\]
+
+doi:10.1371/journal.pone.0091844.g001
+
+PLOS ONE | www.plosone.org
+
+2
+
+March 2014 | Volume 9 | Issue 3 | e91844

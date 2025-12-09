@@ -1,0 +1,10 @@
+Figure S8. Expected increase in half-lives due to degradation inhibition does not
+account for the observed response to the drug CPT. Reducing degradation is expected
+to increase protein half-lives such that the longer the half-life, the smaller the increase.
+Protein half-lives before and after CPT addition are shown. The curved lines illustrate
+the predicted increase in half-lives due to reduced degradation. They are obtained by
+setting k1 to 100%, 50%, 20% and 10% (reflecting the fold reduction in degradation) and
+applying Eq. 3 in Fig. 2. This pattern does not account for observed half-life increase in
+response to the drug.
+
+12

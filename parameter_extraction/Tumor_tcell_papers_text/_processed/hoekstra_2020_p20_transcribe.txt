@@ -1,0 +1,65 @@
+```plaintext
+ARTICLES                                                                                     NATURE CANCER
+
+a
+
+          Ag^+                                   Ag^+ IFNγR^-/-
+
+control
+
+CFP       10^5                                   10^5
+          10^4                                   10^4
+          10^3                                   10^3
+          10^2                                   10^2
+          10^1                                   10^1
+          0                                      0
+          -10^1                                  -10^1
+          -10^2                                  -10^2
+          -10^3                                  -10^3
+          -10^4                                  -10^4
+          -10^5                                  -10^5
+          -10^1  0  10^1  10^2  10^3  10^4  10^5  -10^1  0  10^1  10^2  10^3  10^4  10^5
+          IR-Dye                                 IR-Dye
+                                                 0.35%
+          0.37%
+
++ T Cells
+
+CFP       10^5                                   10^5
+          10^4                                   10^4
+          10^3                                   10^3
+          10^2                                   10^2
+          10^1                                   10^1
+          0                                      0
+          -10^1                                  -10^1
+          -10^2                                  -10^2
+          -10^3                                  -10^3
+          -10^4                                  -10^4
+          -10^5                                  -10^5
+          -10^1  0  10^1  10^2  10^3  10^4  10^5  -10^1  0  10^1  10^2  10^3  10^4  10^5
+          IR-Dye                                 IR-Dye
+          47.1%                                  7.95%
+
+b
+
+60
+50
+40
+30
+20
+10
+0
+      control     + T Cells
+
+      Ag
+      Ag IFNγR^-/-
+
+IR-Dye^+ cell (%)
+
+Extended Data Fig. 8 | CD8^+ T cell mediated killing of bystander OVCAR5 tumor cells. A mixture of GFP^+ Ag^+, CFP^+ Ag^+ IFNγR proficient and CFP^+ Ag^-
+IFNγR deficient OVCAR5 cells (2:1:1 ratio) was treated with CDK4R^low-specific CD8^+ T cells at a 2:1 T cell: tumor cell ratio, or left untreated, and cell survival
+was analyzed by staining with IR-Dye and subsequent flow cytometry. a, Representative plots depicting the percentage of IR-Dye^+ cells for the indicated
+groups. b, Quantification of a, bar graph shows mean of n=3 technical replicates. Representative data of two independent experiments are depicted.
+
+                                                                                     NATURE CANCER | www.nature.com/natcancer
+```

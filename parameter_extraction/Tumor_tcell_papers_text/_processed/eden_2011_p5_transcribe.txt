@@ -1,0 +1,21 @@
+each well, time-lapse movies were obtained at four fields of view. Each movie was taken at a time resolution of 20 minutes and was filmed for one or two days (72 and 144 time points respectively). Each time point included a transmitted light image (phase contrast), and two fluorescent channel images (red and yellow). No significant bleaching was observed (on average less than 3% over the duration of the experiment). For each protein, the population average dynamics was obtained by averaging over the profiles of ~500 individual cells.
+
+1.4 Image analysis of time lapse movies
+
+Custom computer vision software, PhenoTrack, automatically extracted quantitative measurements of protein dynamics from time-lapse movies. The main modules in the software include background normalization, cell segmentation, cell tracking and automated identification of various cellular phenotypes (e.g. mitosis and cell death). The PhenoTrack software was implemented in Matlab and C++.
+
+1.5 Tissue culture media
+
+Cells were grown in RPMI 1640 supplied with (+) L-Glutamine (GIBCO, cat. No. 21875) medium supplemented with 10% Fetal Calf Serum (certified fetal bovine serum, membrane filtered, Biological Industries, 04-001-1A) and 0.05% Penicillin-Streptomycin antibiotics (Biological Industries Cat. No. 03-031-1B). Cells were grown in incubators at 37°C and 8% CO₂.
+
+1.6 Stress induction under the microscope
+
+In each experiment, the drug was diluted to the desired concentration in transparent growth medium (RPMI 1640, 0.05% Penicillin-Streptomycin antibiotics, 10% FCS, with L-Glutamine, lacking riboflavin and phenol red, Bet Haemek, Biological Industries Cat. No. 06-1100-26-1A). Normal transparent growth medium (2ml, without the drug) was replaced by the diluted drug under the microscope after bleaching the cells (2ml medium with a final concentration of 10μM for CPT, 1 μM for paclitaxel, 80 μM for cisplatin and 1ug/ml for actinomycin-D diluted from stock, see 1.7). In starvation experiments, normal medium was washed twice with transparent growth medium without serum. Then, transparent medium with the desired 0% serum concentration was added and cells were starved in these conditions for 48hrs prior to the bleaching experiment.
+
+1.7 Drugs
+
+Camptothecin (CPT, C9911 Sigma) and Paclitaxel (T7402, Sigma) were dissolved in DMSO (hybri-max, D2650 Sigma), giving a stock solution of 10mM. Cisplatinum (P4394 Sigma) was dissolved in DMSO giving a stock solution of 100mM. Actinomycin-D (A1410 ,Sigma) was dissolved in DMSO giving a stock solution of 1mg/ml.
+
+4
+
+4

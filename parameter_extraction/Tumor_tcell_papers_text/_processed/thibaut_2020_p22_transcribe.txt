@@ -1,0 +1,92 @@
+```
+ARTICLES                                                                                      NATURE CANCER
+
+a
+
+STAT1-GFP-expressing
+OVA+ Eμ-myc B lymphoma cells
+
+± GFP-expressing
+activated OT-I T cells
+
+3 weeks
+
+intravital
+imaging
+
+b
+
+c
+
+d
+
+Translocation score
+
+1.0
+
+0.5
+
+0
+
+-0.5
+
+no T cell
+
++OT-I T cells
+
+***
+
+e
+
+Eμ-myc tumors
+
+STAT1-GFP
+nuclear mCherry
+
+OVA+ mCFP
+
++/-
+
+GFP-expressing
+activated OT-I T cells
+
+2 weeks
+
+Intravital
+imaging
+
+f
+
+g
+
+h
+
+Translocation score
+
+1.0
+
+0.5
+
+0
+
+-0.5
+
+STAT1-GFP
+tumors
+
+STAT1-GFP
+tumors
+
+OVA+ mCFP
+tumors
+
+**
+
+OT-I T cells
+
+OT-I T cells
+
+Extended Data Fig. 7 | See next page for caption.
+
+NATURE CANCER | www.nature.com/natcancer
+```

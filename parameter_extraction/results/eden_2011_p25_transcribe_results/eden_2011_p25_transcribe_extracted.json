@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and values from the text:\n\n1. **CHX application duration**: about 16 hours\n2. **Cell-death during CHX application**: ~10%\n3. **Number of proteins measured**: 10 proteins (CKS2, RPLA22, K-α-1, RPA2, DDX18, VIL2, CALM2, VCL, H2AFV, and LMNA)\n4. **Measurement duration after CPT addition**: 48 hours\n5. **Resolution of measurements**: 20 minutes\n6. **Number of repeats for measurements**: ≥ 3\n7. **Half-life of CALM2 before drug addition**: 6.7 ± 1.1 hours\n8. **Half-life of CALM2 (0 - 24h after drug addition)**: 11.5 ± 2.9 hours\n9. **Half-life of CALM2 (24 - 48h after drug addition)**: >48 hours\n\nThese values provide insights into the experimental conditions and results discussed in the text."
+}

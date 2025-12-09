@@ -1,0 +1,167 @@
+```plaintext
+otherwise permanently remodelled which avoids ‘collateral damage’, 
+caused by infiltrating cells. 
+
+The fact that leukocytes are able to move autonomously generates 
+a new level of regulatory possibilities. Because surface-bound chemo- 
+kines and other immobilized extracellular signals do trigger integrin 
+affinity (unlike soluble chemokines), leukocyte integrins should no 
+longer be viewed as force transducers during locomotion but as 
+switchable immobilizing anchors that stop, slow down or confine 
+high intrinsic motility to specifically assigned surfaces30,31. The role 
+of integrins is therefore mainly to mediate retention, invasion, cell– 
+cell communication and cell–cell adhesion32. 
+
+METHODS SUMMARY 
+Generation of integrin-deficient leukocytes. Integrins and talin1 were targeted 
+by generating mice with the genotype β1 
+lox/lox (Supplementary Fig. 1), β2 
+lox/lox 
+(ref. 32), β7 
+–/– (ref. 33), β1 
+–/– (ref. 34), Mx1Cre+ (ref. 35) and talin1 
+lox/lox 
+(ref. 36), Mx1Cre+37, respectively. Cre expression in the haematopoietic system 
+was induced by intraperitoneal injection of 250 μg poly(I:C) (Amersham 
+Biosciences). 10–14 after knockout induction DCs were generated from bone 
+marrow suspension and matured with lipopolysaccharide (LPS). The DCs were 
+either generated from aggregates and remaining integrin-positive contaminants by 
+magnetic sorting (Miltenyi Biotech). DCs used for migration assays were >99% 
+enriched for β1, β2 and β7 knockout cells. 
+
+In situ live cell imaging. For live cell microscopy, mouse ears were 
+mechanically separated in dorsal and ventral halves, fluorescently stained with 
+LYVE-1 antibody and immobilized with the epidermal side down. The mice 
+were avoided with fluorescently labelled DCs and time lapse movies were 
+recorded with an automated MZ 16 FA stereomicroscope (Leica 
+Systems). 
+
+In vitro 3D chemotaxis assays. Cells were suspended in PureCol (INAMED) and 
+set in custom chambers with a gradient of recombinant CCL19 (R&D Systems, 
+16 ng ml–1). After polymerization, cells were overlaid with culture medium 
+containing 100 ng ml–1 CCL19. For experiments with Jurkat or K3 DG3, puri- 
+fied T cells were pretreated with 10 μM cytochalasin D, 10 μM blebbistatin or 
+10 μM Y27632 (Calbiochem) for 30 min at 37 °C. For experiments with human 
+muscle visualization, SYTO-dyes (Invitrogen) were used for visualization of 
+nuclei in thin muscle sections. 
+
+For visualization of actin, cells were fixed and permeabilized 
+using phalloidin (Texas Red, Molecular Probes) and imaged with a confocal 
+microscope (Leica). 
+
+Statistical analysis. t-tests and analysis of variance (ANOVA) were performed 
+after data were confirmed to fulfil the criteria of normal distribution and equal 
+variance, otherwise Kruskal–Wallis tests or Mann–Whitney U-tests were 
+applied. If overall ANOVA or Kruskal–Wallis tests were significant, we per- 
+formed a post hoc test. Analyses were performed with Sigma Stat 2.03. For 
+further statistical details see Supplementary Table. 
+
+Full Methods and any associated references are available in the online version of 
+the paper at www.nature.com/nature. 
+
+Received 22 November 2007; accepted 6 March 2008. 
+
+1. Giannone, G. et al. Lamellipodial actin mechanically links myosin activity with 
+adhesion-site formation. Cell 128, 561–575 (2007). 
+2. Lauffenburger, D. A. & Horwitz, A. F. Cell migration: A physically integrated 
+molecular process. Cell 84, 359–369 (1996). 
+3. Mitchison, T. J. & Cramer, L. P. Actin-based cell motility and cell locomotion. Cell 
+84, 371–379 (1996). 
+4. Hynes, R. O. Integrins: Bidirectional, allosteric signalling machines. Cell 110, 
+673–687 (2002). 
+5. Hynes, R. O. & Zhao, Q. The evolution of cell adhesion. J. Cell Biol. 150, 89–96 
+(2000). 
+6. Friedl, P. Prespecification and plasticity: Shifting mechanisms of cell migration. 
+Curr. Opin. Cell Biol. 16, 14–23 (2004). 
+7. Pittet, M. J. & Mempel, T. R. Regulation of T-cell migration and effector functions: 
+insights from in vivo imaging studies. Immunol. Rev. 221, 107–129 (2008). 
+8. de Bruyn, P. P. H. The amoeboid movement of the mammalian leucocyte in tissue 
+culture. Anat. Rec. 95, 117–192 (1946). 
+9. Reis e Sousa, C. Dendritic cells in a mature age. Nature Rev. Immunol. 6, 476–483 
+(2006). 
+10. Förster, R. et al. CCR7 coordinates the primary immune response by establishing 
+functional microenvironments in secondary lymphoid organs. Cell 99, 23–33 (1999). 
+11. Calderwood, D. A. et al. Integrin β cytoplasmic domain interactions with 
+phosphotyrosine-binding domains: A structural prototype for diversity in integrin 
+signalling. Nat. Cell Biol. 5, 691–697 (2003). 
+12. Stolzner, P., Pfaller, K., Stössel, H. & Romani, N. A close-up view of migrating 
+Langerhans cells in skin. J. Invest. Dermatol. 118, 117–125 (2002). 
+13. Gretz, J. E., Anderson, A. O. & Shaw, S. Cycads, corridors and conduits: 
+Critical architectural elements facilitating cell interactions in the lymph node 
+cortex. Immunol. Rev. 156, 11–24 (1997). 
+14. Germain, R. N. et al. The microanatomy of T-cell responses. Immunol. Rev. 
+221, 5–43 (2008). 
+15. Mempel, T. R., Henrickson, S. E. & Von Andrian, U. H. T-cell priming by dendritic 
+cells in lymph nodes occurs in three distinct phases. Nature 427, 154–159 (2004). 
+16. Alon, R. & Dustin, M. L. Force as a facilitator of integrin conformational changes 
+during leukocyte arrest on blood vessels and antigen-presenting cells. Immunity 
+26, 17–27 (2007). 
+17. Lindquist, R. L. et al. Visualizing dendritic cell networks in vivo. Nature Immunol. 5, 
+1243–1250 (2004). 
+18. Meshel, A. S., Wei, Q., Adelstein, R. S. & Sheetz, M. P. Basic mechanism of three- 
+dimensional collagen fibre transport by fibroblasts. Nature Cell Biol. 7, 157–164 
+(2005). 
+19. Vanni, S., Lagerholm, B. C., Otey, C., Taylor, D. L. & Lanni, F. Internet-based image 
+analysis quantifies contractile behavior of individual fibroblasts inside model 
+tissues. Biophys. J. 84, 2715–2727 (2003). 
+20. Endresen, H. A., Burnett, D. T. & Foerster, P. Myosin II functions in actin-bundle 
+turnover in neuronal growth cones. Nature Cell Biol. 8, 215–226 (2006). 
+21. Hogg, N., Laschinger, M., Giles, K. & McDowall, A. T. Integrins: More than just 
+sticking points. J. Cell Sci. 116, 4695–4705 (2003). 
+22. Morin, N. A. et al. Nonmuscle myosin heavy chain IIA mediates integrin LFA-1 de- 
+adhesion on T lymphocytes. Immunol. Exp. Med. 205, 195–205 (2008). 
+23. Hsu, S., Biber, J., Lim, P. & Wang, N. Present mediates force propagation into 
+the nucleus. Biochem. Biophys. Res. Commun. 329, 423–426 (2005). 
+24. Pulch, E., Sykes, T. J. & Boms, R. Myosin II mediates the retraction of the 
+actomyosin gel during cell locomotion and adhesion. Mol. Biol. Cell 16, 5–10 
+(2006). 
+25. Morton, W. M., Ayscough, K. R. & McLaughlin, P. J. Latrunculin alters the rate of 
+actin polymerization relative to net polymerization. Nature Cell Biol. 2, 
+376–378 (2000). 
+26. Smith, D., Doumolin, A., Roberts, T., Stewart, M. & Trower, M. A. The role of 
+myosin II in cell motility. J. Cell Sci. 117, 354–362 (2004). 
+27. Sander, M. & Siel, K. C. Cytoskeletal coordination during neuronal 
+migration. Nature Cell Biol. 6, 101–109 (2004). 
+28. Friedl, P. & Wolf, K. Tumour-cell invasion and migration: Diversity and escape 
+mechanisms. Nature Rev. Cancer 3, 362–374 (2003). 
+29. Affolter, C. et al. Movement of blood vessel tissues by a population of 
+macrophages with signalling behavior. Science 317, 666–670 (2007). 
+30. Phillipson, M. et al. Intraluminal crawling of neutrophils to emigration sites: A 
+molecular distinct process and adhesion in the recruitment cascade. J. Exp. 
+Med. 203, 2569–2575 (2006). 
+31. Stoll, M., Baur, M., Limmer, T. & Fässler, R. Beta1 integrin: Erythrocytes and 
+signalling by red blood cells. Curr. Opin. Cell Biol. 18, 482–490 (2006). 
+32. Potocnik, A. J., Brakebusch, C. & Fässler, R. Fetal and adult hematopoietic stem 
+cells require beta1 integrin for colonizing fetal liver, spleen, and bone 
+marrow. Immunity 12, 653–663 (2000). 
+33. Wilson, R. W. et al. Gene targeting yields a CD18-mutant mouse for studies of 
+inflammation. J. Immunol. 153, 1571–1578 (1994). 
+34. Wagner, N. et al. Critical role for beta7 integrins in formation of the gut-associated 
+lymphoid tissue. Nature 382, 366–370 (1996). 
+35. Kühne, R., Schewe, F., Ague, M. & Rajewsky, K. Inducible gene targeting in mice. 
+Science 269, 1427–1429 (1995). 
+36. Petrich, B. G. et al. Talin is required for integrin-mediated platelet function in 
+hemostasis and thrombosis. J. Exp. Med. 204, 3103–3111 (2007). 
+
+Supplementary Information is linked to the online version of the paper at 
+www.nature.com/nature. 
+
+Acknowledgements We thank S. Cramer for help with statistical analysis, Z. Werz 
+and P. Friedl for critical reading of the manuscript, and M. Bauer for technical 
+support. This work was financed by the German Research Foundation (DFG), the 
+Austrian Science Foundation (FWF) and the Max Planck Society. Work in D.R.C.’s 
+laboratory was supported by the Wellcome Trust. 
+
+Author Contributions T.L. and M.S. designed and performed the experiments and 
+analysed the data. M.S. wrote the paper. T.W. and R.F. performed intravital 
+microscopy in lymph nodes. B.B.L. and M.R. generated the integrin-β mouse. J.S. 
+and D.R.C. generated the talin-1 mouse. R.F. generated the integrin β7 and the 
+adducin-β integrin knockout mouse and provided reagents. M.S. supervised the 
+study with T.L. R.F. contributed to data analysis and experimental design. 
+
+Author Information Reprints and permissions information is available at 
+www.nature.com/reprints. Correspondence and requests for materials should be 
+addressed to M.S. (sixt@biochem.mpg.de). 
+
+©2008 Nature Publishing Group
+```

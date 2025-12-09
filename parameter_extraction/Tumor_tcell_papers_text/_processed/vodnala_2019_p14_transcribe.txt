@@ -1,0 +1,41 @@
+```plaintext
+Science
+
+T cell stemness and dysfunction in tumors are triggered by a common mechanism
+Suman Kumar Vodnala, Robert Eil, Rigel J. Kishton, Madhusudhanan Sukumar, Tori N. Yamamoto, Ngoc-Han Ha, Ping-Hsien 
+Lee, MinHwa Shin, Shashank J. Patel, Zhiya Yu, Douglas C. Palmer, Michael J. Kruhlak, Xiaojing Liu, Jason W. Locasale, Jing 
+Huang, Rahul Roychoudhuri, Toren Finkel, Christopher A. Klebanoff and Nicholas P. Restifo
+
+Science 363 (6434), eaau0135.
+DOI: 10.1126/science.aau0135
+
+Stemness against adversity
+T lymphocytes are powerful immune cells that can destroy tumors, but cancers have developed tricks to evade 
+killing. Vodnala et al. found that potassium ions in the tumor microenvironment serve a dual role of influencing T cell 
+effector function and stemness (see the Perspective by Baixauli Celdrán et al.). Increased potassium impairs T cell 
+metabolism and nutrient uptake, resulting in a starvation state known as autophagy. The increased potassium can also 
+preserve T cells in a stem-like state where they retain the capacity to divide. These seemingly divergent processes are 
+linked to the cellular distribution of acetyl–coenzyme A, which, when manipulated, can restore the ability of human T cells 
+to eliminate tumors in mice.
+Science, this issue p. eaau0135; see also p. 1395
+
+ARTICLE TOOLS http://science.sciencemag.org/content/363/6434/eaau0135
+
+SUPPLEMENTARY http://science.sciencemag.org/content/suppl/2019/03/27/363.6434.eaau0135.DC1
+MATERIALS
+
+RELATED http://science.sciencemag.org/content/sci/363/6434/1395.full
+CONTENT
+
+REFERENCES This article cites 47 articles, 11 of which you can access for free 
+http://science.sciencemag.org/content/363/6434/eaau0135#BIBL
+
+PERMISSIONS http://www.sciencemag.org/help/reprints-and-permissions
+
+Use of this article is subject to the Terms of Service
+
+Science (print ISSN 0036-8075; online ISSN 1095-9203) is published by the American Association for the Advancement of 
+Science, 1200 New York Avenue NW, Washington, DC 20005. 2017 © The Authors, some rights reserved; exclusive 
+licensee American Association for the Advancement of Science. No claim to original U.S. Government Works. The title 
+Science is a registered trademark of AAAS.
+```

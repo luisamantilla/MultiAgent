@@ -1,0 +1,138 @@
+```plaintext
+450                                                                                          
+
+127 Langrish AE, Morelli AE, Spencer LA, Logar AJ, Watkins SC, Thomson AW et al. 
+    GM-CSF-conditioned CD14+ cells differentiate into Langerhans' cells. Nat Immunol 2001; 
+    2: 1151–1158.
+128 Merad M, Romani N, Randolph G. Langerhans cells at the interface of medicine, 
+    science, and industry. J Invest Dermatol 2008; 128: 251–255.
+129 Nestle FO, Zheng XG, Thompson CB, Turka LA, Nickoloff BJ. Characterization of 
+    dermal dendritic cells obtained from normal human skin and skin from 
+    chronically inflamed sites. J Immunol 1993; 151: 6533–6545.
+130 MacPherson GG, Liu LM. Dendritic cell migration and the initiation of immune 
+    responses. Curr Top Microbiol Immunol 1999; 236: 33–53.
+131 Iwasaki A. Mucosal dendritic cells. Annu Rev Immunol 2007; 25: 381–418.
+132 Valladeau J, Saeland S. Cutaneous dendritic cells. Semin Immunol 2005; 17: 
+    273–283.
+133 Dupasquier M, Stoitzner P, van Oudenaren A, Romani N, Leenen PJ. Macrophages and 
+    dendritic cells constitute a major subpopulation of cells in the mouse dermis. J Invest 
+    Dermatol 2004; 123: 876–879.
+134 Duraiswamy N, Tay N, Hammerberg C, Kang S, Cooper KD. Distinction of class II 
+    MHC+ Langerhans cell-like interstitial dendritic antigen-presenting cells in murine 
+    dermis from dermal macrophages. J Invest Dermatol 1994; 103: 678–683.
+135 Bennett CL, van Rijn E, Jung S, Inaba K, Steinman RM, Kapsenberg ML et al. 
+    Inducible ablation of mouse Langerhans cells diminishes but fails to abrogate contact 
+    hypersensitivity. J Exp Biol 2005; 169: 569–579.
+136 Tada N, Asamoto M, Ogawa H, Itami S, Etoh T, Inoue K, Fukamachi K et al. Distinct 
+    dendritic cell populations sequentially present antigen to CD4 T cells and CD8 T cells 
+    during T cell-mediated humoral responses. J Immunol 2004; 173: 49–57.
+137 von Stebut E, Belkaid Y, Jakob T, Young JW, Sacks DL. Uptake of Leishmania major 
+    amastigotes by murine Langerhans cells-like dendritic cells from susceptible mice 
+    releases IL-12 after infection and vaccine antigen presentation. J Immunol 2000; 164: 
+    630–638.
+138 Fliegert F, Hughes C, Zacherl J, Jullie V, Glachantheus N, Ugolini S. CD4+ T-cell 
+    polarization in mice is modulated by strain-specific mechanisms through 
+    compartmentalized differences within dendritic cells. J Exp Med 2004; 199: 
+    209–219.
+139 Bogunovic M, Ginhoux F, Wagers A, Loubeau M, Isola L, Mounaud P et al. Induction 
+    of epidermal Langerhans cells by bone marrow progenitors. J Exp Med 2006; 203: 
+    2627–2638.
+140 Ginhoux F, Collin MP, Bogunovic M, Abelman S, Malissen B, Merad M. Blood-derived 
+    dermal Langerhans cells are distinct from epidermal Langerhans cells and are 
+    generated in the absence of epidermal Langerhans cells. J Exp Med 2007; 204: 
+    3119–3131.
+141 Stoitzner P, Holzmann S, McLellan AD, Ivarsson L, Stössel H, Kapp M et al. 
+    Visualization and characterization of migratory Langerhans cells in murine skin and 
+    lymph nodes. J Invest Dermatol 2003; 120: 266–274.
+142 Stoitzner P, Tripp CH, Eberhart A, Romani N. Langerhans cells cross-present 
+    antigen derived from skin. J Immunol 2006; 176: 1534–1541.
+143 Stoitzner P, Tripp CH, Eberhart A, Romani N. Langerhans cells cross-present 
+    antigen derived from skin. J Immunol 2006; 176: 1534–1541.
+144 Stoitzner P, Tripp CH, Eberhart A, Romani N. Langerhans cells cross-present 
+    antigen derived from skin. J Immunol 2006; 176: 1534–1541.
+145 Stoitzner P, Tripp CH, Eberhart A, Romani N. Langerhans cells cross-present 
+    antigen derived from skin. J Immunol 2006; 176: 1534–1541.
+146 Stoitzner P, Tripp CH, Eberhart A, Romani N. Langerhans cells cross-present 
+    antigen derived from skin. J Immunol 2006; 176: 1534–1541.
+147 Stoitzner P, Tripp CH, Eberhart A, Romani N. Langerhans cells cross-present 
+    antigen derived from skin. J Immunol 2006; 176: 1534–1541.
+148 Stoitzner P, Tripp CH, Eberhart A, Romani N. Langerhans cells cross-present 
+    antigen derived from skin. J Immunol 2006; 176: 1534–1541.
+149 Stoitzner P, Tripp CH, Eberhart A, Romani N. Langerhans cells cross-present 
+    antigen derived from skin. J Immunol 2006; 176: 1534–1541.
+150 Stoitzner P, Tripp CH, Eberhart A, Romani N. Langerhans cells cross-present 
+    antigen derived from skin. J Immunol 2006; 176: 1534–1541.
+151 Stoitzner P, Tripp CH, Eberhart A, Romani N. Langerhans cells cross-present 
+    antigen derived from skin. J Immunol 2006; 176: 1534–1541.
+152 Stoitzner P, Tripp CH, Eberhart A, Romani N. Langerhans cells cross-present 
+    antigen derived from skin. J Immunol 2006; 176: 1534–1541.
+153 Stoitzner P, Tripp CH, Eberhart A, Romani N. Langerhans cells cross-present 
+    antigen derived from skin. J Immunol 2006; 176: 1534–1541.
+154 Stoitzner P, Tripp CH, Eberhart A, Romani N. Langerhans cells cross-present 
+    antigen derived from skin. J Immunol 2006; 176: 1534–1541.
+155 Stoitzner P, Tripp CH, Eberhart A, Romani N. Langerhans cells cross-present 
+    antigen derived from skin. J Immunol 2006; 176: 1534–1541.
+156 Bevan MJ. Cross-priming for a secondary cytotoxic response to minor H antigens with 
+    H-2 congenic cells that do not cross-react in the cytotoxic assay. J Exp Med 1976; 
+    143: 1283–1288.
+157 Bevan MJ, Hare JW, Bevan MJ. CD8+ but not CD8-/- dendritic cells cross-present 
+    cytotoxic T cells in vivo. J Exp Med 2000; 192: 1685–1696.
+158 Pooley JL, Heath WR, Shortman K. Cutting edge: antigen presented by dendritic cells is 
+    presented to CD8 T cells by CD8- dendritic cells, but cross-presented to CD8 T cells by 
+    CD8+ dendritic cells. J Immunol 2001; 166: 5327–5330.
+159 Heath WR, Belz GT, Behrens GM, Smith CM, Forehan SP, Parish IA et al. Cross-
+    presentation, dendritic cell subsets, and the generation of immunity to cellular 
+    antigens. Immunol Rev 2004; 199: 9–26.
+160 Lin ML, Thomas Y, Villadangos JA, Lew AM. The cell biology of cross-presentation and 
+    the role of dendritic cell subsets. Immunol Cell Biol 2008; epub ahead of print 12 
+    February 2008.
+161 Toughra A, Neefjes J. The many roads to cross-presentation. J Exp Med 2005; 202: 
+    1313–1318.
+162 Belz GT, Smith CM, Eichner D, Shortman K, Karupiah G, Carbone FR et al. Cutting 
+    edge: conventional CD8 alpha+ dendritic cells are generally involved in priming CTL 
+    immunity to viruses. J Immunol 2004; 172: 1996–2000.
+163 Smith CM, Belz GT, Wilson NS, Villadangos JA, Shortman K, Carbone FR et al. Cutting 
+    edge: conventional CD8 alpha+ dendritic cells are preferentially involved in CTL 
+    priming after footpad infection with herpes simplex virus. J Immunol 2003; 170: 
+    4437–4440.
+164 Smith CM, Wilson NS, Villadangos JA, Carbone FR, Heath WR et al. 
+    Cutting edge: T cell licensing of dendritic cells in CD8+ T cell immunity. J Immunol 
+    2004; 173: 6341–6345.
+165 Edwards AD, Diebold SS, Slack EM, Tomizawa H, Hemmi H, Kaisho T et al. Toll-like 
+    receptor expression in murine DC subsets: lack of TLR7 expression by CD8 alpha+ 
+    DC correlates with unresponsiveness to imidazoquinolines. Eur J Immunol 2003; 33: 
+    827–833.
+166 Edwards AD, Diebold SS, Slack EM, Tomizawa H, Hemmi H, Kaisho T et al. Toll-like 
+    receptor expression in murine DC subsets: lack of TLR7 expression by CD8 alpha+ 
+    DC correlates with unresponsiveness to imidazoquinolines. Eur J Immunol 2003; 33: 
+    827–833.
+167 Edwards AD, Diebold SS, Slack EM, Tomizawa H, Hemmi H, Kaisho T et al. Toll-like 
+    receptor expression in murine DC subsets: lack of TLR7 expression by CD8 alpha+ 
+    DC correlates with unresponsiveness to imidazoquinolines. Eur J Immunol 2003; 33: 
+    827–833.
+168 Edwards AD, Diebold SS, Slack EM, Tomizawa H, Hemmi H, Kaisho T et al. Toll-like 
+    receptor expression in murine DC subsets: lack of TLR7 expression by CD8 alpha+ 
+    DC correlates with unresponsiveness to imidazoquinolines. Eur J Immunol 2003; 33: 
+    827–833.
+169 Edwards AD, Diebold SS, Slack EM, Tomizawa H, Hemmi H, Kaisho T et al. Toll-like 
+    receptor expression in murine DC subsets: lack of TLR7 expression by CD8 alpha+ 
+    DC correlates with unresponsiveness to imidazoquinolines. Eur J Immunol 2003; 33: 
+    827–833.
+170 Edwards AD, Diebold SS, Slack EM, Tomizawa H, Hemmi H, Kaisho T et al. Toll-like 
+    receptor expression in murine DC subsets: lack of TLR7 expression by CD8 alpha+ 
+    DC correlates with unresponsiveness to imidazoquinolines. Eur J Immunol 2003; 33: 
+    827–833.
+171 Edwards AD, Diebold SS, Slack EM, Tomizawa H, Hemmi H, Kaisho T et al. Toll-like 
+    receptor expression in murine DC subsets: lack of TLR7 expression by CD8 alpha+ 
+    DC correlates with unresponsiveness to imidazoquinolines. Eur J Immunol 2003; 33: 
+    827–833.
+172 Edwards AD, Diebold SS, Slack EM, Tomizawa H, Hemmi H, Kaisho T et al. Toll-like 
+    receptor expression in murine DC subsets: lack of TLR7 expression by CD8 alpha+ 
+    DC correlates with unresponsiveness to imidazoquinolines. Eur J Immunol 2003; 33: 
+    827–833.
+173 Edwards AD, Diebold SS, Slack EM, Tomizawa H, Hemmi H, Kaisho T et al. Toll-like 
+    receptor expression in murine DC subsets: lack of TLR7 expression by CD8 alpha+ 
+    DC correlates with unresponsiveness to imidazoquinolines. Eur J Immunol 2003; 33: 
+    827–833.
+174 Edwards AD, Diebold SS, Slack EM, Tomizawa H, Hemmi H, Kaisho T et al. Toll-like 
+    receptor expression in murine DC subsets: lack of TLR7 expression by CD8 alpha+

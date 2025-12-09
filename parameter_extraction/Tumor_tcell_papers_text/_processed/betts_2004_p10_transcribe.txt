@@ -1,0 +1,44 @@
+```
+506                                                                                      Michael R. Betts and Richard A. Koup
+
+2002; Gough and Fambrough, 1997; Guarnieri et al., 1993; Honing and Hunziker, 
+1995). Furthermore, cell-surface expression of these proteins on CD8+ T cells is 
+typically very low and is retrieved from the cell surface via an endocytic pathway 
+into an endosomal or lysosomal compartment (Chang et al., 2002; Fukuda, 1991). 
+Because of this active internalization of the CD107a and b molecules, it is neces- 
+sary to label CD8+ T cells with antibodies to these molecules during the activation 
+period (Betts et al., 2003). Failure to include antibodies during the stimulation can 
+have a dramatic effect on the ability to stain cell-surface CD107a and b. As shown 
+in Fig. 4, cells labeled throughout the stimulation period have a significantly 
+enhanced staining pattern compared to cells stained at the end of the stimulation 
+period.
+
+\[
+\begin{array}{c}
+100 \\
+80 \\
+60 \\
+40 \\
+20 \\
+0 \\
+\end{array}
+\]
+
+% of Max
+
+CD107a/b FITC
+
+\[
+\begin{array}{c}
+\text{CD107during stim} \\
+\text{CD107post stim} \\
+\end{array}
+\]
+
+Fig. 4 Histogram analysis of CD107a/b expression on SEB-stimulated cells stained either during the 
+stimulation period (solid line) or after the stimulation period (dashed line). Analysis of the cells was 
+performed as described in Fig. 2. Gates were placed on CD3+/CD8+ cells shown to respond to SEB 
+stimulation by producing IFN-\(\gamma\). Histograms of CD107a/b levels on the IFN-\(\gamma\)–producing cells were 
+then compared, demonstrating that cells stained with CD107a/b after activation have substantially lower 
+levels of surface CD107a/b.
+```

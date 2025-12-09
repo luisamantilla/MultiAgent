@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "```\nTable S6. Protein half-lives after addition of the drug paclitaxel\n\n| Gene symbol | T1/2 after paclitaxel addition (hours) |\n|-------------|----------------------------------------|\n| BAG1        | 11.5 ± 2.6                             |\n| CKS2        | 3.5 ± 1.4                              |\n| DDX5        | 16.4 ± 1.6                             |\n| H2AFV       | 39.2 ± 5.7                             |\n| LMNA        | >48 ± NA                               |\n| NASP        | >48 ± NA                               |\n| RPS7        | 2.5 ± 0.9                              |\n| VIL2        | >48 ± NA                               |\n\nTable S7. Protein half-lives during serum starvation\n\n| Gene symbol | T1/2 after starvation (hours) |\n|-------------|-------------------------------|\n| BAG1        | 12.7 ± 0.3                    |\n| CKS2        | 5.0 ± 1.2                     |\n| DDX5        | 14.9 ± 5.0                    |\n| H2AFV       | >48 ± NA                      |\n| LMNA        | 25.5 ± 3.0                    |\n| NASP        | 33.0 ± 3.5                    |\n| RPS7        | 4.6 ± 0.3                     |\n| VIL2        | 31.3 ± 5.0                    |\n\nTable S8. Protein half-lives after addition of the drug cisplatin\n\n| Gene symbol | T1/2 after cisplatin addition (hours) |\n|-------------|---------------------------------------|\n| BAG1        | 5.6 ± 0.9                             |\n| CKS2        | 0.9 ± 1.3                             |\n| DDX5        | 6.1 ± 1.4                             |\n| H2AFV       | 20.5 ± 1.6                            |\n| LMNA        | 8.0 ± 2.1                             |\n| NASP        | 15.8 ± 2.3                            |\n| RPS7        | 2.7 ± 0.2                             |\n| VIL2        | 14.5 ± 6.1                            |\n\n20\n```",
+  "model": "gpt-4o",
+  "page": 21,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 16.75,
+  "filename": "eden_2011.pdf",
+  "doc_id": "eden_2011"
+}

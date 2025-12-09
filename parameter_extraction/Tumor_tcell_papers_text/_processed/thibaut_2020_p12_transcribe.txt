@@ -1,0 +1,159 @@
+```plaintext
+ARTICLES                                                                                             NATURE CANCER
+
+instance to filter out low-quality cells. Genes with fewer than 300 UMIs expressed
+were also removed to reduce computation time at each step. The filtered data were
+then analyzed using the Pagoda2 package (https://github.com/hms-dbmi/pagoda2/). Expression values and variance were scaled as described in Lake et al.41.
+It is important to note that, although the first version of Pagoda/PCA relies on gene
+sets analysis to perform cell clustering, Pagoda2 performs most of the analytical
+steps without any gene set analysis. The general approach used is similar to the
+one described at https://github.com/hms-dbmi/pagoda2/blob/master/inst/extended/
+pagoda2.walkthrough.021018.md. First gene variance was corrected for different
+variable genes identified using adjusted variance function (game.knn()). The 100
+first components of principal component analysis (PCA), based on the 3,000 most
+variable genes, were then computed using the calculatePcaReduction function. Then
+a k-nearest-neighbors (KNN) graph was computed based on the PCA reduction
+through the makeKnnGraph function (k=30). Cosine distance was used at this
+stage to increase the robustness of the analysis. Last, Louvain community detection
+clustering was performed on the KNN graph using the getKnnClusters function
+and the multilevel.community function from the igraph R package. Once the cells
+were clustered, we identified all genes that were significantly expressed by cells
+in a given cluster compared with other cells, using the PAGODA2
+function getDifferentialGenes and performing the Kruskal–Wallis test, with default
+parameters (corrected Z-score > 3, upregulatedOnly=TRUE). Using this gene list, we
+performed iterative cell subset based on the specific expression of well-known
+immune markers (CD3, CD8A, TRBC2, CD4, CD79A, CD79B). Dimensionality reduction
+of the data was performed using the UMAP algorithm42. The two-pack
+clustering was computed using the ‘clara’ method43. In the two-pack dimensionality
+reductions computed using PAGODA2 were used as input data. The k.neighbors
+parameter was set to 40 and sigma parameter to 4, and a cosine metric was used. In
+the case of the HNSCC, the data were already normalized and loaded into a Pagoda2
+object with parameter ‘modelType’ set to ‘raw’. For the next steps of the analysis,
+for 5% FCS was used, the 1,000 most variable genes were selected, the k parameter
+was set to 15 and a cosine distance was used.
+
+Analysis of over-dispersed pathways. To detect biologically meaningful gene
+modules/pathways in a given cluster, we performed pathway overdispersion
+analysis using two gene sets. We first selected a given pathway and computed
+the average expression across all genes contained on the raw UMI counts
+matrix. The average expression was then normalized per cell type (using
+the getPerCellType function) and the overdispersion of the pathway was
+computed using the testPathwayOverdispersion function from the package
+with default parameters. Gene-set enrichment was performed through a wilcoxon
+test (binom=‘test’, alternative=‘greater’) using the top 200 most variable genes as
+the reference universe. The HALLMARK INTERFERON ALPHA RESPONSE and
+HALLMARK INTERFERON GAMMA RESPONSE gene sets were downloaded
+from the Gene Set Enrichment Analysis website (https://www.gsea-msigdb.org/
+gsea/msigdb/genesets.jsp?collection=H). Multiple testing correction was performed using
+the Benjamini–Hochberg method. Adjusted P < 0.05.
+
+Association between IFN-γ score and IFN-γ production. In the case of
+the melanoma dataset, the macrophage population was identified as the
+C1Q/APOE-expressing cluster. The IFN-γ score was computed using the
+interferon gamma response function as described for the macrophage population
+and its mean value computed for each patient. Neutrophils were identified as the
+S100A8/S100A9/LYZ-expressing cluster. Patients with fewer than 25 macrophages
+or neutrophils were removed from the analysis. The fraction of IFN-γ-expressing
+CD8+ T cells among T cells was computed by computing the number of cells
+annotated as coming from a CD3+ gating belonging to a CD8+ T cell RNA-seq
+dataset, and has more than 0 UMI coming from their IFN-γ gene. The association
+between the two was assessed using a simple linear regression model (lm R
+function). The significance of the association was checked using Fisher’s test
+(analysis of variance R function). Correlation was estimated using the cor R
+function. For HNSCC samples, patients with fewer than 50 tumor cells in the
+dataset were removed from the analysis.
+
+Statistics and reproducibility. All statistical tests were performed using GraphPad
+Prism 6.0. Points in graphs indicate individual mice, and lines indicate means. In
+bar graphs, bars indicate means and error bars indicate s.d. The statistical tests
+used are specified and detailed in the figure legends. No statistical method was used
+to predetermine sample size. No data were excluded from the analyses. The
+experiments were not randomized. The investigators were not blinded to allocation
+during the experiments and outcome assessment.
+
+Reporting Summary. Further information on research design is available in the
+Nature Research Reporting Summary linked to this article.
+
+Data availability
+RNA-seq data reported in this paper are deposited in the National Center for
+Biotechnology Information GEO database (GSE140911). Previously published human
+single-cell RNA-seq data that were reanalyzed in the present study are available under
+accession codes GSE123139 and GSE130232. All other supporting data in the
+present study are available from the corresponding author on reasonable request.
+
+Code availability
+The R and Matlab scripts used for the transcriptomic and image analysis are
+available on GitHub (https://github.com/PierreBSC/IFNG_Cancer_project).
+
+Online content
+Any methods, additional references, Nature Research reporting summaries, source
+data, supplementary information, acknowledgements, peer review information;
+details of author contributions and competing interests; and statements of data and
+code availability are available at https://doi.org/10.1038/s43018-020-0038-2.
+
+Received: 28 May 2019; Accepted: 29 January 2020;
+Published online: 09 March 2020
+
+References
+1. Kaplan, D. H. et al. Demonstration of an interferon gamma-dependent tumor
+surveillance system in immunocompetent mice. Proc. Natl Acad. Sci. USA 95,
+7556–7561 (1998).
+2. Shresta, S., Frencher, E. & Smyth, M. J. Perforin and interferon-gamma
+activities independently control tumor initiation, growth, and metastasis.
+Blood 97, 192–197 (2001).
+3. Dunn, G. P., Koebel, C. M. & Schreiber, R. D. Interferons, immunity and
+cancer immunoediting. Nat. Rev. Immunol. 6, 836–848 (2006).
+4. Carris, C. S. et al. Successful anti-PD-1 cancer immunotherapy requires
+T cell-dendritic cell crosstalk involving the cytokines IFN-gamma and IL-12.
+Immunity 49, 1148–1161.e1147 (2018).
+5. Gao, J. et al. Loss of IFN-gamma pathway genes in tumor cells
+as a mechanism of resistance to anti-CTLA-4 therapy. Cell 167,
+397–404.e399 (2016).
+6. Chin, Y. E. et al. Cell growth arrest and induction of cyclin-dependent
+kinase inhibitor p21WAF1/CIP1 mediated by STAT1. Science 272,
+719–722 (1996).
+7. Wang, Y. et al. Interferon-gamma induces human indoleamine 2,3-dioxygenase
+expression through an interferon-gamma-responsive element. J. Biol.
+Chem. 273, 395–399 (1998).
+8. Wang, Y. et al. Helper T-cell 1-cell cytokines modulate the expression of
+arginase activity in macrophages. J. Immunol. 164, 361–365 (2000).
+9. Wang, W. et al. CD8+ T cells regulate tumor ferroptosis during cancer
+immunotherapy. Nature 569, 270–274 (2019).
+10. Kumon, T. et al. Tumor senescence by interferon-gamma renders
+myelosuppressive blood vessel regression. Nature 545, 98–102 (2017).
+11. Munn, D. C. et al. T cells regulated a single major histocompatibility
+antigen can cure solid tumors. Nat. Med. 11, 1222–1229 (2005).
+12. Aragon, T. & Lustig, A. D. CXCR3 ligands mediate collaborative and
+antagonistic functions. Immunol. Cell Biol. 89, 207–215 (2011).
+13. Takeoka, K. et al. IFN-gamma is required for cytotoxic T cell-dependent
+cancer genome elimination. Nat. Commun. 8, 14607 (2017).
+14. Garcia-Diaz, A. et al. Interferon receptor signaling pathways regulating
+PD-L1 and PD-L2 expression. Cell Rep. 19, 1189–1201 (2017).
+15. Dong, H. et al. Tumor-associated B7-H1 promotes T-cell apoptosis:
+potential mechanism of immune evasion. Nat. Med. 8, 793–800 (2002).
+16. Freeman, G. J. et al. Engagement of the PD-1 immunoinhibitory receptor by
+a novel B7 family member leads to negative regulation of lymphocyte
+activation. J. Exp. Med. 192, 1027–1034 (2000).
+17. Pai, C. S. et al. Clonal deletion of tumor-specific T cells by interferon-gamma
+confers therapeutic resistance to combination immune checkpoint blockade.
+Immunity 50, 477–492.e478 (2019).
+18. Benici, L. et al. Tumor interferon signaling regulates a multiple
+resistance program to immune checkpoint blockade. Cell 167,
+1540.e1514–e1512 (2016).
+19. Alban-Bonte, G. & Mukherjee, R. Cytokine-mediated communication:
+a quantitative appraisal of immune complexity. Nat. Rev. Immunol. 19,
+205–212 (2019).
+20. Huse, M., Lillemeier, B. F., Kuhns, M. S., Chen, D. S. & Davis, M. M. T cells
+use two distinctively distinct pathways for cytokine secretion. Nat. Immunol.
+7, 247–255 (2006).
+21. Helmstetter, C. et al. Individual T helper cells have a quantitative cytokine
+memory. Immunity 42, 108–122 (2015).
+22. Honda, T. et al. Tuning of antigen sensitivity by T cell receptor-dependent
+negative feedback controls T cell effector function in defined tissues.
+Immunity 40, 235–247 (2014).
+23. Sanderson, N. S. et al. Cytotoxic immunological synapses do not restrict
+action of interferon-gamma to antigenic target cells. Proc. Natl Acad. Sci. USA
+109, 7835–7840 (2012).
+
+                                                                                           NATURE CANCER | www.nature.com/natcancer
+```

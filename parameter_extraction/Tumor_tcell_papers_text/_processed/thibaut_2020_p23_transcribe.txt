@@ -1,0 +1,23 @@
+```
+NATURE CANCER                                                                                                           ARTICLES
+
+Extended Data Fig. 7 | Tumor-reactive CD8+ T cells mediate widespread and sustained STAT1 activity in the tumor microenvironment. a, Experimental 
+set-up. Recipient Rag2-/-γc-/- mice were injected with OVA+ Eμ-myc B lymphoma cells expressing the STAT1-GFP reporter and a nuclear mCherry protein. 
+After 3 weeks, activated CD8+ T cells bearing the OT-I TCR were injected i.v. One day later, recipients were subjected to intravital imaging of the bone 
+marrow. b, STAT1-GFP is largely excluded from the nucleus in tumor cells developing in the absence of T cells. Representative two-photon images (scale 
+bar: 20μm), highlighting two specific regions (insets, scale bar: 10μm). c, Detection of nuclear STAT1-GFP in T cell-infiltrated tumors. Representative 
+two-photon images (scale bar: 20μm), highlighting two specific regions (insets, scale bar: 10μm). d, Translocation score was computed from two-photon 
+images obtained in mice left untreated (no T cells) or transferred with OT-I T cells (n=10 cells per group, box plot showing the median, first and third 
+quartile and min and max values, *** P<0.001, two-tailed Mann-Whitney U-test). Data in b-d are representative of two independent experiments. 
+e-h STAT1 signaling is detected at distance from antigen-positive tumor cells. e, Experimental set-up. Rag2-/-γc-/- mice were injected with Eμ-myc cells expressing 
+the STAT1 reporter either alone or mixed at a 1:1 ratio with OVA+ Eμ-myc (expressing mCFP). Two weeks later, all mice were adoptively transferred with 
+activated OT-I T cells. After 2 days, mice were subjected to intravital imaging of the bone marrow. f, STAT1-GFP is largely excluded from the nucleus 
+in tumor cells developing in the absence of antigen-positive tumors. Representative two-photon images (scale bar: 20μm), highlighting two specific 
+regions. Scale bar, 20 μm. g, Detection of STAT1 translocation in antigen-negative tumor cells developing in the presence of antigen-positive tumor cells. 
+Representative two-photon images (scale bar: 20μm), highlighting two specific regions. Scale bar, 20 μm. h, Translocation score was computed from two- 
+photon images obtained in mice bearing STAT1-GFP-expressing tumor cells alone, or bearing mosaic tumors containing both STAT1-GFP and OVA+ tumor 
+cells. (n=10 cells per group, box plot showing the median, first and third quartile and min and max values, ** P<0.01, two-tailed Mann-Whitney U-test). 
+Data in f-h are representative of n=3 mice per group.
+
+NATURE CANCER | www.nature.com/natcancer
+```

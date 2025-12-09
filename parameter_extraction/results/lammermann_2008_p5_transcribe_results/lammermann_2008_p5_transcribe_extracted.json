@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and their values from the provided text:\n\n1. **Poly(I:C) injection for Cre expression induction**: 250 μg\n2. **Time after knockout induction for DC generation**: 10–14 days\n3. **CCL19 concentration in gradient for chemotaxis assays**: 16 ng/ml\n4. **CCL19 concentration in culture medium overlay**: 100 ng/ml\n5. **Pretreatment concentration for cytochalasin D, blebbistatin, or Y27632**: 10 μM\n6. **Pretreatment duration for cytochalasin D, blebbistatin, or Y27632**: 30 minutes\n7. **Pretreatment temperature for cytochalasin D, blebbistatin, or Y27632**: 37 °C\n8. **Enrichment level of DCs for β1, β2, and β7 knockout cells**: >99%"
+}

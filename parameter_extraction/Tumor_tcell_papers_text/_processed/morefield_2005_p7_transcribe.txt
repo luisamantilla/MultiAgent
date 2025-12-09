@@ -1,0 +1,23 @@
+1594
+
+G.L. Morefield et al. / Vaccine 23 (2005) 1588–1595
+
+![Image of dendritic cells treated with BODIPY FL](image)
+
+Fig. 4. Dendritic cells treated with BODIPY FL (green) labeled alpha casein adsorbed to aluminum phosphate adjuvant. The cytoskeleton was stained red. The images are from a z-series of 42 slices. Key: (A) slice 3; (B) slice 15; (C) slice 27; (D) slice 42. All bars represent 10 μm.
+
+antigen. As seen in Table 1, the aggregate size of the BODIPY FL labeled AC/AH complex in cell culture media was reduced by pretreatment of AH with phosphate. AP exhibited the smallest aggregate size in cell culture media.
+
+Confocal microscopy revealed that AC adsorbed to PTAH-1, PTAH-2 and AP was also internalized by DCs. DCs internalized fragments of PTAH-1 and PTAH-2. However, the aggregates of AP were small enough (3 μm) that the DCs appeared to internalize whole aggregates of AP. In fact, as seen in Fig. 4, multiple 3 μm aggregates of BODIPY FL labeled AC adsorbed to AP were seen within the DCs.
+
+When the DCs exposed to AC adsorbed to PTAH-1, PTAH-2 and AP were analyzed by flow cytometry, it was found that the fluorescence intensity within the DCs was inversely related to the aggregate size of the adjuvant in the cell culture media (Fig. 3). There does not appear to be any advantage in decreasing the aggregate size below the 3 μm observed with AP since a plot of BODIPY FL fluorescence intensity versus the mean aggregate diameter becomes asymptotic at 3 μm (Fig. 5).
+
+![Graph of BODIPY FL fluorescence intensity vs. mean diameter](image)
+
+Fig. 5. Relationship between the degree of antigen internalization by dendritic cells and the mean diameter of the adjuvant aggregates in cell culture media.
+
+4. Summary
+
+The results of the in vitro cell culture experiment indicate that internalization of antigen by DCs occurs rapidly by both macropinocytosis of eluted antigen and phagocytosis of adsorbed antigen. The internalization of adsorbed antigen was more efficient as the relative fluorescence intensity within the DCs was greater when adsorbed antigen was internalized in comparison to antigen in solution. In addition, the relationship between the size of the DCs and the size of the BODIPY FL labeled AC/adjuvant aggregates was important. Internalization was enhanced when the adjuvant aggregates were smaller than the DCs.
+
+It is likely that both macropinocytosis and phagocytosis occur when the antigen elutes from the aluminum-containing adjuvant following administration. The relative contribution of macropinocytosis and phagocytosis to antigen internaliza-

@@ -1,0 +1,31 @@
+Tubulin Oligomer Formation Studied by FCS
+
+![Graph]
+
+FIGURE 3 Dependence of the diffusion coefficient of labeled proteins on their molecular mass. Proteins ovalbumin (43 kD), catalase (232 kD), ferritin (440 kD), and thyroglobulin (669 kD) are labeled by TAMRA, except BSA (65 kD), which is labeled by tetramethyl-rhodamine isothiocyanate. All proteins are measured by FCS in phosphate buffer. Symbols (●) represent the experimental diffusion coefficients of the fluorescent proteins measured at nanomolar concentration by the ConfoCor II and (▲) are data from the literature. The data (▼) represent the diffusion coefficients of a small fraction of the free dye (TAMRA) present in the sample of labeled proteins.
+
+The diffusion coefficient of the spherical particles can be calculated using the theoretical Stokes-Einstein relation:
+
+\[ D = \frac{KT}{6\pi\eta r} \]
+
+(5)
+
+where the Boltzmann constant \( K = 1.38 \times 10^{-23} \) J/K, the absolute temperature \( T = 293 \) K, the viscosity of water \( \eta = 10^{-3} \) kg/(ms), and \( r \) is the hydrodynamic radius of the molecule. The radius, \( r \), can be calculated from the molecular mass of the molecule using the following formula:
+
+\[ r = \sqrt[3]{\frac{3m/N_A}{4\pi\rho}} \]
+
+(6)
+
+where \( N_A \) is Avogadro’s number \( = 6.023 \times 10^{23} \) mol\(^{-1}\), and \( \rho \) is the mean density of the molecule, e.g., 1 g/ml. Theoretically, therefore, the diffusion coefficient \( D \) of the molecule is proportional to the molecular mass as \( D \sim M^{-0.33} \). The experimental data are fitted by a linear regression (in log scale) and the proportionality coefficient \( (a) \) in our measurements for TAMRA-labeled proteins is determined to be \( a = -0.32 \), which is in very good agreement with the theoretical value. The diffusion coefficients obtained from the literature for all proteins from the gel calibration kit are also plotted in Fig. 3. As it can be seen, the diffusion coefficients of catalase, ferritin, and thyroglobulin measured by FCS, are similar to the diffusion coefficients measured by other techniques as obtained from the literature. The diffusion coefficients of ovalbumin and BSA in the FCS measurements are slightly lower than the values found in the literature. After these studies we are confident that we can determine correct diffusion coefficients of proteins in a wide range of molecular mass values.
+
+Labeled tubulin in the FCS measurements
+
+The diffusion coefficient of fluorescently labeled tubulin is measured at nanomolar concentration in MES buffer. The best fit of the autocorrelation curve is again obtained by using a two-component model. Because the characteristic fast diffusion time corresponds to that of the free dye (TAMRA), its value is fixed at 39 ± 2 µs in further fittings. This value is obtained independently from FCS measurements on the free dye. The diffusion coefficient of fluorescently labeled tubulin at nanomolar concentration is found to be \( (4.5 \pm 0.2) \times 10^{-11} \) m\(^2\)/s and remains the same when the concentration of labeled tubulin varies between 2 nM and 10 nM. The solution of fluorescent tubulin (even after a double passage down a gel column) still contains ~20 ± 4% of free dye, as measured by FCS, which seems difficult to be removed. The stability of the labeled tubulin is checked by measuring the diffusion coefficient and the number of particles for at least 1 h. These values do not change during this time interval, which suggests that the labeled tubulin is stable and forms no aggregates during the time of an experimental session.
+
+The interactions of labeled tubulin with unlabeled tubulin at different Mg\(^{2+}\) concentrations
+
+The assembly of tubulin into microtubules and other polymeric forms, like rings and spirals is favored by high concentrations of Mg\(^{2+}\) as has been observed by velocity sedimentation by Frigon and Timasheff (1975). To find the diffusion coefficient of tubulin at micromolar concentration and at high Mg\(^{2+}\) the following experiment is done. Fluorescent tubulin at 3-nM concentration is added to different concentrations of nonlabeled tubulin varying from 0.2 µM up to 40 µM and the fluorescence fluctuations are observed. The autocorrelation function of this signal is analyzed and the diffusion coefficients are determined. The results are shown in Fig. 4. At 1 mM Mg\(^{2+}\) the mean value of the diffusion coefficient of the fluorescent tubulin in the presence of varying concentrations of unlabeled tubulin is determined to be \( (4.3 \pm 0.1) \times 10^{-11} \) m\(^2\)/s. This value is similar to the value for labeled tubulin at nanomolar concentration in the same solution conditions and it is independent within uncertainty from the concentration of unlabeled tubulin. The concentrations of added labeled tubulin varied between 2 nM and 10 nM and this variation shows no influence on the obtained results.
+
+At 16 mM of Mg\(^{2+}\) the diffusion coefficient of the species that we consider to be labeled tubulin decreases at increasing concentrations of unlabeled tubulin. We therefore consider it to be an average diffusion coefficient of a complex between
+
+Biophysical Journal 87(4) 2635–2646

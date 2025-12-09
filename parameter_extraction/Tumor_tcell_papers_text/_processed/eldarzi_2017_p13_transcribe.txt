@@ -1,0 +1,114 @@
+El Darzi et al.                                                                                                                  13
+
+Funding
+
+This work was supported by an internal research grant from the University of Balamand to G.M.B.
+
+References
+
+1. Kupper TS and Fuhlbrigge RC (2004) Immune sur-
+veillance in the skin: Mechanisms and clinical conse-
+quences. Nature Reviews Immunology 4: 211–222.
+2. Freedberg IM, Tomic-Canic M, Komine M, et al.
+(2001) Keratins and the keratinocyte activation cycle.
+Journal of Investigative Dermatology 116: 633–640.
+3. Uchi H, Terao H, Koga T, et al. (2000) Cytokines
+and chemokines in the epidermis. Journal of
+Dermatological Science 24(Suppl. 1): S29–S38.
+4. Caughman SW, Li LJ and Degitz K (1990)
+Characterization and functional analysis of interferon-
+gamma-induced intercellular adhesion molecule-1
+expression in human keratinocytes and A-431 cells.
+Journal of Investigative Dermatology 94: 225–265.
+5. Valins W, Amini S and Berman B (2010) The expres-
+sion of toll-like receptors in dermatological diseases
+and the therapeutic effect of current and newer topical
+toll-like receptor modulators. The Journal of Clinical
+and Aesthetic Dermatology 3: 20–29.
+6. Kamaruzaman W, Wen-Ling C, Zhen Z, et al. (2011)
+Expression of DC-LAMP and DC-SIGN net-
+works in the skin of patients with atopic eczema.
+Molecular Pathology 91: 461–465.
+7. Gaspar K, Kukova G, Bunemann E, et al. (2013)
+The chemokine receptor CCR3 participates in tissue
+remodeling during atopic skin inflammation. Journal
+of Dermatological Science 71: 12–21.
+8. Griffiths CE, Voorhees JJ and Nickoloff BJ (1989)
+Characterization of intercellular adhesion molecule-1
+and HLA-DR expression in normal and inflamed
+skin: Modulation by recombinant gamma interferon
+and tumor necrosis factor. Journal of the American
+Academy of Dermatology 20: 617–629.
+9. Strange P, Skov L and Baadsgaard O (1994) Interferon
+gamma-treated keratinocytes activate T cells in the
+presence of superantigens: Involvement of major his-
+tocompatibility complex class II molecules. Journal
+of Investigative Dermatology 102: 150–154.
+10. Bos JD, de Rie MA, Teunissen MB, et al. (2005)
+Psoriasis: Dysregulation of innate immunity. British
+Journal of Dermatology 152: 1098–1107.
+11. Grewe M, Bruijnzeel-Koomen CA, Schopf E, et al.
+(1998) A role for Th1 and Th2 cells in the immuno-
+pathogenesis of atopic dermatitis. Immunology
+Today 19: 359–361.
+12. Werfel T, Morita A, Grewe M, et al. (1996) Allergic
+specificity of skin-infiltrating T cells is not restricted
+to a type-2 cytokine pattern in chronic skin lesions
+of atopic dermatitis. Journal of Investigative
+Dermatology 107: 871–876.
+
+13. Rebane A, Zimmermann M, Aab A, et al. (2012)
+Mechanisms of IFN-gamma-induced apoptosis of
+human skin keratinocytes in patients with atopic der-
+matitis. Journal of Allergy and Clinical Immunology
+129: 1297–1306.
+14. Albanesi C, Cavani A and Girolomoni G (1999) IL-
+17 is produced by nickel-specific T lymphocytes and
+regulates ICAM-1 expression and chemokine produc-
+tion in human keratinocytes: Synergistic or antagonist
+effects with IFN-gamma and TNF-alpha. Journal of
+Immunology 162: 494–502.
+15. Szepietowski JC, McKenzie RC, Keohane SG, et al.
+(1997) Atopic and non-atopic individuals react to
+nickel challenge in a similar way. A study of the
+cytokine profile in nickel-induced contact dermatitis.
+British Journal of Dermatology 137: 195–206.
+16. Junghans V, Jung T and Neumann C (1996) Human
+keratinocytes constitutively express IL-4 receptor
+molecules and respond to IL-4 with an increase in
+B7/BB1 expression. Experimental Dermatology 5:
+316–324.
+17. Xiao T, Kagami S, Saeki H, et al. (2003) Both IL-4
+and IL-13 inhibit the TNF-alpha and IFN-gamma
+enhanced MDC production in a human keratinocyte
+cell line, HaCaT cells. Journal of Dermatological
+Science 31: 111–117.
+18. Kondo S, Sauder DN and McKenzie RC (1994) The
+regulation of IL-6, IL-8, TNF-alpha and IL-1beta by
+glucosamine in HaCaT cells, but not in the presence
+of TNF-alpha. Oncology Letters 1: 289–292.
+19. Bahr GM, Darcissac E, Belce A, et al. (1995)
+Immunopharmacological activities and clinical
+development of muramyl peptides with particular
+emphasis on murabutide. International Journal of
+Immunopharmacology 17: 117–131.
+20. Girardin SE, Boneca IG, Viala J, et al. (2003) Nod2
+is a general sensor of peptidoglycan through mura-
+myl dipeptide (MDP) detection. Journal of Biological
+Chemistry 278: 8869–8872.
+21. Darcissac EC, Bahr GM, Pouliart PR, et al. (1996)
+Selective potentiation of cytokine expression in
+human whole blood by murabutide, a muramyl dipe-
+tide analogue. Cytokine 8: 658–666.
+22. Corridoni D, Arseneau KO, Cifone MG, et al. (2014)
+The dual role of nod-like receptors in mucosal innate
+immunity and chronic intestinal inflammation.
+Frontiers in Immunology 5: 317.
+23. Boukamp P, Petrussevska RT, Breitkreutz D, et al.
+(1988) Normal keratinization in a spontaneously
+immortalized aneuploid human keratinocyte cell line.
+Journal of Cell Biology 106: 761–771.
+24. Breitkreutz D, Schoop VM, Mirancea N, et al. (1998)
+Epidermal differentiation and basement membrane
+formation by HaCaT cells in surface transplants.
+European Journal of Cell Biology 75: 273–286.

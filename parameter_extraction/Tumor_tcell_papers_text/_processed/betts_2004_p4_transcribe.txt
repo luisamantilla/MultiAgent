@@ -1,0 +1,50 @@
+```plaintext
+500                                                                                      Michael R. Betts and Richard A. Koup
+
+Importantly, these proteins are rarely found on the surface of resting 
+T lymphocytes (Betts et al., 2003; Fukuda, 1991; Peters et al., 1991). Thus, labeling 
+responding cells with antibodies to CD107a and b and measuring their expression 
+by flow cytometry can directly identify degranulating CD8+ T cells.
+
+II. Materials and Methods
+
+The measurement of CD107 expression on the cell surface of activated T cells 
+can be used with numerous other measures of T lymphocyte function. We first 
+present a general protocol for this technique and then present specific applications 
+and pitfalls. The methods presented here all use human cells; however, these 
+methods also apply to studies using murine cells, provided that the appropriate 
+species-specific antibodies are used.
+
+A. Materials
+
+1. Cells to be analyzed: Fresh or frozen peripheral blood lymphocytes or T-cell 
+clones can be used; viability is very important for background issues (see pitfalls), 
+so samples with viability less than 85–90% will lead to spurious results.
+
+2. Antibody to CD107a and/or CD107b: These antibodies are available from BD-
+Pharmingen (San Diego, California) in directly conjugated forms; the only commer-
+cially available direct conjugates include the following: for CD107a (clone H4A3), 
+biotin, fluorescein isothiocyanate (FITC), phycoerythrin (PE), and Cy5–PE; and 
+for CD107b (cloneH4B4), FITC. The same antibodies are also available from 
+Southern Biotech (Birmingham, Alabama) in purified form; these reagents must 
+be titered (see later discussion) for use in the assay. Note that CD107a is the higher 
+expressed of the two molecules (Betts et al., 2003) and, therefore, may itself be 
+sufficient for degranulation analysis (Rubio et al., 2003). Additional formats of 
+CD107a and b, including allophycocyanin (APC) and Alexa 680 conjugates, were 
+made using standard conjugation techniques (Roederer, 2003).
+
+3. Antibodies to CD28 and CD49d: Purified azide-free antibodies to these 
+molecules are added to provide costimulation, as is commonly used in intracellular 
+cytokine assays; these antibodies are available from BD Biosciences (San Diego, 
+California) and are used at a concentration of 1 µg/ml of each antibody.
+
+4. Fluorescently labeled antibodies to various cell-surface markers (CD3, 
+CD4, CD8, CD14, CD19) and cytokines (interferon-γ [IFN-γ], tumor necrosis 
+factor-α [TNF-α], etc.).
+
+5. Appropriate antigen: When examining peptide-specific CD8+ T-cell re-
+sponses, use cytotoxic T lymphocyte (CTL) epitopes or peptide libraries at the 
+desired peptide concentrations; Staphylococcus enterotoxin B (1 µg/ml final) serves 
+as a positive control in all assays. Include unstimulated (or costimulation only) 
+samples to control for background issues.
+```

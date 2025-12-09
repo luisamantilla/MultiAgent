@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "```plaintext\nNATURE CANCER                                                                                              ARTICLES\n\nand members of the Schumacher and van Rheenen laboratories for discussions.\nThis work was supported by a Boehringer Ingelheim Fonds PhD Fellowship (to M.E.H.),\na Swiss National Science Foundation AMBIZIONE (no. PZ00P3_177188; to D.S.T.),\nERC CoG Cancer-recurrence (grant no. 648804), Cancer Genomics Netherlands and the\nDoctor Josef Steiner Foundation (to J.v.R.) and ERC AdG SENSIT (to T.N.M.S.).\n\nAuthor contributions\nM.E.H., L.B., D.P. and I.N.P. performed experiments and analyzed data. L.B. performed\nmultiphoton imaging. F.E.D. and M.E.H. designed and tested the ICG reporter. I.B.\nand M.E.H. designed imaging analyses. M.E.H. and M.T. performed ICK inhibitor\nexperiments. D.S.T. provided and analyzed human tumor samples. M.E.H., L.B., F.E.D.,\nJ.v.R. and T.N.M.S. contributed to experimental design. M.E.H., I.B., J.v.R. and T.N.M.S.\nprepared the manuscript with input from all the coauthors.\n\nCompeting interests\nThe authors declare no competing interests.\n\nAdditional information\nExtended data is available for this paper at https://doi.org/10.1038/s43018-020-0036-4.\nSupplementary information is available for this paper at https://doi.org/10.1038/\ns43018-020-0036-4.\n\nCorrespondence and requests for materials should be addressed to T.N.M.S.\n\nReprints and permissions information is available at www.nature.com/reprints.\n\nPublisher’s note Springer Nature remains neutral with regard to jurisdictional claims in\npublished maps and institutional affiliations.\n\n© The Author(s), under exclusive licence to Springer Nature America, Inc. 2020\n\nNATURE CANCER | www.nature.com/natcancer\n```",
+  "model": "gpt-4o",
+  "page": 11,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 14.22,
+  "filename": "hoekstra_2020.pdf",
+  "doc_id": "hoekstra_2020"
+}

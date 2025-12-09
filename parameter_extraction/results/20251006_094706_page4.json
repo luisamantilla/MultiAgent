@@ -1,0 +1,58 @@
+{
+  "tables": [
+    {
+      "parameter": "Decay rate of Virus v",
+      "value": "\u03bcv + \u03bav\u03b8 + gvn + gvs",
+      "units": null,
+      "context": "ODE model for virus decay"
+    },
+    {
+      "parameter": "Type I IFN \u03b3",
+      "value": "\u03bc\u03b3 + g\u03b3n",
+      "units": null,
+      "context": "ODE model for type I IFN decay"
+    },
+    {
+      "parameter": "Chemokines c",
+      "value": "\u03bcc",
+      "units": null,
+      "context": "ODE model for chemokines decay"
+    },
+    {
+      "parameter": "IL-10 i",
+      "value": "\u03bci",
+      "units": null,
+      "context": "ODE model for IL-10 decay"
+    }
+  ],
+  "figures": [],
+  "text": [
+    {
+      "parameter": "Cell diameter",
+      "value": "10",
+      "units": "\u03bcm",
+      "context": "Approximate cell diameter used in model"
+    }
+  ],
+  "equations": [
+    {
+      "parameter": "aU(s)",
+      "value": "\u03b3 { Si (bip(S)/Ho) \u0124iHoAi } max { \u03b3 Si (bip(S)/Ho) \u0124iHoAi, -v bHHoP(S) Ai/As }",
+      "units": null,
+      "context": "Mean rate of death aU(s) due to the Allele effect"
+    },
+    {
+      "parameter": "aD(s)",
+      "value": "\u03b3 { Si (bip(S)/Ho) DiHoAi } max { \u03b3 bHHoP(S) Ai/As, 0 }",
+      "units": null,
+      "context": "Mean rate of recovery aD(s)"
+    },
+    {
+      "parameter": "\u03c1",
+      "value": "1 - F / (aU + f)",
+      "units": null,
+      "context": "Viral resistance R of epithelial cell population"
+    }
+  ],
+  "summary": "The page discusses a model for viral resistance in epithelial cells influenced by type I IFN, using cellularization to describe cell behavior. It introduces decay rates for virus, type I IFN, chemokines, and IL-10. The model employs the Allele effect to describe the critical population of uninfected cells, with equations for death and recovery rates. An approximate cell diameter of 10 \u03bcm is used for modeling purposes."
+}

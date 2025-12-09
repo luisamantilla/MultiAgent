@@ -1,0 +1,48 @@
+El Darzi et al.                                                                                                           7
+
+Table 1. Surface receptors that were either not induced or did not display a significant variation in expression on HaCaT cells following stimulation with IFN-γ, IL-4, or TNF-α at 3, 24, 48, and 72 h.
+
+Surface receptor expression on HaCaT Cells (MFI)
+
+|       | CD1a | CD40 | CD124 | CD147 |
+|-------|------|------|-------|-------|
+| 3 h   |      |      |       |       |
+| Unstim| 0±0  | 0.2±0.1 | 0.2±0 | 253±36 |
+| IFN-γ | 0±0  | 0.1±0.1 | 0±0  | 250±41 |
+| IL-4  | 0.1±0| 0.1±0.1 | 0±0  | 261±49 |
+| TNF-α | 0±0  | 0.1±0.1 | 0±0  | 250±45 |
+
+| 24 h  |      |      |       |       |
+| Unstim| 0.1±0.1 | 0.3±0.1 | 0±0  | 282±44 |
+| IFN-γ | 0.3±0.1 | 0.6±0.2 | 0±0  | 203±29 |
+| IL-4  | 0±0  | 0.1±0.1 | 0±0  | 274±42 |
+| TNF-α | 0.2±0 | 0.5±0.1 | 0±0  | 250±28 |
+
+| 48 h  |      |      |       |       |
+| Unstim| 0±0  | 0.1±0.1 | 0±0  | 251±15 |
+| IFN-γ | 0.3±0.1 | 0.5±0.2 | 0±0  | 197±31 |
+| IL-4  | 0±0  | 0±0  | 0±0  | 245±3  |
+| TNF-α | 0.1±0 | 0.3±0 | 0±0  | 216±15 |
+
+| 72 h  |      |      |       |       |
+| Unstim| 0±0  | 0±0  | 0±0  | 185±9  |
+| IFN-γ | 0±0  | 0.1±0.1 | 0±0  | 149±15 |
+| IL-4  | 0±0  | 0±0  | 0±0  | 163±25 |
+| TNF-α | 0±0  | 0±0  | 0±0  | 162±8  |
+
+IFN-γ: interferon-γ; IL-4: interleukin-4; TNF-α: tumor necrosis factor alpha; SEM: standard error of the mean.
+Unstimulated cells (Unstim) serve as a control. Data are expressed as mean ± SEM (n=3) of the total geometric mean fluorescent intensity (MFI) in the region.
+
+(*P<0.05) between the effects of IFN-γ (2.2-fold increase) and TNF-α (1.5-fold increase) was present. CD119 expression on HaCaT cells was significantly reduced by IFN-γ at 24, 48, and 72 h. In contrast, TNF-α significantly increased the level of CD119 at 24, 48, and 72 h, with a maximum of 2.7-fold induction at 72 h (Figure 2). IL-4, TNF-α, and MDP had no detectable effect on resting levels of CD132 on HaCaT cells, while IFN-γ resulted in a significant increase in expression of CD132 at 48 and 72 h. Additional receptors (CD1a, CD40, CD124, and CD147) were also tested under the same conditions, yet all exhibited no significant variation in expression in response to any of the three tested cytokines (Table 1).
+
+IFN-γ and TNF-α inhibit proliferation of HaCaT cells
+
+In parallel to the evaluation of receptor expression, the proliferative response of HaCaT cells to the same set of stimulants was also conducted. Cells were seeded at an appropriate density to maintain an exponential growth state throughout the experiment, and proliferation was monitored after 24, 48, and 72 h post-stimulation with IFN-γ, IL-4, TNF-α, or MDP (Figure 3(a)). Both IFN-γ and TNF-α proved to be substantial inhibitors of HaCaT cell proliferation. The effect of IFN-γ started at 24 h with a significant 36% inhibition (*P<0.05), remaining stable at 72 h with a 39% inhibition of proliferation (*P<0.05) (Figure 3). The inhibitory effect of TNF-α on HaCaT proliferation was highest at 24 h, with a 48% inhibition, decreasing to 23% at 48 h and eventually plateauing at 72 h. Stimulation with IL-4 or MDP did not yield a significant influence on the proliferative rate of HaCaT cells. A similar pattern of inhibition was observed when a higher concentration (100 ng/mL) of the cytokines was tested (Figure 3(b)).
+
+IFN-γ, but not TNF-α, induces apoptosis in HaCaT cells
+
+To see if the inhibitory effect on the proliferation of IFN-γ could be correlated with an increase in cell death, an apoptosis assay was performed (Figure 4(a) and (b)). Cells that stained PI-Annexin⁺, PI⁺Annexin⁺, and PI⁺Annexin⁻ were considered as early apoptotic cells, late apoptotic cells, and necrotic cells, respectively. As expected, IL-4 did not induce apoptosis in HaCaT cells. On its own, IFN-γ was shown to induce early as well as late stage apoptosis at 48 and 72 h. A maximum increase in the percentage of late apoptotic cells was reached at 72 h with 43%. At 48 h, TNF-α was shown to induce a modest but significant increase (*P<0.05) in late stage apoptosis, reaching 15%. This increase, however, was fleeting and did not carry on to 72 h, suggesting other mechanisms at work behind the inhibition of proliferation (Figure 4(a) and (b)).
+
+NOD2 protein is undetectable in HaCaT cells
+
+In an effort to explain the unresponsiveness of HaCaT cells to stimulation with MDP, the expression of NOD2 protein was evaluated. Total HaCaT protein lysate was found to be negative for NOD2 expression at 25 and 50 μg when probed with a mouse monoclonal antibody. To verify whether

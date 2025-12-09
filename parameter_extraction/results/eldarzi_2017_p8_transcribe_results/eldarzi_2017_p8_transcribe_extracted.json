@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and values from the text:\n\n1. **Cytokine Stimulation Concentrations:**\n   - 50 ng/mL of each cytokine (IFN-γ, IL-4, TNF-α)\n   - 20 μg/mL MDP\n   - 100 ng/mL of each cytokine (IFN-γ, IL-4, TNF-α)\n\n2. **Time Points for Measurement:**\n   - 24 hours\n   - 48 hours\n   - 72 hours\n\n3. **Cell Quantities for Immunoprecipitation:**\n   - 2 x 10^6 HaCaT cells\n   - 3 x 10^6 HaCaT cells\n\n4. **Protein Band Observations:**\n   - A single band observed at 63 kDa\n   - No band detected at the expected 110 kDa\n\nThese values are related to the experimental setup and observations described in the text."
+}

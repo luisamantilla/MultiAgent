@@ -1,0 +1,13 @@
+Table S3. A summary of previous studies that compared the half-lives and dynamics of tagged and untagged proteins.
+
+| Ref.      | Cell type       | Comparison results                                                                                                                                   |
+|-----------|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| (20)      | S. cerevisiae   | Both Hmg2p-GFP and wild-type Hmg2p were degraded at similar Rates                                                                                    |
+| (21)      | HeLa & HEK293   | IκBα fused to GFP showed the same half-life as the wild-type protein                                                                                 |
+| (22)      | HeLa            | IκBα fused to a red fluorescence protein showed the same half-life as the wild-type protein                                                          |
+| (23)      | HeLa            | HPV-18 E2 fused to GFP and native proteins present the same half-lives                                                                               |
+| (24)      | S. cerevisiae   | Tagging did not alter the ubiquitine/proteasome degradation of Clb2 and Sic1 in TAP tagged protein                                                   |
+| (25)      | S. cerevisiae   | A half-life comparison of 24 different TAP tagged and untagged proteins suggested that the effect of the tagging on protein stability was secondary to other sources of error in the experiments. |
+| (5, 7-8)  |                 | These studies found good agreement between the dynamics of endogenously tagged and untagged proteins in different cell types.                        |
+
+15

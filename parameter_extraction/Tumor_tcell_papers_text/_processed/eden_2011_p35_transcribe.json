@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "Figure S6.\n\nDegradation log\\(_2\\) fold change\n\n\\[\n\\begin{align*}\n&5 \\\\\n&4 \\\\\n&3 \\\\\n&2 \\\\\n&1 \\\\\n&0 \\\\\n&-1 \\\\\n&-2 \\\\\n\\end{align*}\n\\]\n\n\\[\n\\begin{array}{cccccccccccccccccccccccccccccccccccccccc}\n\\text{VIM} & \\text{STMN1} & \\text{ENO1} & \\text{GAPDH} & \\text{FSCN1} & \\text{H2AFV} & \\text{VCL} & \\text{MYH9} & \\text{BAG1} & \\text{TARS} & \\text{CALM2} & \\text{RFC1} & \\text{LMNA} & \\text{VIM2} & \\text{PSMB4} & \\text{NASP} & \\text{RPA2} & \\text{DDX5} & \\text{RPS7} & \\text{VPS26A} & \\text{DYNC1H1} & \\text{COTL1} & \\text{RPL22} & \\text{K-Alpha-1} & \\text{RPS3} & \\text{ILF2} & \\text{EEF2} & \\text{RPS6} & \\text{CKS2} & \\text{RPS3A} & \\text{DDX18} & \\text{CD44} \\\\\n\\end{array}\n\\]",
+  "model": "gpt-4o",
+  "page": 35,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 11.32,
+  "filename": "eden_2011.pdf",
+  "doc_id": "eden_2011"
+}

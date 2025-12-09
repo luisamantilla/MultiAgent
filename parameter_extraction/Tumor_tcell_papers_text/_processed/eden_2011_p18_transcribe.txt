@@ -1,0 +1,47 @@
+```
+HSPH1    heat shock 105kD                                   16.5  ±  4.2
+ILF2     interleukin enhancer binding factor 2              16.5  ±  3.5
+K-α-1    tubulin, alpha 1b                                  15.3  ±  2.4
+LMNA     lamin A/C isoform 2                                12.8  ±  2.2
+MYH9     myosin, heavy polypeptide 9, non-muscle             6.4  ±  0.6
+NASP     nuclear autoantigenic sperm protein isoform 1      16.3  ±  2.3
+NCL      nucleolin                                          13.9  ±  2.8
+NDUFAF2  NADH dehydrogenase (ubiquinone) 1 alpha             6.6  ±  1.4
+NDUFB11  NADH dehydrogenase (ubiquinone) 1 beta             10.8  ±  1.2
+NPM1     nucleophosmin 1 isoform 1                           5.2  ±  0.1
+PLEC1    plectin 1 isoform 6                                11.7  ±  4.6
+POLR2F   DNA directed RNA polymerase II polypeptide F        5.4  ±  1.8
+POLR2L   DNA directed RNA polymerase II polypeptide L       10.5  ±  2.6
+POLR3GL  polymerase (RNA) III (DNA directed) polypeptide     3.5  ±  0.0
+POMP     proteasome maturation protein                       7.0  ±  2.9
+PRDX5    peroxiredoxin 5 precursor, isoform a                9.4  ±  2.6
+PSMA1    proteasome alpha 1 subunit isoform 2                8.8  ±  3.1
+PSMA3    proteasome alpha 3 subunit isoform 1                4.0  ±  4.4
+PSMA7    proteasome alpha 7 subunit                          9.0  ±  2.6
+PSMB1    proteasome beta 1 subunit                           6.7  ±  0.1
+PSMB4    proteasome beta 4 subunit                           7.3  ±  0.8
+PSMB6    proteasome beta 6 subunit                           8.5  ±  4.7
+PSMB7    proteasome beta 7 subunit proprotein                5.1  ±  0.7
+PSMC1    proteasome 26S ATPase subunit 1                     5.2  ±  1.5
+PSMC4    proteasome 26S ATPase subunit 4 isoform 1           4.4  ±  1.2
+PSMD12   proteasome 26S non-ATPase subunit 12 isoform 1      4.0  ±  2.0
+RFC1     replication factor C large subunit                  9.3  ±  1.5
+RPA2     replication protein A2, 32kDa                      11.2  ±  2.0
+RPL11    ribosomal protein L11                              14.9  ±  2.3
+RPL18    ribosomal protein L18                               9.2  ±  2.0
+RPL22    ribosomal protein L22 proprotein                   11.1  ±  2.8
+RPL27    ribosomal protein L27                              15.4  ±  3.1
+RPL27A   ribosomal protein L27a                              4.2  ±  1.9
+RPL29    ribosomal protein L29                               4.8  ±  1.8
+RPL30    ribosomal protein L30                               6.1  ±  0.6
+RPL39    ribosomal protein L39                               3.4  ±  0.5
+RPL6     ribosomal protein L6                                9.3  ±  1.6
+RPS19BP1 S19 binding protein                                21.8  ±  0.9
+RPS2     ribosomal protein S2                               19.7  ±  3.5
+RPS3     ribosomal protein S3                                5.5  ±  2.4
+RPS3A    ribosomal protein S3a                               6.7  ±  1.0
+RPS6     ribosomal protein S6                               14.4  ±  3.5
+RPS7     ribosomal protein S7                                4.3  ±  1.3
+
+17
+```

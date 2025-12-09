@@ -1,0 +1,415 @@
+```
+ARTICLES
+
+a
+
+Saline
+
+Doxorubicin
+
+100
+
+100
+
+n = 20
+
+n = 20
+
+80
+
+80
+
+60
+
+60
+
+40
+
+40
+
+20
+
+20
+
+0
+
+0
+
+0
+
+20
+
+40
+
+60
+
+0
+
+20
+
+40
+
+60
+
+Days after challenge
+
+Days after challenge
+
+Saline
+
+Oxaliplatin
+
+Doxorubicin
+
+100
+
+100
+
+n = 20
+
+n = 25
+
+n = 30
+
+80
+
+80
+
+60
+
+60
+
+40
+
+40
+
+20
+
+20
+
+0
+
+0
+
+0
+
+20
+
+40
+
+60
+
+0
+
+20
+
+40
+
+60
+
+0
+
+20
+
+40
+
+60
+
+Days after challenge
+
+Days after challenge
+
+Days after challenge
+
+Saline
+
+Oxaliplatin
+
+X-rays
+
+100
+
+100
+
+100
+
+n = 25
+
+n = 20
+
+n = 20
+
+80
+
+80
+
+80
+
+60
+
+60
+
+60
+
+40
+
+40
+
+40
+
+20
+
+20
+
+20
+
+0
+
+0
+
+0
+
+0
+
+10
+
+20
+
+30
+
+0
+
+10
+
+20
+
+30
+
+0
+
+10
+
+20
+
+30
+
+Days after challenge
+
+Days after challenge
+
+Days after challenge
+
+b
+
+100
+
+100
+
+n = 15 for each group
+
+80
+
+80
+
+60
+
+60
+
+40
+
+40
+
+20
+
+20
+
+0
+
+0
+
+0
+
+20
+
+40
+
+60
+
+0
+
+20
+
+40
+
+60
+
+Days after challenge
+
+Days after challenge
+
+c
+
+100
+
+100
+
+n = 15 for each group
+
+80
+
+80
+
+60
+
+60
+
+40
+
+40
+
+20
+
+20
+
+0
+
+0
+
+0
+
+20
+
+40
+
+60
+
+0
+
+20
+
+40
+
+60
+
+Days after challenge
+
+Days after challenge
+
+d
+
+100
+
+100
+
+n = 20 for each group
+
+80
+
+80
+
+60
+
+60
+
+40
+
+40
+
+20
+
+20
+
+0
+
+0
+
+0
+
+20
+
+40
+
+60
+
+0
+
+20
+
+40
+
+60
+
+Days after challenge
+
+Days after challenge
+
+Figure 4 TLR4 and its ligand HMGB1 are both required for the success of vaccination
+against tumor cells. (a,b) Impact of TLR4 on the vaccination with dying tumor cells. Mice
+WT or Tlr4–/– were immunized with PBS or dying tumor cells (CT26, EL4 or MCA205)
+treated with oxaliplatin, doxorubicin or X irradiation, as indicated. TLR4 inhibitory peptide
+and the control peptide (b) were injected i.p. into WT mice at day 0, day 3 and day 6
+after vaccination with dying (doxorubicin (DXR)-treated) CT26 tumor cells. At day 7, mice
+(n per group, as indicated) were inoculated with live syngeneic tumor cells and tumor
+growth was monitored. (c,d) Inhibition of HMGB1 prevents the efficacy of vaccination with
+dying tumor cells. Same experimental setting as in b, but dying tumor cells were either
+incubated with recombinant HMGB1 or HMGB1-specific siRNA (two different sequences;
+see Fig. 3e). Before inoculation in vivo (d). The percentage of tumor-free mice is indicated,
+based on the data of at least 3 independent experiments for each graph (n represents the
+total number of mice analyzed for each group of mice). *P < 0.05.
+
+© 2007 Nature Publishing Group http://www.nature.com/naturemedicine
+
+did not impair the capacity of DCs to present the soluble peptide
+SIINFEKL (Supplementary Fig. 1 online). In addition, EG7 tumors
+established in the thigh were irradiated (10 Gy), and this local
+irradiation stimulated OVA-specific T-cell responses in the inguinal
+lymph node in WT but not Tlr4–/– mice (Fig. 2e). In conclusion,
+TLR4 must be present in DCs for the optimal presentation of antigens
+derived from dying tumor cells.
+
+TLR4 controls tumor antigen processing and presentation
+WT and Tlr4–/– DCs were equally efficient in engulfing irradiated EG7
+thymoma or doxorubicin-treated CT26 colon carcinoma cells (Sup-
+plementary Fig. 2a online). The acquisition of maturation markers
+(including MHC class II and the co-stimulatory molecules CD40,
+CD80, CD86), the production of inflammatory cytokines (IL-6,
+IL-12p40, TNF-α) and allostimulatory potential by Tlr4–/– DCs were
+deficient in response to bacterial lipopolysaccharide yet intact in
+response to dying tumor cells (data not shown and Supplementary
+Fig. 2b,c). However, TLR4 influenced the kinetics at which DCs
+express Kb-SIINFEKL MHC class I peptide complexes at the plasma
+membrane surface after loading with dying OVA-transfected TS/A
+(H-2d) cells. WT and Tlr4–/– DCs expressed comparable levels of Kb
+molecules at baseline and acquired Kb-SIINFEKL complexes after
+pulsing with saturable amounts of free SIINFEKL peptides with
+similar kinetics (data not shown). However, a markedly reduced
+
+exposure of Kb-SIINFEKL complexes was detected on Tlr4–/– DCs,
+as compared with WT controls, after loading with dying
+OVA-expressing TS/A cells (Supplementary Fig. 3a online).
+TLR4 is likely to affect the processing and presentation of
+antigen. TLR4 has been reported to inhibit the lysosome-dependent
+degradation of phagosomes, meaning that Tlr4–/– DCs would
+degrade dying cells in the lysosomal compartment instead of
+presenting their antigens9. Indeed, the alkalinization of lysosomes
+with either chloroquine (a lysosomotropic alkaline) or bafilomycin A1
+(a specific inhibitor of the vacuolar ATPase responsible for lysosomal
+acidification), used at subtoxic concentrations, enhanced the
+capacity of Tlr4–/– DCs to present antigen from dying cells yet
+did not ameliorate antigen presentation by WT DCs (Supplementary
+Fig. 3b). Accordingly, treatment of Tlr4–/– DCs with chloroquine
+restored the ability of DCs to present Kb-SIINFEKL complexes
+to normal levels (Supplementary Fig. 3a, right). Next, we
+directly determined the kinetics of fusion between phagosomes and
+lysosomes in WT versus Tlr4–/– DCs loaded with dying tumor
+cells. Colocalization of the phagocytic cargo with lysosomes was
+significantly accelerated in Tlr4–/– DCs as compared with WT DCs
+(Supplementary Fig. 3c).
+These data confirm that TLR4 regulates the processing and pre-
+sentation of tumor cell antigens by DCs, presumably by inhibiting the
+lysosomal destruction of antigens.
+
+1054
+
+VOLUME 13 | NUMBER 9 | SEPTEMBER 2007 NATURE MEDICINE
+```

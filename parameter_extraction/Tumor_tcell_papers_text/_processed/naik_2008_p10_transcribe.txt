@@ -1,0 +1,143 @@
+```plaintext
+DC subsets and their development
+Sh Naka
+
+448
+
+9 Naik S. Distinct precursors of the dendritic cell subtypes. Nat Med eprints 2006.
+   http://eprints.inim.unimelb.edu.au/archive/00001885/.
+10 Matsuyama T, Rahman A. What brought the adaptive immune system to vertebrates?
+   —the hypercytokine hypothesis. Immunol Rev 1998; 166: 177–186.
+11 Hansen JD, Zapata AG. Lymphocyte development in fish and amphibians. Immunol
+   Rev 1998; 166: 199–220.
+12 Littman DR, Cooper MD. Why study the evolution of immunity? Nat Immunol 2007; 8:
+   547–548.
+13 Janeway CA Jr. Approaching the asymptote? Evolution and revolution in immunology.
+   Cold Spring Harb Symp Quant Biol 1989; 54 (Part 1): 1–13.
+14 Medzhitov R, Janeway CA Jr. Innate immunity: the virtues of a nonclonal system of
+   recognition. Cell 1997; 91: 295–298.
+15 Eparvier M, Bonneau M, Peyt G, Cordier C, Megeot J, Howard et al. Enrichment for
+   a CD62Lhi SIRPα+ subset in murine dendritic cells from the upper aero-digestive tract.
+   J Leukoc Biol 2004; 76: 553–561.
+16 Hoepke S, Sopp P, Collins RA, Howard CJ. Differences in the induction of CD8+ T-cell
+   responses by subpopulations of dendritic cells from efferent lymph are related to IL-1
+   alpha secretion. J Leukoc Biol 2001; 69: 271–279.
+17 Liu L, Zhang M, Sieweke M, McPherson GG. Cell intrinsic heterogeneity in two
+   functionally different dendritic cell populations in rat intestinal lymph can be
+   distinguished by CD4 expression. J Immunol 1996; 161: 1146–1155.
+18 MacDonald KP, Munster DJ, Clark JJ, Dzionek A, Schmitz J, Hart DN.
+   Characterization of human blood dendritic cell subsets. Blood 2002; 100:
+   4512–4520.
+19 Anjuere F, Amemiya CT, Gerber G, Petitin J, Gautier G, Cooper MD. Somatic
+   diversification of variable lymphocyte receptors in the agnathan sea lamprey. Nature
+   2004; 430: 174–180.
+20 Henri S, Yoshino M, Yamazaki H, Notte M, Iyoda T, Omatsu Y et al. Skin antigens in
+   the steady state are trafficked to regional lymph nodes by transforming growth factor-
+   beta1-dependent cells. Int Immunol 2001; 13: 695–704.
+21 Belz GT, Behrens G, Karamichali E, Williams S, Williams B, Tomic A et al. The dendritic
+   cell populations of mouse lymph nodes. J Immunol 2001; 167: 7411–7420.
+22 Jakob T, Ring J, Udey MC. Multistep navigation of Langerhans dendritic cells on the
+   way out of the skin. J Allergy Clin Immunol 2008; 120: 688–696.
+23 Wilks C, Golub R, Blanchard N, Chasson L, Schmitt E, Hunot M et al. Human
+   dendritic cells from different tissues: phenotype and functional activity. Immunol
+   Rev 2008; 220: 114–125.
+24 Banchereau J, Steinman RM. Dendritic cells and the control of immunity. Nature
+   1998; 392: 245–252.
+25 Banchereau J, Briere F, Caux C, Davoust J, Lebecque S, Liu YJ et al. Immunobiology
+   of dendritic cells. Annu Rev Immunol 2000; 18: 767–811.
+26 Banchereau J, Palucka AK. Dendritic cells as therapeutic vaccines against cancer.
+   Nat Rev Immunol 2005; 5: 296–306.
+27 Banchereau J, Palucka AK, Dhodapkar M, Burkeholder S, Taquet N, Rolland A et al.
+   Immune and clinical responses in patients with metastatic melanoma to CD34+
+   progenitor-derived dendritic cell vaccine. Cancer Res 2001; 61: 6451–6458.
+28 Banchereau J, Palucka AK, Dhodapkar M, Burkeholder S, Taquet N, Rolland A et al.
+   Immune and clinical responses in patients with metastatic melanoma to CD34+
+   progenitor-derived dendritic cell vaccine. Cancer Res 2001; 61: 6451–6458.
+29 Banchereau J, Palucka AK, Dhodapkar M, Burkeholder S, Taquet N, Rolland A et al.
+   Immune and clinical responses in patients with metastatic melanoma to CD34+
+   progenitor-derived dendritic cell vaccine. Cancer Res 2001; 61: 6451–6458.
+30 Banchereau J, Palucka AK, Dhodapkar M, Burkeholder S, Taquet N, Rolland A et al.
+   Immune and clinical responses in patients with metastatic melanoma to CD34+
+   progenitor-derived dendritic cell vaccine. Cancer Res 2001; 61: 6451–6458.
+31 Banchereau J, Palucka AK, Dhodapkar M, Burkeholder S, Taquet N, Rolland A et al.
+   Immune and clinical responses in patients with metastatic melanoma to CD34+
+   progenitor-derived dendritic cell vaccine. Cancer Res 2001; 61: 6451–6458.
+32 Banchereau J, Palucka AK, Dhodapkar M, Burkeholder S, Taquet N, Rolland A et al.
+   Immune and clinical responses in patients with metastatic melanoma to CD34+
+   progenitor-derived dendritic cell vaccine. Cancer Res 2001; 61: 6451–6458.
+33 Banchereau J, Palucka AK, Dhodapkar M, Burkeholder S, Taquet N, Rolland A et al.
+   Immune and clinical responses in patients with metastatic melanoma to CD34+
+   progenitor-derived dendritic cell vaccine. Cancer Res 2001; 61: 6451–6458.
+34 Banchereau J, Palucka AK, Dhodapkar M, Burkeholder S, Taquet N, Rolland A et al.
+   Immune and clinical responses in patients with metastatic melanoma to CD34+
+   progenitor-derived dendritic cell vaccine. Cancer Res 2001; 61: 6451–6458.
+35 Banchereau J, Palucka AK, Dhodapkar M, Burkeholder S, Taquet N, Rolland A et al.
+   Immune and clinical responses in patients with metastatic melanoma to CD34+
+   progenitor-derived dendritic cell vaccine. Cancer Res 2001; 61: 6451–6458.
+36 Banchereau J, Palucka AK, Dhodapkar M, Burkeholder S, Taquet N, Rolland A et al.
+   Immune and clinical responses in patients with metastatic melanoma to CD34+
+   progenitor-derived dendritic cell vaccine. Cancer Res 2001; 61: 6451–6458.
+37 Banchereau J, Palucka AK, Dhodapkar M, Burkeholder S, Taquet N, Rolland A et al.
+   Immune and clinical responses in patients with metastatic melanoma to CD34+
+   progenitor-derived dendritic cell vaccine. Cancer Res 2001; 61: 6451–6458.
+38 Banchereau J, Palucka AK, Dhodapkar M, Burkeholder S, Taquet N, Rolland A et al.
+   Immune and clinical responses in patients with metastatic melanoma to CD34+
+   progenitor-derived dendritic cell vaccine. Cancer Res 2001; 61: 6451–6458.
+39 Banchereau J, Palucka AK, Dhodapkar M, Burkeholder S, Taquet N, Rolland A et al.
+   Immune and clinical responses in patients with metastatic melanoma to CD34+
+   progenitor-derived dendritic cell vaccine. Cancer Res 2001; 61: 6451–6458.
+40 Geissmann F, Jung S, Littman DR. Blood monocytes consist of two principal subsets
+   with distinct migratory properties. Immunity 2003; 19: 71–82.
+41 Sundstedt C, Nikolic T, Dillon M, Van Rooijen N, Wraith DC, Menges M. Devels DA et al.
+   Subpopulations of mouse blood monocytes differ in maturation stage and inflamma-
+   tory response. J Immunol 2004; 172: 4410–4417.
+42 Jenkins N, Nibay EG. Monocyte emigration from bone marrow during bacterial
+   infection requires signals mediated by the chemokine receptor CCR2. Nat Immunol
+   2006; 7: 311–317.
+43 Serbina NV, Salazar-Mather TP, Biron CA, Kuziel WA, Pamer EG. TNF/INOS-producing
+   dendritic cells mediate innate immune defense against bacterial infection. Immunity
+   2003; 19: 59–70.
+44 Taylor PR, Gordon S. Monocyte heterogeneity and innate immunity. Immunity 2003;
+   19: 24–29.
+45 Bogie BK, Sibon C, Miled C, Jung S, Aucouturier P, Littman DR et al. A clonogenic
+   bone marrow progenitor specific for macrophages and dendritic cells. Science 2006;
+   311: 83–87.
+46 Varol C, Landsman L, Fogg DK, Greenshtein L, Gildor B, Margalit R et al. Monocytes
+   give rise to mucosal, but not splenic, conventional dendritic cells. J Exp Med 2007;
+   204: 171–180.
+47 Becker S, Warren MK, Haskill S. Colony-stimulating factor-induced monocyte differen-
+   tiation and proliferation to macrophages in serum-free cultures. J Immunol 1987; 139:
+   3703–3709.
+48 Inaba K, Inaba M, Romani N, Aya H, Deguchi M, Ikehara S et al. Generation of large
+   numbers of dendritic cells from mouse bone marrow cultures supplemented
+   with granulocyte/macrophage colony-stimulating factor. J Exp Med 1992; 176:
+   1693–1702.
+49 Inaba K, Steinman RM, Pack MW, Aya H, Inaba M, Sudo T et al. Identification of
+   proliferating dendritic cell precursors in mouse blood. J Exp Med 1992; 176:
+   1571–1576.
+50 Lu L, McCaslin D, Starzl TE, Thomson AW. Bone marrow-derived dendritic cell
+   progenitors (NLDC-145+, MHC class II+, B7-1/B7-2+) induce alloantigen-specific
+   hyporesponsiveness in murine T lymphocytes. Transplantation 1995; 60: 1539–1545.
+51 Inaba K, Inui H, Ruppert J, Ostermeyer D, Friedrichs C, Steinberg K. Signals required
+   for the generation of dendritic cells from bone marrow progenitors. J Immunol 1992;
+   149: 1709–1716.
+52 Inaba K, Inui H, Ruppert J, Ostermeyer D, Friedrichs C, Steinberg K. Signals required
+   for the generation of dendritic cells from bone marrow progenitors. J Immunol 1992;
+   149: 1709–1716.
+53 Inaba K, Inui H, Ruppert J, Ostermeyer D, Friedrichs C, Steinberg K. Signals required
+   for the generation of dendritic cells from bone marrow progenitors. J Immunol 1992;
+   149: 1709–1716.
+54 Inaba K, Inui H, Ruppert J, Ostermeyer D, Friedrichs C, Steinberg K. Signals required
+   for the generation of dendritic cells from bone marrow progenitors. J Immunol 1992;
+   149: 1709–1716.
+55 Inaba K, Inui H, Ruppert J, Ostermeyer D, Friedrichs C, Steinberg K. Signals required
+   for the generation of dendritic cells from bone marrow progenitors. J Immunol 1992;
+   149: 1709–1716.
+56 Inaba K, Inui H, Ruppert J, Ostermeyer D, Friedrichs C, Steinberg K. Signals required
+   for the generation of dendritic cells from bone marrow progenitors. J Immunol 1992;
+   149: 1709–1716.
+57 Inaba K, Inui H, Ruppert J, Ostermeyer D, Friedrichs C, Steinberg K. Signals required
+   for the generation of dendritic cells from bone marrow progenitors. J Immunol 1992;
+   149: 1709–1716.
+58 Inaba K, Inui H, Ruppert J, Ostermeyer D, Friedrichs C, Steinberg K. Signals required
+   for the generation of dendritic cells from bone marrow progenitors. J

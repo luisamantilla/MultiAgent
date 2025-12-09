@@ -1,0 +1,121 @@
+```plaintext
+ARTICLES
+
+that delivers an apoptotic signal to M15 T cells. An alternative 
+explanation is that M15 T cells express one or more high-affinity 
+receptors other than PD-1 that compete with the binding of B7-
+H1 to PD-1 to deliver the apoptotic signal. Similarly, soluble 
+CTLA-4 has been observed to compete with the binding of B7-1 
+and B7-2 ligands to CD28 (ref. 34). However, PD-1 is expressed 
+on only a fraction of activated mouse and human peripheral 
+T cells35, 36. Although PD-1Ig significantly inhibited apoptosis of 
+M15, a PD-1+CD8+ CTL line, it did not inhibit apoptosis of M99, 
+a PD-1– CD8+ CTL line that expresses a B7-H1Ig binding activity. 
+More notably, the induction of apoptosis in polyclonal human T 
+cells by anti-CD3 and B7-H1Ig was not inhibited by PD-1Ig. Our 
+data thus support the possibility that B7-H1 might bind recep-
+tor(s) other than PD-1 to transmit the apoptotic signal. B7-H1 
+might simultaneously bind to PD-1 as well as to the putative, 
+noninhibitive receptor, as PD-1 does not interfere with the apop-
+totic effect of B7-H1.
+
+In our experiment, engagement of human primary T cells by 
+B7-H1Ig in the presence of monoclonal antibody against CD3 
+led to early proliferation (using fresh costimulation) and sub-
+sequent inhibition (resulting from programmed death of acti-
+vated T cells). Neither costimulation or apoptosis of T cells in 
+this system were blocked by PD-1Ig (Fig. 4a and Supplementary 
+Fig. 6 online). These observations suggest that costimulation 
+and induction of apoptosis by B7-H1 might be mediated by the 
+same receptor, which is distinct from PD-1. Taken together with 
+our data showing the expression of different B7-H1 receptors in T-
+cell clones (Figs 2 and 3), this indicates that B7-H1 might regu-
+late different subsets of lymphocytes by different receptors.
+
+Our results have implications for the design of T-cell-based im-
+munotherapy. For example, adoptive immunotherapeutic strategies 
+require the infusion of pre-activated T cells. If confronted by an 
+apoptotic molecule such as B7-H1, tumor-specific T cells would 
+be deleted selectively at the tumor site. Our findings also predict 
+that tumors expressing B7-H1 will be more resistant to cancer 
+vaccines, and that blockade of B7-H1 by specific monoclonal an-
+tibodies or soluble inhibitors might enhance CTL killing of es-
+tablished cancers.
+
+Methods
+
+Monoclonal antibodies and fusion proteins. Mouse monoclonal antibodies 
+against human B7-H1 were produced by immunizing BALB/c mice with 
+human B7-H1Ig37. Two clones (2H1 and 5H1, IgG1) that specifically stained 
+B7-H1/293 cells were used for all studies. The 2 antibodies have similar stain-
+ing patterns and blocking functions. PD-1Ig was prepared as described37. 
+Fab(’)2 fragments of 5H1 were prepared by using the Immobilized Pepsin Kit 
+(Pierce, Rockford, Illinois). Monoclonal antibodies against mouse B7-H1 (IgG) 
+were produced by immunizing an Armenian hamster with mouse B7-H1Ig37, 
+and specifically bound mouse B7-H1 but not mouse B7-1, B7-2, B7-H3, B7-4 or 
+human B7-H1 (Zhu et al., unpublished data). Monoclonal antibody against 
+ZC cells was purified from the culture supernatant of 1B2 cell37. The mono-
+clonal antibodies specific for CD8 (RP-8A), Fas (DX2) and Fas ligand (NOK-
+1) and H2-Dd were purchased from BD PharMingen (San Diego, California), 
+the rabbit antibodies against human TRAIL from Alexis Biochemicals (San 
+Diego, California) and the monoclonal antibody for human PD-1 (J116) from 
+eBioscience (San Diego, California). The cells were analyzed by staining spe-
+cific monoclonal antibodies and imaging using a FACScan (Becton Dickinson, 
+Mountain View, California) and CellQuest software (Becton Dickinson).
+
+Immunohistochemistry. Human tumor lines were either purchased from 
+the American Type Culture Collection (Manassas, Virginia) or established in 
+the authors’ laboratories38,39. Human cancer and normal tissue samples were 
+obtained from the Pathology Department and blood samples were 
+obtained from the Blood Bank of the Mayo Clinic (Rochester, Minnesota) 
+after approval of the Institutional Review Board. Frozen tissues were sectioned and 
+stained with monoclonal antibody against B7-H1 (5H1) and with control 
+antibody (mouse IgG1) using a standard protocol.
+
+a
+
+b
+
+c
+
+d
+
+Fig. 4 Role of FasL and IL-10 in B7-H1-mediated apoptosis of activated T 
+cells. Purified human T cells (2 x 105 cells/well) were cultured with plate-
+bound control Ig or B7-H1Ig at 10 µg/ml in the presence of optimal dose of 
+antibody against CD3 for 72 h, and then analyzed for antigen expression 
+and apoptosis. a, A time course of apoptosis of activated T cells induced by 
+anti-CD3 and B7-H1Ig. Human PD-1Ig or control Ig was included in the cul-
+ture medium from the beginning. □, control Ig; ■, B7-H1Ig + control Ig; ○, 
+B7-H1Ig + PD-1Ig. b, Expression of Fas and FasL. Cells were stained with flu-
+orescein isothiocyanate (FITC)-conjugated monoclonal antibody against 
+Fas, or with purified monoclonal antibody against Fas ligand followed by 
+FITC-conjugated goat antibody against mouse IgG (Fab’). Numbers on the 
+bar indicate the percentage of positive cells as compared with non-specific 
+staining control. c, Blocking effects of antibodies against IL-10 (■), Fas lig-
+and (□) or both (■) or control antibody (□). Neutralizing monoclonal anti-
+bodies against IL-10 or Fas ligand were added from the beginning of 
+culture. Results are representative of 4 experiments shown. d, Blockade 
+of Fas-FasL interaction enhanced CTL-mediated inhibition of tumor cell 
+growth. M15 CTLs 
+were cocultured with 
+mock/624mel or B7-
+H1/624mel cells for 3 
+d. Antibodies against 
+Fas ligand (■), IL-10 
+(□) or both (■), or 
+control antibody (□), 
+at 10 µg/ml were 
+included from the 
+beginning of culture. 
+Tumor-cell viability 
+was assessed by 
+Trypan blue exclusion assay. Data were presented as the mean ± s.d. of cell 
+numbers recovered from 3 wells of each treatment. The results are repre-
+sentative of 3 experiments. *, significantly different from B7-H1/624mel + 
+control antibody group, P < 0.05.
+
+798
+
+NATURE MEDICINE • VOLUME 8 • NUMBER 8 • AUGUST 2002
+```

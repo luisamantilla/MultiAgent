@@ -1,0 +1,127 @@
+```markdown
+ARTICLES                                                                                      NATURE CANCER
+
+a
+
+E0771
+
+H-2K(b) (MFI)
+
+20000
+15000
+10000
+ 5000
+    0
+        0 0.005 0.05 0.5 5 50
+        IFN-γ concentration (ng.mL^-1)
+
+H-2 D(b) (MFI)
+
+20000
+15000
+10000
+ 5000
+    0
+        0 0.005 0.05 0.5 5 50
+        IFN-γ concentration (ng.mL^-1)
+
+PD-L1 (MFI)
+
+80000
+60000
+40000
+20000
+    0
+        0 0.005 0.05 0.5 5 50
+        IFN-γ concentration (ng.mL^-1)
+
+b
+
+B16.F10
+
+H2-D^b-APC
+
+10^4 10^5 10^6 10^7
+-10^4 10^0 10^1 10^2 10^3
+
+PD-L1-BV785
+
+10^4 10^5 10^6 10^7
+-10^4 10^0 10^1 10^2 10^3
+
+Eμ-myc
+
+H2-D^b-APC
+
+10^4 10^5 10^6 10^7
+-10^4 10^0 10^1 10^2 10^3
+
+PD-L1-PE
+
+10^4 10^5 10^6 10^7
+-10^4 10^0 10^1 10^2 10^3
+
+unstimulated  0.005 ng.mL^-1 IFN-γ  0.05 ng.mL^-1 IFN-γ  5 ng.mL^-1 IFN-γ
+
+c
+
+B16.F10
+
+absolute cell number
+
+200000
+150000
+100000
+ 50000
+     0
+        0 0.005 0.05 0.5 5 50
+        IFN-γ concentration (ng.mL^-1)
+
+d
+
+Eμ-myc
+
+absolute cell number
+
+2000000
+1500000
+1000000
+ 500000
+      0
+        0 0.05 0.5 5 50
+        IFN-γ concentration (ng.mL^-1)
+
+e
+
+B16.F10
+
+absolute cell number
+
+200000
+150000
+100000
+ 50000
+     0
+        0 0 50 50 50 50 50
+        IFN-γ (ng.mL^-1)  0 0 10^4 10^2 1 10
+        TNF-α (ng.mL^-1)
+
+f
+
+Eμ-myc
+
+absolute cell number
+
+300000
+225000
+150000
+ 75000
+     0
+        0 0 50 50 50 50 50
+        IFN-γ (ng.mL^-1)  0 0 10^4 10^2 1 10
+        TNF-α (ng.mL^-1)
+
+Extended Data Fig. 1 | See next page for caption.
+
+                                                                                      NATURE CANCER | www.nature.com/natcancer
+```

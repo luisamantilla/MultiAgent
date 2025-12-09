@@ -1,0 +1,87 @@
+```
+exposed to IFNγ during culture by adding either (1) 
+exogenous IFNγ 50 ng/ml to the medium or (2) cocul- 
+ture of AML cells with IFNγ-secreting anti-CD3-acti- 
+vated normal T cells (see above). CD119 expression was 
+analysed after 24 and 72 h, respectively. CD119 
+expression was decreased both in the presence of exog- 
+enous IFNγ and after coculture (Fig. 3). 
+
+CD119 ligation increases Stat1 phosphorylation 
+
+The effects of IFNγ on STAT and Erk1/2 phosphory- 
+lation status were investigated for 11 randomly selected 
+patients. We investigated Stat1, Stat3, Stat5 and Erk1/2, 
+and the frequency of positive phosphorylated cells as 
+well as MFI were determined for AML blasts incubated 
+in vitro with or without 50 ng/ml IFNγ. Cells from eight 
+patients were tested twice in independent experiments. 
+Increased MFI of phospho-Stat1 was observed for all 
+patients after incubation with IFNγ (median MFI 4.2, 
+range 1.5–45.5) compared to medium alone (median 
+MFI 1.1, range 0.5–18.7; P = 0.002), whereas no signif- 
+
+\begin{align*}
+\text{CD119}^+ \text{AML cells, \%}
+\end{align*}
+
+\begin{align*}
+100 \\
+80 \\
+60 \\
+40 \\
+20 \\
+0
+\end{align*}
+
+\begin{align*}
+\text{CD119}^+ \text{AML cells, \%}
+\end{align*}
+
+Fig. 2. Expression of CD119 (IFNγ-receptor α chain) by native 
+human AML cells. CD119 expression was examined by flow 
+cytometry for 39 randomly selected patients. The results are 
+expressed as the percentage of positive cells. Median is denoted in 
+the figure 
+
+showed a uniform distribution with no evidence for dual 
+populations. The percentage of positive cells showed a 
+significant correlation with MFI (Pearson correlation; 
+r = 0.64; P < 0.01), but the CD119 expression also varied 
+for patients with a high percentage of CD119^+ cells (i.e. 
+the MFI varied with a factor of 2.1 for AML cell pop- 
+ulations with more than 95% CD119^+ cells). 
+
+CD119 (IFNγ receptor) expression by AML cells 
+decreases after exposure to IFNγ 
+
+AML cells derived from nine consecutive patients were 
+cultured in vitro and CD119 expression compared for 
+AML cells cultured in medium alone and leukaemia cells 
+
+\begin{align*}
+90 \\
+80 \\
+70 \\
+60 \\
+50 \\
+40 \\
+30 \\
+20 \\
+10 \\
+0
+\end{align*}
+
+\begin{align*}
+\text{CD119}^+ \text{AML cells, \%}
+\end{align*}
+
+Fig. 3. Effect of IFNγ on CD119 expression by in vitro cultured 
+AML cells. Leukaemia cells were derived from nine consecutive 
+patients and we compared CD119 expression for AML cells 
+cultured in medium alone (–) and cells exposed to IFNγ (+) by 
+either (1) adding exogenous IFNγ 50 ng/ml to the medium (solid 
+line; 24 h culture, n = 9); or (2) coculturing AML cells with anti- 
+CD3-activated, IFNγ-secreting T cells (dashed line; 72 h culture, 
+n = 8). The results are presented as percentage of CD119^+ cells 
+```

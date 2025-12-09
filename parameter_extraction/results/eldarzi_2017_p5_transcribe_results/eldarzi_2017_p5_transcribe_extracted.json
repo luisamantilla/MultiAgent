@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and values from the text:\n\n1. CD49d expression:\n   - 1.5-fold decrease at 24 hours in response to IL-4.\n   - Complete loss of expression at 72 hours in response to IL-4.\n\n2. ICAM-1 expression:\n   - Maximum increase at 48 hours in response to IFN-γ or TNF-α.\n   - 58-fold increase in response to IFN-γ.\n\n3. Statistical significance:\n   - *P<0.05 for the increase in ICAM-1 expression at 48 hours with IFN-γ or TNF-α."
+}

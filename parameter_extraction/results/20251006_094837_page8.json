@@ -1,0 +1,33 @@
+{
+  "tables": [],
+  "figures": [
+    {
+      "parameter": "Uninfected cells",
+      "value": "10^2 to 10^6",
+      "units": null,
+      "context": "Number of uninfected cells over simulation time"
+    },
+    {
+      "parameter": "Extracellular virus",
+      "value": "10^2 to 10^6",
+      "units": null,
+      "context": "Extracellular virus levels over simulation time"
+    },
+    {
+      "parameter": "CD8+ T cells",
+      "value": "10^0 to 10^4",
+      "units": null,
+      "context": "CD8+ T cell count over simulation time"
+    }
+  ],
+  "text": [
+    {
+      "parameter": "Initial viral load",
+      "value": "10 to 100",
+      "units": null,
+      "context": "Factors of increase in initial viral load"
+    }
+  ],
+  "equations": [],
+  "summary": "The page presents a spatial model for lethal exposure scenarios, showing the distribution of epithelial cells, immune cells, and extracellular virus over time. Key findings include the necessity of a higher initial viral load to produce a lethal outcome in simulations. The figures illustrate changes in uninfected cells, extracellular virus, and CD8+ T cells over a 15-day simulation period. The study highlights differences in outcomes between spatial and ODE models, emphasizing the importance of initial viral load levels."
+}

@@ -1,0 +1,11 @@
+Table S9. Protein half-lives after addition transcription inhibitor actinomycin-D
+
+| Gene symbol | $T_{1/2}$ after actinomycin-D addition |
+|-------------|----------------------------------------|
+| BAG1        | 14.9 ± 12.0                            |
+| CKS2        | 3.2 ± 1.3                              |
+| DDX5        | 9.9 ± 1.9                              |
+| H2AFV       | 34.6 ± 15.1                            |
+| NASP        | 36.2 ± 11.8                            |
+
+21

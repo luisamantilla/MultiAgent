@@ -1,0 +1,17 @@
+```
+Figure S3.
+
+No bleaching
+2 min bleaching
+4 min bleaching
+
+Protein fluorescence
+(F.U.)
+
+0  5  10  15  hours
+
+log(P(t) - P(0))
+(F.U.)
+
+0  5  10  15  hours
+```

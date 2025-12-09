@@ -1,0 +1,143 @@
+BLOOD, 1 AUGUST 2007  VOLUME 110, NUMBER 3
+
+PD-1 AND SIV-SPECIFIC CD8+ T CELLS
+
+929
+
+interaction between PD-1 and its ligand PD-L1.37 Most impor-
+tantly, recent studies have revealed a critical role for this interaction
+in regulating the function and survival of HIV-specific CD8+
+T cells.38-40 PD-1, a member of the CD28 family, is a negative
+regulator of T-cell activation,41 originally identified as a surface
+receptor involved in the apoptosis of cancer cells.42 While the
+expression of PD-1 on virus-specific CD8+ T cells has been linked
+by some to impaired production of cytokines37,38,40 others have
+emphasized the predominant role of this receptor in regulating
+the survival of these cells.39,43-45 The molecular basis of these
+PD-1-dependent functional defects is as yet unknown. Understand-
+ing the role of PD-1 in regulating the functional properties of
+virus-specific CD8+ T cells could ultimately lead to interventions
+to restore greater numbers of HIV-specific (or SIV-specific) CD8+
+T cells with enhanced functionality in vivo.
+
+The role of PD-1 in SIV-specific CD8+ T-cell responses is
+currently unknown. Here, we report on the association with high expres-
+sion of PD-1 on SIV CM9-specific CD8+ T cells. Expression of
+PD-1 at high levels on these CD8+ T cells was associated with
+reduced proliferative capacity and increased susceptibility to death.
+Thus, as in HIV infection, our data point to a negative role for PD-1
+in SIV-specific CD8+ T-cell responses.
+
+Materials and methods
+
+Animals
+
+Indian rhesus macaques (Macaca mulatta) were housed at the
+New England Primate Research Center and cared for in accordance
+with the guidelines of the Association for the Accreditation of
+Laboratory Animal Care. Sixteen macaques were infected intravenously
+with a SIVmac251 stock as described.46,47 We were vaccinated with
+vectors encoding SIVmac239 env or gag-pol-nef and subsequently
+with SIVmac239 env were vaccinated with rMVA-SIVgag-pol-env and
+challenged with SIVmac251; and 2 animals were pretreated with antiretro-
+viral therapy (ART) + IL-2 and challenged with SIVmac251. Mucosal cells
+were isolated from jejunum, colon, and rectal tissues as previously
+described.49 Both intraepithelial lymphocytes (IELs) and lamina propria
+lymphocytes (LPLs) were collected. Briefly, samples were incubated in
+RPMI 1640 medium containing 15 U collagenase (type II; Sigma, St Louis,
+MO) and DNase (Invitrogen, Frederick, MD; 10 U/mL, penicillin,
+100 U/mL, streptomycin, 1.5 mM L-glutamine, 5 mM HEPES buffer, and
+5% FCS. All incubations were done at 37°C with gentle shaking for
+30 minutes. After washing, cells were resuspended in complete RPMI 1640
+(100 U/mL penicillin, 100 U/mL streptomycin, 10% FCS) and stored on ice
+until use. Supernatants were enriched for lymphocytes by discontinuous
+Percoll (Sigma) density gradient, 35% to 60% (vol/vol), centrifuga-
+tion. Epithelial cells form a band above the 35% gradient, and lymphocytes
+form a band at the interface between the 35% and 60% Percoll layers.
+
+Antibodies
+
+Directly conjugated antibodies were obtained from the following: (1) BD
+Biosciences (San Jose, CA): CD3-FTTC (catalog no. 555611), CD3-
+Cy7APC (catalog no. 557757), CD8-Pacific Blue (catalog no. 558207),
+CD8-APC (catalog no. 555369), IFNγ-PE (catalog no. 554700), TNFα-
+Cy7PE (catalog no. 557641), IL-2-PE (catalog no. 554566), CD95-Cy5PE
+(catalog no. 559773), (2) Beckman Coulter (Hialeah, FL): CD28-ECD
+(catalog no. 660711). Biotinylated anti-PD-1 antibody was obtained from
+R&D (catalog no. BAF 1086; Minneapolis, MN) and streptavidin (PE or
+Qdot 565) from Molecular Probes (Eugene, OR). Annexin V-Cy5PE was
+conjugated in our laboratory (http://mr.com/abcon/index.htm). Fluores-
+cent pMamu-A*01 tetrameric complexes were prepared in our laboratory as
+previously described.50 CM9 (Gag, CTPYDINQM); residues: 181-189
+(APC or Qdot 705) and TL8 (Tat, TTPESANL; residues 28-35) (dot 605).
+
+Quantum dots were obtained from Quantum Dot Corporation (Hayward,
+CA). Violet amine viability dye (ViVid) was purchased from Invitrogen.
+A monoclonal antibody (clone 1C10) was raised against human PD-1 by
+immunizing mice with a chimeric protein consisting of residues 1-147 of
+the mature sequence of PD-1 and the Fc region of mouse IgG. The antibody
+epitope overlaps with the region implicated in ligand binding by mutagene-
+sis of murine PD-1.51
+
+Measurement of cytokine production
+
+Previously frozen peripheral blood mononuclear cells (PBMCs), spleno-
+cytes, or axillary lymph node cells were thawed and resuspended at
+2 x 10^6/mL in RPMI medium (Invitrogen) supplemented with 10% heat-
+inactivated fetal calf serum, penicillin (100 U/mL), streptomycin (100 μg/mL),
+glutamine (2 mM), costimulatory monoclonal antibodies (anti-CD28 and
+anti-CD49d) at 1 μg/mL (Becton Dickinson, San Jose, CA), monensin
+(0.7 μg/mL; BD Biosciences, Levisville, TX), and Brefeldin A (10 μg/mL;
+Sigma). Peptide corresponding to the autologous CM9 wild-type virus
+sequence (purity > 95%; Bio-Synthesis, Lewisville, TX) was used at
+2 μg/mL to stimulate cognate SIV-specific CD8+ T cells. Costimulatory
+antibodies/monensin/brefeldin alone were used as a negative control, with
+staphylococcus enterotoxin B (SEB; Sigma) at 1 μg/mL as a positive
+control. Cells were incubated for 6 hours, washed, and stained with
+anti-PD-1-biotin. Following a staining step with streptavidin-Qdot565, cells
+were washed twice and incubated with tetramer CM9-Q4705 at 37°C for
+20 minutes. After washing, cells were surface stained with CD8-Pacific
+Blue and annexin V-Cy5PE. Cells were then permeabilized (Cytofix/
+Cytoperm kit; BD Biosciences) and stained with CD3-Cy7APC, IFNγ-
+FTTC, TNFα-Cy7PE, and IL-2-PE. CaCl2 (2.5 mM) was included in all
+steps following the tetramer staining.
+
+Proliferation assays
+
+Proliferation assays were based on carboxyfluorescein diacetate succinimi-
+dyl ester (CFSE) dilution. Cells were thoroughly washed with phosphate-
+buffered saline (PBS), labeled with 0.3 mM CFSE (Molecular Probes),
+adjusted to 2 x 10^6/mL, and cultured for 6 days in the absence or presence
+of 2 μg/mL CM9 peptide and anti-CD28/anti-CD49d costimulatory mono-
+clonal antibodies at 1 μg/mL each. In some experiments, an anti-PD-1
+monoclonal antibody (clone 1C10) was included at 20 μg/mL. Cells were
+harvested and stained with anti-PD-1-biotin, streptavidin-PE, and subse-
+quently with CM9-Q4705. Following a washing step, cells were surface
+stained with CD3-Cy7APC, CD8-Pacific Blue, and annexin V-Cy5PE. For
+some experiments, cells were stained with anti-PD-1-biotin/streptavidin-PE
+and CD3-FTTC, and CD8+ PD-1 and CD8+ PD-1-populations were sorted
+on different conditions by using a fluorescence-activated cell sorting
+(FACS) Aria system in a BSL-3 facility. Sorted cells were labeled with
+CFSE (CD3+PD-1+) or FarRed (CD3+PD-1-) (Molecular Probes) and
+cultured in the absence or presence of CM9 peptide (2 μg/mL) or SEB
+(1 μg/mL) for 6 days. Cells were then harvested and stained as described for
+the unsorted ones.
+
+Apoptosis studies
+
+Cells at 2 x 10^6/mL were cultured for 18 to 22 hours in the absence or
+presence of CM9 peptide (2 μg/mL), harvested, and stained with anti-PD-
+1-biotin/streptavidin-Qdot565 and subsequently with CM9-Q4705. In some
+experiments, the combination of CM9-Q4705 and TL8-Qdot605 was used.
+Following a washing step, cells were surface stained with CD3-Cy7APC,
+CD8-APC, annexin V-Cy5PE, and ViVid. CaCl2 (2.5 mM) was included in
+all steps following the tetramer staining.
+
+Flow cytometry
+
+Cells were analyzed with a modified LSRII flow cytometer (BD Immunocy-
+tometry Systems, San Jose, CA). Between 200 000 and 106 events were
+acquired for each condition. Antibody-capture beads (BD Biosciences)
+stained separately with individual monoclonal antibodies used in the test
+were used for fluorescence compensation. For compensation of
+annexin V-Cy5PE, CFSE, or FarRed, cells stained with the property of the

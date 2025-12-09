@@ -1,0 +1,147 @@
+{
+  "tables": [
+    {
+      "parameter": "Volume constant \u03bdt",
+      "value": "100",
+      "units": "\u03bcm\u00b2",
+      "context": "Average cell diameter of 10 \u03bcm"
+    },
+    {
+      "parameter": "Volume multiplier \u03bbx",
+      "value": "9",
+      "units": null,
+      "context": "Scaling factor for volume"
+    },
+    {
+      "parameter": "Extracellular virus diffusion coefficient",
+      "value": "0.019",
+      "units": "\u03bcm\u00b2 s\u207b\u00b9",
+      "context": "Diffusion length of 5 cell diameters"
+    },
+    {
+      "parameter": "Type I IFN diffusion coefficient",
+      "value": "0.052",
+      "units": "\u03bcm\u00b2 s\u207b\u00b9",
+      "context": "Diffusion length of 2 cell diameters"
+    },
+    {
+      "parameter": "Interleukin 10 diffusion coefficient",
+      "value": "0.327",
+      "units": "\u03bcm\u00b2 s\u207b\u00b9",
+      "context": "Diffusion length of that of chemokines"
+    },
+    {
+      "parameter": "Macrophage - virus chemotaxis",
+      "value": "5000",
+      "units": null,
+      "context": "Chemotaxis according to typical field values"
+    },
+    {
+      "parameter": "NK - chemokines chemotaxis",
+      "value": "5000",
+      "units": null,
+      "context": "Chemotaxis according to typical field values"
+    },
+    {
+      "parameter": "CD8\u207a T - chemokines chemotaxis",
+      "value": "10000",
+      "units": null,
+      "context": "Chemotaxis according to typical field values"
+    },
+    {
+      "parameter": "Uninfected - immune adhesion",
+      "value": "20",
+      "units": null,
+      "context": "Preferential attachment to infected cells"
+    },
+    {
+      "parameter": "Infected - immune adhesion",
+      "value": "10",
+      "units": null,
+      "context": "Preferential attachment to infected cells"
+    },
+    {
+      "parameter": "Dead - immune adhesion",
+      "value": "10",
+      "units": null,
+      "context": "Preferential attachment to infected cells"
+    },
+    {
+      "parameter": "Homotypic immune adhesion",
+      "value": "25",
+      "units": null,
+      "context": "Prevent aggregation of immune cells"
+    },
+    {
+      "parameter": "Heterotypic immune adhesion",
+      "value": "10",
+      "units": null,
+      "context": "Prevent aggregation of immune cells"
+    }
+  ],
+  "figures": [],
+  "text": [],
+  "equations": [
+    {
+      "parameter": "Infection rate",
+      "value": "\u03b2vI",
+      "units": null,
+      "context": "Transition rate for infection"
+    },
+    {
+      "parameter": "Uninfected death rate",
+      "value": "\u03bcH + dD",
+      "units": null,
+      "context": "Transition rate for uninfected death"
+    },
+    {
+      "parameter": "Infected death rate",
+      "value": "\u03bcI + \u03b3(\u03a3s\u03b2s\u03c1sR, H, HA) + \u03b3(\u03a3s\u03b2s\u03c1sE, H, HA) + \u03bcD\u03c1i",
+      "units": null,
+      "context": "Transition rate for infected death"
+    },
+    {
+      "parameter": "Recovery rate",
+      "value": "\u03b1H",
+      "units": null,
+      "context": "Transition rate for recovery"
+    },
+    {
+      "parameter": "Macrophage inflow rate",
+      "value": "\u03b7(\u03a3s\u03b2s\u03c1sR, H, HA) + bM\u03bcm",
+      "units": null,
+      "context": "Inflow rate for macrophages"
+    },
+    {
+      "parameter": "NK cell inflow rate",
+      "value": "\u03b7(\u03a3s\u03b2s\u03c1sR, H, HA) + \u03bcb\u03ba",
+      "units": null,
+      "context": "Inflow rate for NK cells"
+    },
+    {
+      "parameter": "CD8\u207a T cell inflow rate",
+      "value": "\u03b7b\u03c8\u03c1s",
+      "units": null,
+      "context": "Inflow rate for CD8\u207a T cells"
+    },
+    {
+      "parameter": "Macrophage outflow rate",
+      "value": "\u03bcm + bM\u03a3s(1-\u03c1s)\u03c1s",
+      "units": null,
+      "context": "Outflow rate for macrophages"
+    },
+    {
+      "parameter": "NK cell outflow rate",
+      "value": "\u03bc\u03ba + b\u03ba\u03a3s(1-\u03c1s)\u03c1s",
+      "units": null,
+      "context": "Outflow rate for NK cells"
+    },
+    {
+      "parameter": "CD8\u207a T cell outflow rate",
+      "value": "\u03bc\u03c8 + b\u03c8\u03a3s(1-\u03c1s)\u03c1s",
+      "units": null,
+      "context": "Outflow rate for CD8\u207a T cells"
+    }
+  ],
+  "summary": "The page details the stochastic dynamics of epithelial sheet models for influenza, focusing on infection, death, and recovery rates. It includes diffusion coefficients for extracellular virus and cytokines, and chemotaxis parameters for immune cells. Adhesion parameters are specified for immune cell interactions, emphasizing preferential attachment to infected cells. The equations describe transition rates for infection and immune cell inflow and outflow, providing a comprehensive model of immune response dynamics."
+}

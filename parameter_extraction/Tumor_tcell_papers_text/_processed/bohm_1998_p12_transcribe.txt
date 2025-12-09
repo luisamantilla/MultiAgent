@@ -1,0 +1,112 @@
+The Journal of Immunology
+
+vaccines is that CTL-derived cytokines can greatly amplify this
+differentiation program of melanomas to an extent that might reach
+therapeutic value.
+
+In vivo, specific rejection of transfected B16.F10 melanoma
+cells was T-dependent; and adoptively transferred, primed T cells
+induced massive apoptosis and regression in a s.c. growing mel-
+anoma. It is not clear to what extent this in vivo apoptosis results
+direct from CTL attack or from CTL-facilitated suicide. It seems of
+interest to test whether focusing CTL with a desired profile of
+cytokines to growing tumor cells is as important for tumor eradi-
+cation as a direct cytolytic attack of tumor cells by these immune
+effector cells.
+
+Acknowledgments
+
+We gratefully acknowledge the excellent technical assistance of
+K. Trieg and A. Täx. Dr. P. Antonsson (Lund, Sweden) and Dr. H.-U.
+Weltzien (Freiburg, Germany) kindly provided cell lines. We appreciate
+the helpful discussions with Dr. H. P. Fischer (Freiburg, Germany).
+
+References
+
+1. Bloom, M. B., D. Perry Lage, T. F. Robbins, Y. Li, M. el Gamil,
+S. A. Rosenberg, and J. C. Yang. 1997. Identification of tyrosinase-related pro-
+2 as a tumor rejection antigen for the B16 melanoma. J. Exp. Med. 185:453.
+2. Wölfel, T., A. van Pel, V. G. Brichard, J. Schneider, B. Seliger, H. Meyer zum
+Büschenfelde, and T. Boon. 1994. Two tyrosinase nonapeptides recognized on
+HLA-A2 melanomas by autologous cytolytic T lymphocytes. Eur. J. Immunol.
+24:759.
+3. Brichard, V. G., A. van Pel, T. Wölfel, C. Wölfel, E. de Plaen, B. Lethé,
+C. Coulie, and T. Boon. 1993. The tyrosinase gene codes for an antigen recog-
+nized by autologous cytolytic T lymphocytes on HLA-A2 melanomas. J. Exp.
+Med. 178:489.
+4. Boel, P., C. Wildmann, M. L. Sensi, B. Brasseur, C. Renauld, A. Coulie,
+J. C. Suter, J. C. G. van der Bruggen, C. Traversari, T. L. van der Bruggen,
+and T. Boon. A human melanoma antigen recognized by autologous cytolytic
+T lymphocytes. J. Exp. Med. 183:1185.
+5. van den Eynde, B., B. Peeters, O. de Backer, T. Gaugler, S. Lucas, and T. Boon.
+1995. A new family of genes coding for an antigen recognized by autologous
+cytolytic T lymphocytes on a human melanoma. J. Exp. Med. 182:689.
+6. Chen, Y. T., E. Stockert, Y. Chen, P. G. Martin Ches, M. J. Eisinger,
+Y. T. Chen, and L. J. Old. 1994. Identification of the MAGE-1 gene
+product by monoclonal and polyclonal antibodies. Proc. Natl. Acad. Sci.
+USA 91:1004.
+7. Boon, T., B. van den Eynde, J. C. G. van der Bruggen, P. Romero, J. F. Gaforio,
+E. de Plaen, B. Lethé, F. Brasseur, and T. Boon. 1994. The MAGE-1 gene
+codes for an antigen recognized on a melanoma by autologous cytolytic T lym-
+phocytes. J. Exp. Med. 179:921.
+8. van der Bruggen, P., A. Traversari, P. Chomez, M. Somville, M. Sensi,
+and T. Boop. 1994. Autologous cytolytic T lymphocytes recognize a MAGE-1
+nonapeptide on melanomas expressing HLA-A1*1601. Eur. J. Immunol.
+24:2134.
+9. Traversari, C., P. Van der Bruggen, F. Luescher, C. Lurquin, E. de Plaen,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel, A. van Pel, A. van Pel,
+A. van Pel, E. de Plaen, A. van Pel, A. van Pel, A. van Pel,

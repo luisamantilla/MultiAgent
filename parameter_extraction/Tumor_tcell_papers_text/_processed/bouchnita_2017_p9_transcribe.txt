@@ -1,0 +1,26 @@
+Bouchnita et al. BMC Immunology 2017, 18(Suppl 1):29                                                                                       Page 19 of 65
+
+**Infection level**
+
+![Graph showing infection level over time]
+
+**Fig. 7** The level of virus infection in the body in the case of equal diffusion coefficients (black curve) and for the diffusion coefficient of IFN 10 times larger than the diffusion coefficient of IL-2 (grey curve)
+
+depends on the temporal sequence of the signals obtained by naïve T cells [2]. It can change from a normal acti- vation of T cells followed by their proliferation and dif- ferentiation to an already differentiated state followed by apoptosis. We propose that the altered T cell differentia- tion and proliferation sequence can result from a spatial separation of the signaling events obtained by T cells, i.e. the TCR versus IFN receptor signaling, due to a gener- ally different location of the APCs and the type 1 IFN concentration field. The hypothesis is formulated using the results of our study of the spatio-temporal dynam- ics of the T cell response to infection with the developed hybrid mathematical model integrating intracellular, and systemic levels of the immune response regulation.
+
+Virus persistence in humans is often associated with an exhaustion of T lymphocytes. Many factors can con- tribute to the development of exhaustion. One of them is associated with a shift from a normal clonal expansion pathway to an altered one characterized by an early termi- nal differentiation of T cells. The proposed hybrid model allows us to investigate the integrative effects of numerous biophysical and biochemical parameters on the immune regulation that are beyond the scope of the existing exper- imental techniques.
+
+The need for development of multi-scale integrative models in mathematical immunology is well realized [7, 9, 10]. However, implementation of such models embedded into spatial context of immune response remains a challenge [4, 11]. Our hybrid model has been developed in a modular form to describe a range of spe- cific interactions and regulations of the immune response. This implies that the structure and composition of the model can be adaptively changed to meet the needs of any specific studies. The present study is based upon a simplified description of the virus-target cell interac- tion. This block of the hybrid model can be easily refined using the existing set of lumped mathematical models. We presented the results of single runs for two different sce- narios. Obviously, multiple runs will be used to address the effect of local and global variations in the parameters on the immune response dynamics in future studies.
+
+The present methodology for developing a hybrid model of immune processes enables integration of data and knowledge across multiple scales. This is essential for understanding the control of the lower level processes by the properties of the higher level processes. We consid- ered here an important example of the regulation of the T cell fate [2] by the spatial structure and material prop- erties of lymphoid organs in which the transport and cell interaction take place [4].
+
+Mathematical modelling of human immune system rep- resents an important challenge. Whereas a macroscopic level population dynamics of the immune response can be followed experimentally and captured with mathemati- cal models under the framework of mono- or two/three
+
+| **Table 2** Cumulative numbers of key variables of the model over 113 days post infection |
+|-------------------------------------------------------------|
+| **Model variable** | \(D_{IFN} = D_{IL}\) | \(D_{IFN} = 10D_{IL}\) |
+| **Number of CD4\(^+\) T cells** | 27544 | 27040 |
+| **Number of CD8\(^+\) T cells** | 15194 | 14139 |
+| **Number of APCs** | 4749 | 5293 |
+| **The infection load** | 16.98 | 19.31 |
+| **Number of \(N_{ef}\)** | 87849 | 80967 |

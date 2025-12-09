@@ -1,0 +1,79 @@
+```plaintext
+930 PETROVAS et al BLOOD, 1 AUGUST 2007 • VOLUME 110, NUMBER 3
+
+time of experimental set-up were used. Data analysis was performed using 
+FlowJo version 6.0 (TreeStar, Ashland, OR). Forward scatter area (FSC-A) 
+versus forward scatter height (FSC-H) was used to gate out cell aggregates. 
+Annexin V was used to exclude apoptotic cells from our analysis. The cells 
+were then gated through a FSC-A versus side scatter height (SSC-H) plot to 
+isolate small lymphocytes. Following this, CD3-CD7APC-positive cells 
+were selected and PD-1 expression was measured in gated total CD8+ 
+T cells and tetramer+ (CM9-Q705 and TL8-Q605) cells and in relation to 
+their differentiation level by using CD28-TRPE and CD95-CY7PE.
+
+Viral RNA sequencing
+
+SIV isolation and cDNA synthesis and sequencing procedure have been 
+recently described.50
+
+Statistics
+
+Statistical analysis was performed using Student t test, and P values of less 
+than .05 were considered significant. The JMP statistical analysis program 
+was used (SAS Institute, Cary, NC).
+
+Results
+
+SIV-specific CD8+ T cells express high levels of PD-1 
+independently of their maturation status and tissue localization
+
+Increased expression of PD-1 has been described on virus-specific 
+CD8+ T cells under conditions of chronic antigen persistence.52 
+Whether SIV-specific CD8+ T cells are similarly affected is not 
+known. We therefore examined the expression of PD-1 on total, 
+naive, memory, and SIV-specific (CM9+) CD8+ T cells, being 
+careful to gate out dead or dying (annexin V+) cells from the 
+analysis (Figure 1A). We found that CM9-specific CD8+ T cells 
+express remarkably high levels of PD-1 (Figure 1A). This was true 
+for both the CD28highCD95+ (central) and CD28-CD95+ (effector) 
+memory compartments (Figure 1A) in which the CM9-specific 
+cells were found. The total memory and naive CD8+ T cell 
+populations all exhibited lower expression of PD-1 than did the 
+CM9-specific cells, with the CD28highCD95+ population express- 
+ing higher levels of PD-1 than the CD28-CD95+ population, 
+which, in turn, expressed higher levels than the naive 
+(CD28intemCD95-) population (Figure 1A). Interestingly, the pat- 
+tern of PD-1 expression on the total CD28-CD95+CD8+ T cells 
+was consistently characterized by 2 distinct populations (Figure 
+1A), indicating an additional complexity of cell differentiation in 
+this compartment.
+
+Subsequently, cells from a large group of monkeys (n = 31) 
+were analyzed. These included monkeys that were not infected 
+(n = 4), those that were treated before infection with SIV (9 
+vaccinated/SHIV-challenged and 2 ART + IL-2/SIV-challenged), 
+and those that were infected with SIV without prior manipulation 
+(n = 16). Analysis of total CD8+ T cells in the PBMC compart- 
+ment from infected animals revealed a pattern of PD-1 expression 
+similar to that recently reported for CD8+ T cells from 
+HIV-infected donors.39 The CD28highCD95+ memory cells ex- 
+pressed the highest levels of PD-1 analyzed either in terms of 
+percentage (59.9% ± 9.1%; n = 13) or mean fluorescence inten- 
+sity (MFI) (806 ± 84; n = 13) compared with naive (n = 8) or 
+effector (n = 11) CD8+ T cells (Figure 1B). PD-1 expression was 
+also analyzed in different tissues from noninfected and SIV- 
+infected animals (Figure 1C). The highest levels of PD-1 were 
+detected in the spleen, followed by the lymph nodes and mucosa 
+(Figure 1C). The percentage of PD-1high cells was significantly 
+higher in the spleen than in the lymph nodes (P < .001) and 
+mucosa (P < .001) (Figure 1B, Figure S1, available on the Blood website,
+
+Figure 1. The majority of CM9-specific CD8+ T cells express high levels of PD-1. (A) PD-1 expression was measured by applying a polychromatic flow cytometry assay 
+(left panel). The gating scheme for identification of cell populations is shown. Histograms depict the PD-1 expression on total and CM9-specific CD8+ T cells from the same 
+sample and in relation to their maturation status. The combination of CD28 and CD95 was used for identification of memory populations. The control (all antibodies except 
+a-PD-1) staining is also shown. Representative flow cytometry plots depicting the PD-1high and PD-1low for CD3- T-cell populations are shown on the right panel. (B) Pooled data 
+showing the percentage (%) of CD8+ T cells expressing a PD-1high phenotype in PBMC compartment from noninfected (n = 4) and SIV-challenged or treated/SIV-challenged 
+(n = 13) animals. (C) The percentage (%) of PD-1high CD8+ T cells located in spleen, LN (axillary, n = 8; inguinal, n = 8; mesenteric, n = 4; paratracheal, n = 3), and mucosa 
+(rectal, n = 11; jejunum, n = 9; colon, n = 4) is shown. PD-1 expression in memory populations of total and CM9+ CD8+ T cells from all tissues tested is also shown. All animals 
+were infected for at least 8 weeks. Horizontal lines depict mean values. The P values were calculated using Student t test.
+```

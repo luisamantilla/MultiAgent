@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "vector was then introduced as a single copy into the genome of the \nL. monocytogenes strain 10403S via conjugation. Following selection by \nchloramphenicol, successful transconjugants were confirmed by PCR and \npassaged through B6 mice to ensure virulence.\n\nFor recombinant L. monocytogenes–ESAT6 infection, bacteria were grown \nin Brain Heart Infusion broth (BD Biosciences) until early log phase (OD600 \nof 0.1). Cultures were washed in PBS and injected intravenously into B6 \nmice at a dose of 5 x 10^3 CFU for primary infections and 5 x 10^5 CFU for \nsecondary infections.\n\nReal-time PCR analysis. To analyze gene expression of adoptively transferred \nCD90.1+ CD7 and CD4 T cells, these cells were purified from the spleens of \nCD90.2+ recipient mice using CD90.1 MicroBeads (Miltenyi Biotec) and \nseparation over two consecutive MS columns (Miltenyi Biotec). Eluted cells \n\nwere lysed in RLT buffer (QIAGEN), homogenized using QIAshredder \ncolumns (QIAGEN) and stored at -80 °C. Total RNA from frozen homoge- \nnates was extracted using an RNeasy mini kit (QIAGEN), followed by cDNA \ngeneration using a QuantiTect Reverse Transcription kit (QIAGEN). TaqMan \nprobe-based real-time PCR analysis was performed on a StepOnePlus Real- \nTime PCR System (Applied Biosystems), using a DyNAmo probe qPCR kit \n(Thermo Scientific) and specific TaqMan probes (Invitrogen). Actb was used \nas endogenous control. Relative gene expression was determined using the \nComparative CT method.\n\nStatistical analysis. Statistical analysis was performed using an unpaired \ntwo-tailed Student’s t test, assuming that data was normally distributed and \nthere was equal variance between the groups under comparison. P < 0.05 was \nconsidered statistically significant.\n\n© 2016 Nature America, Inc. All rights reserved.\n\nNATURE IMMUNOLOGY\n\ndoi:10.1038/ni.3386",
+  "model": "gpt-4o",
+  "page": 10,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 26.82,
+  "filename": "gallegos_2016.pdf",
+  "doc_id": "gallegos_2016"
+}

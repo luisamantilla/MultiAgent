@@ -1,0 +1,95 @@
+```plaintext
+17. Bjoraker, M., B. Brest, A.Y. Huang, H. Qi, J. Cazareth, V.M. Braud, 
+R.N. Germain, and N. Glaichenhaus. 2004. Natural killer cell behavior 
+in lymph nodes revealed by static and real-time imaging. J. Exp. Med. 
+201:637–649.
+
+18. Mescher, M.F., M.J. Pittet, K. Khazaie, W. Weninger, R. Weissleder, 
+U.H. von Boehmer, and U.H. von Andrian. 2006. Regulatory T cells 
+suppress cytotoxic T cell function independent of effector 
+differentiation. Immunity. 25:129–141.
+
+19. Kircher, M.F., J.R. Allport, E.E. Graves, V. Love, L. Josephson, A.H. 
+Lichtman, and R. Weissleder. 2003. In vivo high resolution three- 
+dimensional imaging of antigen-specific cytotoxic T-lymphocyte traf- 
+ficking to tumors. Cancer Res. 63:6838–6846.
+
+20. Smirnov, P., E. Lavergne, F. Gazeau, M. Lewin, A. Boissonnas, B.T. 
+Doan, B. Gillet, C. Combadiere, B. Combadiere, and O. Clement. 
+2006. In vivo cellular imaging of lymphocyte trafficking by MRI: 
+a tumor model approach to cell-based anticancer therapy. Magn. Reson. 
+Med. 56:498–508.
+
+21. Li, H., D.S. Chang, S.S. Gambhir, and J. Braun. 2006. Monitoring the 
+antitumor response of naive and memory CD8 T cells in RAG1-/- 
+mice by positron-emission tomography. J. Immunol. 176:4459–4467.
+
+22. Dobrzanski, M.J., J.B. Reome, and R.W. Dutton. 2001. Therapeutic 
+effects of tumor-reactive type 1 and type 2 CD8+ T cell subpopulations 
+in established pulmonary metastases. J. Immunol. 166:6710–6718.
+
+23. Shankaran, V., H.I. Donermeyer, H. Ikeda, J.M. White, W. Shankaran, 
+L.J. Old, H. Shiku, R.D. Schreiber, and P.M. Allen. 2000. Eradication 
+of established tumors by CD8+ T cell adoptive immunotherapy. 
+Immunity. 13:265–276.
+
+24. Rosenberg, S.A. 2001. Progress in human tumor immunology and 
+immunotherapy. Nature. 411:380–384.
+
+25. Dudley, M.E., J.R. Wunderlich, P.F. Robbins, J.C. Yang, P. Hwu, 
+J.R. Schwartzentruber, S.L. Topalian, R. Sherry, J.C. Marincola, 
+D.E. White, and S.A. Rosenberg. 2002. Cancer regression and autoim- 
+mune reactions in patients after clonal repopulation with antitumor lymphocytes. Science. 
+298:850–854.
+
+26. Helmich, B.K., and R.W. Dutton. 2001. The role of adoptively 
+transferred CD8 T cells and host cells in the control of the growth 
+
+of the E.G7 thymoma: factors that determine the relative effective- 
+ness and homing properties of the T cells and E.G7 detectors. J. Immunol. 
+166:6500–6508.
+
+27. Hollenbaugh, J.A., J. Reome, M. Dobrzanski, and R.W. Dutton. 2004. 
+The rate of the CD8-dependent initial reduction in tumor volume is 
+not impacted by contact-dependent perforin, Fas ligand, or TNF-mediated 
+cytolysis. J. Immunol. 173:1738–1743.
+
+28. Blohm, U., D. Bootzth, J.A. van der Kogel, and H. Pircher. 2006. Solid 
+tumors “melt” from the inside after successful CD8 T cell attack. Eur. J. 
+Immunol. 36:468–477.
+
+29. Hollenbaugh, J.A., and R.W. Dutton. 2006. IFN-γ regulates 
+donor CD8 T cell expansion, migration, and leads to apoptosis of 
+a solid tumor. J. Immunol. 177:3040–3041.
+
+30. Boissonnas, A., C. Combadiere, E. Lavergne, M. Maho, C. Blanc, P. 
+Debre, and B. Combadiere. 2004. Antigen distribution drives pro- 
+grammed tumor CD8 cell migration and determines its efficiency. 
+J. Immunol. 173:222–229.
+
+31. Masopust, D., V. Vezys, E.J. Wherry, D.L. Cauley, S. Olson, 
+A.L. Marzo, R.L. Ward, D.L. Woodland, and L. Lefrancois. 2006. 
+Activated primary and memory CD8 T cells migrate to nonlymphoid 
+tissues regardless of site of activation or route of entry. J. Immunol. 
+172:4875–4882.
+
+32. Wolf, R., K. Muller, S. Borgmann, E. Brocker, and P. Friedl. 2003. 
+Amoeboid shape change and contact guidance T-lymphocyte craw- 
+ling through fibrillar collagen is independent of matrix remodeling by 
+MMPs and other proteases. Blood. 102:3262–3269.
+
+33. Mukai, S., J. Kageyama, S. Shu, and G.E. Plautz. 1999. Infiltration 
+of tumors by systemically transferred tumor-reactive T lymphocytes is 
+required for antitumor efficacy. Cancer Res. 59:5245–5249.
+
+34. Lurquin, C., B. Lethe, E. De Plaen, V. Corbiere, I. Theate, N. 
+van Baren, P.G. Coulie, and T. Boon. 2005. Contrasting patterns of 
+infiltration by specific T cells within homologous melanoma lesions 
+from a patient vaccinated with a MAGE tumor antigen. J. Exp. Med. 
+201:249–257.
+
+35. Hadjantonakis, A.K., and A. Nagy. 2001. The color of mice: in the light 
+of GFP-variant reporters. Histochem. Cell Biol. 115:49–58.
+
+356                                                                 IN VIVO CYTOTOXIC T CELL IMAGING IN TUMORS | Boissonnas et al.
+```

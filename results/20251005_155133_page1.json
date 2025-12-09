@@ -1,0 +1,7 @@
+{
+  "tables": [],
+  "figures": [],
+  "text": [],
+  "equations": [],
+  "summary": "The article discusses the development of a multiscale, multicellular spatiotemporal model for local influenza infection and immune response. It highlights the limitations of ordinary differential equation models in capturing spatial effects of viral infections. The study proposes using spatially resolved models to better understand and predict the progression of influenza. The model aims to integrate immune response components with existing modeling frameworks to improve predictions of infection dynamics."
+}

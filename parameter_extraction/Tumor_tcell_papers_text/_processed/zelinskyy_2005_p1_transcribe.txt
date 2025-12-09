@@ -1,0 +1,99 @@
+```plaintext
+JOURNAL OF VIROLOGY, Aug. 2005, p. 10619–10626                                                                 Vol. 79, No. 16
+0022-538X/05/$08.00⫹0 doi:10.1128/JVI.79.16.10619–10626.2005
+Copyright © 2005, American Society for Microbiology. All Rights Reserved.
+
+CD8ⴙ T-Cell Dysfunction due to Cytolytic Granule Deficiency in 
+Persistent Friend Retrovirus Infection
+
+Gennadiy Zelinsky,1 Shelly J. Robertson,2 Simone Schimmer,1 Ronald J. Messer,2
+Kim J. Hasenkrug,2† and Ulf Dittmer1*†
+
+Institut fuer Virologie des Universitaetsklinikums Essen, Essen, Germany,1 and Laboratory of Persistent 
+Viral Diseases, Rocky Mountain Laboratories, National Institute of Allergy and Infectious 
+Diseases, National Institutes of Health, Hamilton, Montana2
+
+Received 18 January 2005/Accepted 20 May 2005
+
+Virus-specific CD8ⴙ T cells are critical for the control of acute Friend virus (FV) infections, but are rendered 
+impotent by CD4ⴙ regulatory T cells during the chronic phase of infection. The current study examines this 
+CD8ⴙ T-cell dysfunction by analyzing the production and release of cytolytic molecules by CD8ⴙ T cells. CD8ⴙ 
+T cells with an activated phenotype (CD43ⴙ) from acutely infected mice produced all three key components of 
+lytic granules: perforin, granzyme A, and granzyme B. Furthermore, they displayed evidence of recent degran-
+ulation and in vivo cytotoxicity. In contrast, activated CD8ⴙ T cells from chronically infected mice were 
+deficient in cytolytic molecules and showed little evidence of recent degranulation and poor in vivo cytotoxicity. 
+Evidence from tetramer-positive CD8ⴙ T cells with known virus specificity confirmed the findings from the 
+activated subset of CD8ⴙ T cells. Interestingly, perforin and granzyme A mRNA levels were not significantly 
+reduced during chronic infection, indicating control at a posttranscriptional level. Granzyme B deficiency was 
+associated with a significant decrease in mRNA levels, but posttranscriptional control also appeared to 
+contribute to deficiency. These results demonstrate a broad impairment of cytotoxic CD8ⴙ T-cell effector 
+function during chronic retroviral infection and explain the inability of virus-specific CD8ⴙ T cells to eliminate 
+persistent virus.
+
+Many viruses such as herpesviruses, hepatitis viruses, and 
+retroviruses evade immunological destruction during acute in-
+fection and establish chronic (persistent) infections that may 
+culminate in life-threatening diseases. We have used infection 
+of mice with Friend virus (FV) as a model to study basic 
+mechanisms of immunological control and escape during a 
+chronic retroviral infection (14, 21, 24, 25, 46). FV is a retro-
+viral complex that induces lethal leukemia in most strains of 
+mice. However, resistant strains of mice exist that develop 
+potent immune responses which allow recovery from acute 
+infection (13, 22). Mice that recover from acute infection never 
+completely clear virus and remain persistently infected for life 
+(10, 19). Virus levels are low during the persistent phase of 
+infection, and B cells serve as the predominant reservoir for 
+persistent virus (21).
+
+The resolution of acute FV infection requires complex im-
+mune responses, including antibodies, CD4ⴙ T cells, and 
+CD8ⴙ T cells (20, 41). CD8ⴙ T cells are critical for recovery, 
+as CD8-deficient or -depleted mice develop high viral loads 
+and severe disease (19, 20, 41). Critical factors in the CD8ⴙ 
+T-cell-mediated control of acute FV infection are secretion of 
+gamma interferon (15, 38, 39), and production of the cytotoxic 
+molecules perforin, granzyme A, and granzyme B (55).
+
+In contrast to acute infection, depletion of CD8ⴙ T cells 
+during chronic infection does not affect virus levels, suggesting 
+that the chronic virus had somehow escaped the CD8ⴙ T-cell 
+response (21). It has previously been shown that FV was not 
+latent during chronic infection, nor had the virus directly es-
+caped recognition by virus-specific CD8ⴙ T cells. Virus-specific 
+CD8ⴙ T cells adoptively transferred into persistently infected 
+mice were rapidly activated and proliferated as well as the 
+same cells transferred into acutely infected mice. However, the 
+CD8ⴙ T cells transferred into persistently infected mice failed 
+to develop effector function as they did when transferred into 
+acutely infected mice. Cotransfer experiments indicated that 
+CD4ⴙ regulatory T cells from persistently infected mice sup-
+pressed the ability of virus-specific CD8ⴙ T cells to produce 
+gamma interferon and eliminate infected cells (14).
+
+The current study extends results from these adoptive 
+transfer experiments to the endogenous population of FV-
+specific CD8ⴙ T cells and investigates the defects at the mo-
+lecular level. All three of the major molecules involved in 
+cytotoxicity were analyzed: perforin, granzyme A, and gran-
+zyme B. The results showed deficiencies in all three proteins 
+compared to CD8ⴙ T cells from acutely infected mice. Inter-
+estingly, the regulation of protein expression varied from pro-
+tein to protein, with only granzyme B being regulated at the 
+transcriptional level. These results suggest the possibility that 
+multiple upstream signals control cytotoxic granule content.
+
+* Corresponding author. Mailing address: Institut fuer Virologie, 
+Universitaetsklinikum Essen, 45122 Essen, Germany. Phone: 49(201) 
+7233693. Fax: 49(201) 723-5292. E-mail:ulf.dittmer@uni-essen.de.
+† Both authors contributed equally to the design and documentation 
+of this study.
+
+MATERIALS AND METHODS
+
+Mice. Experiments were done using C57BL/10 ⫻ A.BY/F1 mice (H-2b/b, 
+Fv1b/b, Fv2r/r, Rfv3r/s). All mice were females 8 to 16 weeks of age at the begin-
+ning of the experiments. Animals were treated in accordance with the regulations 
+and guidelines of Germany or the Animal Care and Use Committee of the Rocky 
+Mountain Laboratories of the National Institutes of Health.
+```

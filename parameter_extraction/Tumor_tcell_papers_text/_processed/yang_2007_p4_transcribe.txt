@@ -1,0 +1,125 @@
+```
+Cell migration (No./HPF)
+
+80
+70
+60
+50
+40
+30
+20
+10
+0
+
+L.W. - H - H CCL5 CCL5 H
+U.W. - - H H - - CCL5
+
+Fig. 3. Homologous desensitization of HMGB1-induced DC migration. The
+migration of Mo-iDCs in response to rhHMGB1 in the lower wells was inhibited
+by addition of an identical amount of rhHMGB1 into the upper wells of a
+chemotaxis chamber. Shown is the average (mean±SD) cell migration (No./
+HPF) of three wells per group. L.W., Lower well; U.W., upper well; H,
+rhHMGB1. The concentrations used for rhHMGB1 and CCL5 were 10 and 100
+ng/ml, respectively. Similar results were obtained from three separate exper-
+iments. *, P < 0.05.
+
+A
+
+Cell migration (No./HPF)
+
+30
+25
+20
+15
+10
+5
+0
+
+PTX- PTX+
+
+CM nHMGB1 CCL5
+
+B
+
+Cell migration (No./HPF)
+
+30
+25
+20
+15
+10
+5
+0
+
+CM HMGB1 rhHMGB1+control Ab rhHMGB1+anti-RAGE
+
+Mouse IgG2b (µg/ml)
+
+0 1.25 5 20
+
+C
+
+CD83 RAGE
+
+Cell number
+
+Relative fluorescence intensity (Log)
+
+iDCs
+
+mDCs
+
+Fig. 4. Dependence of HMGB1-induced iDC chemotaxis on Gi protein and
+RAGE. (A) Inhibition of HMGB1-induced iDC migration by PTX. Mo-iDCs at
+107/ml in CM were incubated in the absence or presence of PTX at a final
+concentration of 200 ng/ml for 30 min before they were used for the chemotaxis
+assay. rhHMGB1 and CCL5 were used at the concentration of 50 and 100
+ng/ml, respectively. *, P < 0.05. (B) Suppression of HMGB1-induced chemo-
+taxis of Mo-iDCs by anti-RAGE, and anti-RAGE or isotype-matched control
+antibody was added together with iDCs into the upper wells of the chemotaxis
+chamber at concentrations as specified. The concentration of rhHMGB1 added
+into the lower wells was 10 ng/ml. *, P < 0.05. (C) Surface expression of
+RAGE by DCs. Mo-DCs were incubated in the absence or presence of LPS (1
+µg/ml) for 48 h to generate iDCs and mDCs, respectively. Subsequently, iDCs
+and mDCs were stained with anti-CD83 and anti-RAGE and analyzed by flow
+cytometry as described in Materials and Methods. Open and solid histograms
+illustrate the staining with isotype-matched control and specific antibody,
+respectively.
+
+which leads to chemoattraction of leukocytes [35]. To deter-
+mine if HMGB1-induced iDC chemotaxis was mediated by a Gi
+protein, we examined whether HMGB1-induced iDC chemo-
+taxis could be inhibited by PTX, a toxin that specifically
+inhibits the activation of the Gi protein by adenosine 5'-
+(diphosphate) ribosylation of the Gi subunit of the heterotrimeric
+G protein [36]. Pretreatment of iDCs with PTX at 200 ng/ml
+prior to chemotaxis assay inhibited the migration of iDCs in
+response to rhHMGB1 (Fig. 4A) and rhHMGB1 (data not
+shown). Pretreatment with PTX did not affect the motility of
+monocytes, as there was no difference in spontaneous mi-
+gration between PTX-pretreated and -untreated iDCs. As
+expected, CCL5-induced iDC migration was also inhibited
+by PTX.
+
+The migration of muscle cells in response to HMGB1 is
+mediated by RAGE [20, 21]. To test if HMGB1-induced iDC
+migration was also dependent on RAGE, we examined if anti-
+RAGE antibody could suppress iDC chemotaxis in response to
+HMGB1 (Fig. 4B). Although isotype-matched control mouse
+IgG2b did not, anti-RAGE antibody dose-dependently reduced
+rhHMGB1-induced migration of iDCs with significant inhibition
+at 5 and 20 µg/ml, suggesting the participation of RAGE in
+mediating the chemotactic effect of HMGB1 on DCs. As
+HMGB1 induced the migration of iDCs but not mDCs (Fig. 2),
+we further investigated whether the failure of mDCs to migrate
+to HMGB1 might be a result of a down-regulation of RAGE
+expression on the surface of mDCs by flow cytometry. As
+expected, iDCs were stained negative for CD83 and positive for
+RAGE (Fig. 4C, upper panels). DCs treated with LPS not only
+became mature (CD83+) but also significantly reduced their
+surface expression of RAGE (Fig. 4C, lower panels). Therefore,
+HMGB1-induced DC chemotaxis seemed to be dependent on
+Gi protein and RAGE.
+
+62 Journal of Leukocyte Biology Volume 81, January 2007 http://www.jleukbio.org
+```

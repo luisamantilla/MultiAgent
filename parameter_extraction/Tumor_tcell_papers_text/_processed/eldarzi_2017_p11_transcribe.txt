@@ -1,0 +1,107 @@
+El Darzi et al.                                                                                                                               11
+
+demonstrated an increase in MHC I expression 
+upon stimulation with IFN-γ, yet in contrast to 
+what we have obtained, TNF-α on its own was not 
+able to elicit a significant response.14 Upon stimu-
+lation with IFN-γ, we observed an induction of 
+MHC II expression. Normal human keratinocytes 
+generally do not express MHC II receptor, yet 
+expression could be induced, a phenomenon 
+known to arise in numerous skin disorders.42 
+Induction of MHC II has been accredited to IFN-γ 
+released by infiltrating T cells.55 Our results relat-
+ing to INF-γ are in accordance with numerous 
+studies conducted on cultured keratinocytes as 
+well as HaCaT cells.54–56 Similar to previous stud-
+ies done on primary keratinocytes, we did not 
+observe a significant effect on the expression of 
+MHC II when HaCaT cells were treated with 
+either TNF-α or IL-4.8,16,42,53 The functional sig-
+nificance of induced MHC II receptor on keratino-
+cytes following activation by IFN-γ is still unclear. 
+Nevertheless, the possibility of peptide presenta-
+tion by MHC II–positive keratinocytes to epitope-
+specific CD4+ T cells may occur in a comparable 
+fashion to that predicted MHC I–mediated activa-
+tion of CD8+ T cells. 
+
+The expression of CD1b on HaCaT cells was 
+low and increased significantly at 48 and 72 h fol-
+lowing stimulation with IFN-γ. CD1b is a member 
+of the CD1 family of transmembrane glycopro-
+teins, which are remotely related to the MHC 
+receptors and are involved in presenting lipids and 
+glycolipids.57 Very few studies have been con-
+ducted on the expression of CD1b in keratino-
+cytes. Primary keratinocytes have been shown to 
+lack CD1a expression,58 similar to what we 
+observed in HaCaT cells. In oral epithelium, no 
+CD1b+ cells were found, while expression of 
+CD1a+ keratinocytes was only present in sites of 
+inflammation.59 Our detected increase in CD1b 
+expression, following stimulation with IFN-γ, 
+raises the possibility that presentation of lipids and 
+glycolipids by keratinocytes may take place dur-
+ing stages of inflammation. 
+
+The IFN-γR/CD119 is abundantly found on both 
+epidermal keratinocytes and on HaCaT cells,43,45,60 
+and it is necessary for IFN-γ to exert its biological 
+effects. Skin biopsies from patients with psoriasis 
+maintained positive staining for the IFN-γ receptors, 
+yet with altered localization.60 In our study, CD119 
+was significantly downregulated by IFN-γ at 24, 48, 
+and 72 h, whereas it was upregulated by TNF-α. The 
+observed decrease in expression of CD119 follow-
+ing stimulation with its corresponding cytokine may 
+result from endocytosis of the complex or by shed-
+ding of the receptor. Future studies would be 
+required to validate this hypothesis. No studies have 
+so far been conducted on the effect of TNF-α on 
+CD119. The accompanied upregulation we observed 
+could explain the synergistic effect TNF-α has been 
+shown to have on IFN-γ activity. TNF-α possibly 
+enhances the effect of IFN-γ to further activate 
+keratinocytes through the expression of certain 
+receptors, ultimately leading to a positive feedback 
+of the inflammatory response. Indeed, previous 
+reports have indicated that TNF-α synergizes with 
+IFN-γ to enhance the expression of ICAM-1 and 
+MHC I in cultured keratinocytes.8,42,48 IL-4 had no 
+effect on CD119 receptor expression, which is con-
+sistent with previous findings.14 
+
+IL-4 receptors fall under two types composed of 
+either IL-4Rα (CD124) associated with the com-
+mon gamma chain (γc), CD132, which binds to 
+IL-4, or CD124 associated with IL-13Rα1 chain 
+which binds to both IL-4 and IL-13.61 We found 
+that the expression of CD124 on HaCaT cells was 
+not affected by IL-4, IFN-γ, or TNF-α stimulation. 
+Conflicting data exists regarding the expression 
+of CD124 in keratinocytes. In a study on HaCaT 
+cells, both immunoblot and polymerase chain reac-
+tion (PCR) analysis revealed no expression of 
+CD124.62 On the contrary, a study on freshly iso-
+lated and cultured keratinocytes demonstrated 
+the expression of CD124 at the messenger RNA 
+(mRNA) as well as the protein level.16,63,64 The low 
+basal expression of CD132 on HaCaT cells was 
+increased significantly after 48 h of stimulation 
+with IFN-γ. While typically expressed on lympho-
+cytes, keratinocytes have occasionally been found 
+to express CD132,64 yet this expression is quite 
+inconsistent.65,66 A study carried out on HaCaT 
+cells has demonstrated their lack of CD132 expres-
+sion. Moreover, HaCat cell stimulation with IL-4 
+did not affect their level of CD124 expression.63 
+The HaCaT response we have seen with IL-4 
+regarding CD49d and CD95 expression may there-
+fore be unrelated to CD124 and CD132, since both 
+receptors were neither expressed nor regulated by 
+IL-4. On the contrary, the significant increase in 
+CD132 expression may constitute a basis for the 
+previously reported synergy between IL-4 and 
+IFN-γ. Combined stimulation with IL-4 and IFN-γ 
+enhanced the expression of ICAM-1 and MHC II

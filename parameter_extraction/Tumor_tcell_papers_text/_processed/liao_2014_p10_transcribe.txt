@@ -1,0 +1,38 @@
+```plaintext
+IL-27 Enhances Immune Response to Tumor
+
+A
+
+\int_0^{t} c(r,t')^2 dr with unit cell,
+for F=1×10^4 pg/cell/day, a=2.25 cm^2
+
+B
+
+\int_0^{t} c(r,t')^2 dr with unit cell,
+for F=0.5×10^4 pg/cell/day, a=2.25 cm^2
+
+Figure 8. Comparison of continuous versus intermittent treatment for different drug amount. (A) and (B) are the profiles of total number 
+of c with F=1×10^4 pg/cm^2/day and F=0.5×10^4 pg/cm^2/day, respectively, for model (6) with L=1.5cm and a=2.25cm^2 which the first equation 
+for I_{12} is replaced by (7) and all parameter values are taken from Table 6. The upper curve is for J558-Ctrl tumor cells, the dotted-dashed curve 
+( - - - - ) is for intermittent injection, and the dashed curve is for continuous injection.
+doi:10.1371/journal.pone.0091844.g008
+
+A
+
+c(r,t) cell/cm^2 at t=4 weeks,
+for F=3×10^4 pg/cm^2/day, a=2.25 cm^2
+
+B
+
+\int_0^{t} c(r,t')^2 dr with unit cell,
+for F=3×10^4 pg/cell/day, a=2.25 cm^2
+
+Figure 9. Tumor growth and migration for shorter injection schedule. (A) is the concentration profile of c at 4 weeks and (B) is the profile of 
+total number of c for t∈[0,4weeks], under F=3×10^4 pg/cm^2/day, for model (6) with L=1.5cm and a=2.25cm^2 which the first equation for I_{12} is 
+replaced by (7) and all parameter values are taken from Table 6. The upper curve is for J558-Ctrl tumor cells, the dotted-dashed curve ( - - - - ) is for 
+intermittent injection, and the dashed curve is for continuous injection. (A) shows that the concentration of tumor cells are not visible near the 
+boundary r=1.5cm, for all t∈[0,4weeks].
+doi:10.1371/journal.pone.0091844.g009
+
+PLOS ONE | www.plosone.org 10 March 2014 | Volume 9 | Issue 3 | e91844
+```

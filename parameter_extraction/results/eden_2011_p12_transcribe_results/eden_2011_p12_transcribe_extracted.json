@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and values from the text:\n\n1. **P-value**: P < 10^-4 (from the Monte-carlo shuffling test in Figure S4).\n2. **Time intervals for protein half-lives**: \n   - t = 0-24 hours\n   - t = 24-48 hours (from Figure S5).\n3. **Cell-cycle length variability**: 25% (from Figure S7).\n4. **Initial number of cells**:\n   - 10 cells (for non-synchronized cells in Figure S7B).\n   - 100 cells (for non-synchronized cells in Figure S7C)."
+}

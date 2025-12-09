@@ -1,0 +1,35 @@
+PLOS PATHOGENS
+
+RESEARCH ARTICLE
+
+Rapid in vitro generation of bona fide exhausted CD8+ T cells is accompanied by Tcf7 promotor methylation
+
+Manzhi Zhao1, Caoimhe H. Kiernan1, Christopher J. Stairiker1, Jennifer L. Hope2, Leticia G. Leon1, Marjan van Meurs1, Inge Brouwers-Hoogendijk1, Ruben Boers3,4, Joachim Boers3,4, Joost Gribnau3,4, Wilfred F. J. van IJcken5, Eric M. Bindels5, Remco M. Hoogenboezem6, Stefan J. Erkeland6, Yvonne M. Mueller1, Peter D. Katsikis1,*
+
+1 Department of Immunology, Erasmus University Medical Center, Rotterdam, The Netherlands, 2 Cancer Immunology and Tumor Microenvironment Program, Sanford Burnham Prebys Medical Discovery Institute, La Jolla, CA, United States of America, 3 Department of Developmental Biology, Erasmus University Medical Center, Rotterdam, The Netherlands, 4 Oncode Institute, Erasmus University Medical Center, Rotterdam, The Netherlands, 5 Center for Biomics, Erasmus University Medical Center, Rotterdam, The Netherlands, 6 Department of Hematology, Erasmus University Medical Center, Rotterdam, The Netherlands
+
+* p.katsikis@erasmusmc.nl
+
+Abstract
+
+Exhaustion is a dysfunctional state of cytotoxic CD8+ T cells (CTL) observed in chronic infection and cancer. Current in vivo models of CTL exhaustion using chronic viral infections or cancer yield very few exhausted CTL, limiting the analysis that can be done on these cells. Establishing an in vitro system that rapidly induces CTL exhaustion would therefore greatly facilitate the study of this phenotype, identify the truly exhaustion-associated changes and allow the testing of novel approaches to reverse or prevent exhaustion. Here we show that repeat stimulation of purified TCR transgenic OT-I CTL with their specific peptide induces all the functional (reduced cytokine production and polyfunctionality, decreased in vivo expansion capacity) and phenotypic (increased inhibitory receptors expression and transcription factor changes) characteristics of exhaustion. Importantly, in vitro exhausted cells shared the transcriptomic characteristics of the gold standard of exhaustion, CTL from LCMV cl13 infections. Gene expression of both in vitro and in vivo exhausted CTL was distinct from T cells anergy. Using this system, we show that Tcf7 promoter DNA methylation contributes to TCF1 downregulation in exhausted CTL. Thus this novel in vitro system can be used to identify genes and signaling pathways involved in exhaustion and will facilitate the screening of reagents that prevent/reverse CTL exhaustion.
+
+Author summary
+
+In this manuscript, we describe an in vitro method that rapidly establishes large numbers of exhausted CD8+ T cells. The exhaustion of CTL induced by this method has been fully validated by multiple approaches (cytokine production, polyfunctionality, cytotoxicity, in vivo proliferation, inhibitory receptors, transcription factors, RNAseq and DNA
+
+OPEN ACCESS
+
+Citation: Zhao M, Kiernan CH, Stairiker CJ, Hope JL, Leon LG, van Meurs M, et al. (2020) Rapid in vitro generation of bona fide exhausted CD8+ T cells is accompanied by Tcf7 promotor methylation. PLoS Pathog 16(6): e1008555. https://doi.org/10.1371/journal.ppat.1008555
+
+Editor: Annette Oxenius, ETH Zurich, SWITZERLAND
+
+Received: November 20, 2019 Accepted: April 15, 2020 Published: June 24, 2020
+
+Copyright: © 2020 Zhao et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+Data Availability Statement: All relevant data are within the manuscript and its Supporting Information files.
+
+Funding: This work was supported in part by a grant awarded to P.D.K. by the Worldwide Cancer Research (grant # 16-1533), funds from Erasmus University Medical Center (P.D.K.) and by the China Scholarship Council for funding PhD fellowship (No. 201506160120, M.Z.). The funders had no role in study design, data collection and analysis,
+
+PLOS Pathogens | https://doi.org/10.1371/journal.ppat.1008555 June 24, 2020 1 / 27

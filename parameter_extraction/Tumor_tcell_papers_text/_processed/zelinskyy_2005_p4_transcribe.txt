@@ -1,0 +1,58 @@
+```plaintext
+10622    ZELINSKY ET AL.                                                                                                          J. VIROL.
+
+CD8+/CD43+ gated cells
+
+Naive       Acute       Persistent
+
+FIG. 3. Detection of exocytosis in activated CD8+ T cells. Flow cytometry was used to detect the degranulation marker CD107a on activated 
+CD8+ T cells. Accumulated results are shown on the left with representative flow data on the right. The difference between the means of the acutely 
+infected (2 weeks postinfection) and persistently infected (8 weeks postinfection) mice is statistically significant (P < 0.0001, unpaired t test). 
+Similar results were obtained in two independent experiments.
+
+but the cells from persistently infected mice were extremely 
+low or negative for granzyme B (Fig. 5B).
+
+Activated tetramer-positive CD8+ T cells were also analyzed 
+to confirm that the results from the total activated population 
+reflected the FV antigen-specific subset. Approximately 25% 
+of the tetramer-positive CD8+ T cells from acutely infected 
+mice were positive for granzyme B, while only about 3% of 
+tetramer-positive CD8+ T cells from persistently infected mice 
+were positive (Fig. 5C). In addition, the mean fluorescent in-
+tensity for granzyme B was significantly higher in cells from 
+acutely infected mice compared to persistently infected mice.
+
+Attempts to detect intracellular perforin by flow cytometry 
+using several different antibodies proved unsuccessful, so per-
+
+forin expression was evaluated by Western blotting. This anal-
+ysis revealed that CD43+CD8+ T cells isolated during persist-
+ent FV infection had undetectable perforin, whereas activated 
+CD8+ T cells from acutely infected mice exhibited significantly 
+increased levels of perforin protein compared to naïve CD8+ T 
+cells (Fig. 6). The Western blot was stripped and reprobed with 
+anti-granzyme B, confirming the flow cytometry data showing 
+little or no expression in the activated CD8+ T cells from 
+persistently infected mice. Thus, the lack of cytolytic molecule 
+expression in effector CD8+ T cells from persistently infected 
+mice suggested a severe defect in cytolytic granule formation.
+
+Defects in perforin and granzyme expression were mainly 
+mediated at the posttranscriptional level. To determine the
+
+Acute
+
+Tetramer
+
+Persistent
+
+FIG. 4. Detection of exocytosis in the Db GagL tetramer+ subset of virus-specific effector CD8+ T cells. Flow cytometry was used to detect 
+the degranulation marker CD107a on DbGagL tetramer-positive effector CD8+ T cells. CD8+ DbGagL tetramer+ were gated and analyzed for 
+CD43 and CD107a expression. Activation marker CD43 was used to indicate that all DbGagL tetramer-positive CD8+ T cells were of effector 
+phenotype during both acute (2 weeks postinfection) and persistent (8 weeks postinfection) FV infection. The figures show the results of a 
+representative mouse from each group. Mean percentages of tetramer-positive CD8+ T cells that were negative (left) or positive (right) for 
+CD107a are given in the upper quadrants. The mean fluorescence intensities of the CD107a signals were; acute infection = 37.4 (n = 5) and 
+persistent infection = 9.9 (n = 12). The difference between the means is statistically significant (P < 0.0001, unpaired t test). Similar results were 
+obtained in two independent experiments.
+```

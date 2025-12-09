@@ -1,0 +1,41 @@
+```plaintext
+Eq. 5   \beta_c = \frac{\Sigma_{i=1}^{N} \beta_i}{V_t}
+
+Eq. 6   \bar{\beta} = \frac{\Sigma_{i=1}^{N} \beta_i}{N}
+
+where \(\beta_i\) is the total protein production in a single cell (units of protein per time). Note, 
+that when the removal rates, \(\alpha_c\), and \(\bar{\alpha}\) are constant, the estimated half-lives are equal 
+to \(\frac{\ln(2)}{\alpha_c}\) and \(\frac{\ln(2)}{\bar{\alpha}}\) respectively (2).
+
+Our goal is to show that when \(P_c\) and \(P_t\) are measured on a large number of 
+unsynchronized cells (for practical purposes \(N > 100\) is sufficient, see simulation in 
+Figure S7) then \(\alpha_c = \bar{\alpha}\). Assuming steady state over a large population of cells, Eq. 3 
+and Eq. 4 yield:
+
+Eq. 6   P_c = \frac{\beta_c}{\alpha_c}
+
+Eq. 7   \bar{P} = \frac{\bar{\beta}}{\bar{\alpha}}
+
+The ratio between \(\alpha_c\) and \(\bar{\alpha}\) is therefore:
+
+\frac{\alpha_c}{\bar{\alpha}} = \frac{\beta_c}{P_c} = \frac{\Sigma_{i=1}^{N} \beta_i}{V_t \cdot \bar{P}} = \frac{NP}{\bar{P}} = \frac{NP_c}{V_t P_c} = \frac{NP_c}{V_t P_t} = 1
+
+This idea is summarized in the simulation shown in Figure S7.
+
+5.2  Comparison of bleach-chase and translation inhibition
+
+We sought to compare the protein removal rates obtained using bleach-chase to those 
+obtained using a translation inhibition protocol (25). In the latter approach, protein 
+levels are assayed at different times after the addition of the translation inhibitor 
+Cyclohexamide (CHX). It is expected that protein production will halt, and that protein 
+levels will gradually decay to zero. The rate of exponential decay provides a measure of 
+the removal rate. We added the inhibitor CHX, at different concentrations and 
+measured the levels of 11 proteins with the dynamic proteomics assay (see Methods). 
+The results did not lend themselves to accurate estimates of the removal rates. One 
+protein, ENO1, increased its level rather than decreased. About half of the tested 
+proteins showed dynamics that did not fit an exponential decay to zero but rather 
+approached a non-zero baseline, suggesting that translation inhibition was incomplete 
+(increasing the dosage of CHX did not eliminate this effect) (Figure S1).
+
+23
+```

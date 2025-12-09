@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "PLOS PATHOGENS\n\nGenerate exhausted CD8+ T cells in vitro\n\nA\n\nGzmB\n\n0.3% 1.6%  \n8.1% 90%\n\n2.0% 9.9%  \n11.1% 77%\n\n52.9% 41.4%  \n2.0% 3.7%\n\nTCF1\n\n5.7%  \nCD8\n\n3.3%  \n87.9%\n\nTOX\n\n40% 1.7%  \n58.2% 0.2%\n\n2.5% 14.9%  \n35.2% 47.5%\n\n2.0% 21.7%  \n2.0% 76.1%\n\nEOMES\n\nT-bet\n\nB\n\nTCF1 MFI\n\n15000  \n10000  \n5000  \n0\n\nTOX MFI\n\n2000  \n1500  \n1000  \n500  \n0\n\nNo peptide  \nSingle peptide  \nRepeat peptide\n\nC\n\n% EOMES+\n\n% T-bet+\n\nNo peptide  \nSingle peptide  \nRepeat peptide\n\nFig 5. Repeat peptide stimulation induces a distinct pattern of transcription factor expression. Transcription factors (TF) were analyzed in OT-I CD8+ T cells on day 5 of culture. Cells either unstimulated (no peptide), stimulated one time (single peptide) or daily (repeat peptide) shown. (A) Representative flow cytometry plots of the frequency of TF-expressing live CD8+ T cells shown for the differently treated cultures. (B) Pooled data depicting the MFI of TCF1 and TOX in live CD8+ T cells. (C) Pooled data showing the frequency of EOMES and T-bet expressing live CD8+ T cells. Each symbol represents one animal (n = 9-12), with n = 7-9 independent experiments performed. Line depicts mean ± SE. ANOVA with Tukey's post hoc test was performed on TCF1 MFI, Student’s t test with Welch’s correction was used for TOX MFI and Wilcoxon signed rank test for data in (C). *<0.05, **P<0.01, ***P<0.001, ****P<0.0001.\n\nhttps://doi.org/10.1371/journal.ppat.1008555.g005\n\nthat in vitro repeat peptide stimulation resulted in a reduced capacity of CTL to expand when re-exposed to their cognate antigen. This further supports our notion that in vitro repeated antigen stimulation results in exhaustion of these cells.\n\nRepeat peptide stimulated cells have the transcriptional profile of exhausted CTLs\n\nTo determine whether repeat peptide stimulated cells also have a distinct transcriptional profile, we performed RNAseq on sorted live CD8+ T cells from the different culture conditions.\n\nPLOS Pathogens | https://doi.org/10.1371/journal.ppat.1008555 June 24, 2020 10 / 27",
+  "model": "gpt-4o",
+  "page": 10,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 23.2,
+  "filename": "zhao_2020.pdf",
+  "doc_id": "zhao_2020"
+}

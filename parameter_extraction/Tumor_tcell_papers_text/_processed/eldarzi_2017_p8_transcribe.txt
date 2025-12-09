@@ -1,0 +1,57 @@
+```plaintext
+8                                                                                   International Journal of Immunopathology and Pharmacology
+
+![Unstimulated] ![IFN-γ] ![IL-4] ![TNF-α] ![MDP]
+
+(a) 
+
+250000
+
+200000
+
+150000
+
+100000
+
+50000
+
+0
+
+24h
+
+48h
+
+72h
+
+(b)
+
+250000
+
+200000
+
+150000
+
+100000
+
+50000
+
+0
+
+24h
+
+48h
+
+72h
+
+Figure 3. Regulation of [3H] thymidine uptake by HaCaT cells following stimulation with IFN-γ, IL-4, TNF-α, or MDP. HaCaT cells were stimulated with (a) 50 ng/mL of each cytokine and 20 μg/mL MDP or (b) 100 ng/mL of each cytokine for 24, 48, and 72h. Unstimulated cells served as a control. Data are reported as counts per minute (cpm) of tritiated thymidine uptake. The data shown are from three independent experiments. All values are reported as mean ± SEM. Statistically significant differences were determined by Student’s t-test for unpaired samples (*P<0.05 vs unstimulated cells).
+
+subjected to dynamic stimulation. In this article, we chose to expand on previous studies by examining the activation of keratinocytes from two angles: modulation of cell surface receptors and changes in proliferation/apoptosis. To our knowledge, this study is the first to investigate the effects of MDP on HaCaT cells from this perspective. We found that HaCaT keratinocytes did not respond to treatment with MDP which is known to exert its effects by binding to the cytoplasmic receptor NOD2.20 While generally expressed in antigen-presenting cells such as monocytes and macrophages,31 NOD2 expression has also been found in other cells.32 Since the precise role of NOD2 in keratinocytes is still up for debate, we hypothesized that the lack of NOD2 expression in HaCaT cells could be the reason behind our failure to obtain a significant response upon stimulation with MDP. NOD2 transcripts have been detected in HaCaT cells,33 yet to our knowledge no studies have been done at the protein level. Our attempts to detect NOD2 protein expression in HaCaT cells via western blot analysis were not successful. However, a previous study on primary keratinocytes reported the presence of a truncated version of NOD2, with an accompanied response following stimulation with MDP.30 Following the same immunoprecipitation protocol described, and through the use of the same polyclonal antiserum, we were still unable to detect NOD2 protein expression in HaCaT cell lysate. This leads us to believe that HaCaT cells do not express NOD2 protein or express it at a low level that is undetectable by the aforementioned techniques. While this ambiguity prevails, we cannot rule out the absence of functional NOD2 in HaCaT cells as the reason behind the lack of response to MDP. Alternatively, the culprit may lie downstream.
+
+IFN-γ, IL-4, and TNF-α stimulate resident skin cells to produce chemokines and membrane molecules that play an important role in the inflammatory response, including the retention and activation of T cells. Integrins mediate interaction of cells with the extracellular matrix (ECM) and have also been suggested to mediate interaction among cells themselves. The expression of specific β1 integrins in keratinocytes has been shown to be affected by IFN-γ, TNF-α, and transforming growth factor (TGF)-β.34 To date, no study has evaluated the effect of IFN-γ, IL-4, or TNF-α on the surface expression of CD49d (α4 integrin) in
+
+NOD2 protein expression is in fact absent in HaCaT cells, we moved on to perform immunoprecipitation using a protocol described wherein NOD2 protein expression in primary keratinocytes was detected.30 To begin, 2 and 3 x 106 HaCaT cells were immunoprecipitated with NOD2 rabbit polyclonal antibody in accordance with the previously published data. A single band was observed at 63 kDa, yet no band was detected at the expected 110 kDa (Figure 5(a)). The membrane was stripped and re-probed with the mouse monoclonal antibody, yet no bands were observed (Figure 5(b)). We achieved similar results when using a monoclonal antibody for immunoprecipitation (Figure 5(c)). These observations strongly suggest that HaCaT cells do not express detectable levels of NOD2 protein.
+
+Discussion
+
+Serving as an interface between the body and its external surroundings, the skin is constantly
+```

@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "```\nARTICLES                                                                                      NATURE CANCER\n\n1.0M\n800K\n600K\n400K\n200K\n0\n0        200K  400K  600K  800K  1.0M\n                             SSC-A\n\n5.0K\n4.0K\n3.0K\n2.0K\n1.0K\n0\n0        200K  400K  600K  800K  1.0M\n                             FSC-A\n\n1.0M\n800K\n600K\n400K\n200K\n0\n0        200K  400K  600K  800K  1.0M\n                             FSC-A\n\n1.0M\n800K\n600K\n400K\n200K\n0\n-10⁴  0  10⁴  10⁵  10⁶  10⁷\n                             CD45 BUV395\n\n1.0M\n800K\n600K\n400K\n200K\n0\n-10⁴  0  10⁴  10⁵  10⁶  10⁷\n                             CFP\n\n10⁷\n10⁶\n10⁵\n10⁴\n10³\n10²\n10¹\n0\n-10⁴  0  10⁴  10⁵  10⁶  10⁷\n                             CD8 BV785\n\n1.0M\n800K\n600K\n400K\n200K\n0\n-10⁴  0  10⁴  10⁵  10⁶  10⁷\n                             CD11b PerCP-Cy5.5\n\n10⁷\n10⁶\n10⁵\n10⁴\n10³\n10²\n10¹\n0\n-10⁴  0  10⁴  10⁵  10⁶  10⁷\n                             Ly6C BV605\n\nSSC-H\n\nFSC-W\n\nSSC-A\n\nSSC-A\n\nSSC-A\n\nNK1.1 PE\n\nSSC-A\n\nLy6G APC\n\nHematopoietic cells\n\nTumor cells\n\nNK cells\n\nOT-I T cells\n\nMyeloid cells\n\nNeutrophils\n\nMonocytes\n\nExtended Data Fig. 2 | Gating strategy for flow cytometry analysis of the tumor microenvironment. The figure depicts the gating strategies for identifying tumor cells, OT-I T cells, NK cells, monocytes and neutrophils present in the bone marrow of tumor bearing mice.\n\n                                                                                      NATURE CANCER | www.nature.com/natcancer\n```",
+  "model": "gpt-4o",
+  "page": 16,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 21.09,
+  "filename": "thibaut_2020.pdf",
+  "doc_id": "thibaut_2020"
+}

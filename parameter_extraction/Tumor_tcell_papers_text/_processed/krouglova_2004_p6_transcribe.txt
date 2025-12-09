@@ -1,0 +1,115 @@
+```plaintext
+2640                                                                                                           Krouglova et al.
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=3.2in]{fig4.eps}
+\caption{Formation of tubulin oligomers in the presence of 16 mM
+Mg$^{2+}$ and paclitaxel. Measurements are carried out in 50 mM MES buffer, pH
+6.4, 1 mM GDP. The diffusion coefficient of labeled tubulin (3 nM) is
+measured in the presence of increasing concentrations of unlabeled tubulin,
+respectively, in a 1-mM (•) and a 16-mM (○) concentration of Mg$^{2+}$. The
+plot (△) and (□) represent the decreasing average diffusion coefficient of
+Flutax2-tubulin complex at 13-nM concentration of Flutax2 with increasing
+concentrations of unlabeled tubulin in MES buffer containing 1 mM Mg$^{2+}$, in
+the absence and in the presence of excess of podophyllotoxin, respectively.}
+\end{figure}
+
+labeled and unlabeled tubulin. At a concentration of 40 μM
+of unlabeled tubulin, the average diffusion coefficient is
+found to be (2.8 ± 0.2) × 10$^{-11}$ m$^{2}$/s. This value is much
+lower than the diffusion coefficient of the tubulin dimer
+in 1 mM Mg$^{2+}$. A continuous decrease of the diffusion co-
+efficient as shown in Fig. 4, suggests that (at 16 mM of
+Mg$^{2+}$) tubulin oligomers of increasing size are being formed
+in the solution.
+
+The oligomerization of the tubulin in the presence of high
+Mg$^{2+}$ concentration has been described as being of the
+isodesmic type, followed by ring closure at higher tubulin
+concentrations (Frigon and Timasheff, 1975). At the concen-
+trations of tubulin used here, ring closures do not yet occur
+and the open oligomer type prevails. This means that all steps
+in the polymerization are governed by the same association
+constant K. Such an open isodesmic polymerization process
+has been described by the theory of Oosawa and Kasai (1962).
+The theory predicts that in this type of polymerization the
+length of the oligomers is distributed exponentially.
+
+To find the relationship between the average diffusion
+coefficient and the size of the tubulin oligomer, simulations
+were done using the computer program HYDROSUB
+developed by García de la Torre and Carrasco (2002). This
+program takes into account the hydrodynamic and other
+solution properties, as well as the spatial organization of the
+subunits, i.e., their mutual position and orientation. The
+subunits are modeled as simple shapes such as ellipsoids of
+revolution or cylinders. Owing to the axial symmetry of
+these shapes, a bead shell model is constructed for each
+subunit and a shell model of the whole particle is calculated.
+
+The tubulin dimer can be modeled as a rigid structure
+composed of two identical compact ellipsoids (monomers) of
+approximate dimensions 4.6 × 4.0 × 6.5 nm (width, height,
+and depth, respectively) (Nogales et al., 1999). Two tubulin
+monomers bind to each other and form a tubulin dimer with
+dimensions 4.6 × 8.0 × 6.5 nm (Nogales et al., 1999). To
+calculate the diffusion coefficient of the oligomers a complete
+specification of the structure of the whole assembly, with
+reference to a laboratory-fixed system of coordinates,
+requires, for each subunit: its dimensions, the three Cartesian
+coordinates of its center of mass, and the two spherocylindrical
+angles, polar and longitudinal, that determine the orientation
+of the main symmetry axis. From these calculations the
+dependence of the diffusion coefficient on the size and the
+shape of the oligomer is obtained.
+
+The average degree of oligomer formation ⟨i⟩ for small
+oligomers can be written as
+
+\[
+\langle i \rangle = (D_{0}/D_{i})^{b},
+\]
+
+where $D_{0}$ and $D_{i}$ are the diffusion coefficients (inversely
+proportional to the radius of the species) of tubulin dimer and
+tubulin oligomer (containing i dimers), respectively, and b is
+an exponent that is determined from the dependence of the
+simulated diffusion coefficient on the size and the shape of
+the oligomer.
+
+Normally, the polymerization process involves two types
+of contacts between tubulin subunits: head-to-tail binding of
+the microtubule and lateral interactions between parallel
+protofilaments that complete the microtubule wall (Nogales
+et al., 1999). Using the HYDROSUB program, the parameter
+b was found to be 1.72 for the longitudinal type of contacts
+and 1.89 for the lateral associations.
+
+According to the theory of Oosawa (Oosawa and Kasai,
+1962) the following relation exists between the association
+constant and the mean length of oligomers:
+
+\[
+Kc_{1} = 1 - \frac{1}{\langle i \rangle},
+\]
+
+where $c_{1}$ is the concentration of tubulin dimers and K is the
+association constant. The total concentration of tubulin $c_{\text{tot}}$
+according to Oosawa is:
+
+\[
+c_{\text{tot}} = c_{1} + \frac{c_{1}}{(1 - Kc_{1})} = \left( \frac{1}{K} \right) \left( Kc_{1} + \frac{Kc_{1}}{(1 - Kc_{1})} \right)
+= \frac{1}{K} f(Kc_{1}),
+\]
+
+where $f(Kc_{1})$ is a shorthand for the full function of $Kc_{1}$. In
+this formulation a nucleation factor is assumed to be one.
+
+Using Eq.9 the dependence of the function $f(Kc_{1})$ on the
+total concentration of tubulin is plotted in Fig. 5 and
+the association constant K is determined to be 0.091 ±
+0.004 μM$^{-1}$ for a model with longitudinal and 0.108 ±
+
+Biophysical Journal 87(4) 2635–2646
+```

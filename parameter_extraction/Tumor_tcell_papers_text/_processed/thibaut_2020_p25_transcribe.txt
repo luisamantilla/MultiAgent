@@ -1,0 +1,36 @@
+```plaintext
+NATURE CANCER                                                                                      ARTICLES
+
+5 ────────────────────────────────────────────────────────────────────────────────────────────────
+                                                                                                  │
+                                                                                                  │
+4 ────────────────────────────────────────────────────────────────────────────────────────────────
+                                                                                                  │
+                                                                                                  │
+3 ────────────────────────────────────────────────────────────────────────────────────────────────
+                                                                                                  │
+                                                                                                  │
+2 ────────────────────────────────────────────────────────────────────────────────────────────────
+                                                                                                  │
+                                                                                                  │
+1 ────────────────────────────────────────────────────────────────────────────────────────────────
+                                                                                                  │
+                                                                                                  │
+0 ────────────────────────────────────────────────────────────────────────────────────────────────
+    1    2    3    4    5    6    7    8    9    10   11   12   13   14   15
+
+Pathway
+
+IFNG-related genes
+IFNB-related genes
+
+IFNG signature
+↓
+−Log10(P-value)
+
+Extended Data Fig. 9 | Determination of an IFNG signature in monocyte/macrophage cluster. 15 over-dispersed gene sets were determined for the
+monocyte/macrophage cluster as explained in materials and methods. Graph shows the contribution of IFNG or type I IFN-related genes for each gene
+sets. Arrow highlights a gene signature that is specific of IFN-γ signaling (hereafter called IFNG signature).
+
+NATURE CANCER | www.nature.com/natcancer
+```

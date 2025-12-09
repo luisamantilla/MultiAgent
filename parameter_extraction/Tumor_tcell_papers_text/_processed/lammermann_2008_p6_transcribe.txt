@@ -1,0 +1,137 @@
+```plaintext
+doi:10.1038/nature06887
+
+nature
+
+METHODS
+
+Generation of integrin αvfl/fl mice. To generate a conditional floxed αv allele, a
+targeting vector spanning 8.2 kb of the murine αv integrin locus27 was con-
+structed. First, the 2.2 kb genomic subclone pXR2, encoding the 5' upstream
+region, exon 1 and part of the intron 1 of the αv gene was used to introduce two
+loxP-sites. The 5'-loxP-site including an EcoRI-restriction site to facilitate
+the identification of the targeted locus was cloned into the HindIII site in the
+5'-upstream region (nucleotide position, nt-pos., -310) of the αv gene. The
+3'-loxP-site was introduced into the BamHI-site in intron 1 (nt-pos., +528).
+The genomic subclone pMCS harbouring this BamHI-site at its 5'-end and
+~6 kb 3'- downstream intron 1 sequences was used to clone a pgk-neomycin-
+tandem gene selection-cassette (neoTK) flanked by two frt-sites (provided by
+G. R. Martin) into the BamHI-site. These two modified genomic regions of the
+αv gene were then fused at the corresponding BamHI-site to obtain the αv gene
+targeting vector. ES cell transfection, selection and screening was carried out as
+described27 except that R1 ES cells28 were used. Homologously targeted clones
+were identified by Southern blotting of EcoRI- or BamHI-digested DNA with 5'-
+or 3'-external probes A or B, respectively. To remove the neoTK selection cassette,
+targeted ES cells (neoTK) were transiently transfected with the CAGGS-FLPe-
+expression construct29 (provided by A. F. Stewart), and clones identified with
+loss of only the selection cassette at the two flanked allele sites were chosen for
+further rounds of blotting. ES cell clones were injected into blastocysts of
+C57Bl/6 mice, and the resulting germline transmitting male chimaera were mated
+to C57Bl/6 females to generate heterozygous αvfl/+ mice and wild-type
+αv+/+ following previous standard26. Two independent lines carrying the
+αvfl/fl allele were established and analysed for Mendelian inheritance in a
+mixed background, αv+/+ and αvfl/fl mice show no obvious phenotype.
+Southern blot and PCR analyses: wild-type, fl and mutant αv alleles were assessed
+by Southern blot analysis of BamHI and/or PCR from DNA isolated from ES cells,
+mouse tail biopsies or from yolk sacs of embryos as described27. In brief, 10 μg of
+genomic DNA was digested with BamHI or EcoRI and probed with a 5' (αv-
+labelled 5'-external probe A (αv-1.9Pst-EcoRI/XbaI DNA- fragment) or 3'-
+external probe B (690-bp-BglII/SacI DNA-fragment) as described. PCR
+analysis was performed with the following primers: αv-1 (5'-GCTGAGTGGG-
+GAGGATTGCTG-3') and αv-2 (5'-GCTGAGTGGGGAGGATTGCTG-3') to
+detect the wild-type (WT) and floxed (fl) alleles, and αv-3 (5'-GCTGAGTGGG-
+GAGGATTGCTG-3') and αv-4 (5'-GCTGAGTGGGGAGGATTGCTG-3') to
+detect the mutant (Δ) allele. PCR amplification products were separated through
+a 1.5% agarose gel and detected by ethidium bromide staining. The positions of
+the primers are located in close vicinity to the loxP-sites. PCR amplification was
+performed in a 50 μl reaction mixture containing 1 mM MgCl2, 5 mM dNTPs,
+buffer adjusted to a final concentration of 1 mM MgCl2, and water as standard
+conditions. PCR samples were initially denatured at 94 °C for 3 min, followed by
+35 cycles of 94 °C for 30 s, 60 °C for 2 min, 72 °C for 3 min, followed by
+a final 10 min extension at 72 °C followed. PCR amplification products were
+separated through agarose gel electrophoresis, the allele-specific primer
+products, and primer orientation (forward, Fw; reverse, Rv), the PCR product
+and their corresponding PCR-product sizes are as follows: Primer set (F30: 5'-
+GCGGAGCACAGGAGGAACTT-3', Rv: 5'-CCTTGAGCTGAGCCTGAGTAGC-
+3') (WT, 125 bp; fl, 225 bp; Δ, 325 bp). Products (F20/12: 5'-CTGGATCTGAGTGG-
+GAGGATTGCTG-3', Rv: 5'-CCTTGAGCTGAGCCTGAGTAGC-3') (WT, 201/2:
+614 bp) (floxed: Δ, 3', F30/12: 339 bp (pre-mutated, knockout allele,
+αvΔex).
+
+Mouse strains. Mice with constitutive deletions of integrin β7, integrin β3, CCR7
+and conditional β7, flox/flox mice were described30,31. All mice were kept on a
+mixed 129SV/C57BL/6 genetic background. The integrin αv conditional strains were
+inter-crossed with Mx1Cre transgenic mice to generate αvΔex, β7Δex,
+β7−/−, β3−/−, Mx1Cre− animals. Talinfl/flMx1Cre+ mice were crossed with
+Mx1Cre transgenic mice to obtain talinΔexMx1Cre+ mice. All control
+animals were on a mixed 129SV/C57BL/6 genetic background. The mice were
+housed in a conventional animal facility at the Max Planck Institute of
+Biochemistry, and the handling and care of the animals were in accordance with
+the institutional guidelines.
+
+Induction of the haematopoietic knockout in αvfl/fl mice. At age between 8 and 12 weeks,
+mice of the desired genotype received a single intraperitoneal injection of 250 μg
+Poly (I:C) (Polyinosinic-polycytidylic acid, diluted in 0.15 m phosphate-buffered
+saline (PBS); Mice were killed 10–14 d after injection and knockout efficiency of
+haematopoietic lineages was assessed from by flow cytometric analysis of
+peripheral blood platelets26. Bone marrow (BM) of mice with ~85% integrin
+β1-negative platelets were processed for dendritic cell (DC) isolation and differen-
+tiation. Knockout efficiencies usually correspond well with knockout efficien-
+cies of DCs and granulocytes, whereas peripheral B cells frequently show reduced
+knockout efficiencies.
+
+BM generation, separation and purification. DCs were generated from flushed
+BM suspension as described previously32. At day 8–10 of culture, 250 ng ml-1
+LPS (Sigma-Aldrich; E. coli0127:B8) was added overnight and the pure integrin-
+deleted DCs were subsequently depleted of remaining Gr-1+ and integrin β7+
+contaminants. For depletion, cells were incubated with biotinylated antibodies
+against Gr-1 (RB6-8C5) and integrin β7 (Ha2/5) (both BD Pharmingen), fol-
+lowed by streptavidin-mediated separation according to the manufacturers
+protocol (Miltenyi biotech). The negatively selected DCs used for remaining
+assays were >99% enriched for β7 integrin knockout cells and β7-deficient cells
+were always further collected for integrin αv. After enrichment the cells were
+used as integrin− DCs. Talin−/− DCs were generated identically and depleted for
+Gr-1+ contaminants. To determine knockout efficiencies, DC lysates were
+loaded on 12–15% gradient gels for electrophoresis under reduced conditions
+and western blotting. Talin was detected with mouse anti-pan-talin antibody
+(T3287, Sigma), and the loading control was performed with rabbit anti-mouse
+actin antibody (A2066, Sigma). Integrin β7 was detected with the rabbit poly-
+clonal anti-integrin β7 antibody 1244P. Integrin αv was detected with a rabbit
+polyclonal anti-integrin αv antibody (Chemicon). Dual primary antibodies
+were detected with anti-mouse or anti-rabbit horse radish peroxidase (HRP)
+or anti-rabbit HRP (both Bio-Rad) as secondary antibodies, respectively. DCs
+were collected for talin and αv for these knockout experiments, and knockout
+cells were detected by talin and that talin was neither expressed nor induced as a
+compensation mechanism in Mx1Cre transgenic mice subjected by staining whole
+bone marrow suspension with anti-Gr-1 PE or anti-Gr-1 PE, anti-Gr-1 FITC, and
+subsequently fluorescent activated cell sorting into ACSAFA1 (BD Biosciences)
+or F4/80+ subsets. Sorted cells incorporating ACSAFA1 (BD Biosciences) were
+treated for 30 min with 20 ng ml−1 TNF-α (Roche) at 37 °C. B lymphoblasts were
+generated by mixing splenocytes through a 70 μm nylon cell strainer (BD
+Biosciences) from lymphocytes with ACK lysis buffer (0.15 M NH4Cl, 1 mM
+KHCO3, 0.1 mM EDTA), and subsequent magnetic cell sorting (MACS)
+through two MACS MicroBeads LS columns (Miltenyi). The negatively sorted
+B cells were stimulated with 10 μg ml−1 LPS (Sigma) for 72 h at 37 °C, 5% CO2.
+Streptavidin-mediated separation of integrin β7 cells (see DCs) resulted in
+>99% enriched integrin β7 knockout B cells. Integrin β7 and integrin β3
+expression was analysed by flow cytometry using the following antibodies:
+CD86 and CD40. B lymphoblasts were identified as B220+ cells, granulocytes as
+Gr-1+ cells, and T lymphocytes against the mouse anti-CD3e (FITC) (BD
+Pharmingen) and anti-Fc (2.4G2) (BD Biosciences) and biotin (H13-1). A rat
+IgE biotin (229) and A-I-F PE (M5/114.15.2) (all from BD Pharmingen), and
+the following antibodies were used: hamster IgG (HTK888), hamster IgM
+(HTK888), hamster IgG PE (HTK888), hamster IgG1 FITC (HTK888) (both
+BD Biosciences), rat IgG2a biotin (C2C3), rat IgG2b biotin (C2C3), rat IgG2b
+biotin (C2C3), rat IgG2b biotin (C2C3), rat IgG2b biotin (C2C3), rat IgG2b
+biotin (C2C3), rat IgG2b biotin (C2C3), rat IgG2b biotin (C2C3), rat IgG2b
+biotin (C2C3), rat IgG2b biotin (C2C3), rat IgG2b biotin (C2C3), rat IgG2b
+biotin (C2C3), rat IgG2b biotin (C2C3), rat IgG2b biotin (C2C3), rat IgG2b
+biotin (C2C3), rat IgG2b biotin (C2C3), rat IgG2b biotin (C2C3), rat IgG2b
+biotin (C2C3), rat IgG2b biotin (C2C3), rat IgG2b biotin (C2C3), rat IgG2b
+biotin (C2C3), rat IgG2b biotin (C2C3), rat IgG2b biotin (C2C3), rat IgG2b
+biotin (C2C3), rat IgG2b biotin (C2C3), rat IgG2b biotin (C2C3), rat IgG2b
+biotin (C2C3), rat IgG2b biotin (C2C3), rat IgG2b biotin (C2C3), rat IgG2b
+biotin (C2C3), rat IgG2b biotin (C2C3), rat IgG2b biotin (C2C3), rat IgG2b
+biotin (C2C3), rat IgG2b biotin (C2C3), rat IgG2b biotin (C2C3), rat IgG2b
+biotin (C2C3), rat IgG2b biotin (C2C3), rat IgG2b biotin (C2C3), rat IgG2b
+biotin (C2C3), rat IgG2b biotin (C2C3), rat IgG2b biotin (C2C3), rat IgG2b

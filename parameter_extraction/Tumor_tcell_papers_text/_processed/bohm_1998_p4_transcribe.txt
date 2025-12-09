@@ -1,0 +1,112 @@
+```plaintext
+The Journal of Immunology                                                                                                           899
+
+-IFNγ                                                                                   +IFNγ
+
+H-2Kb
+
+H-2Db
+
+I-Ab
+
+CD40
+
+CD44
+
+CD48
+
+CD54
+
+FIGURE 2. Surface expression of costimulating molecules by B16.F10
+cells. B16.F10 cells cultured in serum-free medium were unstimu-
+lated (-IFN-γ) or stimulated for 12 h with 50 U/ml IFN-γ (+IFN-γ).
+Surface expression of the MHC-I molecules Kb and Db, of the MHC-II
+molecules I-Ab, and of the costimulator molecules CD40, CD44, CD54,
+CD48, and CD54 was measured using the mAb listed in the Materials and
+Methods.
+
+DNA vaccination
+
+We injected 50 μl PBS containing 50 μg plasmid DNA into each regen-
+erating tibialis anterior muscle 5 days after the induction of cardiotoxin
+(Latroxan; Rosans, France) as described (28). All mice received one bilat-
+eral intramuscular injection. Mice injected with pCMV-IFN-γ plasmid DNA
+or pCIS (plasmid DNA developed a potent T-Ag- or HBsAg-specific CTL
+response (23, 26, 28). Noninjected mice or mice injected with pCI or
+pCMV-1 plasmid DNA (without insert) were used as controls.
+
+Subcutaneous transplantation of tumor cells
+
+B16.F10, B16.F10F5, and B16.F10T cells were cultured in serum-free me-
+dium (UltraCulture; BioWhittaker, Walkersville, MD, cat. no. 12-725F).
+The cells were transplanted into immunocompetent syngeneic C57BL/6J
+mice by injecting titrated numbers of cells (10^1-10^5 cells/mouse) in 50 μl
+PBS s.c. into the left lateral flank of age- and sex-matched mice. Tumor
+growth was measured every second or third day. Mice bearing tumors with
+a diameter >1 cm were sacrificed (according to the regulation for animal
+experimentations of Baden-Württemberg). Data were plotted and statisti-
+cally evaluated using the GraphPad Prism version 2 software (see Tables I
+and II).
+
+Spleen cells were obtained from C57BL/6J mice primed 3 weeks before
+to T-Ag by DNA vaccination. B16.F10F10T tumor-bearing mice, we
+injected 1.2 x 10^6 primed splenocyte (8 cell-equivalent) T-cells. This led to
+an easily measurable regression of the 3 to 6-mm tumor in most treated
+mice. Regressing tumors were removed for histopathologic examination 2
+to 3 days after T cell transfer.
+
+In vivo suppression of CD4+ or CD8+ T cells in mice
+
+CD4+ or CD8+ T cell subsets were suppressed by repeated injec-
+tions of the anti-CD4 mAb YTS 191.1 or the anti-CD8 mAb YTS 169.4.
+Two days before the tumor cell transplantation, the mice were i.p. injected with
+200 μl PBS containing 500 μg Ab per mouse. At 5-day intervals (i.e., day 3
+and day 8 after tumor cell transplantation) mice were again injected with
+250 μg of the respective Abs. FCM analyses of PBMC populations dem-
+onstrated that 90 to 98% of the respective T cell subset was specifically
+depleted in treated mice (data not shown).
+
+CTL lines
+
+Spleen or lymph node cells were suspended in α-MEM (Life Technologies,
+Berlin, Germany) supplemented with 10 mM HEPES buffer, 5 x 10^-5 M
+2-ME, antibiotics, and 10% FCS (v/v; Biochrom, Berlin, Germany).
+To the culture medium was further added 2% of the supernatant batch of Con
+A-stimulated rat spleen cell supernatant. In upright 25-cm tissue culture
+flasks in a humidified atmosphere (5% CO2 at 37°C), 3 x 10^7 responder cells
+were cocultured with 1.5 x 10^7 syngeneic RBL/5 or RBL/5T stimulator
+tants (irradiated with 20,000 rad) in 10 ml of medium. CTL's were
+harvested from restimulated cultures were separated on a discontinuous
+density gradient and restimulated twice weekly (5 x 10^6 cell/ml) with
+irradiated RBL/5 or RBL/5T transfectants. After 3-4 times (CTLL) were
+grown for 2 to 6 wk in vitro. Cells from all these were cytolytic and dis-
+played the CD3+ CD4- CD8+ TCRαβ+ phenotype.
+
+Medium was conditioned by coculturing 10^6/ml CTLL-1 cells (or
+CTLL-5 cells) with 10^6/ml B16.F10T cells (or B16.F10 cells) for 12 to
+24 h at 37°C. The medium was cleared after the incubation (15 min,
+2000 x g) and stored at 4°C. In the experiments described, the medium
+was used at 5% v/v. The Ab RA-6A2 neutralizes mouse IFN-γ bioactiv-
+ity; it was added to cultures to obtain a final concentration of 20 μg/ml. In
+some experiments, the IFN-γ bioactivity in conditioned medium was neu-
+tralized by incubating it with 20 μg/ml of mAb RA6A2 for 12 h at 4°C.
+
+In vitro culture and cytotoxicity assays
+
+CTL harvested after 5 days of in vitro culture were washed, and serial
+dilutions of these effector cells were cocultured with 10^4 51Cr-labeled
+targets in 200-μl round-bottom wells. After a 4-h incubation at 37°C, 100
+μl of supernatant were collected for gamma counting. The percentage of
+specific release was calculated as follows: (experimental release - spontaneous
+release)/(total release - spontaneous release) x 100. Total counts were
+measured by resuspending target cells. Spontaneously released counts were
+always <15% of the total counts. Data shown are the mean of triplicate
+cultures. The SEM of triplicate data was always <15% of the mean.
+
+Histology studies
+
+Cells undergoing apoptosis were detected in situ by labeling DNA strand
+breaks using terminal deoxynucleotidyl transferase (TdT)-mediated dUTP-
+biotin nick end labeling (TUNEL). Briefly, formalin-fixed and paraffin-
+embedded tissue sections were dewaxed and digested with proteinase K
+```

@@ -1,0 +1,98 @@
+```plaintext
+906                                                                                      IMMUNE REJECTION MECHANISMS OF MURINE B16 MELANOMAS
+
+FIGURE 8. Extensive apoptosis is evident during T-dependent regression of B16 melanomas. Splenic (B cell-depleted) T cells primed to T-Ag (left
+panel) or to HBs-Ag (right panel) were adoptively transferred into B16.F10/T tumor-bearing mice. Tumors were removed 2 days after T cell transfer and
+fixed in formalin. Apoptosis was detected using the TUNEL technique. Numerous apoptotic melanoma cell nuclei are visible, predominantly at the margin of
+the tumor (left). In contrast, only a few apoptotic bodies were detected after adoptive transfer of T cells primed to the irrelevant Ag HBsAg (right). Each
+photomicrograph is representative of a total of four tumors analyzed. Original magnification, x400.
+
+mice (23, 26), but transfer of B16.F10/S or B16.F10/T cells into
+naive C57BL/6 mice did not (data not shown). This observation at
+least partly explains the aggressive in vivo tumor growth of trans-
+fected B16.F10/S or B16.F10/T cells. The low immunogenicity of
+nontransfected or transfected B16.F10 melanoma cells may be due
+to their deficient costimulator and cytokine expression profile, as
+well as to their inefficient MHC-restricted epitope presentation.
+The B16.F10 line used showed on (or very low) expression of the
+costimulator molecules CD48 (the ligand for CD2), CD54/
+ICAM-1 (binding LFA-1), CD80/B7-1, and CD86/B7-2 (binding
+CD28/CTLA-4). Expression of transfected B7-1/CD80 and/or
+B7-2/CD86 genes in B16 melanoma cells has been reported to
+induce anti-tumor immunity and to have an antimetastatic effect
+(35–37). It has been reported that B16 cells express IL-2 and the
+IL-2 receptors (38), but we found no IL-2 bioactivity in medium
+conditioned by the B16.F10 cells that we used (data not shown).
+Surface expression of MHC-I and MHC-II molecules by B16.F10
+cells was low, but was strikingly up-regulated by IFN-γ treatment.
+This melanoma cell line is thus inefficient in the immunogenic
+MHC-restricted epitope presentation to T cell precursors.
+
+Although inefficient in priming a T cell response, B16 mela-
+noma cells are nevertheless targets for various immune effector
+cells. In vivo growth of B16 melanomas can be eradicated by
+natural cell-mediated cytotoxicity (39), activated macrophages
+(40, 41), or CD8+ CTL (1, 37, 40, 42). Although CD8+ CTL seem
+to be involved in the rejection of B16 melanomas, CD4+ T cells,
+and possibly other immune effector mechanisms, seem to contrib-
+ute to resistance of this tumor because CD8 T cell-depleted, im-
+mune mice showed resistance to this tumor. Rejection of B16 mel-
+anomas has been reported to be facilitated by the cytokines IL-1β
+(43, 44), IL-2 (45–48), IL-4 (49), IL-10 (50, 51), IL-12 (52, 53),
+granulocyte-macrophage (GM)-CSF (36, 54–57), monocyte (M)-
+CSF (58), TNF-α (43), and IFN-γ (40, 44, 58), but inhibited by
+TGF-β (45, 59). IFN-γ treatment in vivo and in vitro renders B16
+melanoma cells susceptible to lysis by activated macrophages (1,
+41, 60) and by CTL (this paper). Our data indicate that the inter-
+action of Ag-presenting B16 cells with MHC-I-restricted CTL in-
+volve multiple events. 1) Specific MHC-I-restricted recognition
+of the viral epitopes presented by noninduced B16 cells triggers
+IFN-γ release by CTL but not their cytolytic program. 2) IFN-γ
+stimulation of B16 cells up-regulates MHC-I-restricted epitope
+presentation and allows the specific, cytolytic interaction between
+
+effector and target cell. 3) IFN-γ stimulation enhances the CD95/
+CD95L suicide program of a subset of B16 melanoma cells.
+
+CTL that specifically recognize epitopes of the viral proteins
+HBsAg or T-Ag, in the context of MHC-I molecules presented by
+noninduced B16 cells, release IFN-γ. In contrast, the cytolytic pro-
+gram of these CTL (detectable in a 4-h 51Cr release assay) was not
+triggered by this specific interaction. This was observed using five
+independently derived CTLL (data not shown). This partial T cell
+activation may result from low MHC-I expression and/or low an-
+tigenicity of the recognized peptide epitope. The phenomenon re-
+sembles the selective signaling detected in an altered peptide
+ligand-induced partial T cell activation (61). IFN-γ produced by
+CTL in the immediate vicinity of B16 cells stimulates up-regula-
+tion of MHC-I- and MHC-II-restricted epitope presentation. This
+apparently facilitates the specific and complete cytolytic interac-
+tions by primed CTL. In addition, IFN-γ may also enhance
+other tumor-rejecting effector mechanisms (e.g., macrophages,
+dendritic cells).
+
+The CTL-mediated lysis of melanoma cells may not be the only
+or the decisive mechanism of tumor eradication. A subset of non-
+transfected and transfected B16.F10 cells showed surface expres-
+sion of CD95 and CD95L. Almost 90% of the B16.F10 cells ex-
+pressed readily detectable levels of CD95 on the surface after a
+12 h stimulation by 30 IU/ml murine IFN-γ. Furthermore, a well-
+defined 30 to 40% subset of the IFN-γ-stimulated B16.F10 cells
+coexpressed CD95L and CD95 on the cell surface; this was dem-
+onstrated by RT-PCR and by FCM analyses. IFN-γ-stimulated
+B16 cells that coexpressed CD95 and CD95L were apoptotic. They
+were stained for the apoptosis markers annexin, by the nucleic acid
+dye 7-AAD, and by the TUNEL technique; and they could not be
+maintained in a viable state in vitro. In unstimulated B16.F10 cells
+growing under serum-free conditions, a fraction of 10 to 20% are
+continuously eliminated by suicide. The apoptotic fraction of these
+melanoma cells is higher when cells are cultured in serum (FCS)-
+supplemented medium. We did not detect a significant fraction of
+cells dying of necrotic due apoptosis CD95/CD95L melanoma cells
+were always below the detection threshold. It is sur-
+prising that a tumor cell line adapted to long term culture for many
+years continuously and “spontaneously” generates an apoptotic
+subset of progeny. This may represent a “loss by differentiation”
+event. Analyses using maturation markers of melanocytes may
+clarify this point. The important point for the design of tumor
+```

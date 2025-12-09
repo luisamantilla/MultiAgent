@@ -1,0 +1,71 @@
+```markdown
+ARTICLES                                                                                      NATURE CANCER
+
+a
+
+15000 ───────────────────────────────────────────────────────────────────────────────────────────────────
+
+10000 ───────────────────────────────────────────────────────────────────────────────────────────────────
+
+ 5000 ───────────────────────────────────────────────────────────────────────────────────────────────────
+
+     0 ───────────────────────────────────────────────────────────────────────────────────────────────────
+         0       0.1       0.4       1.2       3.7       11.1      33.3      100
+                                    IFNγ (ng/mL)
+
+b
+
+15000 ───────────────────────────────────────────────────────────────────────────────────────────────────
+
+10000 ───────────────────────────────────────────────────────────────────────────────────────────────────
+
+ 5000 ───────────────────────────────────────────────────────────────────────────────────────────────────
+
+     0 ───────────────────────────────────────────────────────────────────────────────────────────────────
+         0            5000           10000          15000
+                                    MFI Katshuka
+
+     ● 0 ng/mL   ● 0.13 ng/mL   ● 0.4 ng/mL   ● 1.2 ng/mL
+     ● 3.7 ng/mL ● 11.1 ng/mL   ● 33.3 ng/mL  ● 100 ng/mL
+
+c
+
+100 ────────────────────────────────────────────────────────────────────────────────────────────────────
+
+ 80 ────────────────────────────────────────────────────────────────────────────────────────────────────
+
+ 60 ────────────────────────────────────────────────────────────────────────────────────────────────────
+
+ 40 ────────────────────────────────────────────────────────────────────────────────────────────────────
+
+ 20 ────────────────────────────────────────────────────────────────────────────────────────────────────
+
+  0 ────────────────────────────────────────────────────────────────────────────────────────────────────
+     HBSS     + control T cells     + specific T cells
+
+d
+
+60 ─────────────────────────────────────────────────────────────────────────────────────────────────────
+
+40 ─────────────────────────────────────────────────────────────────────────────────────────────────────
+
+20 ─────────────────────────────────────────────────────────────────────────────────────────────────────
+
+ 0 ─────────────────────────────────────────────────────────────────────────────────────────────────────
+     HBSS     + control T cells     + specific T cells
+
+Extended Data Fig. 2 | IFNγ-induced IGS reporter and PD-L1 expression in MDA-MB-231 cells. a, Median Katshuka fluorescence intensity of IGS reporter-
+modified CFP+ MDA-MB-231 cells upon incubation with recombinant IFNγ under the indicated conditions. Bar graph shows mean of n=3 technical
+replicates. Representative data from two independent experiments are depicted. b, Median fluorescence intensity of PD-L1 staining as a function of median
+Katshuka fluorescence intensity of CFP+Ag+ IGS MDA-MB-231 reporter cells incubated for 24h with recombinant IFNγ under the indicated conditions.
+Plot depicts representative data three technical replicates of two independent experiments. c, 20% GFP+ Ag+ cells and 80% CFP+ IGS reporter bystander
+MDA-MB-231 tumor cells (5 x 10^6 total) were subcutaneously injected in NSG-B2m-/- mice. Mice were treated with HBSS (control), 5 x 10^6 control CD8+
+T cells or with 5 x 10^6 CD4K4.5-specific CD8+ T cells, and tumors were harvested at day 3 after treatment. Bar graphs depicting mean percentage plus SD
+of Katshuka+ reporter cells in control and tumor-specific T cell treated mice, n=5 mice per group. Representative data of two independent experiments are
+depicted. Two tailed Mann-Whitney U test was performed, with: p= 0.3095 (ns); p= 0.0317 (*); p= 0.0079 (**). d, Percentage of PD-L1-expressing cells
+of IGS reporter-modified CFP+ MDA-MB-231 cells from tumors as described in c. Bar graphs depict mean percentage of PD-L1 positive Ag- IGS cells plus
+SD, n=5 mice per group. Representative data of n=2 independent experiments are depicted. Two tailed Mann-Whitney U test was performed, with:
+p> 0.9999 (ns); p= 0.0317 (*); p= 0.0079 (**).
+
+                                                                                      NATURE CANCER | www.nature.com/natcancer
+```

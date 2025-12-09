@@ -1,0 +1,33 @@
+Immunity 24, 451–461, April 2006 ©2006 Elsevier Inc. DOI 10.1016/j.immuni.2006.02.002
+
+**Serine Protease Inhibitor 6 Protects Cytotoxic T Cells from Self-Inflicted Injury by Ensuring the Integrity of Cytotoxic Granules**
+
+Manling Zhang,1,2 Su-Min Park,2 Yue Wang,1,2
+Ramila Shah,1,2 Ni Liu,1,2 Andrea E. Urhmann,3
+Chyung-Ru Wang,1 Marcus E. Peter,2
+and Philip G. Ashton-Rickardt1,2,*
+
+1 Department of Pathology
+2 Ben May Institute for Cancer Research
+3 Department of Medicine
+The University of Chicago
+924 East 57th Street
+Chicago, Illinois 60637
+
+**Summary**
+
+How cytotoxic T lymphocytes (CTLs) kill intracellular pathogens without killing themselves has been a recurring question ever since their discovery. By using mice deficient in Serine Protease Inhibitor 6 (Spi6), we show that by inhibiting granzyme B (GrB), Spi6 protects CTLs from self-inflicted injury. Infection with either Lymphocytic Choriomeningitis virus (LCMV) or Listeria monocytogenes (LM) revealed increased apoptosis and diminished survival of Spi6 knockout (KO) CTLs, which was cell autonomous and could be corrected by GrB deficiency. Spi6 KO mice were impaired in their ability to clear LCMV infection. Spi6 KO CTLs revealed a breakdown in the integrity of cytotoxic granules, increased cytoplasmic GrB, and ensuing apoptosis. We conclude that Spi6 protects CTLs from suicide caused by GrB-mediated breakdown of cytotoxic granules.
+
+**Introduction**
+
+Contact-dependent, lymphocyte-mediated cytotoxicity proceeds through two pathways. The first pathway is triggered by members of the Tumor Necrosis Factor Receptor family, of which Fas is the most important (Kagi et al., 1996). The second involves the exocytosis of proteins present in CD8+ cytotoxic T lymphocyte (CTL) and natural killer (NK) cell granules (Millard et al., 1984; Podack et al., 1985). The exocytosis pathway affords the rapid and targeted destruction of infected or damaged cells. Exocytosis of perforin (Pfn) (Kagi et al., 1994a; Podack et al., 1985) facilitates the entry of serine proteases called granzymes, which trigger apoptosis in target cells (Shi et al., 1992). Granzymes A and B are the most abundant granzymes in mice and humans and are the best characterized (Russell and Ley, 2002). Granzyme B (GrB) activates the caspase-dependent pathways of apoptosis and, like caspases, cleaves after aspartic acid residues, whereas granzyme A (GrA), which is a tryptase, cleaves after basic amino acids. Recent evidence indicates that the mechanisms by which different granzymes operate are discrete, providing failsafe mechanisms to destroy tumors or pathogens that have devised ways to evade a given pathway (Lieberman, 2003).
+
+Given the effectiveness of the granule exocytosis pathway of death, it is not surprising that CTLs and NK cells are susceptible to self-inflicted damage. The role of the exocytosis pathway in CTL apoptosis has been clearly shown by Pfn-deficient CTLs, which are defective in granule-mediated killing (Kagi et al., 1994a, 1994b) but also undergo less apoptosis in vitro (Spaner et al., 1998). When challenged in vivo with allografts (Spaner et al., 1999), viruses, or intracellular bacteria (Badovinac et al., 2000, 2003; Kagi et al., 1999; Matloubian et al., 1999), Pfn-deficient CTLs undergo a massively increased expansion compared to wild-type controls.
+
+It is unclear how granzymes are turned against CTLs. The traffic of granzymes into a target cell is achieved by the unidirectional exocytosis of cytotoxic granules into the secretory synapse (Kupfer et al., 1986). Therefore, the simplest explanation for CTL self-destruction is that CTLs become the targets for killing by other CTLs (Hanon et al., 2000; Huang et al., 1999; Walden and Eisen, 1990) (fratricide). Although the delivery of granzymes to target cells is highly ordered (Trambas and Griffiths, 2003), endogenous granzymes can be “misdirected” into the cytoplasm and so a cytotoxic lymphocyte may die through suicide (Kagi et al., 2003). CTLs can kill several targets in succession without killing themselves (Zagury et al., 1975). Therefore, it has been suggested that cytotoxic lymphocytes can protect themselves from self-inflicted damage (Trambas and Griffiths, 2003).
+
+Homeostatic regulation of serine proteases is mainly achieved through interaction with inhibitors belonging to the Serine Protease Inhibitor (serpin) superfamily (Silverman et al., 2001). Inhibitory serpins have a common mode of action: each contains a variable C-terminal reactive center loop (RCL) resembling the substrate of its cognate protease. On cleavage by the RCL is cleaved between the two residues designated P1 and P1', and it undergoes a conformational change that distorts the protease and irreversibly locks the serine-protease complex. The human serpin, Proteinase Inhibitor 9 (PI9), is a potent inhibitor of GrB (Sun et al., 1996). In mice, Serine Protease Inhibitor 6 (Spi6), a homolog of PI9, can also inhibit GrB in vitro (Sun et al., 1997) and is expressed in CTLs and NK cells (Phillips et al., 2004). Both PI9 and Spi6 lack signal secretory sequences and so are located in the cytoplasm (Sun et al., 1996, 1997).
+
+Spi6 is upregulated upon the maturation of dendritic cells (DCs) (Medema et al., 2001a), and overexpression protects targets from CTL killing (Medema et al., 2001b). Transgenic Spi6 can increase the number of CD8 T cells that persist long after virus infection (Phillips et al., 2004). However, GrB KO mice do not show any increase in the number of CTLs after infection with virus and so it is not clear if GrB induces CTL apoptosis (Phillips et al., 2004). Therefore, whether inhibition of GrB is a physiologically relevant mechanism by which Spi6 protects CTLs remains to be determined. To test this hypothesis, we generated Spi6-deficient mice (Spi6 knockout [KO] mice). The survival of Spi6 KO
+
+*Correspondence: pashtonr@midway.uchicago.edu

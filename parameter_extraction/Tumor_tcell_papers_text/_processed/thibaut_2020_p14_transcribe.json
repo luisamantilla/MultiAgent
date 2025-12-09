@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "```markdown\nARTICLES                                                                                      NATURE CANCER\n\na\n\nE0771\n\nH-2K(b) (MFI)\n\n20000\n15000\n10000\n 5000\n    0\n        0 0.005 0.05 0.5 5 50\n        IFN-γ concentration (ng.mL^-1)\n\nH-2 D(b) (MFI)\n\n20000\n15000\n10000\n 5000\n    0\n        0 0.005 0.05 0.5 5 50\n        IFN-γ concentration (ng.mL^-1)\n\nPD-L1 (MFI)\n\n80000\n60000\n40000\n20000\n    0\n        0 0.005 0.05 0.5 5 50\n        IFN-γ concentration (ng.mL^-1)\n\nb\n\nB16.F10\n\nH2-D^b-APC\n\n10^4 10^5 10^6 10^7\n-10^4 10^0 10^1 10^2 10^3\n\nPD-L1-BV785\n\n10^4 10^5 10^6 10^7\n-10^4 10^0 10^1 10^2 10^3\n\nEμ-myc\n\nH2-D^b-APC\n\n10^4 10^5 10^6 10^7\n-10^4 10^0 10^1 10^2 10^3\n\nPD-L1-PE\n\n10^4 10^5 10^6 10^7\n-10^4 10^0 10^1 10^2 10^3\n\nunstimulated  0.005 ng.mL^-1 IFN-γ  0.05 ng.mL^-1 IFN-γ  5 ng.mL^-1 IFN-γ\n\nc\n\nB16.F10\n\nabsolute cell number\n\n200000\n150000\n100000\n 50000\n     0\n        0 0.005 0.05 0.5 5 50\n        IFN-γ concentration (ng.mL^-1)\n\nd\n\nEμ-myc\n\nabsolute cell number\n\n2000000\n1500000\n1000000\n 500000\n      0\n        0 0.05 0.5 5 50\n        IFN-γ concentration (ng.mL^-1)\n\ne\n\nB16.F10\n\nabsolute cell number\n\n200000\n150000\n100000\n 50000\n     0\n        0 0 50 50 50 50 50\n        IFN-γ (ng.mL^-1)  0 0 10^4 10^2 1 10\n        TNF-α (ng.mL^-1)\n\nf\n\nEμ-myc\n\nabsolute cell number\n\n300000\n225000\n150000\n 75000\n     0\n        0 0 50 50 50 50 50\n        IFN-γ (ng.mL^-1)  0 0 10^4 10^2 1 10\n        TNF-α (ng.mL^-1)\n\nExtended Data Fig. 1 | See next page for caption.\n\n                                                                                      NATURE CANCER | www.nature.com/natcancer\n```",
+  "model": "gpt-4o",
+  "page": 14,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 26.56,
+  "filename": "thibaut_2020.pdf",
+  "doc_id": "thibaut_2020"
+}

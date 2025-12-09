@@ -1,0 +1,100 @@
+```plaintext
+NATURE CANCER                                                                                                          ARTICLES
+
+transient or prolonged exposure to IFN-γ is required to alter tumor 
+cell phenotype. We therefore designed an experiment in which 
+Eμ-myc B lymphoma cells are cultured for a fixed period of time 
+(24 h), but exposed to IFN-γ during this period for variable amounts 
+of time (by washing out the cytokine and adding a blocking anti- 
+IFN-γ monoclonal antibody to prevent any residual effects). RNA- 
+sequencing (RNA-seq) was then performed for these different 
+stimulation patterns (Fig. 5a). We confirmed that sustained IFN-γ 
+exposure resulted in sustained STAT1 translocation (see Extended 
+Data Fig. 8). As shown in Fig. 5b, the core of the response that 
+included well-known IFN-γ-responsive genes (Cd74, Cd274, H2- 
+K1, H2-D1, and so on) required at least 6–24 h of cytokine exposure. 
+Notably, cells exposed to IFN-γ for 1 h were barely distinguishable 
+from unstimulated cells. We confirmed these findings at the protein 
+level for H2-K, H2-D and PD-L1 using flow cytometry (Fig. 5d). 
+In these settings, 6–24 h of cytokine exposure was needed for sub- 
+stantial upregulation of these molecules. The need for long-lasting 
+cytokine exposure was not restricted to B lymphoma cells because 
+we observed a similar requirement for PD-L1 in melanoma cells 
+(Fig. 5e). Altogether, these results suggested that sustained exposure 
+to IFN-γ is needed to drive phenotypic changes in tumor cells, 
+including MHC class I and PD-L1 upregulation. Our transcriptomic 
+analysis also revealed a strong enrichment of interferon regulatory 
+factor 8 (IRF8) and STAT1 motifs and that the expression of both 
+transcription factors, IRF8 and STAT1, increased in response to 
+IFN-γ (Fig. 5f). This raises the possibility that a two-step signaling 
+activation, in which STAT1 and IRF8 upregulation by IFN-γ subse- 
+quently amplifies the cellular response to this cytokine, accounts 
+for the requirement for sustained cytokine exposure.
+
+Similarly, when repeating the analysis with intratumoral neutro- 
+phils, we observed an IFN-γ signature that correlated with the fre- 
+quency of IFN-γ-producing T cells (Fig. 6c,f). These data suggest that, 
+as observed in our mouse models, IFN-γ signals in multiple cell 
+types of the tumor microenvironment. The observation that neu- 
+trophils, which are not typical tumor antigen-presenting cells, also 
+harbor the IFN-γ signature suggests that they have received IFN-γ 
+signals in a bystander fashion. 
+We also noted that, in patients with a high density of IFN-γ- 
+producing T cells, the distribution of the IFN-γ signature on mono- 
+cytes and neutrophils appeared unimodally shifted toward higher 
+values (Fig. 6g). This observation is compatible with relatively uni- 
+form IFN-γ activity in the tumor, which was also observed in head 
+and neck squamous cell carcinoma (HNSCC) patients, as analyzed 
+by single-cell RNA-seq in tumor cells (see Extended data Fig. 10). 
+Future studies assessing the spatial distribution of IFN-γ-responsive 
+genes in relation to T cell infiltration will help refine our under- 
+standing of cytokine propagation and signaling in human tumors.
+
+Discussion
+In this present study, we established the spatiotemporal dynamics 
+of intratumoral T cell-derived IFN-γ in models of B cell lymphoma 
+and melanoma. We provided evidence that the collective activity of 
+intratumoral T cells, together with cytokine diffusion, drives a tumor- 
+wide response. Moreover, the formation of a sustained field of 
+IFN-γ was required to alter tumor cell phenotype. 
+The range of cytokine activity is dependent on the production 
+rates and levels, diffusion and consumption by other cells7. Our 
+results support the idea that T cell production of IFN-γ generates 
+a widespread cytokine field sensed by most tumor cells and immune 
+cells present in the lesion. This is consistent with the observation 
+that the IFN-γ signature is not restricted to antigen-presenting cells 
+(‘non-treated melanoma patients’). Overall, the number of tumor 
+T cells were the major source of IFN-γ. We also found that the 
+distribution of IFN-γ mRNA molecules were specific to these cells (Fig. 6a). 
+We decided to investigate the impact of IFN-γ production on the 
+tumor microenvironment by focusing on the monocyte/macro- 
+phage population as a sensor of intratumoral IFN-γ. Of note, the 
+low number of tumor cells present in the samples precluded us from 
+performing the same analysis on these cells. By performing over- 
+disperson analysis8, we identified the monocyte as a pathway9 (as 
+in Extended data Fig. 9) specifically enriched in IFN-γ-responsive 
+genes (Fig. 6b). Remarkably, the mean IFN-γ signature in mono- 
+cytes/macrophages significantly correlated (R2 = 0.91, P = 0.001; 
+Fig. 6c) with the frequency of IFN-γ-producing CD8+ T cells.
+
+Fig. 4 | T cells mediate widespread and sustained STAT1 activity in the tumor microenvironment. a,b, Male Eμ-myc B lymphoma cells were transduced 
+to express a STAT1–GFP reporter and a nuclear mCherry protein. STAT1 activity is measured on Eμ-myc B cells cultured in the absence or presence of 
+recombinant IFN-γ. a, Images and graphs depict the quantification of STAT1–GFP (yellow) and nuclear mCherry (red) fluorescence intensity across 
+the indicated lines for a representative cell before (top) and after (bottom) IFN-γ exposure. Scale bar, 5 μm. b, Translocation score was computed 
+automatically for cells before or after IFN-γ exposure. Each dot represents one cell (unstimulated n = 106 cells; IFN-γ n = 135 cells; ***P < 0.001, two-sided 
+Tukey’s range test; error bars indicate mean ± s.d.). c–e, Recipient female Rag2−/−gc−/− mice were injected with H2-K1+ Eμ-myc B lymphoma cells expressing the 
+STAT1–GFP reporter and a nuclear mCherry protein. After 3 weeks, activated CD8+ T cells bearing the anti-HY MataHari TCR were injected i.v. After 3 d, 
+recipients were subjected to intravital imaging of the bone marrow. c,e, Detection of nuclear STAT1–GFP in T cell-infiltrated tumors. c, Representative 
+two-photon images (scale bar, 20 μm), highlighting the precise regions (insets, scale bar, 10 μm) of the tumor in mice either transferred or not 
+transferred with MataHari T cells. d, Quantification of STAT1–GFP (yellow) and nuclear mCherry (red) fluorescence intensity across the indicated line for a 
+representative tumor cell in mice either left untreated (top) or transferred with MataHari T cells (bottom). Scale bar, 5 μm. e, The translocation score was 
+computed automatically from two-photon images obtained in mice left untreated (n = 60 T cells) or transferred with MataHari T cells. Each dot represents one 
+tumor cell (n = 60 T cells) (n = 25 cells). MataHari T cells n = 115 cells; ***P < 0.001, two-sided Tukey’s range test; error bars indicate mean ± s.d.). 
+f, STAT1 translocation in tumor cells is largely independent of the distance to the nearest T cells. The translocation score is graphed for each tumor cell as a 
+function of the calculated distance to the nearest T cell. Each dot represents one cell (n = 115 cells; R represents Pearson’s correlation coefficient; statistical 
+significance was assessed using Fisher’s test). g, STAT1–GFP translocation is sustained in vivo. Representative time-lapse images show the maintenance of 
+STAT1–GFP translocation during the imaging period. Scale bar, 5 μm. Data shown in b–e represent two independent experiments with three mice per group 
+in each experiment.
+
+NATURE CANCER www.nature.com/natcancer
+```

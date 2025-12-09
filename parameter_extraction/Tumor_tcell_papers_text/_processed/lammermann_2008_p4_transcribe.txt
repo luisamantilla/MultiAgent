@@ -1,0 +1,108 @@
+```plaintext
+ARTICLES                                                                                                      NATURE|Vol 453|1 May 2008
+
+(Fig. 4b–e, Supplementary Fig. 8b–d, Supplementary Video 9). This 
+functional dissociation between front and back caused up to 30-fold 
+cell elongation, and demonstrates that the leading edge migrates 
+autonomously and without a need for receptor-mediated coupling 
+of contractile forces to the extracellular matrix.
+
+Trailing edge contraction propels the nucleus
+How does trailing edge contraction contribute to cell body loco-
+motion? In fibroblasts and leukocytes moving on 2D substrates, 
+actomyosin contraction at the back is required to disassemble recep-
+tor binding-sites and subsequently retract the membrane21,22. 
+Hence, blocking contraction causes membrane tethers at the trailing 
+edge. Consistent with an adhesion-independent migration mode, we 
+could not observe membrane tethers in myosin II-inhibited leuko-
+cytes migrating in 3D gels. We considered that the elongated pheno-
+type with its rounded back was caused by the inability to move an 
+
+internal resistance through narrow gaps within the gel. As the nucleus 
+is the least elastic cellular compartment23, we visualized DNA within 
+chemotaxing DCs and granulocytes. In untreated cells, we observed 
+continuous shape changes of nuclei, indicating deformation forces, 
+while upon myosin II inhibition, spherical nuclei were immobilized 
+at the rear ends of the cells (Figs 4d, e, Supplementary Fig. 8b–d, 
+Supplementary Videos 10, 11).
+
+Protrusion drives basal locomotion
+Although ‘locked’ nuclei caused migration arrest in most cells, a few 
+still showed locomotion. This residual migration was often charac-
+terized by cell body elongation and dragging of the nucleus (Fig. 5a, 
+Supplementary Video 12). Such non-contractile movement was in 
+line with our previous observations showing motile phases in the 
+absence of trailing edge contractions. We hypothesized that such 
+myosin II-independent migration might occur in areas of the col-
+lagen gel where external resistance was low due to increased spacing 
+of the collagen fibres. To establish the relationship between internal 
+contractile forces and external resistance, we analysed DC chemotaxis 
+in collagen gels of varying fibre spacing (Fig. 5b). In all collagen 
+densities, myosin II-inhibited DCs were slower than untreated cells 
+but importantly, they ‘caught up’ at lowest gel densities (Fig. 5b, 
+Supplementary Video 13). A comparison of instantaneous velocities 
+further showed that myosin II inhibition did not prevent DCs from 
+reaching the same peak values as untreated cells (Supplementary 
+Fig. 9a–c).
+
+We conclude that, in contrast to the ‘blebbing’ model of amoeboid 
+cell migration24, cortical actomyosin contraction does not mediate 
+locomotion itself but rather facilitates a protrusive mode of migra-
+tion in confined environments where protrusion alone is unable to 
+overcome external resistance. This protrusive movement is driven 
+by actin polymerization at the leading edge and is independent of 
+density by contraction (myosin II). Contractile force deforms the 
+nucleus and facilitates a purely protrusive mode of migration.
+
+To challenge the concept of protrusive movement, we treated 
+migrating DCs with latrunculin B, which interferes with actin poly-
+merization by depolymerizing the pool of available G-actin 
+monomers25. We found that this treatment reduced cell migration 
+velocity in a dose-dependent manner (Fig. 5c). At intermediate con-
+centrations, the trailing edge remained fixed while the nucleus 
+was ‘pushed’ to the cell front (Fig. 5d, Supplementary Video 14). 
+Consistent with a model where protrusion determines the speed of 
+cell migration while contraction is only activated to overcome 
+external resistances, the speed reduction of latrunculin B-treated cells 
+was independent of gel density (Fig. 5b, c).
+
+Discussion
+We show that leukocytes migrate in the absence of specific adhesive 
+interactions with the extracellular environment. This subversion of 
+the metazoan principle makes them autonomous from the tissue 
+context, and allows them to quickly and flexibly navigate through 
+any organ without adaptations to alternating extracellular ligands. 
+This strategy is in stark contrast to the haptokinetic migration prin-
+ciple that leads along predefined pathways and therefore promotes 
+deterministic positioning. Adhesion independency bestows stochas-
+tic movement or chemotaxis where cells randomly migrate or fol-
+low soluble cues. Astonishingly, the protrusive flow of F-actin 
+appears sufficient to drive rapid leukocyte locomotion in environ-
+ments with large pore-size. This resembles the locomotion princi-
+ple of nematode sperm cells that is entirely driven by treadmilling 
+polymers of major sperm protein26. Only in narrow areas do leukocytes 
+activate their contractile module to squeeze and propel the internal 
+resistance of the nucleus in a manner resembling neuronal 
+nucleokinesis27. This ‘flowing and squeezing’ migration model 
+fulfils a central requirement for immune cell movement: the perice-
+llular environment is transiently remodelled but never digested28 or 
+
+Figure 5 | Myosin II-independent protrusive migration of dendritic cells. 
+a, Two types of residual migration of wild-type (WT) dendritic cells (DCs) 
+treated with blebbistatin in a standard 3D collagen gel. DCs either drag the 
+nucleus behind with elongated appearance and low speed (right column) or 
+appear morphologically normal with high speed (left column). Time in min. 
+b, Top panel, confocal reflection microscopy of 3D collagen networks of 
+different densities. Lower panels, velocities of single chemotaxing WT DCs 
+(black) in collagen gels with varying densities. Upper graph, no inhibitor; red 
+line, mean. Middle graph, blebbistatin; red line, median. Bottom graph, 
+100 nM latrunculin B (partial actin depolymerization); red line, median 
+c, Velocity of single WT DCs (dots) in the presence of different concentrations 
+of latrunculin B (1.6 mg ml21 collagen); red line, median. In b and c, *P < 0.05 
+(post hoc). d, Time-lapse sequence of a 100 nM latrunculin B-treated WT DC; 
+DIC microscopy, nuclei (green). Time, mins. Blue boxes (b in and b) highlight 
+experimental conditions that were used for follow-up experiments indicated 
+by the arrow. Scale bars: 10 mm (a, d), 50 mm (b).
+
+54                                                                                      ©2008 Nature Publishing Group
+```

@@ -1,0 +1,43 @@
+PLOS PATHOGENS
+
+Generate exhausted CD8+ T cells in vitro
+
+13. Barber DL, Wherry EJ, Masopust D, Zhu B, Allison JP, Sharpe AH, et al. Restoring function in exhausted CD8 T cells during chronic viral infection. Nature. 2006; 439(7077):682–7. https://doi.org/10.1038/nature04444 PMID: 16382236
+
+14. Attanasio J, Wherry EJ. Costimulatory and Coinhibitory Receptor Pathways in Infectious Disease. Immunity. 2016; 44(5):1052–68. https://doi.org/10.1016/j.immuni.2016.04.022 PMID: 27192569
+
+15. Jin HT, Anderson AC, Tan WG, West EE, Ha SJ, Araki K, et al. Cooperation of Tim-3 and PD-1 in CD8 T-cell exhaustion during chronic viral infection. Proceedings of the National Academy of Sciences of the United States of America. 2010; 107(33):14733–8. https://doi.org/10.1073/pnas.1009731107 PMID: 20679213
+
+16. Johnston RJ, Comps-Agrar L, Hackney J, Yu X, Huseni M, Yang Y, et al. The immunoreceptor TIGIT regulates antitumor and antiviral CD8(+) T cell effector function. Cancer cell. 2014; 26(6):923–37. https://doi.org/10.1016/j.ccell.2014.10.018 PMID: 25465803
+
+17. Blackburn SD, Shin H, Haining WN, Zou T, Workman CJ, Polley A, et al. Coregulation of CD8+ T cell exhaustion by multiple inhibitory receptors during chronic viral infection. Nature immunology. 2009; 10 (1):29–37. https://doi.org/10.1038/ni.1679 PMID: 19043418
+
+18. Youngblood B, Noto A, Porichis F, Akondy RS, Ndhlovu ZM, Austin JW, et al. Cutting edge: Prolonged exposure to HIV reinforces a poised epigenetic program for PD-1 expression in virus-specific CD8 T cells. Journal of immunology. 2013; 191(2):540–4.
+
+19. Pauken KE, Sammons MA, Odorizzi PM, Manne S, Godec J, Khan O, et al. Epigenetic stability of exhausted T cells limits durability of reinvigoration by PD-1 blockade. Science. 2016; 354(6316):1160– 5. https://doi.org/10.1126/science.aaf2807 PMID: 27897995
+
+20. Sen DR, Kaminski J, Barnitz RA, Kurachi M, Gerdemann U, Yates KB, et al. The epigenetic landscape of T cell exhaustion. Science. 2016; 354(6316):1165–9. https://doi.org/10.1126/science.aae0491 PMID: 27897989
+
+21. Im SJ, Hashimoto M, Gerner MY, Lee J, Kissick HT, Burger MC, et al. Defining CD8+ T cells that provide the proliferative burst after PD-1 therapy. Nature. 2016; 537(7620):417–21. https://doi.org/10. 1038/nature19330 PMID: 27501248
+
+22. Snell LM, MacLeod BL, Law JC, Osokine I, Elsaesser HJ, Hezaveh K, et al. CD8(+) T Cell Priming in Established Chronic Viral Infection Preferentially Directs Differentiation of Short-Lived Effector T Cells. Journal of immunology. 2018; 49(4):678–94 e5. https://doi.org/10.1016/j.immuni.2018.08.002 PMID: 30314757
+
+23. Alfei F, Kanev K, Hofmann M, Wu M, Ghoneim HE, Roelli P, et al. TOX reinforces the phenotype and longevity of exhausted T cells in chronic viral infection. Nature. 2019.
+
+24. Khan O, Giles JR, McDonald S, Manne S, Ngiow SF, Patel KP, et al. TOX transcriptionally and epigenetically programs CD8(+) T cell exhaustion. Nature. 2019; 571(7764):211–8. https://doi.org/10.1038/ s41586-019-1325-x PMID: 31207603
+
+25. Scott AC, Dundar F, Zumbo P, Chandran SS, Klebanoff CA, Shakiba M, et al. TOX is a critical regulator of tumour-specific T cell differentiation. Nature. 2019; 571(7764):270–4. https://doi.org/10.1038/ s41586-019-1324-y PMID: 31207604
+
+26. Yao C, Sun HW, Lacey NE, Ji Y, Moseman EA, Shih HY, et al. Single-cell RNA-seq reveals TOX as a key regulator of CD8(+) T cell persistence in chronic infection. Nature immunology. 2019; 20(7):890– 901. https://doi.org/10.1038/s41590-019-0403-4 PMID: 31209400
+
+27. Seo H, Chen J, Gonzalez-Avalos E, Samaniego-Castruita D, Das A, Wang YH, et al. TOX and TOX2 transcription factors cooperate with NR4A transcription factors to impose CD8(+) T cell exhaustion. Proceedings of the National Academy of Sciences of the United States of America. 2019; 116(25):12410– 5. https://doi.org/10.1073/pnas.1905675116 PMID: 31152140
+
+28. Man K, Gabriel SS, Liao Y, Gloury R, Preston S, Henstridge DC, et al. Transcription Factor IRF4 Promotes CD8(+) T Cell Exhaustion and Limits the Development of Memory-like T Cells during Chronic Infection. Immunity. 2017; 47(6):1129–41 e5. https://doi.org/10.1016/j.immuni.2017.11.021 PMID: 29246443
+
+29. Chen J, Lopez-Moyado IF, Seo H, Lio CJ, Hempleman LJ, Sekiya T, et al. NR4A transcription factors limit CAR T cell function in solid tumors. Nature. 2019; 567(7749):530–4. https://doi.org/10.1038/ s41586-019-0985-x PMID: 30814732
+
+30. Quigley M, Pereyra F, Nilsson B, Porichis F, Fonseca C, Eichbaum Q, et al. Transcriptional analysis of HIV-specific CD8+ T cells shows that PD-1 inhibits T cell function by upregulating BATF. Nat Med. 2010; 16(10):1147–51. https://doi.org/10.1038/nm.2232 PMID: 20890291
+
+31. Kao C, Oestreich KJ, Paley MA, Crawford A, Angelosanto JM, Ali MA, et al. Transcription factor T-bet represses expression of the inhibitory receptor PD-1 and sustains virus-specific CD8+ T cell responses during chronic infection. Nature immunology. 2011; 12(7):663–71. https://doi.org/10.1038/ni.2036 PMID: 21623380
+
+PLOS Pathogens | https://doi.org/10.1371/journal.ppat.1008555 June 24, 2020 25 / 27

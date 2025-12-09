@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and values from the text:\n\n1. **Timepoints for IL-2 administration and imaging:**\n   - 0 h\n   - 16 h\n   - 24 h\n   - 32 h\n   - 40 h\n   - 48 h\n   - 72 h\n   - 120 h\n\n2. **Tumor cell injection:**\n   - 14 days after initial setup\n   - 8 × 10^5 cells total\n\n3. **Tumor cell composition:**\n   - 10% GFP+Ag+ tumor cells\n   - 90% CFP+ IGS reporter bystander tumor cells\n\n4. **Percentage of Katushka+ IGS cells over time:**\n   - Timepoints: 0, 16, 24, 32, 40, 48, 72, 120 hours\n\n5. **Number of mice used in experiments:**\n   - n = 5 mice for timepoints 0, 16, 24, and 32 hours\n   - n = 4 mice for timepoints 40, 48, and 72 hours\n   - n = 3 mice for timepoint 120 hours"
+}

@@ -1,0 +1,109 @@
+```plaintext
+ARTICLES
+
+Figure 6 Programmed TCR downregulation
+controls CD4+ T cell cytokine production.
+(a,b) Flow cytometry analyzing the TCRβ
+expression of C7 or C24 T cells or endogenous
+(CD90.1-) CD4+ T cells among splenocytes from
+mice given 1 × 106 CD90.1+ C7 or C24 T11
+cells that had been activated in vitro for 4 d,
+assessed on day 7 or 13 after activation
+(above plots) (results normalized to the
+mode) (a), and aggregate data obtained as
+in a, presented relative to results obtained
+for endogenous CD4+ T cells (b). (c,d) Flow
+cytometry analyzing the expression of IFN-γ
+by splenic C7 and C24 T11 cells obtained
+from the recipient mice in a, on day 7 or 13 after
+activation, then restimulated with ESAT6(1–20)
+peptide or PMA plus ionomycin (P+I), and
+aggregate data obtained as in c, presented
+relative to results obtained for cells stimulated
+with PMA plus ionomycin (d). Numbers in
+outlined areas (c) indicate percent IFN-γ+ cells
+(top) or IFN-γ+ cells (bottom). (e) Pearson
+correlation of TCRβ expression (presented relative to results obtained for endogenous CD4+ T cells) and TCR-dependent production of IFN-γ (presented
+relative to results obtained for cells stimulated with PMA plus ionomycin) by C7 and C24 T11 cells as in a, (r = 0.98). Each symbol (b,d,e) represents
+an individual mouse. Horizontal lines indicate the geometric mean. NS, not significant (P > 0.05); *P = 0.003 and **P < 0.001 (unpaired two-
+tailed Student’s t test). Data are from one experiment representative of two independent experiments.
+
+the downregulation during acute infection with L. monocytogenes
+(Supplementary Fig. 5). Furthermore, endogenous M. tuberculosis–
+specific CD4+ T cells also displayed downregulation of TCR expression,
+which was not affected by the ESAT6(1–20) tetramer displayed lower
+TCR expression than cells that bound the tetramer and the tetramer
+confounded by TCR downregulation. Together these data established
+that activated CD4+ T cells displayed a program of persistent down-
+regulation of TCR expression that was initiated at the peak of clonal
+expansion and resulted in a repertoire with graded TCR expression,
+which C7 T cells and C24 T cells represented an average example
+and an extreme example, respectively.
+
+Programmed TCR downregulation linked to TCRβ degradation
+Given that the α- and β-chains of C7 and C24 TCRs were driven by
+a constitutive promoter, we hypothesized that the downregulation
+of TCR expression was regulated by other components of the TCR
+complex. Activated C24 T cells with almost completely absent surface
+TCR expression had attenuated transcription of the TCR complex
+components CD3γ, CD3δ, CD3ε and TCRζ (Supplementary Fig. 6),
+which suggested that downregulation of the TCR was mediated via
+post-transcriptional mechanisms. Assembly of the TCR complex is
+generally limited by the availability of TCRζ33, and transient downregu-
+lation of TCR surface expression can be mediated via degradation of
+TCRζ34–36. This prompted us to investigate the expression of TCRζ
+protein in CD4+ T cells activated by L. monocytogenes as before,
+C7 and C24 T cells, as well as endogenous activated CD4+ T cells,
+displayed graded and persistent downregulation of TCR expression,
+starting at the peak of clonal expansion (Fig. 5a–d). Notably, total
+expression of TCRζ demonstrated a pattern of downregulation mark-
+edly similar to that of surface expression of TCRβ (Fig. 5e), which
+suggested that programmed TCR downregulation was mediated via
+degradation of TCRζ.
+
+Programmed TCR downregulation controls antigen reactivity
+TCR expression is critical for an efficient response to antigenic
+stimulation37–39. To investigate to what extent programmed
+
+TCR downregulation influences the antigen reactivity of activated
+T cells, we transferred C7 or C24 T11 cells into uninfected
+mice. This generated a setting in which both T11 clones had high
+TCR expression initially (day 7 after activation), whereas later
+(on day 13), TCR expression was downregulated on C7 T11 cells
+but low on C24 T11 cells (Fig. 6a,b). To functionally test the
+consequences of programmed TCR downregulation, we restimu-
+lated the cells with ESAT6(1–20) peptide, to investigate
+the TCR-dependent and -independent cytokine production. As a
+control, we incubated the same cells with the phorbol ester PMA
+plus ionomycin, which allows measurement of the TCR-independent
+capacity for cytokine production. On day 7, TCR-dependent
+production of interferon-γ (IFN-γ) by C7 and C24 T11 cells was
+equal to their TCR-independent production of IFN-γ (Fig. 6c,d),
+which indicated that when TCR expression was high, the antigen
+reactivity of both clones was similar. In contrast, on day 13, the
+TCR-dependent production of IFN-γ by C7 T11 cells was interme-
+diate and that of C24 T11 cells was low, which resulted in a very
+strong correlation between TCR expression and TCR-dependent
+production of IFN-γ (Fig. 6c–e). Notably, the TCR-independent
+production of IFN-γ by both clones was very high on day 13
+(Fig. 6c), which indicated that following TCR downregulation,
+the T cells continued to have a large intrinsic capacity to produce
+cytokines; however, their cytokine production in response to antigen
+was drastically altered.
+
+Since programmed TCR downregulation was initiated at the
+peak of clonal expansion and persisted for at least 50 d, we reasoned this
+might have a substantial effect on participation in secondary immune
+responses. To address this, we infected recipients of naive C7 or C24
+T cells with L. monocytogenes–ESAT6 and rechallenged these mice 1
+month later. As before, the primary clonal expansion of C7 and C24
+T cells was similar, and TCR expression on both clones was initially
+high, whereas by day 27, it was intermediate on C7 T cells and very
+low on C24 T cells (Fig. 7). Strikingly, rechallenge on day 28 resulted
+in an increase in the frequency of C7 T cells of >500% by day 33,
+whereas there was a decrease of 50% in the frequency of C24 T cells,
+which indicated that these cells were not able to participate in the
+secondary response.
+
+NATURE IMMUNOLOGY ADVANCE ONLINE PUBLICATION 5
+```

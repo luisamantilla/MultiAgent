@@ -1,0 +1,35 @@
+```
+A
+
+B
+
+C
+
+D
+
+Fig. 2. Preformed cytokine mRNA promotes early T cell responsiveness. (A) Heatmap of the relative expression (Z scores) of Tnfa, Ifng, and Il2 mRNA (ref. 24; GSE70813). (B) Tnfa, Ifng, and Il2 mRNA levels of CD8+ CD44low naive T cells and CD8+ CD44hi memory-like T cells (n = 10 mice) (paired Student’s t test; **P < 0.005; ****P = 0.0001). (C) Relative percentage of TNF-α+, IFN-γ+, and IL-2 producing CD8+ CD44hi T cells pretreated with 1 μg/mL ActD or 10 μg/mL CHX for 30 min before a 1 h stimulation with OVA peptide (n = 6 mice). (D) Cytokine production of EM and CM T cells from LCMV-infected mice pretreated with ActD before a 2 h GP33 and NP396 peptide stimulation. Representative of five mice from two independently performed experiments.
+
+Fig. S4 A and B). Intriguingly, however, PKC and Ca2+ signaling differentially contributed to the individual cytokine production. Ionomycin only marginally supported TNF-α, while IFN-γ largely depended on Ca2+ signaling. In sharp contrast, PMA stimulation alone had limited effects on IFN-γ, but greatly promoted TNF-α production (Fig. 4A and Fig. S4A). This finding was confirmed with PKC and calcineurin inhibitors in PMA/ionomycin-stimulated and antigen-stimulated T cells (Fig. 4 B and C). This indicates that PKC and Ca2+ signaling have divergent roles for cytokine production also when all TCR-mediated signaling nodes are present (Fig. 4C and Fig. S4D).
+
+Strikingly, cytokine production did not necessarily correlate with mRNA levels. PMA alone induced substantial production of TNF-α protein in effector and CD44hi memory-like T cells (Fig. 4 A and D and Fig. S4A), but this did not correspond with significant changes in Tnfa mRNA (Fig. 4D and Fig. S4E). Increases of transcript levels became apparent only upon combined PMA/ionomycin activation (Fig. 4D). In contrast, Ifng mRNA already increased upon single stimulation with ionomycin and was further boosted by the combination of PMA/ionomycin (Fig. 4E and Fig. S4E). Thus, Ifng but not Tnfa transcript levels match with the protein levels.
+
+We next questioned how PKC and Ca2+ signaling influenced the translation efficiency of Tnfa and Ifng mRNA. We fractionated polysomes from cytoplasmic extracts of activated T cells by sucrose gradient centrifugation, and determined the distribution of Tnfa and Ifng transcripts between free and polysome-bound fractions of increasing density (Fig. 4 G and H and Fig. S4F). A large fraction of Tnfa mRNA remained as free-mRNA upon T cell activation with ionomycin alone (Fig. 4G). PMA activation, however, shifted Tnfa from free-mRNA toward polysome-bound fractions. These findings are fully compatible with the capacity of PKC to phosphorylate 4E-BP1 (Fig. 3E) and to produce TNF-α protein (Fig. 4 A–D). Combined PMA/ionomycin activation resulted in further shifts of Tnfa mRNA from light to heavy polysomes (Fig. 4G), indicating that Ca2+ signaling—although not sufficient to initiate Tnfa translation—can contribute to protein production by increasing Tnfa mRNA levels, and by enhancing polysomal recruitment.
+
+In contrast to Tnfa, we found Ifng already in polysomes in ionomycin-activated cells (Fig. 4H). PMA stimulation, however, was more effective at evoking high-density ribosome loading of Ifng mRNA (Fig. 4H). Because ionomycin also induced de novo transcription of Ifng (Fig. 4E and Fig. S4E), we postulate that newly synthesized Ifng mRNA is immediately engaged by ribosomes, resulting in the observed protein production.
+
+IL-2 production required both PMA and ionomycin stimulation for measurable increases of mRNA levels and cytokine production (Fig. 4 A and F). As with Ifng mRNA, Il2 mRNA always associated with polysomes, which was further enhanced by combined PMA/ionomycin stimulation (Fig. 4F). Nevertheless, Il2 mRNA levels at ionomycin activation alone are possibly too low to allow for detectable protein production (Fig. 4 A and F). Thus, IL-2 requires both PKC and Ca2+ signaling for detectable protein levels.
+
+Signal Strength Dictates Protein Production in a Cytokine-Specific Manner. The levels of cytokines produced by T cells depend on costimulatory signals, on the affinity, and the amount of antigen (30, 31). We stimulated T cells with low (0.1 nM), intermediate (1 nM), and high (100 nM) OVA peptide concentration to determine the effect on cytokine mRNA expression and protein levels. OVAlo/med did
+
+A
+
+B
+
+C
+
+D
+
+Fig. 3. PKC signaling promotes translation initiation. (A and B) 4E-BP1 expression in resting and OVA peptide-stimulated T cells (A), and in OVA-stimulated T cells pretreated for 30 min with rapamycin (B), (C and D) pmTOR and pS6 levels 30 min after T cell activation with OVA peptide (C), or with PMA/ionomycin (D). Indicated inhibitors were added 30 min before T cell activation. (E) 4E-BP1 expression of PMA/ionomycin activated T cells that were pretreated or not with indicated inhibitors. Representative of two independently performed experiments (A, B, and E) and 10 mice from three experiments (C and D).
+
+Salerno et al. PNAS Early Edition | 3 of 6
+```

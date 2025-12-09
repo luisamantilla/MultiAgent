@@ -1,0 +1,77 @@
+```plaintext
+rIFN-γ IN CANCER PATIENTS
+
+The effect of i.m. and i.v. bolus administration of rIFN-γ on 
+absolute granulocyte counts is shown in Chart 4. Minimal effects 
+were observed after i.v. bolus rIFN-γ regardless of the dose 
+level. In contrast, a substantial decrease in absolute granulocyte 
+counts was seen starting at rIFN-γ doses of 0.05 mg/sq m given 
+by the i.m. route. However, increasing the dose level did not 
+significantly increase the degree of granulocytopenia, with a 
+median decrement in granulocytes of 30% at a dose of 0.05 mg/ 
+sq m and 37% at 2.5 mg/sq m. The lowest granulocyte counts 
+were generally reached at 24 h, and recovery to base line 
+occurred within 48 to 72 h after i.m. injection. Lymphocyte and 
+platelet counts were unaffected by treatment. Hematocrit values 
+showed a median drop of 7% over the 4-week study period, 
+which was most likely due to phlebotomy requirements. Liver 
+and renal function tests remained unchanged throughout the 
+study except for a moderate increase in serum glutamic oxal- 
+oacetic transaminase to 229 units/ml in one patient which oc- 
+curred in association with radiologically documented infarction 
+of hepatic metastases. This value returned to normal 2 weeks 
+after discontinuation of rIFN-γ. Antibodies against rIFN-γ were 
+not detected in any patient.
+
+Two of 10 patients in this study showed objective evidence of 
+tumor regression. One patient with nodular poorly differentiated 
+lymphocytic lymphoma achieved a minor response with disap- 
+pearance of peripheral adenopathy, a <50% decrease in retro- 
+peritoneal adenopathy, and a decrease in lymphocytic infiltrate 
+of the bone marrow from 32 to 18%. The other patient who had 
+metastatic sarcoma previously treated with multiple chemother- 
+apeutic agents, including an Adriamycin-containing regimen and 
+4 investigational agents, achieved a complete regression 
+of lung nodules. After treatment was interrupted for approxi- 
+mately 3 weeks, the patient's disease progressed in spite of 
+reinitiation of therapy.
+
+DISCUSSION
+
+IFN-γ is a T-cell-derived lymphokine with the ability to function 
+as a differentiation factor, an antiviral agent, an antiproliferative 
+agent, an immune regulator with potent macrophage-activating 
+effects, and as an antimicrobial agent against intracellular pro- 
+tozoa and bacteria (14, 16-18, 26-28). This unusually broad 
+spectrum of biological activities suggests a potential therapeutic 
+role for this material in patients with cancer, viral diseases, and 
+opportunistic infections. To date, reported clinical studies of IFN- 
+γ have been limited to preliminary pharmacokinetic evaluation of 
+native IFN-γ which was available in limited amounts and was 
+only approximately 40% pure (20, 21). However, recently, syn- 
+thesis of human IFN-γ in E. coli using recombinant DNA tech- 
+nology has been achieved (22). In contrast to the α-interferons 
+which have at least 12 different genetic loci (29), there appears 
+to be only one gene coding for human IFN-γ (30). The material 
+used in this study was genetically engineered to have 143 amino 
+acids, identical in sequence to native IFN-γ except for a methi- 
+onine residue at the N-terminal (23). Preclinical testing has dem- 
+onstrated that synthetic IFN-γ is biologically active. The major 
+aims of this study were to ascertain the pharmacokinetics, single- 
+dose tolerance, and biological effects of rIFN-γ in patients with 
+disseminated cancer.
+
+The pharmacological parameters of rIFN-γ when measured by 
+ELISA and by bioassay after i.v. bolus administration were similar 
+
+Chart 3. Serum disappearance of rIFN-γ after i.m. administration as measured 
+by ELISA. Points, mean of blood levels for each dose for all patients at that dose; 
+bars, SE.
+
+Chart 4. Granulocyte counts after i.m. and i.v. bolus administration of rIFN-γ. 
+Columns, median of the granulocyte count observed 24 h after injection of inter- 
+feron, expressed as a percentage of the base-line counts; bars, range.
+
+CANCER RESEARCH VOL. 45 JUNE 1985
+2869
+```

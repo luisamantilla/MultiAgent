@@ -1,0 +1,92 @@
+```plaintext
+140. Gaide O, Emerson RO, Jiang X, Gulati N, Nizza S, Desmarais C, et al.
+Common clonal origin of central and resident memory T cells following skin
+immunization. Nat Med (2015) 21(6):647–53. doi:10.1038/nm.3860
+
+141. Zaid A, Mackay LK, Rahimpour A, Braun A, Veldhoen M, Carbone FR,
+et al. Persistence of skin-resident memory T cells within an epidermal
+niche. Proc Natl Acad Sci U S A (2014) 111(14):5307–12. doi:10.1073/pnas.
+1322292111
+
+142. Wakim LM, Waithman J, van Rooijen N, Heath WR, Carbone FR. Dendritic
+cell-induced memory T cell activation in nonlymphoid tissues. Science
+(2008) 319(5860):198–202. doi:10.1126/science.1151869
+
+143. Cuburu N, Graham BS, Buck CB, Kines RC, Pang YY, Day PM, et al.
+Intravaginal immunization with HPV vectors induces tissue-resident
+CD8+ T cell responses. J Clin Invest (2012) 122(12):4606–20. doi:10.1172/
+JCI63287
+
+144. Sigmundsdottir H, Butcher EC. Environmental cues, dendritic cells and
+the programming of tissue-selective lymphocyte trafficking. Nat Immunol
+(2008) 9(9):981–7. doi:10.1038/ni.f.208
+
+145. Mackay CR. Chemokine receptors and T cell chemotaxis. J Exp Med
+(1996) 184(3):799–802. doi:10.1084/jem.184.3.799
+
+146. Lehtimaki S, Savinko T, Lahl K, Sparwasser T, Wolff H, Lauerma A, et al.
+The temporal and spatial dynamics of Foxp3+ Treg cell-mediated suppres-
+sion during contact hypersensitivity responses in a murine model. J Invest
+Dermatol (2012) 132(12):2744–51. doi:10.1038/jid.2012.212
+
+147. Honda T, Otsuka A, Tanizaki H, Minegaki Y, Nagao K, Waldmann H, et al.
+Enhanced murine contact hypersensitivity by depletion of endogenous reg-
+ulatory T cells in the sensitization phase. J Dermatol Sci (2011) 61(2):144–7.
+doi:10.1016/j.jdermsci.2010.11.001
+
+148. Dubois B, Chapat L, Allez M, Papiernik M, Nicolas JF, Kaiserlian D. Innate
+CD4+CD25+ regulatory T cells are required for oral tolerance and inhibition
+of CD4+ Th1 response, whereas induced regulatory T cells control Th2
+responses by different mechanisms. J Immunol (2003) 171(1):32–8.
+doi:10.4049/jimmunol.171.1.32
+
+149. Tang Q, Adams JY, Tooley AJ, Bi M, Fife BT, Serra P, et al. Visualizing regula-
+tory T cell control of autoimmune responses in nonobese diabetic mice. Nat
+Immunol (2006) 7(1):83–92. doi:10.1038/ni1289
+
+150. Kish DD, Gorbachev AV, Fairchild RL. CD8+ T cells produce IL-2, which is
+required for CD(4+)CD25+ T cell regulation of effector CD8+ T cell
+development for contact hypersensitivity responses. J Leukoc Biol (2005)
+78(3):725–35. doi:10.1189/jlb.0205069
+
+151. Huang MT, Lin BR, Liu WL, Lu CW, Chiang BL. Lymph node trafficking
+of regulatory T cells is prerequisite for immune suppression. J Leukoc Biol
+(2016) 99(4):561–8. doi:10.1189/jlb.3A0815-384R
+
+152. Gomez D, Diehl MC, Crosby EJ, Weinkopff T, Debes GF. Effector T cell egress
+via afferent lymph modulates local tissue inflammation. J Immunol (2015)
+195(8):3531–6. doi:10.4049/jimmunol.1500626
+
+153. McNamee EN, Masterson JC, Veny M, Collins CB, Jedlicka P, Byrne FR, et al.
+Chemokine receptor CCR7 regulates the intestinal Th17/Treg balance during
+Crohn’s-like murine ileitis. J Leukoc Biol (2015) 97(6):1011–22.
+doi:10.1189/jlb.3HI0414-308R
+
+154. Stephens R, Randolph DA, Huang G, Holtzman MJ, Chaplin DD. Antigen-
+nonspecific recruitment of Th2 cells to the lung as a mechanism for viral
+infection-induced allergic asthma. J Immunol (2002) 169(10):5458–67.
+doi:10.4049/jimmunol.169.10.5458
+
+155. Ely KH, Cauley LS, Roberts AD, Brennan JW, Cookenham T, Woodland DL.
+Nonspecific recruitment of memory CD8+ T cells to the lung airways during
+respiratory virus infections. J Immunol (2003) 170(3):1423–9. doi:10.4049/
+jimmunol.170.3.1423
+
+156. Jenrich S, Lee MH, Tuma RC, Debrunner K, Debes GF. Tissue exit: a novel
+control point in the accumulation of antigen-specific CD8 T cells in the
+inflamed lung of virus-infected mice. J Immunol (2016) 197(6):3346–55. doi:10.1128/
+JVI.07023-11
+
+Conflict of Interest Statement: The authors declare that the research was con-
+ducted in the absence of any commercial or financial relationships that could be
+construed as a potential conflict of interest.
+
+Copyright © 2016 Hunter, Teijaro and Vella. This is an open-access article distrib-
+uted under the terms of the Creative Commons Attribution License (CC BY). The
+use, distribution or reproduction in other forums is permitted, provided the original
+author(s) or licensor are credited and that the original publication in this journal
+is cited, in accordance with accepted academic practice. No use, distribution or
+reproduction is permitted which does not comply with these terms.
+
+Frontiers in Immunology | www.frontiersin.org 14 December 2016 | Volume 7 | Article 613
+```

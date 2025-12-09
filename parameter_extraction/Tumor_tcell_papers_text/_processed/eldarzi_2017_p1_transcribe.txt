@@ -1,0 +1,68 @@
+```
+Original Research Article
+
+Differential regulation of surface receptor 
+expression, proliferation, and apoptosis in 
+HaCaT cells stimulated with interferon-γ, 
+interleukin-4, tumor necrosis factor-α, or 
+muramyl dipeptide
+
+Emale El Darzi,¹ Samer Bazzi,² Sarah Daoud,¹ 
+Karim S Echtay¹ and Georges M Bahr¹
+
+Abstract
+Keratinocytes are routinely subjected to both internal and external stimulation. This study investigates the effects of 
+interferon gamma, interleukin-4, tumor necrosis factor alpha, and the synthetic immunomodulator muramyl dipeptide on 
+the human keratinocyte cell line, HaCaT. Following HaCaT stimulation with cytokines or muramyl dipeptide for different 
+time periods, changes in the expression of different cell surface receptors, cell proliferation, and cell apoptosis were 
+evaluated by flow cytometry, tritiated thymidine uptake, and annexin-V staining, respectively. A significant decrease in the 
+expression of CD49d was found upon treatment with interleukin-4. Interferon gamma and tumor necrosis factor alpha 
+increased the expression of intercellular adhesion molecule 1 and major histocompatibility complex class I, whereas 
+major histocompatibility complex class II and CD1b were only upregulated by interferon gamma. Interferon gamma and 
+tumor necrosis factor alpha had opposite effects regarding CD11b expression, with the former downregulating, while 
+the latter upregulating its expression. Of the stimuli tested, only interferon gamma and tumor necrosis factor alpha 
+significantly inhibited proliferation of HaCaT cells, yet only interferon gamma played a significant role in inducing HaCaT 
+cell apoptosis. Our data demonstrate differential effects of the three tested cytokines on keratinocytes and reveal that 
+the absence of HaCaT cell responses to muramyl dipeptide is associated with undetectable levels of its cytoplasmic 
+receptor, nucleotide-binding oligomerization domain–containing protein 2.
+
+Keywords
+apoptosis, CD molecules, cytokines, keratinocytes, muramyl dipeptide, surface receptors
+
+Date received: 26 January 2017; accepted: 6 April 2017
+
+Introduction
+Keratinocytes comprise 95% of the cells within the 
+epidermis. While once believed to function primari-
+ly as a passive barrier, it has now been established 
+that keratinocytes play an active and dynamic 
+role in the first line of defense of an organism. 
+Keratinocytes not only facilitate the immune 
+response through the production and secretion of 
+cytokines, chemokines, and host defense peptides
+
+International Journal of 
+Immunopathology and Pharmacology 
+1–16 
+© The Author(s) 2017 
+Reprints and permissions: 
+sagepub.co.uk/journalsPermissions.nav 
+DOI: 10.1177/0394632017707611 
+journals.sagepub.com/home/iji
+
+¹Department of Biomedical Sciences, Faculty of Medicine and Medical 
+Sciences, University of Balamand, Al Koura, Lebanon 
+²Department of Biology, Faculty of Sciences, University of Balamand, Al 
+Kurah, Lebanon
+
+Corresponding author:
+Georges M Bahr, Department of Biomedical Sciences, Faculty of 
+Medicine and Medical Sciences, University of Balamand, PO Box 33, 
+Amioun, Al-Koura, Lebanon. 
+Email: georges.bahr@balamand.edu.lb
+
+Creative Commons Non Commercial CC BY-NC: This article is distributed under the terms of the Creative Commons 
+Attribution-NonCommercial 4.0 License (http://www.creativecommons.org/licenses/by-nc/4.0/) which permits non-commercial 
+use, reproduction and distribution of the work without further permission provided the original work is attributed as specified on the SAGE and 
+Open Access pages (https://us.sagepub.com/en-us/nam/open-access-at-sage).
+```

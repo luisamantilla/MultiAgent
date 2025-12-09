@@ -1,0 +1,133 @@
+```plaintext
+biological knowledge and use global sensitivity analysis to study 
+how biological mechanisms affect simulation outputs.
+
+In sensitivity analysis, we determine the list of parameters 
+of interest and specify a range of values for each parameter 
+(electronic supplementary material, table S1). We use Latin hyper-
+cube sampling (LHS) [49] to generate the parameter value 
+combinations to achieve high accuracy with a smaller number of 
+samples. In this study, 5000 experiments are generated, with each 
+experiment simulated using one parameter combination from the 
+matrix, and replicated three times to reduce uncertainty from 
+inherent stochastic variations. Partial rank correlation coefficients 
+(PRCC) are calculated between all pairs of target model output 
+and parameters varied in the LHS in order to assess parameter 
+global sensitivity and detect monotonic relationship between 
+mechanisms and functionalities [50].
+
+3. Results
+
+3.1. Tumour development in the presence of adaptive 
+immune response
+
+We first attempted to establish a baseline scenario where a cancer 
+cell develops into a tumour with relatively stable size while inter-
+acting with T cells generated from an immune response induced 
+by cancer progression. Note that here we do not focus on the 
+effects of cancer stem and progenitor cells on tumour growth; 
+these issues are addressed by numerous computational studies, 
+e.g. [37,51]. In addition to the spatial distribution of different cell 
+types at a given time point (figure 2a), our model produces 
+output data of various forms for further evaluation and 
+interpretation. Global characteristics such as number of cells of 
+different subtypes (effector, active cytotoxic and suppressed T 
+cells, PDL1+, PDL1− cancer cells) are recorded (figure 2b). 
+After primed in the lymph node, tumour neoantigen-specific 
+naive T cells differentiate into effector T cells, which can be 
+recruited to tumour. These effector cells begin to exert their cyto-
+toxic activity upon recognizing their antigen target in the TME. 
+As shown in these figures, T cells start to arrive at the tumour site 
+around day 10, quickly accumulate while cancer cell prolifera-
+tion slows down from exponential growth. This is followed 
+by the appearance of PDL1+ cancer cells induced by the inflam-
+matory microenvironment. The number of effector T cells falls 
+after initial growth, leaving behind a mixture of actively cyto-
+toxic and suppressed T cells, and PDL1 positive and negative 
+cancer cells. Molecular scale data are recorded in both space 
+and time. In figure 2c, the concentrations of IL-2 at specified 
+time points are visualized, and can be seen to evolve along 
+with tumour progression. To look more closely at how these 
+different subtypes of cells are distributed in space and time, 
+we present slices of the simulated tumour at a series of time 
+points. Each cell subtype is shown with different colours 
+(figure 2d), mimicking multiple immunohistochemistry slides 
+from patient samples [10,52,53]. From these figures, we can dis-
+cern a immune front formed between immune cells and cancer, 
+with PDL1 positive cancer cells and PD1 positive T cells cluster-
+ing at the interface; however, patches of these cells also appear 
+inside the tumour. Parameter values for tumour development 
+baseline are listed in electronic supplementary material, 
+table S1. Ten replications are performed for the simulations in 
+this case. It should be noted that these simulations illustrate 
+the power and capabilities of the model platform and the par-
+ameters or their ranges should be selected for specific cancer 
+type; this includes the rate of tumour growth that could be 
+much slower than the above example for some cancer types.
+
+3.2. Simulated tumours display a range of histological 
+patterns resembling immunohistochemistry data 
+from patient biopsies
+
+Patterns in figure 2d represent only one of the many different 
+types of patterns seen in patients’ biopsies. Next, we qualitatively 
+validate the model by producing a collection of tumours with a 
+range of patterns with cell type distribution resembling those 
+seen in patients [54–56]. We hypothesize that the patterns can 
+be affected by each individual’s tumour neoantigen profile. In 
+our ABM, tumour neoantigen profile is characterized by two fac-
+tors: mutational burden (kn) and antigen strength (ki). These two 
+factors together determine effector recruitment rate in the model 
+(see Material and methods section for details). We simulated 
+tumour development in patients with the following tumour 
+neoantigen characteristics combinations: high (kn = 20) or 
+low (kn = 10) mutational burden, with high (ki = 0.1) or low 
+(ki = 0.001) antigen strength. Three-dimensional visualizations 
+of tumour at day 30 are shown in figure 3. To better relate our 
+simulation to patient biopsies, available to pathologists, we 
+took snapshots of pretreatment tumours also at day 30 (figure 4).
+
+We find that different patterns of PDL1+ cancer cells 
+emerge from these settings, qualitatively similar to those seen 
+in patients [52,53]. In cases with low mutational burden 
+(figure 4a,c), PDL1+ cancer cells can be seen sporadically 
+distributed within the tumour, and PDL1+ cancer cells are 
+seen more frequently in high antigen strength case than in 
+low antigen strength case. When mutational burden is high, 
+PDL1+ expression is observed in patchy patterns (figure 4d). 
+When antigen strength is also high a clearer immune front is 
+observed, as a PDL1+ cuff forms to envelope the tumour. The 
+spatial characteristics (immuno-architecture) have potential 
+traits of predictive power of treatment outcomes when 
+quantified [57], which we will further examine in §3.4.
+
+To make the simulations more tractable, the lattice we use to 
+simulate tumour development is 1 mm3 in size (i.e. 1000 
+voxels), which is smaller than actual vascularized tumours; 
+the region could be considered as representative of sub-regions 
+of larger tumours. Electronic supplementary material, figure S1, 
+shows that when larger lattice is used (2 × 2 × 2 mm or 8 million 
+voxels), the overall patterns are similar to those obtained from 
+smaller lattices. While the model does not place limitations on 
+tumour size, the implementation could be limited by the 
+size of the computer RAM, or would be slowed down when 
+the size exceeds a certain computer-specific limit. However, 
+different solutions could be found to circumvent this problem, 
+e.g. considering sample volumes of the tumour.
+
+3.3. Responsiveness to anti-PDL1 treatment is affected 
+by patient neoantigen characteristics
+
+In a recent study conducted among a colorectal cancer cohort, 
+the mutational burden of patients is found to correlate with 
+response to immune checkpoint blockade treatment [56]. In 
+our next simulation experiments, we attempted to verify with 
+our model reproduce such phenomenon and further predicts 
+which of the two factors, mutational burden versus antigen 
+strength, of a patient’s tumour neoantigen profile more strongly 
+influences the responsiveness of the patient to immune check-
+point inhibitor treatment. Here we assume that all tumour 
+cells are equally affected by the treatment, and simulated anti-
+PDL1 treatment by reducing the parameter value governing 
+the probability of a PDL1+ cancer cell suppressing a cytotoxic 
+```

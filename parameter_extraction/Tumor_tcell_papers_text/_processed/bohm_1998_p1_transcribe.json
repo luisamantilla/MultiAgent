@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "```\nT Cell-Mediated, IFN--Facilitated Rejection of Murine\nB16 Melanomas1\n\nWaltraud Bohm, Stefan Thoma, Frank Leithauser, Peter Moller, Reinhold\nSchirmbeck, Jorg Reimann\n\nDownloaded from https://academic.oup.com/jimmunol/article/162/8/7297/8054020 by Duke University user on 03 July 2025\n\nSTING Ligands\nEnhance Delivery Efficiency.\nAdapt to Tumor Diversity.\nEliminate Toxicity.\nLearn More\nInvivoGen\n```",
+  "model": "gpt-4o",
+  "page": 1,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 7.07,
+  "filename": "bohm_1998.pdf",
+  "doc_id": "bohm_1998"
+}

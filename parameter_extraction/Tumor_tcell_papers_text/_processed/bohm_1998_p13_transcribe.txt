@@ -1,0 +1,61 @@
+```plaintext
+908                                                                 IMMUNE REJECTION MECHANISMS OF MURINE B16 MELANOMAS
+
+inactivated tumor cells and recombinant interleukin-2. Cancer Immunol. Immu-
+nother. 33: 352.
+47. Hara, N., K. Nguyen, Y. Takechi, B. Gansbacher, P. B. Chapman, and
+A. N. Houghton. 1995. Rejection of mouse melanoma elicited by local secretion
+of granulocyte/macrophage colony-stimulating factor or interleukin 4 by tumor
+cells in vivo. Cancer Res. 57: 2537.
+48. Parker, S. E., S. Khattib, M. Maraglia, D. Anderson, M. Yankauckas,
+S. H. Gromkowski, T. Latimer, D. Lee, M. Jaquet, M. Manthorpe, P. Hobart,
+E. Hersh, A. H. Stopeck, and J. Norman. 1996. Plasmid DNA gene therapy:
+studies with the human interleukin-2 gene in tumor cells in vitro and in the
+murine B16 melanoma model in vivo. Cancer Gene Ther. 3: 371.
+49. Bayo, J. C., J. Crespo, A. Crespo, and S. F. Alino. 1996. Anti-interleukin-4 anti-
+body and methotrexate synergize effect on B16 melanoma tumor progression.
+J. Pharmacol. Exp. Ther. 279: 472.
+50. Zheng, L. M., M. D. Ojcius, F. Garaud, R. Roth, E. Maxwell, Z. Li, H. Rong,
+J. Chen, X. Y. Wang, J. J. Catlin, and J. King. 1996. Interleukin-10 inhibits tumor
+metastasis through an NK cell-dependent mechanism. J. Exp. Med. 184: 579.
+51. Gerard, C. M., C. Bruyns, A. Delvaux, N. Baudson, J. E. Dumont, A. Goldman,
+and T. Velu. 1996. Loss of tumorigenicity and increased immunogenicity induced
+by interleukin-10 gene transfer in B16 melanoma cells. Hum. Gene Ther. 7: 23.
+52. Teicher, B. A., G. M. Kemeny, and G. R. Shyamala. 1995. Modulation of tumor
+necrosis factor-a and interleukin 1b with mouse colony-stimulating factor and
+adriamycin fractionated radiation treatment. Int. J. Cancer 61: 580.
+53. Tanaka, T., W. Takahashi, M. Taniguchi, Y. Matsumoto, M. Kimura,
+I. Saiki, and H. Azuma. 1996. Application of interleukin-12 to murine metastatic
+cytokine gene therapy. Cancer Chemother. Pharmacol. 38(Suppl. 1): S27.
+54. Shimizu, K., J. B. Burkholder, J. T. Turner, J. J. Smoller, P. M. Sondel, and
+N. S. Yang. 1996. Particle-mediated gene transfer of granulocyte-macrophage
+
+colony-stimulating factor (GM-CSF) cDNA to tumor cells: implications for a clinically rel-
+evant tumor vaccine. Hum. Gene Ther. 7: 1355.
+55. Anderson, R. J. 1996. Gene therapy using tumor cell lines
+fected with recombinant vaccinia virus expressing GM-CSF. Hum. Gene Ther.
+7: 1583.
+56. Sampson, J. H., G. E. Archer, D. A. Ashley, H. E. Fuchs, P. H. Hale, G. Dranoff,
+and D. D. Bigner. 1996. Subcutaneous vaccination with irradiated, cytokine-
+producing tumor cells induces anti-tumor immunity against tumors
+located in the "immunologically privileged" central nervous system. Proc. Natl.
+Acad. Sci. USA 93: 10399.
+57. Arga, M. J., J. K. Krauss, A. Arga, M. J. Cameron, S. Shu, and A. E. Chang.
+1996. Therapeutic efficacy of T cells derived from lymph nodes draining a poorly
+immunogenic tumor transduced to secrete granulocyte-macrophage colony-stim-
+ulating factor. Cancer Gene Ther. 3: 39.
+58. Arga, M. J., J. K. Krauss, S. E. Monroe, M. J. Cameron, and A. E. Chang. 1996.
+Diverse manifestations of tumorigenicity and immunogenicity displayed by the
+poorly immunogenic B16-BL6 melanoma transduced with cytokine genes. Can-
+cer Immunol. Immunother. 42: 237.
+59. Terao, K., M. Fando, O. Ito, M. Takayanama, T. Mori, G. Matsuzaki, and
+K. Nomoto. 1996. The emergence of non-cytolytic NK1.1+ T cells in the long-
+term culture of granulocyte-macrophage colony-stimulating factor gene-trans-
+duced tumor cells. Cytotherapy. 3: 207.
+60. Fleischmann, C. M., G. J. Stanton, and W. R. Fleischmann, Jr. 1994. Enhanced
+in vivo sensitivity to interferon-a of metastatic B16 tumor cells in mice.
+Cancer Immunol. Immunother. 39: 82.
+61. Sloan-Lancaster, J. and P. M. Allen. 1996. Altered peptide ligand-induced partial
+T cell activation: molecular mechanisms and role in T cell biology. Annu. Rev.
+Immunol. 14: 1.
+```

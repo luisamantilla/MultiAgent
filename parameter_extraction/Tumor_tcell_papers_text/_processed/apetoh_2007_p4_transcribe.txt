@@ -1,0 +1,149 @@
+```plaintext
+(Fig. 2d). To confirm that it was the TLR4 present in DCs that 
+determined the immune response, we pulsed WT or Tlr4–/– DCs with 
+live or irradiated EG7 cells, transferred them into Tlr4–/– hosts and 
+monitored the priming of CD8+ T cells in DLN cells. TLR4 deficiency 
+affecting DCs specifically abolished CTL activation (measured as 
+IFN-γ production and proliferation). However, the absence of TLR4 
+
+a
+
+Supernatants                Plasma membranes                Whole cells
+Medium      CT26   EG7      CT26   EG7      CT26   EG7
+            Live   DXR      Live   DXR      Live   DXR      Live   X-rays
+            Live   DXR      Live   X-rays   Live   DXR      Live   X-rays
+
+HSP60                                                                 60 kDa
+HSP70                                                                 70 kDa
+HSP96                                                                 96 kDa
+β-defensin 2                                                          4 kDa
+Fibronectin                                                           240 kDa
+HMGB1                                                                 29 kDa
+Loading control                                                       Bovine serum albumin (66 kDa)  Pan cadherin (147 kDa)  CD47 (50 kDa)  Actin (56 kDa)
+
+b
+
+250
+200
+150
+100
+ 50
+  0
+
+HMGB1 (ng/ml)
+
+Live EG7
+DXR EG7
+X-rays EG7
+
+Live CT26
+DXR CT26
+
+Live MCA205
+DXR MCA205
+
+Live TSA
+X-rays TSA
+
+0   4   8   12   18   24
+Time
+
+0   4   8   12   18   24
+Time
+
+c
+
+IP: TLR4
+
+PBS   DXR CT26   Live CT26
+Time (min)  15   30   60   15
+IgG Co Total
+lysate
+
+IB: HMGB1
+29 kDa
+
+IB: TLR4
+90 kDa
+
+d
+
+WT versus Tlr4–/– 
+Co Ig or anti-HMGB1 Ab
+
+Tlr4–/– 
+Day 5
+In vitro
+6 h stimulation
+
+PBS
+OVA
+
+PBS
+OVA
+
+IFN-γ (pg/ml)
+
+Live EG7
+Co Ig
+
+X-ray EG7
+Co Ig
+
+X-ray EG7
+α-HMGB1
+
+X-ray EG7
+α-HMGB1
+
+e
+
+EG7
+Co Ig or anti-HMGB1 Ab
+
+CT26
+DXR MCA205
+X-ray EG7
+
+WT
+Tlr4–/–
+
+PBS
+Cell lysate
+Co Ig
+
+In vitro
+6 h stimulation
+
+HMGB1
+29 kDa
+
+HMGB1
+29 kDa
+
+Actin
+56 kDa
+
+CT26
+
+MCA 205
+
+EG7
+
+Figure 3 The immunogenicity of dying tumor cells after chemotherapy or radiotherapy depends on the release of the TLR4 ligand HMGB1. (a) HMGB1 is 
+selectively released by dying tumor cells. TLR4 ligands were detected by immunoblots in supernatants, plasma membranes and whole-cell lysates of CT26 
+and EG7 tumors treated (or not treated) with, respectively, doxorubicin and X-rays. (b) Kinetic study of HMGB1 release from tumor cell lines. Shown is the 
+amount of HMGB1, as measured by ELISA, after the indicated treatment of EG7, CT26, MCA205 or TSA tumor cell lines (c) HMGB1 released from 
+tumor cells binds to TLR4. RAW264.7 cells were incubated with the supernatants of either untreated or doxorubicin-treated CT26 tumor cells for the 
+indicated periods of time. HMGB1 was then detected by western blotting after immunoprecipitation using an antibody against TLR4 (or a control 
+immunoglobulin). The immunoprecipitation assays were performed four times with identical results. (d) Cross-presentation of OVA from dying tumor cells 
+is dependent on HMGB1 in vivo. Live or X-irradiated EG7 were inoculated into the footpads of WT, Tlr4–/– or Tlr2–/– BALB/c mice along with an antibody to 
+HMGB1 antibody (or a control immunoglobulin for each individual antibody (Co Ig) and antibodies to HSP96 and NK1.1 (directed against EG7 membrane-
+associated antigen)), and the local immune response was measured as in Figure 2a,b. (e) Depletion of HMGB1 in dying tumor cells using siRNA abolished 
+antigen presentation. CT26, MCA205 and EG7 tumor cells were transfected with a control siRNA or two different HMGB1-specific siRNA. After 48 h (when 
+immunoblots confirm HMGB1 depletion), top cells were injected into mice as in Figure 2b. Note that HMGB1 depletion does not alter cell death 
+induction by genotoxic stress (data not shown). All in vivo experiments involved three mice per group and were repeated three times yielding identical 
+results. Graphs (means of triplicates ± s.e.m., n = 3) are representative of a typical experiment out of three independent ones. *P < 0.01.
+
+NATURE MEDICINE VOLUME 13 | NUMBER 9 | SEPTEMBER 2007 1053
+```

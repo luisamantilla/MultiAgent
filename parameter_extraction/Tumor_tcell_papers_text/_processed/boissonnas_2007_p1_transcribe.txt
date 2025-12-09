@@ -1,0 +1,101 @@
+```
+JEM
+
+ARTICLE
+
+In vivo imaging of cytotoxic T cell
+infiltration and elimination of a solid tumor
+
+Alexandre Boissonnas,1 Luc Fetler,2 Ingrid S. Zeelenberg,1
+Stéphanie Hugues,1 and Sebastian Amigorena1
+
+1Institut National de la Santé et de la Recherche Médicale U653, Immunité et Cancer, Pavillon Pasteur, Institut Curie,
+F-75245 Paris Cedex 05, France
+2Centre National de la Recherche Scientifique UMR 168, Laboratoire de Physico-Chimie Curie, Institut Curie,
+F-75245 Paris Cedex 05, France
+
+Although the immune system evolved to fight infections, it may also attack and destroy
+solid tumors. In most cases, tumor rejection is initiated by CD8+ cytotoxic T lymphocytes
+(CTLs), which infiltrate solid tumors, recognize tumor antigens, and kill tumor cells.
+We use a combination of two-photon intravital microscopy and immunofluorescence
+on ordered sequential sections to analyze the infiltration and destruction of solid tumors
+by CTLs. We show that in the periphery of a thymoma growing subcutaneously, activated
+CTLs migrate with high instantaneous velocities. The CTLs arrest in close contact to tumor
+cells expressing their cognate antigen. In regions where most tumor cells are dead, CTLs
+resume migration, sometimes following collagen fibers or blood vessels. CTLs migrating
+along blood vessels preferentially adopt an elongated morphology. CTLs also infiltrate
+tumors in depth, but only when the tumor cells express the cognate CTL antigen. In
+tumors that do not express the cognate antigen, CTL infiltration is restricted to peri-
+pheral regions, and lymphocytes neither stop moving nor kill tumor cells. Antigen
+expression by tumor cells therefore determines both CTL motility within the tumor
+and profound tumor infiltration.
+
+CORRESPONDENCE
+Sebastian Amigorena:
+sebas@curie.fr
+
+Abbreviations used: CFP,
+cyan fluorescent protein; PI,
+propidium iodide; SHG, second
+harmonic generation; TPLSM,
+two-photon laser-scanning
+microscopy.
+
+T cell–mediated immune responses require the
+active migration of T cells in tissues and the es-
+tablishment of specific cell–cell contacts with
+other cell types. T cell migration was analyzed
+intravitality in the last few years using noninva-
+sive two-photon microscopy (1–3). In lymph
+nodes, T lymphocytes move using an “ameboid”-
+like migration mode and display extremely high
+instantaneous velocities (up to 25 μm/min)
+(4, 5) compared with DCs or tumor cells (6, 7).
+The resulting high mean velocities allow naive
+T cells to “scan” high numbers of DCs seeking
+for their MHC–peptide ligands (8, 9). Once a
+specific ligand was encountered, T cells stop
+their migration and establish antigen-specific
+contacts with DCs. The duration of these con-
+tacts is determined by the maturation state of
+the interacting DCs and the eventual presence
+of regulatory T cells. In most experimental sys-
+tems, long lasting (hours) contacts occurred
+during the induction of effective priming (4, 5, 9),
+whereas short interactions (minutes) were ob-
+
+served in tolerogenic conditions (10, 11) or
+in the presence of regulatory T cells (12, 13).
+Shakhar et al. (14), however, only found modest
+differences in the mobility of CD4+ T cells
+during the induction of priming and tolerance.
+
+During antiviral, antitumor, or autoimmune
+responses, for example, differentiated effector
+T cells migrate in nonlymphoid tissues to inter-
+act with target cells. Similar to lymph nodes,
+effector T cell migration in rat spinal cord
+sections during experimental autoimmune en-
+cephalomyelitis displays “ameboid” charac-
+teristics and high mean velocities, showing
+antigen-specific arrest upon autoantigen rec-
+ognition within the spinal cord (15). Few stud-
+ies also analyzed the effector phases of immune
+responses by NK cells or NK cells (16, 17).
+The killing of target cells by cytotoxic T lym-
+phocytes was recently imaged in lymph nodes.
+Regulatory T cells were thus shown to reduce
+the killing efficiency of CTLs by interfering
+with the polarized secretion of cytotoxic gran-
+ules (18). The trafficking of CD8+ cytotoxic T
+cells in tumor-bearing mice was analyzed recently
+using magnetic resonance or positron-emission
+
+A. Boissonnas and L. Fetler contributed equally to this work.
+Online version of this article contains supplemental material.
+
+JEM © The Rockefeller University Press $15.00
+Vol. 204, No. 2, February 19, 2007 345-356 www.jem.org/cgi/doi/10.1084/jem.20061890
+
+345
+```

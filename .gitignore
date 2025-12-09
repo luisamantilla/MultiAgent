@@ -1,0 +1,19 @@
+.idea/
+__pycache__/
+*.pyc
+*.pkl
+*.log
+.gradio/
+venv-*/
+demo/test.py
+demo/test_prompt.txt
+.env
+*.db
+*.csv
+
+# Exclude archived folder with sensitive data
+archived/
+
+# Exclude notebooks with API keys
+parameter_extraction/vision_pdf_extractor_walkthrough.ipynb
+biological_modeling/orchestration/test_agents_pipeline.ipynb

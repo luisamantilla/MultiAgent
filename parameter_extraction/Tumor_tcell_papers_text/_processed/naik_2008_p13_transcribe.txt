@@ -1,0 +1,126 @@
+```
+DC subtypes and their development
+Sh Nahi
+
+451
+
+183 Peters W, Cyster JG, Mack M, Schlondorff D, Wolf AJ, Ernst JD et al. CCR2-dependent
+    trafficking of F4/80dim macrophages and CD11bint/intermediate dendritic cells is
+    crucial for immune control of listeria infection with Mycobacterium tuberculosis.
+    J Immunol 2004; 172: 7647–7653.
+184 Eagel D, Dobrindt U, Tittel A, Peters P, Maurer J, Gutgemann I et al. Tumor necrosis
+    factor-alpha- and inducible nitric oxide synthase-producing dendritic cells are rapidly
+    recruited to the bladder in urinary tract infection but are dispensable for bacterial
+    clearance. Infect Immun 2006; 74: 6100–6107.
+185 Tezuka H, Abe Y, Iwata M, Takeuchi H, Ishikawa H, Matsushita M et al. Regulation of
+    IgA production by naturally occurring TNF/NO-producing dendritic cells. Nature
+    2007; 448: 929–933.
+186 Homann D, McGavern DB, Oldstone MB. Visualizing the viral burden: phenotypic and
+    functional alterations of T cells and APCs during persistent infection. J Immunol
+    2004; 172: 6239–6250.
+187 Liu K, Suzuki Y, Nakano H, Ramsburg E, Gunn MD. CCR2+ monocyte-derived
+    dendritic cells can educate macrophages to produce inflammatory cytokines and
+    improve pathogen and mortality. J Immunol 2008; 180: 2562–2572.
+188 Turries P, Pool L, Hattori M, Beilens C, Mathis D. Physiological beta cell death:
+    macrophage control of self-reactive T cells by dendritic cells in a type 1 diabetes model.
+    J Exp Med 2008; 198: 1522–1537.
+189 Lowes MA, Chamian F, Abello MV, Fuentes-Duculan J, Lin SL, Nussbaum R et al.
+    Increase in TNF-alpha and inducible nitric oxide synthase-expressing dendritic cells in
+    psoriasis: a model with neutralizable anti-beta CD11a. Proc Natl Acad Sci USA 2005;
+    102: 19051–19062.
+190 Niess JH. Development and dendritic cell recruitment during oral S. Typhimurium
+    infection. Immunol Cell Biol 2007; 112: 864–874.
+191 Xu Y, Tian Y, Law AM, Naik SH, Kershaw MH. Differential development and migration
+    of dendritic cells by GM-CSF versus Flt3 ligand has implications for inflammatory cell
+    trafficking. J Immunol 2007; 179: 7577–7584.
+192 Baticchio S, Gennata G, Benedetti P, Menichella G, Testa U, Pierelli L et al.
+    Autologous stem cell transplantation: sequential production of hematopoietic cyto-
+    kines underlying tumor recurrence. Cancer Res 1993; 53: 1297–1303.
+193 Bras K, Levi-Schaffer F, Nissim B, Nagler A. Cytokine dysregulation in chronic graft
+    versus host disease. J Immunol 1995; 175: 169–173.
+194 Banchereau J, Briere F, Caux C, Davoust J, Lebecque S, Liu YJ et al. Immunobiology of
+    dendritic cells. Annu Rev Immunol 2000; 18: 765–821.
+195 Banchereau J, Steinman RM. Dendritic cells and the control of immunity. Nature
+    1998; 392: 245–252.
+196 Banchereau J, Palucka AK. Dendritic cells as therapeutic vaccines against cancer. Nat
+    Rev Immunol 2005; 5: 296–306.
+197 Banchereau J, Palucka AK. Dendritic cells as therapeutic vaccines against cancer. Nat
+    Rev Immunol 2005; 5: 296–306.
+198 Banchereau J, Palucka AK. Dendritic cells as therapeutic vaccines against cancer. Nat
+    Rev Immunol 2005; 5: 296–306.
+199 Banchereau J, Palucka AK. Dendritic cells as therapeutic vaccines against cancer. Nat
+    Rev Immunol 2005; 5: 296–306.
+200 Banchereau J, Palucka AK. Dendritic cells as therapeutic vaccines against cancer. Nat
+    Rev Immunol 2005; 5: 296–306.
+201 Banchereau J, Palucka AK. Dendritic cells as therapeutic vaccines against cancer. Nat
+    Rev Immunol 2005; 5: 296–306.
+202 Banchereau J, Palucka AK. Dendritic cells as therapeutic vaccines against cancer. Nat
+    Rev Immunol 2005; 5: 296–306.
+203 Banchereau J, Palucka AK. Dendritic cells as therapeutic vaccines against cancer. Nat
+    Rev Immunol 2005; 5: 296–306.
+204 Banchereau J, Palucka AK. Dendritic cells as therapeutic vaccines against cancer. Nat
+    Rev Immunol 2005; 5: 296–306.
+205 Banchereau J, Palucka AK. Dendritic cells as therapeutic vaccines against cancer. Nat
+    Rev Immunol 2005; 5: 296–306.
+206 Banchereau J, Palucka AK. Dendritic cells as therapeutic vaccines against cancer. Nat
+    Rev Immunol 2005; 5: 296–306.
+207 Banchereau J, Palucka AK. Dendritic cells as therapeutic vaccines against cancer. Nat
+    Rev Immunol 2005; 5: 296–306.
+208 Banchereau J, Palucka AK. Dendritic cells as therapeutic vaccines against cancer. Nat
+    Rev Immunol 2005; 5: 296–306.
+209 Banchereau J, Palucka AK. Dendritic cells as therapeutic vaccines against cancer. Nat
+    Rev Immunol 2005; 5: 296–306.
+210 Naik SH, Sathe P, Park HY, Metcalf D, Proietto AI, Dakic A et al. Development of
+    plasmacytoid and conventional dendritic cell subtypes from single precursor cells
+    derived in vitro and in vivo. Nat Immunol 2007; 8: 1217–1226.
+211 Robbins SH, Walzer T, Dembélé D, Thibault C, Defays A, Bessou G et al. Novel
+    insights into the relationships between dendritic cell subsets in human and mouse
+    revealed by genome-wide expression profiling. Genome Biol 2008; 9: R17.
+212 Nicola NA, Metcalf D. The Hemopoietic Colony Stimulating Factors. Cambridge
+    University Press: Cambridge, UK, 1995.
+213 Burgess AW, Camakaris J, Metcalf D. Purification and properties of colony-stimulating
+    factor from mouse lung-conditioned medium. J Biol Chem 1977; 252:
+    1998–2003.
+214 Zhu B, Bando Y, Xiao S, Yang K, Anderson AC, Kuchroo VK et al. CD11c+Ly-6Chi
+    suppressive macrophages in experimental autoimmune encephalomyelitis. J Immunol
+    2007; 179: 5228–5237.
+215 Brasel K, De Smedt T, Smith JL, Maliszewski CR. Generation of murine dendritic
+    cells from flt3-ligand-supplemented bone marrow cultures. Blood 2000; 96:
+    3029–3039.
+216 Maraskovsky E, Brasel K, Teepe M, Roux ER, Lyman SD, Shortman K et al. Dramatic
+    increase in the numbers of functionally mature dendritic cells in flt3 ligand-treated
+    mice: multiple dendritic cell subpopulations identified. J Exp Med 1996; 184:
+    1953–1962.
+217 Pulendran B, Smith JL, Caspary G, Brasel K, Pettit D, Maraskovsky E et al. Distinct
+    dendritic cell subsets differentially regulate the class of immune response in vivo.
+    Proc Natl Acad Sci USA 1999; 96: 1036–1041.
+218 Weigel BJ, Nath R, Fox C, Hsu EW, Mrozek J, Horvath JC, Chen W, Krig AM et al.
+    Clinical and immunologic effects of murine marrow-derived dendritic cells generated by Flt3/
+    GM-CSF/IL-4 and matured with immune-stimulating agents on in vivo induction of
+    antitumor responses. Blood 2002; 100: 1696–1702.
+219 D’Amico A, Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A, Wu L,
+    Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A,
+    Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A,
+    Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A,
+    Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A,
+    Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A,
+    Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A,
+    Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A,
+    Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A,
+    Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A,
+    Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A,
+    Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A,
+    Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A,
+    Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A,
+    Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A,
+    Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A,
+    Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A,
+    Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A,
+    Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A,
+    Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A,
+    Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A,
+    Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A,
+    Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A,
+    Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A,
+    Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A, Wu L, Metcalf D, D’Amico A,
+    Wu L, Metcalf

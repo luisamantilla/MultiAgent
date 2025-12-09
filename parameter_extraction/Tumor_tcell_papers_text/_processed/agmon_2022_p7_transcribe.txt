@@ -1,0 +1,147 @@
+```plaintext
+1978                                                                                                          E.Agmon et al.
+
+re-initialized at the start of every time step; doing this can result in 
+slower run time. One solution to this problem would be to optimize 
+model simulations such that they can be called iteratively, such opti- 
+mization already exists for BioFVM and COBRA. Additional 
+performance tests on the Reproducible Material (Supplementary 
+Section S4) suggest that there are design considerations for what 
+makes a process optimally composed and parallelizable (discussed 
+in Supplementary Section S4.2).
+
+A current limit on the size of parallel simulation stems from 
+Vivarium’s use of the Python multiprocessing library. This allows it 
+to run on a many-core computer, such as a Google Compute Engine 
+(up to 224 cores at present). Parallel execution is made possible by 
+handling communication between processes with message-passing 
+so that each process can run on its own OS process. The same 
+message-passing methodology can be used to distribute computation 
+across many computers in a network, where tools such as mpi4py 
+(Dalcin et al., 2011) would greatly extend Vivarium’s capabilities 
+beyond a single computer engine.
+
+Another current limitation is the requirement of Pythonic API, 
+which renders non-Pythonic simulations harder to integrate. 
+Requiring a Python API is not unreasonable, as Python has essential- 
+ly become the standard language for scientific modeling, which 
+means many simulators are already accessible. There are also inter- 
+faces that support building Python APIs for other languages—for 
+example, pybind11 simplifies how we can call C++ methods using 
+Python. The next generation of model integration software might 
+involve a lower-level language, and provide support for network- 
+based APIs, which would allow Vivarium users to run in a distributed 
+environment in their own native language.
+
+Scalable execution. Vivarium was designed to support scalable 
+execution, for which modular models are reused and recombined 
+across increasingly complex computational experiments over many 
+iterations. Vivarium supports modularity and reuse of models 
+through the use of composite models. A composite model built 
+from models simplifies the incorporation of alternate sub- 
+models, which supports incremental, modular development. The 
+Vivarium Collective is an early version of an online hub for 
+vivarium-ready projects. When released to the Vivarium Collective, 
+Vivarium models can be imported into other projects, re- 
+configured, combined with other processes and simulated in large 
+experiments. We found that adaptor processes are very useful—they 
+help convert the units, reference frames, time spaces, data formats 
+and other representations that are expected by the main mechanistic 
+processes. Some limitations are currently present from Vivarium’s 
+flexible design, which delegates most modeling decisions to its users. 
+Because models can be combined with bad models, timescales can be 
+mismatched, and there is no built-in framework to handle such 
+errors, mentioned above. We believe that in a healthy ecosys- 
+tem of adopters, a cycle of collective best practice that will drive 
+quality up as users choose the best or most appropriate models for 
+their needs.
+
+Conclusion. As multiscale models such as these are further devel- 
+oped and expanded, we hope that Vivarium and its successors will 
+be used to model cell populations, tissues, organs or even entire 
+organisms and their environments—all of which are based on a 
+foundation of molecular and cellular interactions, represented using 
+the most appropriate mathematics and integrated together in unified 
+composite systems. We look forward to seeing what the community 
+will produce using these exciting new tools.
+
+Acknowledgements
+The authors thank two anonymous reviewers for their thoughtful comments, 
+which helped shape the discussion. They also thank Jeremy Zucker for experi- 
+ence and error in the vivarium-cobra library, Richard Murray for his discussion 
+and feedback and the AIda-Cell community for inspiring workshops that 
+helped motivate the use of Vivarium as a more general model integration soft- 
+ware tool.
+
+Funding
+This work was supported by the Paul G. Allen Frontiers Group via an Allen 
+Discovery Center at Stanford, as well as NIGMS of the National Institutes of 
+Health under award number F32GM137462 to E.A.; and NSF grant CBET- 
+1903472 to W.P. The content is solely the responsibility of the authors and 
+does not necessarily represent the official views of the National Institutes of 
+Health.
+
+Conflict of Interest: none declared.
+
+References
+Agmon,E. and Spangler,R.K. (2020) A multi-scale approach to modeling 
+E. coli chemotaxis. Entropy, 22, 1101.
+Andrews,S.S. et al. (2010) Detailed simulations of cell biology with Smoldyn 
+2.1. PLoS Comput. Biol., 6, e1000705.
+Arjunan,S. and Tomita,M. (2009) Modeling reaction-diffusion of molecules 
+on surface and in volume spaces with the E-Cell system. Nat. Precedings, 
+1–1.
+Arkin,A. et al. (1998) Stochastic kinetic analysis of developmental pathway bi- 
+furcation in phage λ-infected Escherichia coli cells. Genetics, 149, 
+1633–1648.
+Bartley,B. et al. (2015) Synthetic biology open language (SBOL) version 2.0. 
+J. Integrative Bioinf., 12, 902–991.
+Blockwitz,T. et al. (2012) Functional mockup interface 2.0: the standard for 
+tool independent exchange of simulation models. In: Proceedings of the 9th 
+International MODELICA Conference, September 3-5, Munich, Germany. 
+Blomqvist,Y. (2007–2019) Ynmunk. http://www.ynmunk.net/ (2021, date last 
+accessed).
+Choi,K. et al. (2018) Tellurium: an extensible python-based modeling environ- 
+ment for systems and synthetic biology. Biosystems, 171, 74–79.
+Dalcin,L.D. et al. (2011) Parallel distributed computing using python. Adv. 
+Water Resources, 112, 114–1319.
+Dhar,P. et al. (2004) From maps to models: the development of a circuit sim- 
+ulator for biochemical networks. BMC Syst. Biol., 7, 74.
+Edwards,J.S. et al. (2001) In silico predictions of Escherichia coli metabolic 
+capabilities are consistent with experimental data. Nat. Biotechnol., 19, 
+125–130.
+Fengler,H. et al. (2003) Taming heterogeneity-the Polyhedron approach. Theor. 
+Biol. Med. Model., 1, 1–14.
+Faeder,J.R. et al. (2009) Rule-based modeling of biochemical systems with 
+BioNetGen. In: Systems Biology. Humana Press, pp. 113–167.
+Feist,A.M. et al. (2010) Model-driven evaluation of the production potential 
+for growth-coupled products of Escherichia coli. Proc. Natl Acad. Sci. USA, 12, 
+173–186.
+Ghaffarizadeh,A. et al. (2018) Physicell: an open source physics-based cell 
+simulator for 3-D multicellular systems. PLoS Comput. Biol., 14, 
+e1005991.
+Harcombe,W.R. et al. (2014) Metabolic resource allocation in individual 
+microbes determines ecosystem interactions and spatial dynamics. 
+Cell Rep., 1105–1115.
+Hoops,S. et al. (2006) COPASI—a complex pathway simulator. 
+Bioinformatics, 22, 3067–3074.
+Johnson,G.T. et al. (2015) cellPACK: a virtual mesoscope to model and visual- 
+ize structural systems biology. Nat. Methods, 12, 85–91.
+Karr,J.R. et al. (2012) A whole-cell computational model predicts phenotype 
+from genotype. Cell, 150, 389–401.
+Keating,S.M. et al. SBML Level 3 Community Members. (2020) SBML level 
+3: an extensible format for the exchange and reuse of biological models. 
+Mol. Syst. Biol., 16, e9110.
+Kong,Z. et al. (2016) BIGG models: a platform for integrating, standardizing, 
+and sharing genome-scale models. Nucleic Acids Res., 48, D515–D522.
+Macklin,D.N. et al. (2020) Simultaneous cross evaluation of heterogeneous E. 
+coli datasets via mechanistic simulation. Science, 369, 927–931.
+Melke,P. et al. (2010) A cell-based model for quorum sensing in heterogeneous 
+bacterial colonies. PLoS Comput. Biol., 6, e1000810.
+Milner,R. (2009) The Space and Motion of Communicating Agents. 
+Cambridge University Press, Cambridge, UK.
+Naylor,J. et al. (2017) Simbiotics: a multiscale integrative platform for 3d 
+modeling of bacterial populations. ACS Synthetic Biol., 6, 1494–1210.
+Orth,J.D. et al. (2010) What is flux balance analysis? Nat. Biotechnol., 28, 
+245–248.
+```

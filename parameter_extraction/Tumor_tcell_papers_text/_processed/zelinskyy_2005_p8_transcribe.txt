@@ -1,0 +1,105 @@
+```plaintext
+10626                                                                                                           J. VIROL.
+
+hepatitis C virus in persons with chronic hepatitis. J. Immunol. 149(10):3339–
+3344.
+28. Kursar, M., K. Bonhagen, W. Fensterle, A. Kohler, R. Hurwitz, T. Kamradt,
+S. H. Kaufmann, and H. W. Mittrucker. 2002. Regulatory CD4+CD25+ T
+cells restrict memory CD8+ T cell responses. J. Exp. Med. 196:1585–1592.
+29. Lilly, F., and A. S. Boyse. 1973. Triparental viruses. A host-range
+pseudotype of spleen-focus-forming virus (SFFV). Virology 56:593–603.
+30. Lin, C. Y., G. Graca, L. S. Cobbold, P., and H. Waldmann. 2002. Domin-
+ant transplantation tolerance impairs CD8+ T-cell function but not expansion.
+Nat. Immunol. 3:1208–1213.
+31. Lucas, M., V. Vargas-Cuero, A. L., G. M. Lauer, E. Barnes, C. R. Willberg, N.
+Semmo, B. D. Walker, P. Klenerman, and P. Klenerman. 2004. Pervasive influ-
+ence of hepatitis C virus on the phenotype of antiviral CD8+ T cells.
+J. Immunol. 172:1744–1753.
+32. MacDonald, A. J., J. D. Duffy, M. T. Brady, S. McKiernan, W. Hall, J. Hegarty,
+M. Curry, and H. R. Mills. 2002. CD4 T helper type 1 and regulatory T cells
+induced against the same epitopes on the core protein in hepatitis C virus-
+infected persons. J. Infect. Dis. 185:720–727.
+33. Migueles, S. A., A. C. Laborie, W. L. Shupert, et al. 2002. HIV-specific
+CD8+ T-cell proliferation is coupled to perforin expression and is main-
+tained in nonprogressors. Nat. Immunol. 3:1061–1068.
+34. Mills, K. H. 2004. Regulatory T cells: friend or foe in immunity to infection?
+Nat. Rev. Immunol. 4:841–855.
+35. Moormann, J. P., M. H. Joo, and Y. S. Hahn. 2001. Evasion of host immune
+responses by hepatitis C virus: potential roles in viral persistence. Arch.
+Immunol. Ther. Exp. (Warsz) 49:189–194.
+36. O’Connor, D., T. Friedrich, A. Hughes, T. M. Allen, and D. Watkins. 2004.
+Understanding cytotoxic T-lymphocyte escape during simian immunodefi-
+ciency virus infection. Immunol. Rev. 185:115–126.
+37. Piar, G., D. Rukavina, E. R. Podack, M. Horvath, Szekeres-Bartho, G., J.
+Hegedus, M. Pacal, L. Sereday, G., Moskal, A., and J. Szekeres-Bartho. 1996.
+CD3-negative/CD8dim+ and Vdelta2/Vgamma9 TCR+ peripheral blood
+lymphocyte counts, low perforin expression and the impairment of natural
+killer cell activity in association with chronic hepatitis C virus infection.
+J. Hepatol. 3:574–582.
+38. Peterson, K. E., M. Iwaszkiew, K. J. Hasenkrug, and B. Chesebro. 2000. Major
+histocompatibility complex class I gene controls the generation of gamma
+interferon-producing CD4+ and CD8+ T cells important for recovery from
+Friend retrovirus-induced leukemia. J. Virol. 74:5363–5367.
+39. Peterson, K. E., L. Stromnes, K. Hasenkrug, and B. Chesebro. 2002.
+Novel role of CD8+ T cells and major histocompatibility complex class
+I genes in the generation of protective CD4+ Th1 responses during retrovi-
+rus infection in mice. J. Virol. 76:7942–7948.
+40. Peyerl, F. W., D. H. Barouch, and N. L. Letvin. 2004. Structural constraints
+on viral escape from HIV- and SIV-specific cytotoxic T-lymphocytes. Viral
+Immunol. 17:144–151.
+41. Robertson, M. N., Spangrude, G. J., Hasenkrug, K., Perry, L., Nishio, J.,
+Wehrly, K., and Chesebro, B. 1992. Role and specificity of T-cell subsets in
+spontaneous recovery from Friend virus-induced leukemia in mice. J. Virol.
+66:3271–3277.
+
+42. Rouse, B. T., and S. Suvas. 2004. Regulatory cells and infections: agents
+and counter-agents. J. Immunol. 173:2211–2215.
+43. Rubts, V. I., B. Stuge, X., Singh, R., Betts, J. S., Wehler, R. Meeder, and
+P. L. Yee. 2003. Ex vivo identification, isolation and analysis of tumor-
+cytolytic T cells. Nat. Med. 9:1177–1382.
+44. Schepers, H., M. Toes, et al. Schreurs-Veth-Dreese, A. T. A., Dellemijn,
+C. J. Mehlert, F. Ossendrijver, and N. T. Schumacher. 2002. Differential kinetics
+of antigen-specific CD4+ and CD8+ T-cell responses in the regression of
+rotavirus-induced sarcomas. J. Immunol. 169:3191–3199.
+45. Shacklett, B. C., A. Cox, M. F. Dugger, C. P. Kres, N. H. Stollman, M. A.
+Jacobson, J. Andersson, J. K. Sandberg, and B. F. Nixon. 2004. Abundant
+expression of granzyme A and but perforin in granules of CD8+ T cells in
+patients with long-term noncontrol of HIV-1 infection. J. Immunol.
+173:641–645.
+46. Stromnes, K. E., D. Uittmer, T. N. Schumacher, K. Schepers, R. J. Messer,
+L. H. Evans, K. E. Peterson, R. Bache, and K. J. Hasenkrug. 2002. Temporal
+effects of gamma interferon during the course of Friend retrovirus
+infection in mice. J. Virol. 76:2225–2232.
+47. Suvas, S., A. K. Akbar, B. S. Kim, U. T. Rammensee,aurand, B. T. Rouse. 2004.
+CD4+CD25+ regulatory T cells control the severity of viral immunoinflamma-
+tory lesions. J. Immunol. 172:1213–4132.
+48. Suvas, S., U. Kumaraguru, C. D. Pack, S. Lee, and B. T. Rouse. 2003.
+CD4+CD25+ T cells regulate virus-specific primary and memory CD8+
+T-cell responses. J. Exp. Med. 198:889–901.
+49. Teller, D., M. Wehler, J. Hopkins, et al. 1997. Perforin is activated by
+proteolytic cleavage during biosynthesis, which reveals a phospholipid-bind-
+ing C2 domain. EMBO J. 16:7287–7296.
+50. Urbani, C., F. Boni, G. Missale, G. Elia, C. Cavallo, M. Massari, G. Rabi-
+mond, and F. Ferrari. 2002. Virus-specific CD8+ T lymphocytes share the
+same effector-memory phenotype but exhibit functional differences in acute
+hepatitis B and C. J. Virol. 76(12):1234–1234.
+51. Weiss, L., Donkova-Petrini, V., L. Caccavelli, M. Balbo, C. Carbonnell, and
+E. Levy. 2004. Human immunodeficiency virus-driven expansion of
+CD4+CD25+ regulatory T cells which suppress HIV-1-specific CD4 T-cell
+responses in HIV-infected patients. Blood 104:3248–3256.
+52. Wherry, E. J., J. N. Blattman, K. Murali-Krishna, R. van der Most, and R.
+Ahmed. 2003. Viral persistence alters CD8+ T-cell immunodominance, in-
+duces distribution, and results in distinct stages of functional impairment.
+J. Virol. 77:4911–4927.
+53. Wong, D. K., D. D. Dudley, P. B. Dohrenwend, G. M. Lauer, R. T. Chung,
+D. L. Honan, and B. D. Walker. 2001. Detection of diverse hepatitis C virus
+(HCV)-specific cytotoxic T lymphocytes in peripheral blood of infected per-
+sons by screening for responses to all translated proteins of HCV. J. Virol.
+75(3):1229–1235.
+54. Yang, Y., Huang, C. T., Huang, X., and Pardoll, D. M. 2004. Persistent
+Toll-like receptor signals are required for reversal of regulatory T-cell-
+mediated CD8 tolerance. Nat. Immunol. 5(5):508–515.
+55. Zelinsky, G., S. Balkow, M. M. Simon, and D. Dittmer. 2004. Independent
+roles of perforin, granzymes and Fas in the control of Friend retrovirus
+infection. Virology 330:365–374.
+```

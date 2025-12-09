@@ -1,0 +1,106 @@
+Immunity  
+458  
+
+2004). Thus, Spi6 seems to be unique as an inhibitor of  
+self-inflicted damage by CTLs that has been validated  
+in vivo.  
+The expression of peptide antigen/MHC (pMHC) on  
+CTLs after infection by virus (Hanson et al., 2000) or after  
+reexpression of target cell pMHC after killing (Huang  
+et al., 1999) can lead to fratricide. However, our findings  
+with Spi6 are consistent with the induction of suicide by  
+endogenous GrB in the cytoplasm of CTLs (Opferman  
+et al., 2001) and NK cells (Ida et al., 2003). In our studies,  
+we find that Spi6 KO CTLs undergo increased apoptosis  
+because their own granules release GrB into the cyto-  
+plasm. In addition, GrB-mediated granule breakdown  
+likely also occurs in wild-type CTLs (Figure 6E). Although  
+our studies do not rule out the possibility that fratricide  
+of CTLs is a physiological mechanism for clearing  
+CTLs in vivo, they do show that GrB-mediated apoptosis  
+may occur to wild-type CTLs without fratricide.  
+Cytotoxic T cells from patients with GrB-related-Higashi  
+(Baetz et al., 1995; Barbosa et al., 1996; Stinchcombe  
+et al., 2000; Ward et al., 2000) and Griscelli (Menasche  
+et al., 2000) syndromes and from the relevant mouse  
+models (Beige [Perou et al., 1996a, 1996b] and Ashen  
+(Menasche et al., 2000)) have defective granule killing. This  
+is due to mutations that disrupt the secretion of gran-  
+ules or their contents, and this is associated with CTL  
+lysis. Therefore, the decrease in the number of cytotoxic  
+granules we observed in Spi6 KO CTLs was unexpected.  
+Instead, the granules in Spi6 KO CTLs were more frag-  
+mented in their ability to kill (Figure 4D). This implies  
+that “granule-less” Spi6 KO CTLs are likely to be very  
+short lived in vivo, presumably because of their in-  
+creased susceptibility to apoptosis. CM revealed that in  
+Spi6 KO red P14xP14 chimeras, the number of granules  
+was reduced by more than 50% (Figure 6A). This was  
+confirmed with TEM revealed a correspond-  
+ing defect in the number of electron-dense cores in  
+these cores (Figure 6D). In wild-type mice, granule vesicles  
+are composed of clustered membrane bound, electron-  
+dense cores (Peters et al., 1991). We did not observe any  
+clustering of electron-dense cores in Spi6 KO CTLs,  
+suggesting a disruption in both the stability and organi-  
+zation of core vesicles within granule vesicles. That GrB  
+is the cause of granule instability CTLs is demonstrated  
+by our observations that GrB synthetic inhibitors (Fig-  
+ures 6E) and genetic deficiency (Figure 6F) can restore  
+the integrity of granules in Spi6 KO CTLs.  
+Given the role of Spi6 in protecting CTLs from self-  
+inflicted damage, one might predict that some human  
+CTLs immunodeficiencies may potentially also be due  
+to mutations in the P19 human homolog. Ectopic expres-  
+sion of P19 can enhance human CTL killing (Hirst et al.,  
+2003), and so suppression of cytoplasmic GrB may  
+have therapeutic value in rescuing defective CTL func-  
+tion in chronic viral infections (McMichael, 1998). P19 is  
+also upregulated in some immune-privileged sites (Bla-  
+dergroer et al., 2001) and so may also protect against  
+inflammatory disease by suppressing GrB.  
+
+Experimental Procedures  
+
+Mice  
+Spi6 cDNA (Phillips et al., 2004) was used to clone mouse genomic  
+DNA containing the Spi6 locus (Serpin B9) from a bacterial artificial  
+chromosome (BAC) library (129/Sv strain RPC-22, Res Gen). The  
+5' homology region (4.1 kb Sac I-Kpn I fragment) and the 3' homol-  
+ogy region (3.6 kb Not I-Xho I fragment) were cloned on either side  
+of the neo gene (1.8 kb Kpn I-Not I fragment) flanked by loxP recom-  
+bination sites (Kuhn et al., 1995). C57BL/6 ES cells (Ware et al., 2003)  
+were transfected with targeting vector (40 μg). DNA from blasti-  
+resistant clones was digested with SpeI and Hind III and hybridized  
+with probes to detect wild-type (5.7 kb; 6.9 kb, 3.8 kb) and mutant  
+(5', 6.9 kb; 3', 5.8 kb) alleles. ES cells from targeted clones (2/398)  
+were transfected (30 μg) with Cre (pBS185, Invitrogen), and excision  
+of the neo after loxP site-specific recombination was detected by the  
+presence of a 5.8 kb band after blotting with 5'-probe (Kuhn et al.,  
+1995). C57BL/6 ES cells were microinjected into BALB/c blastocysts  
+to produce chimeric mice, which were then backcrossed onto  
+wild-type C57BL/6 mice (Jackson Laboratory). C57BL/6 Spi6+/–  
+mice (from two independently targeted ES cell clones) were inter-  
+crossed to generate C57BL/6 Spi6–/– mice (Spi6 KO mice), which  
+were born at a Mendelian frequency.  
+Spi6 KO mice were crossed with GrB–/– C57BL/6 GrB KO) (Hsu  
+et al., 1994) Jackson Laboratory) to generate C57BL/6 Spi6–/–  
+GrB–/– mice (Spi6 KO x GrB KO). C57BL/6 P14 TCR transgenic  
+mice (P14 x P14) (Pircher et al., 1990) were crossed with either  
+Spi6 KO or Spi6 KO x GrB KO mice to produce C57BL/6 Spi6 KO  
+P14 TCR+ (Spi6 KO P14 mice) or C57BL/6 Spi6 KO x GrB KO  
+P14 TCR+ (Spi6 KO x GrB KO P14 mice) mice.  
+C57BL/6 Cd8.1 congenic mice were purchased from Taconic. All  
+mice were maintained and bred under standard specific pathogen-  
+free (SPF) conditions. All experiments with mice were performed  
+in accordance with the University of Chicago Institutional Animal  
+Care and Use Committee regulations.  
+
+Real-Time PCR  
+The expression of Spi6 mRNA was analyzed by real-time PCR analysis from  
+total RNA extracted from CD8+ T cells using the RNeasy Mini Kit (Qiagen)  
+and reverse transcribed with Superscript II (Invitrogen). Real-time PCR was  
+performed using the ABI PRISM 7700 Sequence Detection System (Applied  
+Biosystems) with SYBR Green PCR Master Mix (Applied Biosystems). The  
+following primers were used: Spi6 forward, 5'-GCTGCTGCTGCTGCTGCTG-  
+CTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTGCTG

@@ -1,0 +1,143 @@
+```plaintext
+ARTICLES
+
+with interferon-γ(IFN-γ), however, most of these tumor cell lines 
+were induced to express B7-H1 (Supplementary Table 2 online). 
+We confirmed expression of B7-H1 mRNA in these tumor cell 
+lines by the reverse transcriptase-coupled polymerase chain re- 
+action (RT-PCR) using primers specific for human B7-H1 (data 
+not shown). 
+Immunohistochemical analysis showed B7-H1 immunoreac- 
+tivity in a majority of freshly isolated human lung carcinomas 
+(21/21 patients), ovarian carcinomas (20/23 patients), colon car- 
+cinomas (10/19 patients) and melanomas (22/22 patients) 
+(Table 1). We found B7-H1 immunoreactivity in the plasma 
+membrane, cytoplasm or both. In most cases B7-H1 expression 
+was focal, with no expression in adjacent normal tissues 
+(Fig. 1b). B7-H1 was expressed on metastatic melanoma cells in 
+the lymph nodes but not on adjacent lymphocytes (Fig. 1b). 
+
+Tumor-associated B7-H1 increases apoptosis of T cells 
+To determine the effect of tumor-associated B7-H1 on T cells, we 
+first transfected a melanoma cell line (624mel) with a B7-H1 ex- 
+
+pression vector. The parental 624mel cells express the gp100 
+tumor antigen and major histocompatibility (MHC) class I al- 
+lele, HLA-A2*, but not B7-H1, even after treatment with IFN-γ 
+(Supplementary Table 2 online). In addition, 624mel cells do 
+not express the proteins FasL or TRAIL, which are known to par- 
+ticipate in the induction of T-cell apoptosis18–20. B7-H1- 
+transfected 624mel cells (B7-H1/624mel) express large amounts 
+of immunoreactive B7-H1 protein (stained by B7-H1 mono- 
+clonal antibody or PD-1Ig, Fig. 2a). We next generated a human 
+CD8+ cytolytic T-cell (CTL) clone, M15, by a previously described 
+method, involving repeated stimulation in vitro with an HLA-A2- 
+restricted gp100 epitope peptide21. This gp100 peptide-reactive 
+clone expresses PD-1 receptor after stimulation as shown by 
+FACS analysis using human PD-1 monoclonal antibody or B7- 
+H1Ig (Fig. 2b), and specifically lyses gp100+ tumor cells (Fig. 2g 
+and data not shown). M15 CTLs were cocultured with irradiated 
+B7-H1/624mel cells or mock-transfected 624mel cells 
+(mock/624mel), and T-cell apoptosis was assessed by double- 
+staining with annexin V and monoclonal antibodies against 
+CD8. When M15 CTLs were cocultured with 
+mock/624mel cells for 5 days (Fig. 2c), 14 ± 5.6% of the 
+M15 CTLs underwent apoptotic death. When cocul- 
+tured with B7-H1/624mel cells, however, 23 ± 4.7% of 
+the M15 CTL population underwent apoptotic death 
+(Fig. 2c). This represented a relative increase of 62% (P 
+< 0.05). The ligand specificity of this phenomenon was 
+shown by including either a control antibody against 
+H1 or its Fab9 fragments in the culture medium to 
+prevent potentially stimulatory cross-linking through 
+the Fc receptor. The antibody against B7-H1 inhibited 
+apoptosis of T cells by >50% (P < 0.05) and increased 
+the number of viable T cells by 1.4-fold (P < 0.05). The 
+inclusion of high concentrations of PD-1Ig in the cul- 
+tures also significantly inhibited the induction of 
+apoptosis by B7-H1/624mel (Fig. 2a). Consistent with 
+this observation, nearly all mock/624mel cells were 
+eliminated in a 5-day coculture with M15 CTLs, 
+whereas B7-H1/624mel target cells were resistant to de- 
+struction by CTLs. Inclusion of antibody against B7-H1 
+in the culture medium abrogated the resistance of B7- 
+
+a
+
+H & E
+
+Anti-B7-H1
+
+mIgG1
+
+Lung
+
+Tonsil
+
+Tumor
+
+GC
+
+Tumor
+
+GC
+
+b
+
+H & E
+
+Anti-B7-H1
+
+mIgG1
+
+Lung cancer
+
+Ovarian cancer
+
+Melanoma
+
+Tumor
+
+Tumor
+
+Tumor
+
+Tumor
+
+Tumor
+
+Tumor
+
+Lym
+
+Lym
+
+Lym
+
+Fig. 1 B7-H1 expression in normal and cancer tissues. Snap- 
+frozen specimens of human tissue, normal or from lung or 
+ovary carcinomas and melanomas, were examined immunohis- 
+tochemically using monoclonal antibody (5H1) against B7-H1 
+or control mouse IgG1 (mIgG1). Adjacent sections were also 
+stained with hematoxylin and eosin (H & E) for comparison. 
+a, B7-H1 immunoreactivity was not found in liver parenchyma, 
+the lung or tonsil lymphocytes. B7-H1 expression was limited to 
+macrophage-like cells (arrows) in the Kupffer cells of the liver, in 
+the lung, and in peribronchial macrophages near a germinal cen- 
+ter (GC) in the tonsil. No B7-H1 expression is found in normal 
+breast, colon, kidney, uterus, bone or pancreas tissues (see 
+Supplement). Frozen sections of B7-H1/624mel cell pellets were 
+used as positive controls. b, In a lung cancer sample (top), B7- 
+H1 immunoreactivity was limited to the tumor plasma mem- 
+brane or cytoplasm and was not seen in normal alveolar cells. A 
+few B7-H1-positive pulmonary macrophages are indicated (ar- 
+rows). In ovarian adenocarcinoma cells (middle), B7-H1 im- 
+munoreactivity is in the plasma membrane. In lymph nodes 
+containing metastatic melanoma cells (bottom), B7-H1-positive 
+tumor cells formed a boundary at the interface with B7-H1-neg- 
+ative lymphocytes (Lym). 
+
+794
+
+NATURE MEDICINE • VOLUME 8 • NUMBER 8 • AUGUST 2002
+```

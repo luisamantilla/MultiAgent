@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "```\nA. DDX5\n\nAutoradiogram\n\nControl   α GFP   α DDX5\nIgG       0  3  6  10  0  3  6  10\n\nImmunoblot (α DDX5 Ab)\n\nInput     α GFP   α DDX5\n15%       0  3  6  10  0  3  6  10\n\n:IP\n:Chase (hours)\n\n← DDX5-YFP\n← DDX5\n\n![Graph 1](DDX5-YFP (α -GFP))\nRadio-labeled protein (A.U.)\nChase (h)\n\n![Graph 2](DDX5 (α -DDX5))\nRadio-labeled protein (A.U.)\nChase (h)\n\nB. MYH9\n\nAutoradiogram\n\nControl   α GFP   α MYH9\nIgG       0  3  6  10  0  3  6  10\n\nImmunoblot (α MYH9 Ab)\n\nInput     α GFP   α MYH9\n15%       0  3  6  10  0  3  6  10\n\n:IP\n:Chase (hours)\n\n← MYH9-YFP\n← MYH9\n\n![Graph 3](MYH9-YFP (α-GFP))\nRadio-labeled protein (A.U.)\nChase (h)\n\n![Graph 4](MYH9 (α- MYH9))\nRadio-labeled protein (A.U.)\nChase (h)\n\nFigure S2.\n```",
+  "model": "gpt-4o",
+  "page": 30,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 16.97,
+  "filename": "eden_2011.pdf",
+  "doc_id": "eden_2011"
+}

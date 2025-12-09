@@ -1,0 +1,107 @@
+```plaintext
+10624    ZELINSKY ET AL.                                                                                                           J. VIROL.
+
+Naive          CD43+ CD8+ cells
+CD8+           Acute  Persistent
+
+perforin
+
+granzyme B
+
+b-actin
+
+FIG. 6. Western blots for perforin and granzyme B. CD8+CD43+
+T cells were purified from spleens of FV-infected mice at 2 weeks
+postinfection (acute) and 8 weeks postinfection (persistent), and ana-
+lyzed by Western blot using anti-perforin and anti-granzyme B anti-
+bodies. Protein lysates of CD8+ T cells from naive mice were used as
+a negative control, and immunoblotting with anti-b-actin was used to
+quantify the protein content in each lane. The two bands for perforin
+are the inactive precursor protein and the activated protein that has
+been proteolytically cleaved (49).
+
+Furthermore, the transferred cells were low in granularity,
+suggesting a defect in cytolytic granule formation.
+
+Evidence from CD4+/CD8+ T-cell cotransfer experiments
+indicated that CD4+ regulatory T cells from persistently in-
+fected mice rapidly suppressed the effector functions of trans-
+ferred CD8+ T cells. Presumably, the endogenous population
+of virus-specific CD8+ T cells studied in the current experi-
+ments would be under the same immunosuppressive pressure
+by CD4+ regulatory T cells, likely contributing to their loss of
+effector functions. Additionally, it has been shown in the lym-
+phocytic choriomeningitis virus model that chronic stimulation
+
+by antigen can lead to exhaustion of CD8+ T-cell effector
+functions such as interleukin-2, tumor necrosis factor alpha,
+and gamma interferon secretion (52). Since virus-specific
+CD8+ T cells in mice persistently infected with FV are also
+subject to chronic antigenic stimulation, exhaustion may also
+play a role in their dysfunction.
+
+Loss of cytotoxic T-lymphocyte killing mediated by regula-
+tory T cells has previously been noted (11, 28, 30, 48, 54), but
+little is known about why cytolytic activity is lost or what types
+of mechanisms induce loss. One in vitro study of human cyto-
+toxic T-lymphocyte demonstrated that CD4+CD25+ regula-
+tory T cells suppressed perforin and granzyme B mRNA tran-
+scription (7). This result contrasts with our finding that
+inhibition was predominantly at the posttranscriptional level,
+but that difference could be due to in vitro versus direct ex vivo
+experiments. More consistent with our findings, a study of
+dysfunctional cytotoxic T-lymphocyte function in human im-
+munodeficiency virus-infected humans showed that perforin
+protein expression was down-regulated posttranscriptionally
+(45).
+
+Functional impairment of CD8+ T cells has been described
+for patients infected with human immunodeficiency virus and
+in patients with hepatitis C virus (4, 17, 23, 31, 33, 37, 50). Both
+viruses are genetically highly variable and escape from CD8+
+T-cell responses by mutations in T-cell epitopes has been dis-
+cussed as a major reason for the loss of CD8+ T-cell activity in
+chronic infected carriers (35, 36, 40). However, other evidence
+suggests that several viral epitopes of human immunodefi-
+ciency virus and hepatitis C virus are recognized by CD8+ T
+cells throughout the chronic phase of infection (16, 27, 53) and
+that viral loads in infected patients are more associated with
+functional properties of CD8+ T cells than with viral mutations
+(16, 23, 31, 33). Interestingly, in both human immunodeficiency
+virus and hepatitis C virus infection CD4+ regulatory T cells
+have been described to suppress antiviral T-cell responses (1,
+2, 3, 26, 32, 51). Thus, impairment of CD8+ T-cell function via
+regulatory T cells may be a mechanism contributing to virus
+escape and the establishment of chronic infections.
+
+It is likely that suppression of cytotoxic T-lymphocyte func-
+tion has evolved as a mechanism to control the immunopatho-
+
+Perforin
+
+Granzyme A
+
+Granzyme B
+
+Perforin mRNA copies
+per 10^6 copies of b-actin mRNA
+
+Granzyme A mRNA
+copies per 10^6 copies of b-actin mRNA
+
+Granzyme B mRNA
+copies per 10^6 copies of b-actin mRNA
+
+Naive  Acute  Persistent
+
+Naive  Acute  Persistent
+
+Naive  Acute  Persistent
+
+FIG. 7. mRNA levels for cytotoxic molecules in activated CD8+ T cells. Levels of transcripts for perforin, granzyme A, and granzyme B from
+effector (CD43+) CD8+ T cells isolated from acutely (2 weeks postinfection) and persistently (8 weeks postinfection) infected mice were compared
+by quantitative real-time PCR. The 18S RNA was used as internal standard. The mean and standard deviation of six mice per group are shown.
+The difference between the groups of acutely and persistently infected mice were only significant for granzyme B (P = 0.043) but not for perforin
+(P = 0.93) or granzyme A (P = 0.54). Statistic analysis was done by Mann-Whitney test. Similar results were obtained in two independent
+experiments.
+```

@@ -1,0 +1,78 @@
+Validation
+
+-anti-mouse CD45-BUV395, clone 30-F11, BD Biosciences #564279, lot #8267425, dilution 1/100
+-anti-mouse CD16/32, purified, clone 93, Bielegend #101302, lot #B24580, dilution 1/100
+-streptavidin-PE, BioSciences #12-4317-87, lot #E034844, dilution 1/200
+
+All antibodies were validated by the corresponding manufacturers. For each experiment, unstained controls were added to validate the positivity of the stainings. Relevant information on antibodies validation can be found on the manufacturer’s website for each antibody.
+
+Eukaryotic cell lines
+
+Policy information about cell lines
+
+Cell line source(s)
+
+The Eμ-myc cell line was derived in our laboratory from a male Eμ-myc transgenic mouse. Eμ-myc mice harbor a transgene with the c-myc gene under the IgH promoter and develop spontaneous B lymphoma.
+HEK cells were purchased at American Type Culture Collection.
+B16.F10 melanoma cells were a gift from Guy Shakhar (Weizmann Institute, Rehovot, Israel).
+
+Authentication
+
+HEK and B16.F10 cells were previously authenticated by ATCC (see vendor website). The phenotype of the cell lines used in the study was checked after thawing of the cells.
+
+Mycoplasma contamination
+
+HEK and B16.F10 cells were tested negative for mycoplasma contamination by PCR. Eμ-myc cells were also tested negative at the exception of YFP+ cells which were not tested.
+
+Commonly misidentified lines
+(See ICLAC register)
+
+No commonly misidentified cell lines were used.
+
+Animals and other organisms
+
+Policy information about studies involving animals: ARRIVE guidelines recommended for reporting animal research
+
+Laboratory animals
+
+C57BL/6-Rag2tm (Rag2-deficient mice), C57BL/6-Tg(UBC-GFP)30Scha Tg(TcraTcrb)1100Mjg Rag1tm1Bal (Rag1-deficient; OT-I TCR transgenic, GFP-expressing mice), C57BL/6J-Tg(tet-APP) (expressing APP under the camkII promoter), C57BL/6-Tg (TCR Matahari) Rag2tm1Fwa (Rag2-deficient, Matahari TCR transgenic) and C57BL/6J-Rag2tm1Fwa Il2rgtm1 Cgn (Rag2 and g common chain-deficient) were housed and bred in our facility.
+
+For experiments, involving OT-I cells transfer, age- and sex-matched male or female mice were used. For experiments involving Matahari T cells transfer, only age-matched female mice were used. Mice were 6 to 25 weeks old at the time of the experiments and all experiments were performed in agreement with relevant Institut Pasteur internal guidelines and regulations (CETEA committee, protocol number 170038)
+
+Wild animals
+
+The study did not involve wild animals
+
+Field-collected samples
+
+The study did not involve field-collected samples
+
+Ethics oversight
+
+All procedures were approved by the Institut Pasteur Committee on Animal Welfare (CETEA) under protocol code 170038, as well as the French Superior Teaching and Research Ministry
+
+Note that full information on the approval of the study protocol must also be provided in the manuscript.
+
+Flow Cytometry
+
+Plots
+
+Confirm that:
+☑ The axis labels state the marker and fluorochrome used (e.g. CD4-FITC).
+☑ The axis scales are clearly visible. Include numbers along axes only for bottom left plot of group (a 'group' is an analysis of identical markers).
+☑ All plots are contour plots with outliers or pseudocolor plots.
+☑ A numerical value for number of cells or percentage (with statistics) is provided.
+
+Methodology
+
+Sample preparation
+
+For experiments using B16.F10 melanoma in vivo, whole tumors were recovered and cut into small parts, then digested with Collagenase and DNAse I for 30min at 37°C. Digested tumors were then further crushed on a cell strainer and tumor cells were recovered before antibody stainings and flow cytometry analysis.
+
+For experiments using Eμ-myc lymphoma in vivo, tumor growth was monitored by measuring tumor cell percentage in the blood. To do so, blood was recovered in EDTA and red blood cells were lysed using ACK solution before analysis at the cytometer. Once tumors were established, bone marrow cells were recovered by flushing one tibia and one femur with FACS buffer (PBS supplemented with 0.5% FCS) through a cell strainer. Single-cell suspensions were then recovered and stained before analysis by flow cytometry
+
+nature research | reporting summary
+
+October 2018
+
+3

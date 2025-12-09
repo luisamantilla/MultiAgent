@@ -1,0 +1,58 @@
+{
+  "tables": [],
+  "figures": [
+    {
+      "parameter": "Simulation time",
+      "value": [
+        "0",
+        "0.25",
+        "0.5",
+        "1",
+        "1.5",
+        "2"
+      ],
+      "units": "days",
+      "context": "Time points for spatial distribution of cells"
+    },
+    {
+      "parameter": "Uninfected cells",
+      "value": "10^3",
+      "units": "cells",
+      "context": "Initial cell count in simulation"
+    },
+    {
+      "parameter": "Infected cells",
+      "value": "10^3",
+      "units": "cells",
+      "context": "Initial cell count in simulation"
+    },
+    {
+      "parameter": "Dead cells",
+      "value": "10^3",
+      "units": "cells",
+      "context": "Initial cell count in simulation"
+    },
+    {
+      "parameter": "Extracellular virus",
+      "value": "10^5",
+      "units": "particles",
+      "context": "Initial virus count in simulation"
+    }
+  ],
+  "text": [
+    {
+      "parameter": "Initial infection fraction",
+      "value": "5%",
+      "units": null,
+      "context": "Fraction of initial infection in simulation"
+    },
+    {
+      "parameter": "Patch size",
+      "value": "0.3 mm x 0.3 mm",
+      "units": "mm",
+      "context": "Size of epithelial patches in simulation"
+    }
+  ],
+  "equations": [],
+  "summary": "The page discusses the spatial distribution of cells and virus particles over time in a simulated infection model. Initial infection was set at 5% with a patch size of 0.3 mm x 0.3 mm. The simulation tracked changes in uninfected, infected, and dead cells, as well as extracellular virus over a period of 2 days. Results showed significant differences in cell distribution and virus presence compared to ODE model predictions."
+}

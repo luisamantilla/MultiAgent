@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "```\nB\n\nT_{1/2}^* (h)\n\nT_{1/2} (h)\n\n>50\n\n50\n\n40\n\n30\n\n20\n\n10\n\n0\n\n0\n\n10\n\n20\n\n30\n\n40\n\n>50\n\nT_{1/2} (0 – 24 hours after drug addition)\n\nT_{1/2} (24 – 48 hours after drug addition)\n\n1  CKS2\n2  RPLA22\n3  RPA2\n4  VIL2\n5  DDX18\n6  VCL\n7  CALM2\n8  H2AFV\n9  K-α-1\n10 NASP\n```",
+  "model": "gpt-4o",
+  "page": 34,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 6.85,
+  "filename": "eden_2011.pdf",
+  "doc_id": "eden_2011"
+}

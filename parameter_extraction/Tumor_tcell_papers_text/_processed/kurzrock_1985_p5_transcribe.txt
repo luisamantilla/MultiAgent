@@ -1,0 +1,99 @@
+rIFN-γ IN CANCER PATIENTS
+
+Table 3  
+Side effects associated with rIFN-γ: i.m. route
+
+| % of treatments at the following doses (mg/sq m) | 0.01 (2)f | 0.05 (4) | 0.10 (6) | 0.25 (10) | 0.50 (8) | 1.0 (6) | 2.5 (4) |
+|-------------------------------------------------|-----------|----------|----------|-----------|----------|---------|---------|
+| Fever                                           |           |          |          |           |          |         |         |
+| 37.2°C-38.3°C                                   | 50        | 25       | 0        | 0         | 12.5     | 17      | 25      |
+| 38.3°C-39.4°C                                   | 0         | 25       | 67       | 60        | 50       | 33      | 25      |
+| ≥39.4°C                                         | 0         | 0        | 17       | 40        | 37.5     | 50      | 50      |
+| Chills                                          |           |          |          |           |          |         |         |
+| Mild                                            | 50        | 50       | 50       | 30        | 37.5     | 33      | 25      |
+| Moderate                                        | 0         | 25       | 17       | 50        | 25       | 50      | 25      |
+| Severe                                          | 0         | 0        | 17       | 10        | 25       | 17      | 50      |
+| Fatigue                                         |           |          |          |           |          |         |         |
+| Mild                                            | 50        | 50       | 33       | 20        | 37.5     | 33      | 25      |
+| Moderate                                        | 0         | 0        | 33       | 10        | 37.5     | 50      | 25      |
+| Severe                                          | 0         | 0        | 0        | 20        | 12.5     | 17      | 50      |
+| Myalgia                                         |           |          |          |           |          |         |         |
+| Mild                                            | 100       | 25       | 0        | 30        | 12.5     | 33      | 50      |
+| Moderate                                        | 0         | 0        | 33       | 20        | 37.5     | 17      | 0       |
+| Severe                                          | 0         | 0        | 0        | 0         | 0        | 0       | 0       |
+| Headache                                        |           |          |          |           |          |         |         |
+| Mild                                            | 100       | 50       | 33       | 0         | 12.5     | 17      | 0       |
+| Moderate                                        | 0         | 0        | 33       | 20        | 25       | 17      | 50      |
+| Severe                                          | 0         | 0        | 0        | 0         | 0        | 0       | 0       |
+| Nausea and vomiting                             |           |          |          |           |          |         |         |
+| Mild                                            | 50        | 25       | 67       | 40        | 37.5     | 33      | 25      |
+| Moderate                                        | 0         | 0        | 17       | 40        | 0        | 50      | 25      |
+| Severe                                          | 0         | 0        | 0        | 0         | 0        | 0       | 0       |
+| Diarrhea                                        |           |          |          |           |          |         |         |
+| Mild                                            | 0         | 0        | 0        | 0         | 0        | 0       | 0       |
+| Moderate                                        | 0         | 0        | 0        | 0         | 12.5     | 17      | 0       |
+| Severe                                          | 0         | 0        | 0        | 0         | 0        | 0       | 0       |
+| Dry mouth                                       | 0         | 0        | 17       | 30        | 12.5     | 17      | 25      |
+
+* Numbers in parentheses, number of treatments.
+
+(Table 2). The clearance of biologically active material as mea-  
+sured by bioassay and of ELISA-positive material was monoex-  
+ponential, suggesting an open one-compartment mathematical  
+model (Charts 1 and 2). This clearance pattern was similar to that  
+observed previously for partially pure IFN-γ (20) but differs from  
+the biphasic clearance reported for human IFN-α (31). Using both  
+assays, after i.v. bolus administration, the plasma half-life was  
+between 25 and 35 min and was not dependent on dose (Table  
+2). This short half-life is similar to that previously reported for  
+native IFN-γ (20). The apparent volume of distribution (Vd) was  
+inversely related to the dose administered. The largest difference  
+in the volume of distribution occurred between the 0.25- and  
+0.5-mg/sq m dose (Table 2). This result may suggest a saturation  
+of receptor sites or metabolic or excretory mechanisms.  
+
+The pharmacokinetic parameters of rIFN-γ after i.m. adminis-  
+tration were complex, and there were major differences observed  
+in the bioavailability of rIFN-γ administered by the i.m. as com-  
+pared to the i.v. route. Levels of rIFN-γ were detected by the  
+ELISA assay at dose levels >0.1 mg/sq m. The clearance by  
+i.m. was much longer than that observed after i.v. injection with  
+values ranging from 227 to 462 min. Recombinant IFN-γ was  
+apparently well absorbed after i.m. administration (Chart 3) with  
+the percentage of dose absorbed ranging from 33 to 77% (Table  
+1). Interestingly, only low levels of IFN-γ were detected in the  
+serum by the antiviral bioassay. Given this dissimilar plasma t  
+for clearance after i.v. versus i.m. administration and the high  
+percentage of dose absorbed after i.m. administration, these  
+
+data suggest that i.m. administration of rIFN-γ may have resulted  
+in absorbance into the plasma of ELISA-positive material which  
+had lost some of its antiviral activity. Nonetheless, this material  
+retained certain biological activities as demonstrated clinically by  
+its ability to induce fever (Table 3) and granulocytopenia (Chart  
+4). In contrast, our previous studies of native IFN-γ indicated  
+that, after i.m. injection, this material was undetectable in serum  
+by both bioassay (20) and radioimmunoassay3 up to a dose of 9  
+x 10^6 units. In addition, native IFN-γ resulted in minimal clinical  
+side effects and granulocytopenia (20) as compared to rIFN-γ.  
+Since the exact correlation between unit measurements of native  
+and recombinant IFN-γ has not been determined, the reasons  
+for the differences in pharmacokinetics between these molecules  
+remain unknown. The partial loss of antiviral activity of rIFN-γ  
+may be explained on the basis of evidence suggesting that the  
+functional antiviral unit of IFN-γ is a tetramer (32). It is possible  
+that disaggregation of rIFN-γ or partial degradation by tissue  
+enzymes resulted in reduction in antiviral as compared to my-  
+elosuppressive activity after i.m. injection. In contrast, IFN-α,  
+whose functional unit is a monomer, appears to retain more of  
+its antiviral activity after i.m. administration (32). Since the anti-  
+proliferative properties of interferon may be mediated by re-  
+sponse pathways different from those associated with the anti-  
+viral properties (33), the effect of i.m. injection on the ability of  
+rIFN-γ to inhibit tumor cell growth remains speculative. Further-  
+more, a recent study showing the successful eradication of  
+
+3 U. J. Gutterman, unpublished data.
+
+CANCER RESEARCH VOL. 45 JUNE 1985  
+2870

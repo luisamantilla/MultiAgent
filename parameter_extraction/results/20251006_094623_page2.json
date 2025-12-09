@@ -1,0 +1,39 @@
+{
+  "tables": [],
+  "figures": [],
+  "text": [
+    {
+      "parameter": "H1N1",
+      "value": null,
+      "units": null,
+      "context": "seasonal influenza strain"
+    },
+    {
+      "parameter": "H5N1",
+      "value": null,
+      "units": null,
+      "context": "avian influenza strain"
+    },
+    {
+      "parameter": "H3N2",
+      "value": null,
+      "units": null,
+      "context": "seasonal influenza strain"
+    }
+  ],
+  "equations": [
+    {
+      "parameter": "Z",
+      "value": "1/n * lim (z_i)",
+      "units": null,
+      "context": "cellularization scaling"
+    },
+    {
+      "parameter": "\u2202z_i/\u2202t",
+      "value": "D(\u2202^2z_i/\u2202x^2) + \u03b8V(\u2202/\u2202t) * B(\u03c4, t, \u03c3)/V * (\u2202/\u2202t)",
+      "units": null,
+      "context": "reaction-diffusion equation"
+    }
+  ],
+  "summary": "The page discusses the spatial dynamics of viral infections, particularly influenza, and the impact of spatial heterogeneity on infection spread. It highlights the differences in infection patterns between various influenza strains such as H1N1, H5N1, and H3N2. The text also introduces mathematical models, including ordinary differential equations and reaction-diffusion equations, to explore immune responses and viral spread. Cellularization and spatial modeling are emphasized as methods to better understand and predict infection dynamics."
+}

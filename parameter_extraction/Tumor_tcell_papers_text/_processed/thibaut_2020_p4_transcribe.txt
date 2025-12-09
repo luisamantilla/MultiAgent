@@ -1,0 +1,133 @@
+```
+ARTICLES                                                                                     NATURE CANCER
+
+a
+
+OVA+ Eμ-myc
+
+1:1 ratio
+
+Eμ-myc
+
+Activated OT-I T cells
+
+Rag2–/– mice
+
+2 weeks
+
+2 d
+
+Intravital 2-photon imaging
+of the bone marrow
+
+b
+
+0 min
+
+15 min
+
+30 min
+
+45 min
+
+0 min
+
+15 min
+
+30 min
+
+45 min
+
+0 min
+
+15 min
+
+30 min
+
+41 min
+
+OVA+ Eμ-myc
+
+Eμ-myc
+
+T cells
+
+T cells in OVA+ Eμ-myc patches
+
+T cells in Eμ-myc patches
+
+d
+
+e
+
+f
+
+g
+
+50
+
+50
+
+50
+
+50
+
+0
+
+0
+
+0
+
+0
+
+–50
+
+–50
+
+–50
+
+–50
+
+OVA+ Eμ-myc
+
+Eμ-myc
+
+OVA+ Eμ-myc
+
+Eμ-myc
+
+OVA+ Eμ-myc
+
+Eμ-myc
+
+OVA+ Eμ-myc
+
+Eμ-myc
+
+e
+
+f
+
+g
+
+Straightness index
+
+Arrest coefficient (%)
+
+Maximal interaction time (min)
+
+Fig. 2 | Tumor antigen expression drives the selective accumulation and arrest of intratumoral T cells. a, Experimental setup. Rag2–/– mice were injected
+with a 1:1 mixture of OVA-expressing and OVA-non-expressing Eμ-myc B lymphoma cells, labeled with CFP and YFP, respectively. On days 12–13, mice
+were injected with activated GFP+ OT-I T cells. After 2 d, intravital imaging of the bone marrow was performed. Scale bar, 50 μm. b, CD8+ OT-I T cells
+specifically accumulate and arrest in antigen-expressing cellular patches of mosaic tumors. b, Left: representative image of OVA+ (blue) or OVA– (orange)
+tumor patches infiltrated with OT-I T cells (green). Scale bar, 50 μm. Right: time-lapse images (corresponding to the dashed squares) showing OT-I T cells
+(indicated by arrows) forming stable contacts with OVA+ Eμ-myc cells but not with OVA– Eμ-myc cells. Scale bars, 15 μm (representing two independent
+experiments with n = 3 mice in each experiment). c, Individual tracks of OT-I T cells located either in OVA+ tumor patches (blue) or OVA– tumor patches
+(orange). Numbers indicate distance in μm. d–f, Graphs show mean speed (d), straightness (e) and arrest coefficient (f) of individual OT-I T cells located
+in OVA+ or OVA– tumor patches. Only tracks that were at least 5-min long were considered. g, Maximal duration of interaction of individual OT-I T cells
+with OVA+ or OVA– Eμ-myc cells measured during 45-min-long videos. Results in c–g are from five videos obtained in two independent experiments with
+three mice per experiment. In d–g, each dot represents one individual track (n = 75 OT-I tracks in OVA+ tumor patches; n = 103 OT-I tracks in OVA– tumor
+patches). Red lines indicate mean values (****P < 0.0001, two-tailed Mann–Whitney U-test).
+
+NATURE CANCER | www.nature.com/natcancer
+```

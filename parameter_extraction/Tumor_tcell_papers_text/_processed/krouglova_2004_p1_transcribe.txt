@@ -1,0 +1,97 @@
+```plaintext
+Biophysical Journal  Volume 87  October 2004  2635–2646                                                                                  2635
+
+Correct Diffusion Coefficients of Proteins in Fluorescence Correlation
+Spectroscopy. Application to Tubulin Oligomers Induced
+by Mg2+ and Paclitaxel
+
+Tatiana Krouglova, Jo Vercammen, and Yves Engelborghs
+Laboratory of Biomolecular Dynamics, Katholieke Universiteit Leuven, Celestijnenlaan 200D, B-3001 Leuven, Belgium
+
+ABSTRACT  In view of recent warnings for artifacts in fluorescence correlation spectroscopy, the diffusion coefficient of
+a series of labeled proteins in a wide range of molecular mass (43–670 kD) was determined and shown to be correct with
+respect to published values and the theory. Fluorescence correlation spectroscopy was then applied to the study of
+fluorescently labeled tubulin and its oligomerization in vitro induced by Mg2+ ions, paclitaxel, and a fluorescent derivative of
+paclitaxel (Flutax2). By applying relations derived from the theory of Oosawa, we were able to determine the association
+constant of the oligomers induced by Mg2+. With Flutax2 our experiments show that at nanomolar concentration, the
+fluorescent derivative is able to recruit tubulin dimers and to form oligomers of defined size. Flutax2 does not bind to
+microtubules preformed with paclitaxel, but it becomes preferentially incorporated into microtubules when Flutax2 oligomers are
+preformed, and microtubule formation is induced by paclitaxel addition. This shows that their incorporation into microtubules is
+faster than the displacement of the prebound drug. Experiments using fluorescently labeled tubulin and (unlabeled) paclitaxel
+confirm the induction of tubulin oligomers at limiting paclitaxel concentrations.
+
+INTRODUCTION
+
+In the context of the use of fluorescence correlation
+spectroscopy, recently a warning was published concerning
+the influence of a non-three-dimensional Gaussian shape of
+the confocal volume on the autocorrelation curve (Hess and
+Webb, 2002). It was shown that such a shape leads to the
+presence of a distorted curve that could be fitted with a second
+fast component when analyzed with the traditional equation
+for the autocorrelation curve. Moreover the slow component
+could be 80% off from the true diffusion coefficient. More
+recently an extensive documentation of other possible
+artifacts has been published (Enderlein et al., 2004). In this
+work we show that with the ConfoCor II instrument correct
+diffusion coefficients could be obtained for five different
+proteins in a wide range of molecular masses. In several
+cases, the labeled proteins show a fast component that was
+attributed to the presence of free dye, which was not removed
+even by a double chromatography step.
+
+The technique was then applied to the study of tubulin and
+its oligomers. Microtubules are universal components of all
+eukaryotic cells, which play an important role in the building
+of the cytoskeleton, in cell division, and in intracellular
+transport. The basic structural subunit of microtubules is the
+protein tubulin. This tubulin molecule is a dimer of two 50-
+kD molecular mass polypeptide chains, designated a and b.
+
+Different morphological structures of tubulin can be
+obtained by varying the solution conditions. In the presence
+of high concentration of Mg2+ tubulin can be assembled into
+microtubules and other polymeric forms like rings and
+
+spirals (Olmsted and Borisy, 1975; Frigon and Timasheff,
+1975; Melki et al., 1989). Exchange of guanine nucleotide is
+strongly influenced by the presence of Mg2+ and therefore
+Mg2+ is required for the stability of tubulin (Croom et al.,
+1985; Correia et al., 1987). Tubulin binds also different
+drugs such as colchicine, vinblastine, podophyllotoxin,
+which inhibit tubulin assembly or depolymerize existing
+microtubules at micromolar concentrations.
+
+Paclitaxel, originally isolated from the pacific yew Taxus
+brevifolia (Wani et al., 1971), inhibits cell division by
+strongly stabilizing microtubules. It enhances microtubule
+assembly by inhibition of the depolymerization of tubulin.
+Addition of paclitaxel can also lead to the formation of
+microtubule bundles in the cell (Schiff and Horwitz, 1980;
+Jordan et al., 1993). Nowadays, this drug is widely used in
+cancer chemotherapy and positive results have been reported
+in the treatment of several cancers (McGuire et al., 1989;
+Murphy, et al., 1993; Rowinsky et al., 1990).
+
+In vitro, paclitaxel promotes the assembly of microtubules
+and stabilizes the structure by binding to the microtubule
+wall with a maximum stoichiometry of ~1 molecule/tubulin
+dimer (Parness and Horwitz, 1981; Díaz and Andreu, 1993).
+The mechanism of this microtubule stabilization is not fully
+clear. To understand this phenomenon, different approaches
+have been applied, for example the use of fluorescent
+derivatives of paclitaxel (Mellon, 1998).
+
+Investigations of the interaction of fluorescent analogs of
+paclitaxel with tubulin and microtubules have been carried
+out (Sengupta et al., 1995; Evangelio et al., 1998;
+Biccumampaka and Page, 1998; Han et al., 1996). Several
+studies have shown that nonlabeled paclitaxel binds to
+microtubules in vitro, whereas high-affinity binding to
+
+Submitted February 23, 2004, and accepted for publication June 29, 2004.
+Address reprint requests to Yves Engelborghs, Tel.: 32-16-32-7160; Fax:
+32-16-32-7974; E-mail: yves.engelborghs@fys.kuleuven.ac.be.
+© 2004 by the Biophysical Society
+0006-3495/04/10/2635/12 $2.00                                                                 doi: 10.1529/biophysj.104.040717
+```

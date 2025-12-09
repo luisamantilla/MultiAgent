@@ -1,0 +1,230 @@
+```plaintext
+RESEARCH | RESEARCH ARTICLE
+
+Because enforced expression of Acss1 resembled 
+1[K]L-conditioned T cells in many respects, 
+we sought to probe their function in vivo. We 
+found that CD8+ T cells engineered to express 
+Acss1 demonstrated markedly improved per- 
+sistence after viral infection (fig. S13F). Most 
+important, we found that pmel CD8+ T cells 
+engineered to express Acss1 mediated improved 
+tumor treatment and survival of mice bearing 
+established B16 tumors (Fig. 6I). Taken together, 
+these data show that the Acss1 protein is en- 
+riched upon nutrient restriction induced by 
+1[K]L, and that enforced expression of Acss1 
+can metabolically reprogram antitumor T cells 
+by driving enhanced oxygen utilization and au- 
+tophagy (Fig. 6J), improving T cell persistence 
+as well as tumor clearance and survival in tumor- 
+bearing mice.
+
+A
+
+Relative AcCoA
+
+**** ****
+
+1[K]L + + + 
+Acetate + 
+
+B
+
+CD62L+ of CD8+ (%)
+
+**** ****
+
+1[K]L + + + 
+Acetate + 
+
+C
+
+% of Max
+
+Ctrl 1[K]L 1[K]L + AcCoA
+
+CD62L
+
+MFI CD62L x 103
+
+**** 
+
+1[K]L + + + 
+Acetate + 
+
+D
+
+1[K]L + + + 
+Acetate + 
+
+LC3 I 
+LC3 II 
+β-actin
+
+E
+
+IFN-γ+ of CD8+ (%)
+
+**** ****
+
+1[K]L + + + 
+AcCoA + 
+
+F
+
+Ctrl 1[K]L 1[K]L + AcCoA
+
+52.5 22.0 53.5
+
+IFN-γ
+
+SSC-A
+
+H
+
+Mitochondria Cytoplasm
+
+AcCoA
+
+Citrate
+
+TCA
+
+Citrate
+
+AcCoA
+
+2-HC
+
+ACLY
+
+Autophagy
+
+Low acetylation
+
+I
+
+Cytoplasmic Citrate
+
+**
+
+Ctrl 2-HC
+
+Relative abundance
+
+Nucleo-cytoplasmic AcCoA
+
+**** 
+
+J
+
+Ifng promoter
+
+H3K9Ac Enrichment (%)
+
+**
+
+Ctrl 2-HC
+
+G
+
+H3K9Ac ChIP-PCR
+
+Ifng promoter Pdcd1 enhancer
+
+**** ****
+
+1[K]L + + + 
+Acetate + 
+
+K
+
+Ctrl 2-HC
+
+GFP
+
+mCherry
+
+83.0 60.8
+
+12.1 33.2
+
+L
+
+% of Max
+
+Ctrl 2-HC 2-HC + Acetate
+
+CD62L
+
+MFI CD62L x 103
+
+**** 
+
+M
+
+Spleen (Day 7)
+
+Ctrl 2-HC
+
+9.2 46.3
+
+5.1 52.9
+
+CD8
+
+% of cells in spleen
+
+**
+
+Ctrl 2-HC
+
+N
+
+Tumor area (mm2)
+
+Days after cell transfer
+
+No T cells Ctrl 2-HC
+
+O
+
+Percent survival
+
+Days after cell transfer
+
+No T cells Ctrl 2-HC
+
+P
+
+1[K]L
+
+CD62L
+
+GFP
+
+4.4 15.4
+
+30.8 18.5
+
+MFI GFP (x 103)
+
+****
+
+Q
+
+Ctrl 1[K]L
+
+CD62L+ of CD8+ (%)
+
+****
+
+Scramble 
+Atg7 sgRNA-1 
+Atg7 sgRNA-2 
+
+Vodnala et al., Science 363, eaau0135 (2019) 29 March 2019 9 of 12
+
+Downloaded from http://science.sciencemag.org/ on March 28, 2019
+```

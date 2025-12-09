@@ -1,0 +1,56 @@
+```plaintext
+PLOS PATHOGENS                                                                                      Generate exhausted CD8+ T cells in vitro
+
+    To further confirm that DNA promoter methylation contributes to the downregulation of 
+TCF1 expression in exhausted cells we treated cells with a DNMT inhibitor for the last 3 days 
+of culture and examined whether TCF1 expression was modified in the repeat peptide stimula-
+tion cultures. Indeed, treatment of these cells with DNMT inhibitor resulted in an increase in 
+TCF1 levels in exhausted CTL (Fig 8C). This further supports that DNA methylation plays a 
+role in silencing TCF1 as exhausted cells progress from “progenitor exhausted” to the “termi-
+nally exhausted” subpopulation.
+    DNMT inhibitor also reduced the expression of PD-1 and Tim3 in repeat peptide stimu-
+lated cells (S4 Fig). Because PD-1 and Tim3 expression are controlled by promoter region 
+DNA methylation [43, 45], our findings suggest that DNMT inhibitor prevented exhaustion 
+rather than reverted the exhaustion of T cells. These experiments suggest that the in vitro 
+exhaustion system we describe can be used to test reagents that modulate T cell exhaustion.
+
+Anergy is not a feature of in vitro and in vivo exhausted CTL
+
+The high purity of T cells in our culture system raises the question whether the absence of 
+CD28 costimulation induces anergy [46–48] and this explains some of the phenotypes we 
+observe. However, this is unlikely as our cells are cultured in the presence of IL-7 that has been 
+suggested to prevent anergy [49] and furthermore we still see exhaustion when cells are cul-
+tured with IL-2 (S5A and S5B Fig) another anergy preventing cytokine [50, 51]. Some CD28 
+costimulation, however, may be present in our culture system, as repeat peptide stimulated 
+cells express CD80 mRNA levels 74-fold and 13-fold higher compared to unstimulated and 
+single peptide stimulated cultures, respectively. Flow cytometry confirmed the high surface 
+expression of CD80 on repeat peptide stimulated cells (S5C Fig).
+    To further exclude that our repeat peptide stimulated cells have features of anergy, we per-
+formed GSEA for sets of genes identified by in vitro anergy induction (gene set GSE5960) [46]. 
+We find that both genes that are upregulated and downregulated in anergic T cells, are 
+enriched in our repeat peptide stimulated cells (S6A and S6B Fig). Thus there is no evidence 
+for the presence of anergy. We found a similar enrichment for genes both upregulated and 
+downregulated in anergic T cells in in vivo exhausted gp33-specific CTL from LCMV clone 13 
+infected mice (gene set GSE41867) [12] (S6C and S6D Fig).
+    Finally, we performed pathway enrichment analysis by IPA on the genes differentially 
+expressed between repeat peptide stimulated cells and the unstimulated cells. We found that 
+anergy related signaling pathway was neither up- or down-regulated in the repeat peptide 
+stimulated cells (S6E Fig). In this comparison, the T cell exhaustion signaling pathway was 
+again the most significant upregulated pathway. Taken together, these findings argue that 
+anergy is not a major feature of our in vitro exhausted CTL.
+
+Discussion
+
+Persistent antigen stimulation is a key driver of T cell exhaustion [37, 38]. In this study, we 
+show that repeat stimulation with peptide is sufficient to induce T cell exhaustion in vitro. 
+Repeat peptide stimulation rapidly, within 5 days, induced all characteristics of CTL exhaus-
+tion including loss of cytokine production and polyfunctionality, the expression of multiple 
+inhibitory receptors, reduced expansion capacity and competitive fitness, transcription factor 
+and gene expression patterns all compatible with in vivo generated exhausted CTL [10, 11]. 
+This phenotype was largely preserved when cells were rested for several days. Our in vitro 
+repeat peptide stimulation culture conditions include cytokines IL-7 and IL-15 which are 
+known to have anti-apoptotic potential and ensure T cells do not undergo activation induced 
+cell death (AICD) [52]. In particular, IL-15 has been shown to promote the survival of 
+
+PLOS Pathogens | https://doi.org/10.1371/journal.ppat.1008555 June 24, 2020                                                                 15 / 27
+```

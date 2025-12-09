@@ -1,0 +1,139 @@
+CONCLUSION AND OUTLOOK
+
+In addition to cannulation studies, which have for more than 
+six decades provided insights into the cellular composition of 
+lymph, newer techniques such as adoptive transfer studies, LN 
+egress studies or experiments performed in Kaede mice have 
+considerably accelerated our recent gain of knowledge regarding 
+the molecular mechanism of T cell trafficking through LVs. At 
+the same time, IVM studies have provided further insight into 
+the dynamics of these processes, by visualizing the single-cell 
+behavior and anatomic location of T cell migration toward, 
+across, and within LVs. While T cell egress from LNs into efferent 
+LVs has been quite intensively studied, we still know comparably 
+little about T cell migration into and within afferent LVs, or 
+about the subsequent T cell entry step into the parenchyma of 
+a dLN. In the future, it will be important to better characterize 
+the distinct T cell subsets migrating through afferent LVs and the 
+molecules involved in their trafficking. Moreover, the importance 
+of tissue-resident vs. recirculating memory T cells will need to 
+be addressed in more models. Given that CD4+ T cells constitute 
+the main cell types recirculating through afferent LVs, this will be 
+particularly relevant in the case of CD4+ T cell-dependent immu-
+nity. At the same time, it will also be important to carefully choose 
+the right animal models when studying these processes: the fact 
+that only few memory T cells are present in peripheral tissues of 
+laboratory mice held under optimized hygienic conditions, and 
+the lack of response under inflammatory vs. noninflammatory 
+conditions, might represent a limitation of current mouse models 
+(74), a situation that could be improved by using alternative 
+approaches. It is therefore not surprising that the importance of 
+circulating vs. tissue-resident T cells in immune recall responses.
+
+On the other hand, we also still know very little about the 
+potential function of recirculating T cells in dampening acute 
+immune responses, possibly via tissue exit of Treg or of T cells 
+with irrelevant antigenic specificities. Recent observations that 
+migration of DCs and neutrophils through afferent LVs involves 
+active semi-directed migration within lymphatic capillaries sug-
+gest that the migratory process itself is more complex and might 
+serve other purposes than the mere transport of cells to the 
+dLN. Thus, in spite of recent advances regarding the molecular 
+control of T cell traffic through LVs, we still know little about the 
+biological relevance of these processes, particularly with regard 
+to migration through afferent LVs. Ultimately, more insight into 
+both the molecular mechanisms and the relevance are expected 
+to contribute to identifying new targets for immunomodulatory 
+therapies.
+
+AUTHOR CONTRIBUTIONS
+
+All the authors jointly wrote the manuscript and prepared the 
+figures.
+
+ACKNOWLEDGMENTS
+
+The authors thank the members of the Halin lab for continual 
+discussions and support.
+
+FUNDING
+
+This study acknowledges financial support from the Swiss 
+National Science Foundation (SNF—grant 310030_156269).
+
+REFERENCES
+
+1. von Andrian UH, Mackay CR. Advances in immunology: T-cell func-
+tion and migration – two sides of the same coin. N Engl J Med (2000) 
+343(14):1020–34. doi:10.1056/NEJM200010053431407
+
+2. Masopust D, Schenkel JM. The integration of T cell migration, differentiation 
+and function. Nat Rev Immunol (2013) 13(5):309–20. doi:10.1038/nri3442
+
+3. Lewis SM, Reizis B, Lewis ED. Seminars review: T cell migration. Immunol 
+Cell Biol (2008) 86(3):226–31. doi:10.1038/icb.2008.7
+
+4. Li MO, Rudensky AY. T cell receptor signalling in the control of regulatory 
+T cell differentiation and function. Nat Rev Immunol (2016) 16(4):220–33. 
+doi:10.1038/nri.2016.26
+
+5. Bollman JL, Cain JC, Grindlay JH. Techniques for the collection of lymph 
+from the liver, small intestine, or thoracic duct of the rat. J Lab Clin Med 
+(1948) 33(10):1349–52.
+
+6. Hall JG, Morris B. The output of cells in lymph from the popliteal node of 
+sheep. Q J Exp Physiol Cogn Med Sci (1962) 47:360–9.
+
+7. Debes GF, Arnold CN, Nguyen N, Martins GA, DeKruyff RH, et al. 
+Chemokine receptor CCR7 required for T lymphocyte exit from peripheral 
+tissues. Nat Immunol (2005) 6(8):889–94. doi:10.1038/ni1238
+
+8. Malhotra D, Line CG, Gorman SP, Lensecki ML, Xu Y, Brinneman V, 
+et al. Lymphocyte egress from thymus and peripheral lymphoid organs is 
+dependent on S1P receptor 1. Nature (2004) 427(6972):355–60. doi:10.1038/
+nature02284
+
+9. Hallin C, Simone ML, Bonasio R, Gauguet JM, Mempel TR, Quackenbush E, 
+et al. The S1P-analog FTY720 preferentially modulates T-cell homing via 
+HEV: T-cell-expressed S1P1 amplifies integrin activation in peripheral lymph 
+nodes but not in Peyer patches. Blood (2005) 106(4):1314–22. doi:10.1182/
+blood-2004-09-3687
+
+10. Ledgerwood LG, Lal G, Zhang N, Garin A, Esses SJ, Ginhoux F, et al. The 
+sphingosine 1-phosphate receptor 1 agonist FTY720 modulates lymphocyte 
+entry of peripheral tissue: lymphocytes exit via afferent lymphatics. Nat 
+Immunol (2008) 9(1):42–53. doi:10.1038/ni1534
+
+11. Geherin SA, Wilson RD, Jennrich S, Debes GF. CXCR4 is dispensable for 
+T cell egress from chronically inflamed skin via the afferent lymph. PLoS One 
+(2014) 9(4):e95626. doi:10.1371/journal.pone.0095626
+
+12. Brown MN, Fintushel SR, Lee MH, Jennrich S, Geherin SA, Hay JB, et al. 
+Chemoattractant receptors and lymphocyte egress from extralymphoid 
+tissue: changing requirements during the course of inflammation. J Immunol 
+(2010) 185(8):4873–82. doi:10.4049/jimmunol.1000676
+
+13. Rantakari P, Auvinen K, Jäppinen N, Kapraali M, Kärkkäinen J, Karikoski M, 
+et al. The endothelial protein PLVAP in lymphatics controls the entry of lym-
+phocytes and antigens into lymph nodes. Nat Immunol (2015) 16(4):386–96. 
+doi:10.1038/ni.3101
+
+14. Bianchi R, Teijeira A, Proulx ST, Christiansen AJ, Seidel CD, Rulicke T, et al. 
+A transgenic Prox1-Cre-tdTomato reporter mouse for lymphatic 
+vessel research. PLoS One (2015) 10(4):e0122974. doi:10.1371/journal.
+pone.0122974
+
+15. Choi I, Chung HK, Ramu S, Lee HN, Kim KE, Lee S, et al. Visualization of 
+lymphatic vessels by Prox1-promoter directed GFP reporter in a bacterial 
+artificial chromosome-based transgenic mouse. Blood (2011) 117(1):362–5. 
+doi:10.1182/blood-2010-07-298582
+
+16. Haegerling R, Pollmann C, Kremer L, Andresen V, Kiefer F. Intravitreal 
+two-photon microscopy of lymphatic vessel development and function using 
+a transgenic Prox1 promoter-directed mOrange2 reporter mouse. Biochem 
+Soc Trans (2011) 39(6):1674–81. doi:10.1042/BST20110722
+
+17. Truman LA, Bentley KL, Smith EC, Massaro SA, Gonzalez DG, 
+Haberman AM, et al. ProxTom lymphatic vessel reporter mice reveal Prox1 
+
+Frontiers in Immunology | www.frontiersin.org 10 December 2016 | Volume 7 | Article 613

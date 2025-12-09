@@ -1,0 +1,80 @@
+```plaintext
+General Thoracic Surgery                                                                                   Merritt et al
+
+GTS
+
+A. Untreated B16                                      B. B16 + rmIFNγ
+
+Red fluorescence                                      Red fluorescence
+10^4                                                  10^4
+        58.5  14.5                                           38.7  29.4
+10^3                                                  10^3
+
+10^2                                                  10^2
+
+10^1                                                  10^1
+        3.96  23.1                                           7.4   24.6
+10^0                                                  10^0
+    10^0  10^1  10^2  10^3  10^4                          10^0  10^1  10^2  10^3  10^4
+        Green fluorescence                                  Green fluorescence
+
+C. B16 + rmIFNγ + MHC-I MAb                       D. Summary
+
+Red fluorescence                                      % Bound CD8+ CTLs
+10^4                                                  100
+        48.3  17.4
+10^3                                                   80
+
+10^2                                                   60
+
+10^1                                                   40
+        9.38  24.4
+10^0                                                   20
+    10^0  10^1  10^2  10^3  10^4                           0
+        Green fluorescence                                  B16   B16   B16/rmIFNγ
+                                                                Treatment group
+
+Figure 3. Up-regulation of H-2Kb MHC class I expression enhances the binding of CD8+ CTLs to B16.F10 tumor
+cells in a conjugate-formation assay. Naive B16.F10 cells or rmIFNγ-exposed B16.F10 cells were stained with
+hydroethidine (red), and tumor-specific CD8+ CTLs were stained with sulfofluoresceindiacetate (green). The 2 cell
+populations were then cocultured and subjected to 2-color flow cytometry. The binding of CD8+ cells and B16.F10
+cells is defined as the double positive population in the right upper quadrant. A to C, Cytograms from a
+representative experiment of 3 independent experiments. A, Naive B16.F10 cells cocultured with CD8+ CTLs. B,
+rmIFNγ-exposed B16.F10 cells cocultured with CD8+ CTLs. C, rmIFNγ-exposed B16.F10 cells cocultured with CTLs
+and anti-MHC class I MAb. D, Summary data from 3 separate experiments performed. The % binding is defined as:
+Binding (%) = (no. of green-red double positive cells)/(no. of green positive cells) × 100. Each bar represents the
+mean ± SEM.
+
+Discussion
+Lung cancer is responsible for more cancer deaths than any
+other malignant tumor in the United States.24 Fewer than
+15% of patients presenting with lung cancer will ever be
+cured of their disease, with the vast majority of patients
+succumbing to distant metastasis,24 implying that more ef-
+fective systemic therapy is a priority for these patients.
+Augmentation of antitumor immunity represents a treatment
+strategy that has the potential to be both tumor-specific as
+well as systemic in nature; however, reports describing its
+use for patients with lung cancer have not conclusively
+demonstrated efficacy.25 The antitumor immune response
+has traditionally been divided into afferent (stimulatory) and
+efferent (effector) limbs, with MHC class I molecules play-
+ing an integral role in both limbs.1-3 One mechanism by
+which tumor cells may evade the immune response is by
+down-regulating the expression of MHC class I on their
+surface, a process that could potentially interfere with both
+CTL generation (afferent limb) as well as subsequent rec-
+ognition and binding of CTLs to target tumor cells (effector
+limb). This phenomenon is evident in human lung cancer
+cell lines, where as many as 33% to 43% have lost MHC
+class I expression.4,7,10 In our laboratory, which is focused
+on the use of gene transfer to induce antitumor immunity,
+we have observed that active immunotherapy strategies are
+significantly less effective in murine tumor models that
+express little or no MHC class I, exemplified by the meta-
+static variant of the B16 melanoma, B16.F10.11,12 Given
+this information, the purpose of the present study was to
+determine whether MHC class I expression could be en-
+
+360 The Journal of Thoracic and Cardiovascular Surgery • February 2004
+```

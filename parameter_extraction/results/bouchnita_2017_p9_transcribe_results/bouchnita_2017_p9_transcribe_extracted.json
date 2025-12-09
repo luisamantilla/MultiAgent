@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and their values from the text:\n\n1. **Number of CD4\\(^+\\) T cells**:\n   - \\(D_{IFN} = D_{IL}\\): 27,544\n   - \\(D_{IFN} = 10D_{IL}\\): 27,040\n\n2. **Number of CD8\\(^+\\) T cells**:\n   - \\(D_{IFN} = D_{IL}\\): 15,194\n   - \\(D_{IFN} = 10D_{IL}\\): 14,139\n\n3. **Number of APCs**:\n   - \\(D_{IFN} = D_{IL}\\): 4,749\n   - \\(D_{IFN} = 10D_{IL}\\): 5,293\n\n4. **The infection load**:\n   - \\(D_{IFN} = D_{IL}\\): 16.98\n   - \\(D_{IFN} = 10D_{IL}\\): 19.31\n\n5. **Number of \\(N_{ef}\\)**:\n   - \\(D_{IFN} = D_{IL}\\): 87,849\n   - \\(D_{IFN} = 10D_{IL}\\): 80,967\n\nThese values are cumulative numbers of key variables of the model over 113 days post-infection."
+}

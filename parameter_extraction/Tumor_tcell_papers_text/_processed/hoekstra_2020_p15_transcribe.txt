@@ -1,0 +1,45 @@
+```plaintext
+NATURE CANCER                                                                                      ARTICLES
+
+a
+
+Ag Ag+
+
+100 μm
+
+b
+
+Distance from nearest Ag+ cell (μm)
+
+3000
+2500
+2000
+1500
+1000
+500
+0
+
+c
+
+Percentage of Ag IGS cells in distance from nearest Ag+ cell
+
+100
+75
+50
+25
+0
+
+0-25  75-100  150-175  225-250  300-325  375-400  450-475  525-550  625-650
+      25-50   100-125  175-200  250-275  325-350  400-425  475-500  550-575
+             125-150  200-225  275-300  350-375  425-450  500-525  575-600
+                                                                      600-625
+
+Distance (μm)
+
+Extended Data Fig. 3 | Distance from Ag- IGS cells to the nearest Ag+ cell upon tumor cell co-injection. Analysis of the distance between Ag- IGS tumor 
+cells and the nearest Ag+ tumor cell for the imaging experiments depicted in Fig. 3. a, Representative image of a tumor with intermingled Ag- and Ag+IGS cells. 
+Scale bar is 100 μm. b, Plots show the min., max., and mean of 25th and 75th percentile plus the median for n=4 mice. c, Percentage of Ag IGS reporter cells 
+in the indicated distance bins to the nearest Ag+ cell, depicted mean plus SD for n=4 mice. Data obtained from three independent experiments.
+
+NATURE CANCER | www.nature.com/natcancer
+```

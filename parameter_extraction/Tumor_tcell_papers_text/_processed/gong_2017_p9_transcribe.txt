@@ -1,0 +1,81 @@
+Downloaded from http://rsif.royalsocietypublishing.org/ on September 20, 2017
+
+\[
+\text{Pr} = e^{-\lambda(R-r)}
+\]
+
+(a) Pr spatial distribution
+
+\[
+\begin{align*}
+\lambda &= 1/25 \, \mu\text{m}^{-1} \\
+\beta &= 300 \, \mu\text{m} \\
+\lambda &= 1/3200 \, \mu\text{m}^{-1}
+\end{align*}
+\]
+
+(b)
+
+\[
+\begin{align*}
+\lambda &= 1/3200 \, \mu\text{m}^{-1} \\
+\lambda &= 1/1600 \, \mu\text{m}^{-1} \\
+\lambda &= 1/800 \, \mu\text{m}^{-1} \\
+\lambda &= 1/400 \, \mu\text{m}^{-1} \\
+\lambda &= 1/200 \, \mu\text{m}^{-1} \\
+\lambda &= 1/100 \, \mu\text{m}^{-1} \\
+\lambda &= 1/25 \, \mu\text{m}^{-1}
+\end{align*}
+\]
+
+(c) pretreatment cancer cell counts
+
+\[
+\begin{array}{c|c}
+1/\lambda (\mu\text{m}) & \text{Counts} \\
+\hline
+3200 & 5000 \\
+1600 & 10000 \\
+800 & 15000 \\
+400 & 20000 \\
+200 & 25000 \\
+100 & 30000 \\
+50 & 35000 \\
+25 & 40000 \\
+\end{array}
+\]
+
+(d) pretreatment PDL1\(^+\) cancer cell counts
+
+\[
+\begin{array}{c|c}
+1/\lambda (\mu\text{m}) & \text{Counts} \\
+\hline
+3200 & 0 \\
+1600 & 500 \\
+800 & 1000 \\
+400 & 1500 \\
+200 & 2000 \\
+100 & 2500 \\
+50 & 3000 \\
+25 & 3500 \\
+\end{array}
+\]
+
+Figure 7. Tumour development shows insensitivity to distribution of T-cell recruitment points. (a,b) Parameter \(\lambda\) is varied from 1/3200 to 1/25 \(\mu\text{m}^{-1}\) to control how fast the density of T-cell entry points drops going inward from the boundary (300 \(\mu\text{m}\)). (c) Cancer cell counts at day 30 plotted versus 1/\(\lambda\). Red squares indicate mean and blue dots indicate outliers (1.5 IQR or more outside of Q1 or Q3). (d) PDL1\(^+\) cancer cell counts at day 30 plotted versus 1/\(\lambda\).
+
+---
+
+low mutational burden | high mutational burden
+--- | ---
+(a) | (b)
+(c) | (d)
+
+T cell: ![blue] effector ![green] cytotoxic ![red] suppressed  
+cancer cell: ![brown] PDL1\(^-\) ![orange] PDL1\(^+\)
+
+Figure 8. (a–d) Individual variation of pretreatment patterns in case where simulated tumour core is well perfused (\(\lambda = 1/1600 \, \mu\text{m}^{-1}\)). Snapshots represent tumour cross sections at day 30 from patients with different tumour neoantigen characteristics.
+
+---
+
+rsif.royalsocietypublishing.org J. R. Soc. Interface 14: 20170230

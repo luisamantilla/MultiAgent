@@ -1,0 +1,61 @@
+from reportlab.lib.pagesizes import letter, landscape
+from reportlab.lib import colors
+from reportlab.platypus import SimpleDocTemplate, Table, TableStyle, Paragraph, Spacer
+from reportlab.lib.styles import getSampleStyleSheet
+
+# Data
+data = [
+    ["Query", "Correct Parameter Match", "Match Type", "Numeric / Symbolic Value Present", "Comments"],
+    ["Infection rate constant", "Infection rate", "Exact match", "Yes (βvI)",
+     "Equation-form parameter; correctly retrieved from the equations section."],
+    ["Viral decay rate", "Decay rate of Virus v", "Exact match", "Yes (μv + κvθ + gvn + gvs)",
+     "Correct biological rate term; symbolic ODE form captured."],
+    ["Initial viral load", "Initial viral load", "Exact match", "Yes (10–100; [1, 10, 100, 1000, 10000])",
+     "Appears in both text and figures; quantitative data captured."],
+    ["Infection fraction parameter", "Initial infection fraction", "Exact match", "Yes (0.1%, 0.5%, 1%, 5%)",
+     "Strong coverage across multiple pages; consistent numeric results."],
+    ["Rate of epithelial cell death", "Uninfected death rate", "Near match", "Yes (μH + dD)",
+     "Correct conceptual target with slightly different phrasing."],
+    ["Viral diffusion coefficient", "Extracellular virus diffusion coefficient", "Exact match", "Yes (0.019 μm²/s)",
+     "Numeric coefficient retrieved accurately from tables."],
+    ["Rate of virus diffusion", "Extracellular virus diffusion coefficient", "Exact match", "Yes (0.019 μm²/s)",
+     "Same as above; consistent retrieval across phrasing variations."],
+    ["Virus diffusion constant", "Extracellular virus diffusion coefficient", "Exact match", "Yes (0.019 μm²/s)",
+     "Stable across wording changes, showing semantic robustness."],
+    ["Virus diffusion rate parameter", "Extracellular virus diffusion coefficient", "Exact match", "Yes (0.019 μm²/s)",
+     "Same parameter recovered despite extra query tokens."],
+    ["Viral diffusion coefficient (synonyms)", "Extracellular virus diffusion coefficient", "Exact match",
+     "Yes (0.019 μm²/s)", "Synonym expansion works correctly; consistent accurate retrieval."]
+]
+
+# PDF setup (landscape orientation)
+pdf_path = "query_results_summary_landscape.pdf"
+doc = SimpleDocTemplate(pdf_path, pagesize=landscape(letter))
+styles = getSampleStyleSheet()
+styleN = styles["Normal"]
+styleN.wordWrap = 'CJK'  # enables text wrapping
+
+# Wrap long text using Paragraphs
+formatted_data = []
+for row in data:
+    formatted_row = [Paragraph(str(cell), styleN) for cell in row]
+    formatted_data.append(formatted_row)
+
+title = Paragraph("Comparative Query–Parameter Summary", styles["Heading2"])
+spacer = Spacer(1, 12)
+
+# Adjusted column widths for landscape layout
+table = Table(formatted_data, repeatRows=1, colWidths=[120, 150, 90, 130, 300])
+
+# Style
+table.setStyle(TableStyle([
+    ("GRID", (0, 0), (-1, -1), 0.25, colors.black),
+    ("BACKGROUND", (0, 0), (-1, 0), colors.lightgrey),
+    ("FONTNAME", (0, 0), (-1, 0), "Helvetica-Bold"),
+    ("FONTSIZE", (0, 0), (-1, -1), 9),
+    ("VALIGN", (0, 0), (-1, -1), "TOP"),
+    ("ALIGN", (0, 0), (-1, -1), "LEFT"),
+]))
+
+doc.build([title, spacer, table])
+print(f"✅ PDF saved to: {pdf_path}")

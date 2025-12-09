@@ -1,0 +1,20 @@
+1 Material & Methods
+
+1.1 Box S1: Summary of bleach-chase equations
+
+(1) Protein removal rate, \(\alpha\), is the sum of intra-cellular degradation, \(\alpha_{deg}\), and the dilution rate, \(\alpha_{dil}\). (2) Protein levels, \(P(t)\), are dictated by the balance between production rate, \(\beta(t)\), and the removal rate, \(\alpha(t) \cdot P(t)\). Note that production and removal may also implicitly depend on mRNA and protein levels. (3) The in-vivo half-life of a protein, \(T_{1/2}\), is inversely related to the removal rate. This equation holds if \(\alpha\) is constant. Note that the effective half-life in living cells depends on both degradation and dilution. (4) The non-fluorescent protein fraction (the difference between the fluorescence of bleached and unbleached cells) decays in time according to the removal rate. This is obtained by subtracting and solving Eq. 2 for the bleached and unbleached cells, (see Methods). \(P(t)\) and \(P_v(t)\) are the fluorescence levels of the unbleached and bleached cells, respectively; \(P_0\) and \(P_{0v}\) are the fluorescence levels of the unbleached and bleached at an initial time point, respectively. Thus, the slope of the non-fluorescent protein dynamics plotted on a semi-logarithmic plot is equal to the removal rate \(\alpha\). If the removal rate, \(\alpha\), varies with time, the same equation applies, with \(\alpha \cdot t\) replaced by \(\int_0^t \alpha(t') \, dt'\).
+
+\[
+\begin{array}{|l|}
+\hline
+\text{Box S1 – Equations (Bleach-chase)} \\
+\hline
+(1) \quad \alpha = \alpha_{deg} + \alpha_{dil} \\
+(2) \quad \frac{dP(t)}{dt} = \beta(t) - \alpha(t) \cdot P(t) \\
+(3) \quad T_{1/2} = \frac{\ln(2)}{\alpha} \\
+(4) \quad \ln(P(t) - P_v(t)) = \ln(P_0 - P_{0v}) - \alpha \cdot t \\
+\hline
+\end{array}
+\]
+
+2

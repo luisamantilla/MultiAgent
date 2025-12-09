@@ -1,0 +1,135 @@
+```plaintext
+68 Asselin-Paturel C, Boonstra A, Dalod M, Durand I, Yessaid N, Dezutter-Dambuyant C 
+   et al. Mouse type I IFN-producing cells are immature APCs with plasmacytoid 
+   morphology. Nat Immunol 2001; 2: 1144–1150.
+69 Nikolic T, Dingjan GM, Leenen PJ, Hendriks RW. A subfraction of B220(+) cells in 
+   murine bone marrow and spleen does not belong to the B cell lineage but has dendritic 
+   cell characteristics. Eur J Immunol 2002; 32: 686–692.
+70 Siegal FP, Kadowaki N, Shodell M, Fitzgerald-Bocarsly PA, Shah K, Ho S et al. The 
+   nature of the principal type 1 interferon-producing cells in human blood. Science 
+   1999; 284: 1835–1837.
+71 Blom B. Isolation and characterization of plasmacytoid dendritic cells from Flt3 
+   ligand- and granulocyte-macrophage colony-stimulating factor- treated mice. Blood 
+   2001; 98: 3520–3526.
+72 Kadowaki N, Ho S, Antonenko S, Malefyt RW, Kastelein RA, Bazan F et al. Subsets of 
+   human dendritic cell precursors express different Toll-like receptors and respond to 
+   different microbial antigens. J Exp Med 2001; 194: 863–869.
+73 Jirmo AC, Napolitani G, Colonna M, Sallusto F, Lanzavecchia A. Specialization and 
+   complementarity in microbial molecule recognition by human myeloid and plasma-
+   cytoid dendritic cells. Eur J Immunol 2001; 31: 3388–3393.
+74 Krug A, Towarowski A, Britsch S, Rothenfusser S, Hornung V, Jahrsdorfer B et al. Toll-like 
+   receptor expression reveals CpG DNA as a unique microbial stimulus for plasmacytoid 
+   dendritic cells which synergizes with CD40 ligand to induce high amounts of IL-12. 
+   Eur J Immunol 2001; 31: 3026–3037.
+75 Diebold SS, Kaisho T, Hemmi H, Akira S, Reis e Sousa C. Innate antiviral responses by 
+   means of TLR7-mediated recognition of single-stranded RNA. Science 2004; 303: 
+   1529–1531.
+76 Proietto AI, O’Keeffe M, Gartlan K, Wright MD, Shortman K, Wu L et al. Dendritic cell 
+   production of inflammatory chemokines by murine dendritic cell subsets. Immuno-
+   biology 2004; 209: 163–172.
+77 Vremec D, Hausmann K, Tadeo S, Nishiwaki T, Matsuo N, Nakano S et al. Plasmacy-
+   toid DCs, but lymph node DCs do not induce anti-HSV CTLs. J Exp Med 2005; 202: 
+   425–435.
+78 Choi JH, Do Y, Cheong C, Koh H, Boscardin SB, Oh YS et al. Identification of a 
+   lymphoid tissue CD8 T cells to stimulate clonal expansion and differentiation of 
+   dendritic cells. Blood 2005; 174: 4465–4469.
+79 Jung S, Unutmaz D, Wong P, Sano G, De los Santos K, Sparwasser T et al. In vivo 
+   depletion of CD11c(+) dendritic cells abrogates priming of CD8(+) T cells by exogenous 
+   cell-associated antigens. Immunity 2002; 17: 211–220.
+80 Krug A, Veeraswamy R, Pekosz A, Kanagawa O, Unanue ER, Colonna M. Inter-
+   feron-producing cells fail to induce proliferation of naive T cells but can promote 
+   expansion and helper 1 differentiation of antigen-experienced unpolarized cells. 
+   J Exp Med 2003; 197: 899–906.
+81 Sato K, Suematsu M, Watanabe T, Ueno H. Development of murine plasmacytoid dendritic 
+   cells. Nat Immunol 2003; 4: 863–870.
+82 Fonteneau JF, Larsson M, Beuclas K, Yadid M, O’Keeffe M et al. The thymic and 
+   postnatal development of plasmacytoid dendritic cells. J Immunol 2003; 170: 
+   5920–5928.
+83 Miyashita M, Matsuno K, Yang N, Nishiwaki T, Kitabatake M, Iwasaki H et al. Evidence 
+   for recruitment of plasmacytoid dendritic cell precursors to inflamed lymph nodes 
+   through high endothelial venules. J Leukoc Biol 2005; 77: 1103–1111.
+84 Penna G, Sozzani S, Adorini L. Cutting edge: selective usage of chemokine receptors 
+   by plasmacytoid dendritic cells. J Immunol 2001; 167: 1862–1866.
+85 Matsui T, Connolly J, Kumaki Y, Maki A, Ishii KJ, Klein J et al. Smad3/Smad4 in acti-
+   vation of murine plasmacytoid dendritic cells defined through the 
+   expression of an inhibitory NK receptor, Ly49Q. J Immunol 2005; 174: 
+   6657–6662.
+86 Toyama-Sorimachi N, Ohashi Y, Onoda A, Tsunoda Y, Iodo K, Ichikawa M et al. An 
+   inhibitory NK receptor Ly49Q is expressed on subsets of dendritic cells in all cellular 
+   maturation- and cytokine stimulation-dependent manners. J Immunol 2005; 174: 
+   4621–4629.
+87 Kamogawa-Schifter Y, Ohkawa J, Namiki S, Arai N, Arai K, Liu Y. Ly49Q defines 2 DC 
+   subsets in mice. Blood 2005; 105: 2787–2792.
+88 Diao J, Winter E, Chen W, Cantin C, Cattrall M. Characterization of distinct 
+   conventional and plasmacytoid dendritic cell-committed precursors in murine bone 
+   marrow. J Immunol 2004; 173: 1826–1833.
+89 Bendriss-Vermare N, Barthelemy C, Durand I, Bruand C, Dezutter-Dambuyant C, 
+   Moulin N et al. Human thymus contains IFN-alpha-producing CD11c(–) myeloid, 
+   CD11c(+) myeloid, and mature plasmacytoid dendritic cells. J Immunol 2001; 167: 
+   833–844.
+90 Wang YH, Liu YJ. Mysterious origin of plasmacytoid dendritic cell precursors. 
+   Immunity 2004; 20: 193–195.
+91 Smitheman RL, Bales ES, Iwasaki H, Mizuno H, Shu D, Traver D et al. Plasmacytoid 
+   dendritic cells: active bystander antigenic precursors irrespective of their 
+   cellular origin. Immunity 2004; 21: 45–53.
+92 Res PC, Couwenberg F, Vyth-Dresea FA, Spits H. Expression of pTalpha mRNA in a 
+   committed dendritic cell precursor in the human thymus. Blood 1999; 94: 
+   2647–2657.
+93 Langerhans P. Über die Nerven der menschlichen Haut. Arch Anat, vol. 4, 1868.
+94 Stingl G, Wolff-Schreiner EC, Pichler WJ, Gschnait F, Knapp W, Wolff K. Epidermal 
+   Langerhans cells bear Fc and C3 receptors. Nature 1977; 268: 245–246.
+
+95 Rowden G, Lewis MG, Sullivan AK. Ia antigen expression on human epidermal 
+   Langerhans cells. Nature 1977; 268: 247–248.
+96 Rowden G, Lewis MG, Sullivan AK, Patterson PA. Epidermal Langerhans cells express 
+   Ia antigens. J Invest Dermatol 1977; 68: 248–250.
+97 Silberberg I, Baer RL, Rosenthal SA. The role of Langerhans cells in allergic contact 
+   hypersensitivity: A review of findings in man and guinea pigs. J Invest Dermatol 1976; 
+   66: 210–217.
+98 Stingl G, Katz SI, Clement L, Green I, Shevach EM. Immunologic functions of Ia-
+   bearing epidermal Langerhans cells. J Immunol 1978; 121: 2005–2013.
+99 Stingl G, Katz SI, Shevach EM, Rosenthal AS, Green I. Analogous functions of 
+   macrophages and Langerhans cells in the initiation of the immune response. J Invest 
+   Dermatol 1978; 71: 59–64.
+100 Germain C, Gnjatic S, Shevach EM, Katz SI. Antigen presentation and allogeneic 
+    stimulation by Langerhans cells. J Invest Dermatol 1980; 75: 44–45.
+101 Schuler G, Steinman RM. Murine epidermal Langerhans cells mature into potent 
+    immunostimulatory dendritic cells in vitro. J Exp Med 1985; 161: 526–546.
+102 Allan RS, Smith CM, Belz GT, van Lint AL, Wakim LM, Heath WR et al. Epidermal viral 
+    infection induced by CD8alpha+ dendritic cells but not by Langerhans cells. Science 
+    2003; 301: 1925–1928.
+103 Zhao X, Deak E, Soderberg K, Linehan M, Spezzano D, Zhu J et al. Viral and submucosal 
+    dendritic cells, but not Langerhans cells, induce protective Th1 responses to herpes 
+    simplex virus. J Exp Med 2003; 197: 153–162.
+104 de Witte L, Nabatov A, Pion M, Fluitsma D, de Jong MA, de Gruijl T et al. Langerin 
+    is a natural barrier to HIV-1 transmission by Langerhans cells. Nat Med 2007; 13: 
+    367–371.
+105 Kissenpfennig A, Henri S, Dubois B, Laplace-Builhe C, Perrin P, Romani N et al. 
+    Dynamics and function of Langerhans cells in vivo. Immunity 2005; 22: 
+    643–654.
+106 Romani N, Bronte V, Tripp CH, Flacher V, Douillard P, Stoitzner P et al. Epidermal 
+    Langerhans cells in vivo: a paradigm of dendritic cell migration. Eur J Immunol 2003; 
+    33: 2317–2324.
+107 Kissenpfennig A, Henri S, Dubois B, Laplace-Builhe C, Perrin P, Romani N et al. 
+    Dynamics and function of Langerhans cells in vivo. Immunity 2005; 22: 
+    643–654.
+108 Romani N, Bronte V, Tripp CH, Flacher V, Douillard P, Stoitzner P et al. Epidermal 
+    Langerhans cells in vivo: a paradigm of dendritic cell migration. Eur J Immunol 2003; 
+    33: 2317–2324.
+109 Kissenpfennig A, Henri S, Dubois B, Laplace-Builhe C, Perrin P, Romani N et al. 
+    Dynamics and function of Langerhans cells in vivo. Immunity 2005; 22: 
+    643–654.
+110 Romani N, Bronte V, Tripp CH, Flacher V, Douillard P, Stoitzner P et al. Epidermal 
+    Langerhans cells in vivo: a paradigm of dendritic cell migration. Eur J Immunol 2003; 
+    33: 2317–2324.
+111 Kissenpfennig A, Henri S, Dubois B, Laplace-Builhe C, Perrin P, Romani N et al. 
+    Dynamics and function of Langerhans cells in vivo. Immunity 2005; 22: 
+    643–654.
+112 Romani N, Bronte V, Tripp CH, Flacher V, Douillard P, Stoitzner P et al. Epidermal 
+    Langerhans cells in vivo: a paradigm of dendritic cell migration. Eur J Immunol 2003; 
+    33: 2317–2324.
+113 Kissenpfennig A, Henri S, Dubois B, Laplace-Builhe C, Perrin P, Romani N et al. 
+    Dynamics and function of Langerhans cells in vivo. Immunity 2005; 22: 
+    643–654.
+114 Romani N, Bronte V, Tripp CH, Flacher V, Douillard P, Stoitzner P et al. Epidermal 
+    Langerhans cells in vivo: a paradigm of dendritic cell migration. Eur

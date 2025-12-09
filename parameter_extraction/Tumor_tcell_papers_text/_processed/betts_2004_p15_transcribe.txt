@@ -1,0 +1,52 @@
+20. Detection of T-Cell Degranulation: CD107a and b
+
+Griffiths, G. M. (1997). Protein sorting and secretion during CTL killing. Semin. Immunol. 9, 109–115.  
+Guarnieri, F. G., Arterburn, L. M., Penno, M. B., Chao, Y., and August, J. T. (1993). The motif Tyr-X-  
+X-hydrophobic residue mediates lysosomal membrane targeting of lysosome-associated membrane  
+protein 1. J. Biol. Chem. 268, 1941–1946.  
+Henkart, P. A. (1994). Lymphocyte-mediated cytotoxicity: Two pathways and multiple effector  
+molecules. Immunity 1, 343–346.  
+Honig, S., and Hunziker, W. (1995). Cytoplasmic determinants involved in direct lysosomal sorting,  
+endocytosis, and basolateral targeting of rat lgp120 (lamp-1) in MDCK cells. J. Cell Biol. 128, 321–332.  
+Jung, T., Schauer, U., Heusser, C., Neumann, C., and Rieger, C. (1993). Detection of intracellular  
+cytokines by flow cytometry. J. Immunol. Methods 159, 197–207.  
+Kannan, K., Stewart, R. M., Bounds, W., Carlsson, S. R., Fukuda, M., Betzing, K. W., and  
+Holcombe, R. F. (1996). Lysosome-associated membrane proteins 1–LAMP1 (CD107a) and h-  
+LAMP2 (CD107b) are activation-dependent cell surface glycoproteins in human peripheral blood  
+mononuclear cells which mediate cell adhesion to vascular endothelium. Cell Immunol. 171, 10–19.  
+Kern, F., Surel, I. P., Brock, C., Freistedt, B., Radtke, H., Scheffold, A., Blasczyk, R., Reinke, P.,  
+Schneider-Mergener, J., Radbruch, A., Walden, P., and Volk, H. D. (1998). T-cell epitope mapping  
+by flow cytometry. Nat. Med. 4, 975–978.  
+Lecoeur, H., Fevrier, M., Garcia, S., Riviere, Y., and Gougeon, M. L. (2001). A novel flow cytometric  
+assay for quantitation and multiparametric characterization of cell-mediated cytotoxicity.  
+J. Immunol. Methods 253, 177–187.  
+Lecoeur, H., Ledru, E., Prevost, M. C., and Gougeon, M. L. (1997). Strategies for phenotyping  
+apoptotic peripheral human lymphocytes comparing ISNT, annexin-V and 7-AAD cytofluorometric  
+staining methods. J. Immunol. Methods 209, 111–123.  
+Lee, C. L., Lee, S. H., Jay, F. T., and Rozee, K. R. (1990). Immunobiological study of interferon-  
+gamma-producing cells after staphylococcal enterotoxin B stimulation. Immunology 70, 94–99.  
+Liu, L., Chahroudi, A., Silvestri, G., Wernett, M. E., Kaiser, W. J., Safrit, J. T., Komoriya, A.,  
+Altman, J. D., Packard, B. Z., and Feinberg, M. B. (2002). Visualization and quantification of T  
+cell-mediated cytotoxicity using cell-permeable fluorogenic caspase substrates. Nat. Med. 8, 185–189.  
+Mollenhauer, H. H., Morre, D. J., and Rowe, L. D. (1990). Alteration of intracellular traffic by monensin:  
+mechanism, specificity and relationship to toxicity. Biochim. Biophys. Acta. 1031, 225–246.  
+Nagata, S., and Golstein, P. (1995). The Fas death factor. Science 267, 1449–1456.  
+O’Neil-Andersen, N. J., and Lawrence, D. A. (2002). Differential modulation of surface and  
+intracellular protein expression by T cells after stimulation in the presence of monensin or brefeldin  
+A. Clin. Diagn. Lab. Immunol. 9, 243–250.  
+Peters, P. J., Borst, J., Oorschot, V., Fukuda, M., Krahenbuhl, O., Tschopp, J., Slot, J. W., and Geuze,  
+H. J. (1991). Cytotoxic T lymphocyte granules are secretory lysosomes, containing both perforin and  
+granzymes. J. Exp. Med. 173, 1099–1109.  
+Ritchie, D. S., Hermans, I. F., Lumsden, J. M., Scanga, C. B., Roberts, J. M., Yang, J., Kemp, R. A.,  
+and Ronchese, F. (2000). Dendritic cell elimination as an assay of cytotoxic T lymphocyte activity in  
+vivo. J. Immunol. Methods 246, 109–117.  
+Roederer, M. (2003). Methods for fluorescent conjugation of monoclonal antibodies. Available at:  
+www.drmr.com/abcon.  
+Roederer, M., Bowser, R., and Murphy, R. F. (1987). Kinetics and temperature dependence of  
+exposure of endocytosed material to proteolytic enzymes and low pH: Evidence for a maturation  
+model for the formation of lysosomes. J. Cell Physiol. 131, 200–209.  
+Rubio, V., Stuge, T. B., Singh, N., Betts, M. R., Weber, J. S., Roederer, M., and Lee, P. P. (2003).  
+Ex vivo identification, isolation and analysis of tumor-cytolytic T cells. Nat. Med. 9, 1377–1382.  
+Sarin, A., Williams, M. S., Alexander-Miller, M. A., Berzofsky, J. A., Zacharchuk, C. M., and  
+Henkart, P. A. (1997). Target cell lysis by CTL granule exocytosis is independent of ICE/Ced-3  
+family proteases. Immunity 6, 209–215.

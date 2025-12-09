@@ -1,0 +1,38 @@
+Mathematical Modeling of Interleukin-27 Induction of Anti-Tumor T Cells Response
+==========================================================================
+
+Kang-Ling Liao\*1, Xue-Feng Bai2, Avner Friedman1,3
+
+1 Mathematical Biosciences Institute, The Ohio State University, Columbus, Ohio, United States of America, 2 Department of Pathology and Comprehensive Cancer Center, The Ohio State University, Columbus, Ohio, United States of America, 3 Department of Mathematics, The Ohio State University, Columbus, Ohio, United States of America
+
+Abstract
+----------
+
+Interleukin-12 is a pro-inflammatory cytokine which promotes Th1 and cytotoxic T lymphocyte activities, such as Interferon-γ secretion. For this reason Interleukin-12 could be a powerful therapeutic agent for cancer treatment. However, Interleukin-12 is also excessively toxic. Interleukin-27 is an immunoregulatory cytokine from the Interleukin-12 family, but it is not as toxic as Interleukin-12. In recent years, Interleukin-27 has been considered as a potential anti-tumor agent. Recent experiments in vitro and in vivo have shown that cancer cells transfected with IL-27 activate CD8\+ T cells to promote the secretion of anti-tumor cytokines Interleukin-10, although, at the same time, IL-27 inhibits the secretion of Interferon-γ by CD8\+ T cells. In the present paper we develop a mathematical model based on these experimental results. The model involves a dynamic network which includes tumor cells, CD8\+ T cells and cytokines Interleukin-27, Interleukin-10 and Interferon-γ. Simulations of the model show how Interleukin-27 promotes CD8\+ T cells to secrete Interleukin-10 to inhibit tumor growth. On the other hand Interleukin-27 inhibits the secretion of Interferon-γ by CD8\+ T cells which somewhat diminishes the inhibition of tumor growth. Our numerical results are in qualitative agreement with experimental data. We use the model to design protocols of IL-27 injections for the treatment of cancer and find that, for some special types of cancer, with a fixed total amount of drug, within a certain range, continuous injection has better efficacy than intermittent injections in reducing the tumor load while the treatment is ongoing, although the decrease in tumor load is only temporary.
+
+Citation: Liao K-L, Bai X-F, Friedman A (2014) Mathematical Modeling of Interleukin-27 Induction of Anti-Tumor T Cells Response. PLoS ONE 9(3): e91844. doi:10.1371/journal.pone.0091844
+
+Editor: Timothy W. Secomb, University of Arizona, United States of America
+
+Received: April 9, 2013; Accepted: February 17, 2014; Published: March 14, 2014
+
+Copyright: © 2014 Liao et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+Funding: This work is supported, in part, by the National Science Council of Taiwan, ROC (http://web1.nsc.gov.tw/) under No. NSC 101-2917-I-564-062; the National Science Foundation (http://www.nsf.gov/) under Agreement DMS 0931642; the National Cancer Institute (http://www.cancer.gov/) under R01CA148427; and the American Cancer Society (http://www.cancer.org/) under RSG-09-188-01-LIB. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+
+Competing Interests: The authors have declared that no competing interests exist.
+
+\* E-mail: liao.92@mbi.osu.edu
+
+Introduction
+------------
+
+Interleukin-12 (IL-12) is a pro-inflammatory cytokine that plays a central role in the connection of the innate resistance and adaptive immunity, by promoting Th1 and cytotoxic T lymphocyte (CTL) activities, such as IFN-γ secretion. IL-12 could be a powerful therapeutic agent to eradicate tumor or to prevent the development of metastasis [1–4]. However, IL-12 has also been shown to be excessively toxic [5,6], although there is at least one ongoing clinical trial with IL-12 using a new delivery method (IL-12 DNA plasmid) that is intended to overcome toxicity problems. In recent years there has been increasing interest in investigating the role of another member of the IL-12 family, namely, Interleukin-27 (IL-27), which is less toxic than IL-12, as a potential anti-tumor agent [7]. IL-27 is a cytokine capable of regulating Th1, Th2, Th17, and Treg responses [8]. In autoimmune diseases, Murugaiyan et al. [9] have shown that IL-27 promotes production of IL-10 and IFN-γ by naive human CD4\+ T cells, and Stumhofer et al. [10] demonstrated that IL-27 promotes production of IL-10 by CD4\+ and CD8\+ T cells. Reviewing the role of IL-27 in anti-cancer immunotherapy, Salazar et al. [11] asserted that IL-27 may have both pro-inflammatory and anti-inflammatory functions, and it promotes Th1 immune response and CD8\+ cell activation. Since Hisada et al. [7] first reported the anti-tumor efficacy of IL-27 in 2004, the potent anti-tumor activity of IL-27 has been verified in various tumor models [11–13]. Many studies suggest a role of IL-27 in enhancing anti-tumor CD8\+ T cell responses [7,14–17]. The enhancing role of IL-27 in generating anti-tumor CTL response was also demonstrated using IL-27R deficient mice [18,19].
+
+IL-10 has inhibitory and stimulatory effects on human CD8\+ T cells [20], and in viral infection it is known to inhibit effector and memory CD4\+ T cell responses but not memory CD8\+ T cells [21]. IL-10 may have positive or negative effect on tumor suppression (Aandahl et al. [22]). Numerous studies (e.g., [23,24]) show that increase in IL-10 produced by macrophages is associated with tumor progression, while other studies [25–28] suggest that IL-10 plays a positive role in tumor rejection. IL-27 can induce production of IL-10 in CD8\+ T cells [10,29]. In a recent study, Liu et al. [30] used P1C1T TCR transgenic mouse model and mouse plasmacytoma tumor system to investigate how IL-27 enhances the anti-tumor responses. They found that IL-27 significantly enhances the survival of activated tumor antigen specific CD8\+ T cells in vitro and in vivo, and induces IL-10 upregulation in these T cells. It was also suggested in [30], and
+
+PLOS ONE | www.plosone.org
+
+1
+
+March 2014 | Volume 9 | Issue 3 | e91844

@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "```\nFigure S3.\n\nNo bleaching\n2 min bleaching\n4 min bleaching\n\nProtein fluorescence\n(F.U.)\n\n0  5  10  15  hours\n\nlog(P(t) - P(0))\n(F.U.)\n\n0  5  10  15  hours\n```",
+  "model": "gpt-4o",
+  "page": 31,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 7.68,
+  "filename": "eden_2011.pdf",
+  "doc_id": "eden_2011"
+}

@@ -1,0 +1,118 @@
+```plaintext
+other recent studies (10, 12). Treatment of adoptively transferred 
+T cells or of recipient mice with FTY720 or S1P significantly 
+reduced T cell migration to the dLN (10, 12). Interestingly, acute 
+inflammation was shown to increase S1P levels in the skin and 
+also resulted in reduced migration of CD4+ T cells to the dLN 
+(10). This suggests that acute inflammation might induce T cell 
+retention in the tissue.
+
+T cells that have migrated from the skin to the dLN display 
+high expression of CCR7, CXCR4, and S1P1 (7, 10). In contrast to 
+the involvement of CCR7 and S1P1, CXCR4 was reported to have 
+no role in T cell migration from homeostatic (10) or inflamed 
+skin to the dLN (11). By contrast, in a pancreatic islet transplanta-
+tion model, CCR2, CCR5, and CXCR3 reportedly contributed to 
+the migration of natural Treg (nTreg) from the allograft to the dLN 
+(66, 68). While LECs constitutively produce CXCL12, CCL21, 
+and S1P (41, 131), they are also able to upregulate inflammatory 
+chemokines under conditions of tissue inflammation (131, 132). 
+This upregulation occurs in a stimulus-specific manner (131) and 
+may serve to fine-tune leukocyte recruitment into LVs. Although 
+not specifically studied so far, changes in the chemokine expres-
+sion profile of LECs might also explain the reduced CCR7 and 
+S1P dependence of T cell tissue exit observed from chronically 
+but not from acutely inflamed skin (12). On the other hand, it 
+has to be considered that most studies investigating T cell tissue 
+exit have been performed using acutely transferred T cells, 
+which might not completely reflect the chronic (or adhesion 
+molecule) requirements of endogenous T cells.
+
+Adhesion Molecules Involved in Entry 
+and Migration within Afferent LVs 
+MR and CLEVER-1 
+Few adhesion molecules have thus far been implicated in T cell 
+exit from skin. The MR (82), which has been shown to mediate 
+T cell binding to lymphatic sinuses in LNs (82), is also expressed 
+on efferent and afferent LVs (133, 134). Interaction of MR with 
+its T cell-expressed binding partner CD44 reportedly mediates 
+CD4+ and CD8+ T cell exit from the skin (115, 116). Similarly, 
+CLEVER-1 is expressed on both efferent and afferent LVs and 
+has been shown to mediate T cell entry into afferent LVs (81, 117, 
+135). Blockade of CLEVER-1 markedly decreased CD4+ and 
+CD8+ T cell migration from the skin to the dLN in both mice 
+and rabbits (117).
+
+VCAM-1, Selectins, and Their Ligands 
+A recent study suggested a role for LEC-expressed VCAM-1 in 
+homeostatic migration of nTreg but not of naïve CD4+ or CD8+ 
+T cells from skin to the dLN (67). VCAM-1 is a known target 
+of LTβR (136) and blockade of LTβR reduced nTreg exit from the 
+skin (67). Similarly, after nTreg devoid of the LTβR ligand, LTα, 
+exited from the skin (67). As with ICAM-1, VCAM-1 expression 
+is induced on afferent LVs during inflammatory conditions (131, 
+132). Whether VCAM-1 might more broadly support T cell 
+migration through afferent LVs in the context of tissue inflamma-
+tion remains to be determined. With regard to the involvement 
+of selectins, T cell migration from homeostatic skin to dLNs was 
+found to occur normally in mice lacking the ligands for P-, E-, 
+and L-selectins or upon adoptive transfer of CD62L− T cells 
+(10). However, it is noteworthy that P-selectin is also upregulated 
+on afferent LVs during contact hypersensitivity-induced inflam-
+mation (131). This raises the question whether inflammation-
+induced selectins and their ligands might play a role in T cell exit 
+under inflammatory conditions.
+
+Insights into T Cell Entry into the LN 
+from Afferent LVs 
+While several studies highlight the entry of T cells through HEVs 
+or the migration of T cells within LNs (75, 137), few have focused 
+on the entry of T cells into LNs from afferent LVs. Braun and col-
+leagues investigated this entry pathway by performing time-lapse 
+imaging in the popliteal LN following microinjection of T cells 
+directly into the cannulated afferent LV (25). This study revealed 
+that most naïve CD4+ T cells were passively transported in the 
+SCS to peripheral medullary sinuses where they either directly 
+transmigrated, or first crawled within the peripheral medullary 
+sinuses before transmigrating into the LN parenchyma at the level 
+of the medullary sinuses (25). As reported for T cell egress from 
+the LN parenchyma into lymphatic sinuses (23, 101), several T 
+cells occasionally crossed the sinus floor at specific transmigra-
+tion “hot spots” (25). Interestingly, naïve CD4+ T cells entered 
+across the medullary sinuses in a CCR7-independent manner, 
+but subsequently preferentially migrated within the medullary 
+cords via paracortical LVs in a manner that was a CCR7-skewed 
+pathway.
+
+In contrast to T cells, injected DCs were able to directly trans-
+migrate the SCS floor of the LN, allowing for a more rapid entry 
+of the LN parenchyma (25). On the other hand, T cells injected 
+after pre-injection of DCs now transmigrated the SCS floor on 
+the afferent side of the LN and avidly migrated inward at sites 
+of DC transmigration (25). These findings suggested that DCs 
+induced local changes in the SCS floor during transmigration 
+that facilitated direct entry of T cells into the LN parenchyma. 
+Considering that afferent lymph typically contains both T cells 
+and DCs that arrive simultaneously in the subcapsular space, it 
+will be interesting to further explore LN entry from afferent LVs 
+in an endogenous setup.
+
+Other studies have suggested that T cells might enter the 
+LN parenchyma directly through the SCS: as early as 4 h after 
+adoptive transfer into the footpad of mice, T cells could be 
+detected within the LN parenchyma in close proximity to the 
+SCS (13, 118). Moreover, macrophage scavenger receptor 1, a 
+molecule expressed on LECs of the SCS, but not on the medullary 
+or cortical sinuses, was recently found to regulate lymphocyte 
+entry into the LN parenchyma (118). Furthermore, the same 
+group previously reported the involvement of plasmalemma 
+vesicle associated protein (PLVAP, also known as MECA-32) in 
+lymphocyte entry across the SCS into the LN parenchyma (13). 
+PLVAP is expressed by LECs in lymphatic sinuses where it forms 
+diaphragms that overlay the entry to the FRC conduit system. 
+This generates a sort of molecular sieve that restricts the access 
+of soluble antigen into the conduit system and hence into the 
+LN parenchyma. Interestingly, PLVAP also appeared to regulate 
+
+Frontiers in Immunology | www.frontiersin.org 8 December 2016 | Volume 7 | Article 613
+```

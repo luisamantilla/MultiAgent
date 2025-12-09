@@ -1,0 +1,55 @@
+```plaintext
+2646                                                                                                               Krouglova et al.
+
+Melan, M. A. 1998. Use of fluorochrome-tagged taxol to produce        Sackett, D. L. 1993. Podophyllotoxin, steganacin and combretastatin:
+fluorescent microtubules in solution. Biotechniques. 25:188–192.      natural products that bind at the colchicine site of tubulin. Pharma-
+                                                                      Ther. 59:163–228.
+Melki, R., M.-F. Carlier, P. Pantaloni, and S. N. Timasheff. 1989. Cold
+depolymerization of microtubules to double rings: geometric stabilization Schiff, P. B., and S. B. Horwitz. 1980. Taxol stabilizes microtubules in
+of assemblies. Biochemistry. 28:9143–9152.                            mouse fibroblast cells. Proc. Natl. Acad. Sci. USA. 77:1561–1565.
+
+Murphy, W. K., F. V. Fossella, R. J. Winn, D. M. Shin, H. E. Hynes, H. M. Schilstra, M. J., S. K. Martin, and P. M. Bayley. 1990. The effect of
+Gross, E. Davilla, J. Leimert, H. Dhingra, and M. N. Raber. 1993. Phase II podophyllotoxin on microtubule dynamics. J. Biol. Chem. 264:8827–
+study of taxol in patients with untreated advanced non small cell lung 8834.
+cancer. J. Natl. Cancer Inst. 85:384–388.
+                                                                      Sengupta, S., T. C. Boge, G. I. Georg, and R. H. Himes. 1995. Interaction
+Nogales, E., M. Whittaker, R. A. Milligan, and K. H. Downing. 1999.   of a fluorescent paclitaxel analogue with tubulin. Biochemistry.
+High-resolution model of the microtubule. Cell. 96:79–88.             34:11889–11894.
+
+Olmsted, J. B., and G. G. Borisy. 1975. Ionic and nucleotide requirements Shelnaskii, M. L., F. Gaskin, and C. R. Cantor. 1973. Microtubule assembly
+for microtubule polymerization in vitro. Biochemistry. 14:2996–3005.  in the absence of added nucleotides. Proc. Natl. Acad. Sci. USA. 70:
+                                                                      765–768.
+Oosawa, F., and M. Kasai. 1962. A theory of linear and helical aggregations
+of macromolecules. J. Mol. Biol. 4:10–21.                             Souto, A. A. 1997. Síntesis, caracterización, y aplicaciones de nuevas
+                                                                      sondas fluorescentes, para membranas y proteinas. Acidos peptidicos
+Palmer, G. R., D. C. Clark, P. M. Bayley, and D. B. Sattelle. 1982. A quasi- conjugados y derivados de taxol. PhD thesis. Universidad Complutense
+elastic laser light scattering study of tubulin and microtubule protein from de Madrid, Madrid, Spain.
+bovine brain. J. Mol. Biol. 160:641–658.
+                                                                      Souto, A. A., U. Acuña, J. M. Andreu, I. Barasoain, M. Abal, and F.
+Parness, J., and S. B. Horwitz. 1981. Taxol binds to polymerized tubulin in Amat-Guerri. 1995. New fluorescent water-soluble tubulin binding
+vitro. J. Cell Biol. 91:479–487.                                      agents. Chem. Int. Ed. Eng. 34:2710–2712
+
+Rauer, B., E. Neumann, J. Widengren, and R. Rigler. 1996. Fluorescence Tirado, M., Lopez Martinez, C., and Garcia de la Torre, J.1984.
+correlation spectroscopy of the interaction kinetics of the enzyme- Comparison of theories for the translational and rotational diffusion
+min alpha-chymotrypsin with Torpedo californica acetylcholine receptor. coefficients of rod-like macromolecules. Application to short DNA
+Biophys. Chem. 58:3–12.                                               fragments. J. Chem. Phys. 81:2045–2052.
+
+Rigler, R., and U. Mets. 1995. Diffusion of single molecules through Van Craenenbroeck, E., and Y. Engelborghs. 1999. Quantitative charac-
+a Gaussian laser beam. SPIE Proc. 1921:239–248.                      terization of the binding of fluorescently labeled colchicine to tubulin in
+                                                                      solution by fluorescence correlation spectroscopy. Biochemistry.
+Rigler, R., O. Mets, J. Widengren, and P. Kask. 1993. Fluorescence
+correlation spectroscopy with high count rate and low background: Wang, M. C., H. L. Taylor, M. E. Walle, P. Cogeon, and A. T. McPhail.
+analysis of translational diffusion. Eur. Biophys. J. 22:169–175.     1971. Plant antitumor agents. VI. The isolation and structure of taxol,
+                                                                      a novel antileukemic and antitumor agent from Taxus brevifolia. J. Am.
+Rigler, R., and E. Elson. 1990. Ultrasonics: Detection of single      Chem. Soc. 93:2325–2327.
+molecules. Biophys. J. 58:1–12.
+                                                                      Wilson, L., and M. Friedkin. 1966. The biochemical events of mitosis.
+Ringel, I., and S. B. Horwitz. 1991. Effect of alkaline pH on taxol-  Biochemistry. 5:2463–2468.
+microtubule interactions. J. Pharmacol. Exp. Ther. 258:855–860.
+
+Rowinsky, E. K., L. A. Cazenave, and R. C. Donehower. 1990. Taxol:
+a novel investigational antimicrotubule agent. J. Natl. Cancer Inst.
+82:1247–1259.
+
+Biophysical Journal 87(4) 2635–2646
+```

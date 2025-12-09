@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and values from the text:\n\n1. \\(N > 100\\) - The number of unsynchronized cells for practical purposes.\n2. \\(\\frac{\\ln(2)}{\\alpha_c}\\) - Estimated half-life when removal rate \\(\\alpha_c\\) is constant.\n3. \\(\\frac{\\ln(2)}{\\bar{\\alpha}}\\) - Estimated half-life when removal rate \\(\\bar{\\alpha}\\) is constant.\n4. 11 proteins - Number of proteins measured with the dynamic proteomics assay.\n5. 23 - A standalone number mentioned at the end of the text, possibly a reference or section number."
+}

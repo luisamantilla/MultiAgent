@@ -1,0 +1,27 @@
+```plaintext
+900                                                                 IMMUNE REJECTION MECHANISMS OF MURINE B16 MELANOMAS
+
+-IFNγ                                      +IFNγ
+
+Fas
+(CD95)          41%                                      88%
+
+FasL
+(CD95L)        17%                                      33%
+
+17%          15%          62%          27%
+4%            2%
+
+FasL
+
+RT-PCR: FasL
+
+FIGURE 3. Surface expression of CD95 and CD95L by B16.F10 cells. B16.F10 cells growing in serum-free medium were unstimulated (−IFN-γ) or stimulated for 12 h with 50 U/ml IFN-γ (+IFN-γ). Surface expression and coexpression of CD95 (Fas)/CD95L (FasL) was determined using the mAb listed in Materials and Methods. In RT-PCR analyses of unstimulated or stimulated B16.F10 cells, mRNA of CD95L (FasL) was evident.
+
+(20 μg/ml). After inactivating endogenous peroxidase with H2O2, the labeling reaction was conducted using 10 U TdT (Promega) and 2 μM digoxigenin-11-dUTP (Boehringer Mannheim) in 50 μl TdT-buffer (0.5 M cacodylic acid, sodium salt, pH 6.8; 1 mM CoCl2, 0.5 mM DTT; 0.05% (w/v) BSA; 0.15 M NaCl). Labeled cells were detected using sheep anti-digoxigenin Fab (5 μg/ml; Boehringer-Mannheim) followed by horseradish peroxidase-conjugated F(ab')2 fragment of donkey anti-sheep IgG (0.2 mg/ml; Dianova, Hamburg, Germany). Bound horseradish peroxidase was visualized by the substrate 3-amino-9-ethylcarbazole (0.1 mg/ml in 0.17 M sodium acetate, pH 5.2, plus 0.01% H2O2). After counterstaining in Mayer's hematoxylin, representative tissue areas were photographed under a Zeiss Axiophot microscope.
+
+Results
+Expression of the viral proteins HBsAg and SV40 T-Ag in B16 melanoma cells
+
+B16.F10 cells were transfected with the episomal expression constructs BMG/HBS or BMG/T-Ag.1. Control transfectants were transfected with BMGneo vector DNA without insert. Transfected cells were selected for 5 to 10 wk in vitro. Immunoprecipitation studies revealed stable expression of the nonglycosylated p24 and the glycosylated gp27 form of the HBsAg protein by B16.F10/S
+```

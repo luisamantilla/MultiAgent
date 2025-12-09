@@ -1,0 +1,20 @@
+```plaintext
+General Thoracic Surgery                                                                                     Merritt et al
+
+GTS
+
+![Graph showing exposure of B16.F10 cells to rmIFNγ in vitro increases H-2Kb MHC class I expression.](image)
+
+Figure 1. Exposure of B16.F10 cells to rmIFNγ in vitro increases H-2Kb MHC class I expression. B16.F10 cells were exposed to 500 U/mL of rmIFNγ for 48 hours, followed by staining with FITC-labeled mouse anti-mouse H-2Kb MAb or an isotype-matched control antibody, and subjected to flow cytometry; 0.42% of untreated B16.F10 cells bound the fluorescent label, compared with 95% of B16.F10 cells that had been exposed to rmIFNγ. The experiment shown represents 1 of multiple performed.
+
+Treatment of B16.F10 Tumor-Bearing Mice with a Single Dose of rmIFNγ Enhances MHC Class I Expression in Vivo
+To determine if rmIFNγ would enhance expression of MHC class I in established B16.F10 tumors in vivo, tumor-bearing mice were injected with a single IP dose of rmIFNγ (5000 U). The tumors from mice receiving rmIFNγ uniformly expressed the H-2Kb MHC class I antigen at both 24 and 48 hours following administration of the cytokine (Figure 2, A and B). B16.F10 tumors from untreated mice expressed low levels of H-2Kb MHC class I (Figure 2, C). There was also no detection of H-2Kb antigen in B16.F10 tumors that were stained with the isotype-matched control antibody (not shown).
+
+Exposure of B16.F10 Tumor Cells to rmIFNγ Enhances Binding of CD8+ T Lymphocytes in Vitro
+The conjugate-formation assay was performed to establish the effect of rmIFNγ on the ability of CD8+ CTLs to bind to tumor cells (a class I–mediated phenomenon). The CD8+ CTLs were able to bind B16.F10 cells more effectively if the tumor cells had been exposed to rmIFNγ (Figure 3, B and D) compared with untreated tumor cells (Figure 3, A and D; P = .002). Furthermore, the addition of an MAb that binds MHC class I to these reaction conditions clearly inhibited the binding of CTLs to target cells (Figure 3, C and D; P = .007, rmIFNγ-exposed cells incubated with H-2Kb MHC class I MAbs vs rmIFNγ-exposed cells alone).
+
+Prior Exposure of Target Tumor Cells to rmIFNγ in Culture Enhances Tumor-Specific Cytotoxic T- Lymphocyte Activation in Vitro
+Because the class I–mediated binding of CTLs (effector cells) to tumor cells (target cells) results in activation of the bound T cells,21-23 we sought to determine whether the enhanced binding induced by rmIFNγ exposure between these cells would augment CTL activation. To accomplish this, splenocytes from B16.F10 tumor-bearing mice that received intratumoral PBS, AdNull, or AdCD40L were harvested and incubated in vitro with untreated B16.F10 cells, B16.F10 cells exposed to rmIFNγ, or LLC negative control cells for 20 hours in anti-IFNγ MAb-coated 96-well plates (ELISPOT assay). As an additional control, splenocytes were incubated in complete ELISPOT medium without tumor cells. When the effector cells (splenocytes) were obtained from AdCD40L-treated mice, previous exposure of the B16.F10 cells (target cells) to rmIFNγ resulted in significantly greater frequencies of activated CTLs compared with stimulation with B16.F10 cells that had not been exposed to this cytokine (Figure 4, A; P = .01). As expected, minimal CTL activation was observed when splenocytes were obtained from untreated tumor-bearing mice (Figure 4, B), mice that received AdNull (Figure 4, C), or
+
+358 The Journal of Thoracic and Cardiovascular Surgery • February 2004
+```

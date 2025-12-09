@@ -1,0 +1,93 @@
+```plaintext
+nature
+immunology
+
+ARTICLES
+
+Control of T cell antigen reactivity via programmed
+TCR downregulation
+
+Alena M Gallegos1,3,4, Huizhong Xiong1,4, Ingrid M Leiner1, Bože Sušac1, Michael S Glickman1,2,
+Eric G Pamer1,2 & Jeroen W J van Heijst1,3
+
+The T cell antigen receptor (TCR) is unique in that its affinity for ligand is unknown before encounter and can vary by orders of
+magnitude. How the immune system regulates individual T cells that display very different reactivity to antigen remains unclear.
+Here we found that activated CD4+ T cells, at the peak of clonal expansion, persistently downregulated their TCR expression
+in proportion to the strength of the initial antigen recognition. This programmed response increased the threshold for cytokine
+production and recall proliferation in a clone-specific manner and ultimately excluded clones with the highest antigen reactivity.
+Thus, programmed downregulation of TCR expression represents a negative feedback mechanism for constraining T cell effector
+function with a suitable time delay to thereby allow pathogen control while avoiding excess inflammatory damage.
+
+Efficient recognition and control of microbial infections relies on the
+availability of a diverse T cell antigen receptor (TCR) repertoire1,2. In
+developing T cells, TCR diversity is generated via somatic recombi-
+nation, during which different gene segments are combined with the
+addition and removal of nucleotides at recombination junctions. This
+process results in TCRs with highly variable sequences and therefore
+generates individual T cells that recognize peptide ligands with a wide
+range of binding strengths (avidities). This has important functional
+consequences, as high-avidity T cells are generally more sensitive to
+antigen, undergo more proliferation during immune responses and
+produce more cytokines3–9. However, T cells at the upper end of the
+avidity spectrum can also display substantial limitations in biological
+activity10–13, which suggests the existence of regulatory mechanisms
+that prevent deleterious consequences of very strong antigen reac-
+tivity. Hence, the optimal avidity associated with long-term T cell
+functionality remains elusive, particularly in the context of immunity
+to microbial infection.
+
+Mycobacterium tuberculosis remains one of the most detrimental
+human pathogens and has been challenging to combat due to the lack
+of an effective vaccine14,15. Although CD4+ T cells are essential for the
+control of M. tuberculosis16,17, bacterial eradication is rarely achieved.
+One explanation is that M. tuberculosis is able to inhibit major histo-
+compatibility complex (MHC) class II expression18,19, which results
+in limited antigen presentation in mycobacterial granulomas20,21.
+Therefore, one way to improve vaccination against tuberculosis might
+be to engage T cells of an overall very high avidity, because these
+would require less antigen to activate effector mechanisms.
+
+To investigate how T cell avidity influences immunity to
+M. tuberculosis, we generated a mouse (C24) in which CD4+ T cells
+have transgenic expression of a TCR with very high avidity for the
+mycobacterial antigen ESAT6(1–20). By comparing this mouse
+with a previously produced mouse (C7) that expresses a TCR with
+intermediate avidity for ESAT6 (refs. 22,23), we found that the
+T cells of higher avidity were less able to control bacterial growth,
+a phenotype that was associated with the downregulation of TCR
+expression. On the basis of those results, we found that clonally
+expanded T cells underwent a program of persistent TCR down-
+regulation that was proportional to the strength of initial antigen
+recognition. This previously unappreciated feedback mechanism
+increased the threshold for cytokine production and recall pro-
+liferation in an avidity-dependent manner, with the result that T
+cells of intermediate avidity made the greatest contribution to anti-
+microbial defense.
+
+RESULTS
+Avidity of C7 and C24 CD4+ T cells
+For the investigation of CD4+ T cell immunity to tuberculosis, we
+used the previously generated C7 mouse, in which all CD4+ T cells
+have transgenic expression of a TCR specific for the mycobacterial
+antigen ESAT6(1–20). Studies of this mouse have demonstrated that
+C7 cells differentiated into the TH1 subset of CD4+ helper T cells are
+able to greatly diminish but not eliminate mycobacterial growth22,23.
+To determine whether that failure of bacterial eradication is a gen-
+eral feature of T cell immunity, we generated another mouse with
+transgenic TCR expression, using a ESAT6(1–20)-specific T cell
+hybridoma (C24) obtained from an M. tuberculosis–infected C57BL/6J
+mouse. We chose the C24 TCR because it uses α- and β-chains dif-
+ferent from those used by the C7 TCR, which created the possibility
+
+NATURE IMMUNOLOGY ADVANCE ONLINE PUBLICATION 1
+
+NATURE IMMUNOLOGY
+© 2016 Nature America, Inc. All rights reserved.
+
+1Immunology Program, Sloan-Kettering Institute, Memorial Sloan-Kettering Cancer Center, New York, New York, USA. 2Infectious Diseases Service, Department of
+Medicine, Memorial Sloan-Kettering Cancer Center, New York, New York, USA. 3Present addresses: National Institute for Research in Tuberculosis, Chennai, India
+(A.M.G.), and Center of Experimental and Molecular Medicine, Academic Medical Center, University of Amsterdam, Amsterdam, the Netherlands (J.W.J.v.H.).
+4These authors contributed equally to this work. Correspondence should be addressed to J.W.J.v.H. (j.wanheijst@amc.uva.nl).
+
+Received 14 September 2015; accepted 22 December 2015; published online 22 February 2016; doi:10.1038/ni.3386
+```

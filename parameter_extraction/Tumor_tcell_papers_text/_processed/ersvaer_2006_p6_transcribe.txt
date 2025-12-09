@@ -1,0 +1,99 @@
+```plaintext
+18
+
+icant effects on pStat3, pStat5 or pErk1/2 were observed 
+(data not shown).
+
+IFNγ affects spontaneous and cytokine-dependent 
+in vitro AML cell proliferation
+
+AML blasts derived from 65 consecutive patients were 
+cultured in medium alone or in medium containing 
+IFNγ 50 ng/ml. Detectable proliferation corresponding 
+to at least 1,000 cpm was observed only for 21 patients. 
+IFNγ caused no statistically significant alteration of 
+spontaneous in vitro proliferation. AML blasts derived 
+from the same patients were also cultured in the presence 
+of exogenous cytokines, and ³H-thymidine incorpora- 
+tion was assayed after 7 days of culture. The effect of 
+adding IFNγ was examined in the presence of 50 ng/ml 
+of IL1β, IL3, Flt3L, SCF, GM-CSF or G-CSF. Our 
+statistical analyses included the results only for those 
+patients that showed detectable proliferation (corre- 
+sponding to >1,000 cpm) for either the cytokine control 
+or the corresponding IFNγ-containing culture. IFNγ 
+caused a statistically significant inhibition of cytokine- 
+dependent AML blast proliferation in the presence of 
+IL1β, SCF, GM-CSF and G-CSF (Fig. 4, Table 1); for 
+many of these patients the inhibitory effect exceeded 
+2,000 cpm and 20% of the IFNγ-free control. In con- 
+trast, only borderline significance was observed for IL3 
+and no significant effect for Flt3L (Table 1).
+
+IFNγ has divergent effects on AML blast apoptosis
+
+The effect of IFNγ on AML blast apoptosis was inves- 
+tigated for 16 randomly selected patients. The percent- 
+ages of viable/apoptotic/necrotic cells were determined 
+after 24 and 48 h of in vitro culture with and without 
+IFNγ, and for 10 patients the results were reproduced in 
+independent experiments. The fraction of viable cells 
+decreased gradually during culture and was accompa- 
+nied by a corresponding increase in the percentage of 
+apoptotic cells. The percentage of viable cells after 48 h 
+showed a wide variation (median 46%, range 15–86%) 
+and an inverse correlation with the percentage of 
+apoptotic cells. IFNγ had reproducible divergent effects 
+on the percentage of viable cells after 48 h of culture. An 
+IFNγ-induced difference in cell viability exceeding 5% 
+was observed for 8 of the 16 patients; increased viability 
+was detected for 5 patients and decreased viability for 3 
+patients. The same divergence was observed after 24 h of 
+culture, although the percentages of viable cells were 
+generally higher both for cultures with and without 
+IFNγ (data not shown).
+
+Effects of IFNγ in combination with cytotoxic drugs 
+on AML cell apoptosis and proliferation
+
+We investigated the effect of IFNγ on AML cell apop- 
+tosis in the presence of cytarabine 0.1 and 1.0 μM. Ten 
+
+![Image](https://via.placeholder.com/150)
+
+Fig. 4 Effects of IFNγ in combination with exogenous growth 
+factors on in vitro AML blast proliferation. AML blasts from 65 
+consecutive patients were cultured in the presence of either IL1β, 
+SCF, GM-CSF or G-CSF. The figure compares the proliferation 
+(³H-thymidine incorporation) for cultures with (+) or without (–) 
+IFNγ (50 ng/ml). Only those patients showing detectable prolifera- 
+tion (>1,000 cpm) with or without IFNγ were included in each 
+comparison. Line denotes the median. IFNγ inhibited cytokine- 
+dependent proliferation (p=0.0013 for IL1β; P<0.0001 for SCF, 
+P=0.0398 for GM-CSF, P=0.0149 for G-CSF)
+
+consecutive patients were investigated, and the number 
+of viable cells determined after 24 and 48 h. The overall 
+results are summarized in Fig. 5. The presence of cyt- 
+arabine decreased the percentage of viable cells, but the 
+divergent effects of IFNγ on AML cell apoptosis was 
+also detected in the presence of cytarabine. When analy- 
+sing the overall results there was a significant correla- 
+tion between IFNγ effects on apoptosis for cultures with 
+and without cytarabine (Pearson correlation; r=0.76– 
+0.90; P<0.02; for both concentrations and time points).
+
+We also investigated the effect of IFNγ on cytokine- 
+dependent (GM-CSF + IL3 + SCF) AML cell prolif- 
+eration (³H-thymidine incorporation) in the presence of 
+cytarabine (0.1 and 1.0 μM) and idarubicin (0.01 and 
+0.1 μM). The same 10 consecutive patients were exam- 
+ined and the overall results showed that (1) IFNγ alone 
+had divergent effects on cytokine-dependent AML cell 
+proliferation; (2) both drugs inhibited AML cell prolif- 
+eration and for the highest drug concentrations no 
+detectable proliferation was observed for any patient; (3) 
+the lower drug concentrations also decreased AML cell 
+proliferation, and the presence of IFNγ then had 
+divergent effects (data not shown).
+```

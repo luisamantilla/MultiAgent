@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "```\n────────────────────────────────────────────────────────────────────────\n\nCHAPTER 20\n\nDetection of T-Cell Degranulation:\nCD107a and b\n\nMichael R. Betts and Richard A. Koup\nImmunology Laboratory\nVaccine Research Center\nNational Institute of Allergy and Infectious Diseases\nNational Institutes of Health\nBethesda, Maryland 20892\n\n────────────────────────────────────────────────────────────────────────\n\nI. Introduction: Methods to Assess CD8⁺ T-Cell Function\nII. Materials and Methods\n   A. Materials\n   B. Initial Assays Setup: Titration of CD107 Antibodies\n   C. Antigen-Specific CD8⁺ T-Cell Degranulation\nIII. Results\nIV. Critical Aspects\n   A. Trafficking of CD107a and b\n   B. Monensin Requirement\n   C. Background Expression of CD107a and b\nV. Applications\nReferences\n\n────────────────────────────────────────────────────────────────────────\n\nI. Introduction: Methods to Assess CD8⁺ T-Cell Function\n\nT lymphocyte–mediated cytotoxicity has historically been examined using the \n⁵¹Cr release assay, wherein antigen-expressing radioactively labeled target cells are \nrecognized and killed by specific T cells (Brunner et al., 1968). Though cumber- \nsome, these assays directly assessed perhaps the most critical function of cytolytic \nT cells: the ability to kill target cells. Unfortunately, these assays tend to be \nnonquantitative and insensitive; and no information is gained about the number \nor more importantly the identity of the effector T cells.\n\nMETHODS IN CELL BIOLOGY, VOL. 75 497\n0091-679X/04 $35.00\n```",
+  "model": "gpt-4o",
+  "page": 1,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 15.05,
+  "filename": "betts_2004.pdf",
+  "doc_id": "betts_2004"
+}

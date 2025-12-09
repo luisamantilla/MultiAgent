@@ -1,0 +1,105 @@
+El Darzi et al.                                                                                                               3
+
+CD119 (clone GIR-208), CD124 (clone hIL4R-
+M57), and CD132 (clone AG184); APC-conjugated
+CD1a (clone HI149), CD40 (clone 5C3), CD49d
+(clone 9F10), and HLA-ABC (clone G46-2.6; BD
+Biosciences, San Jose, CA, USA); FITC-
+conjugated CD54 (clone RR1/1); PE-conjugated
+CD147 (clone 8D12) (eBioscience, San Diego,
+CA, USA). The following isotype-matched control
+antibodies were also included in all experiments:
+FITC-conjugated mouse IgG1 (clone MOPC-21),
+IgG2a (clone G155-178); PE-conjugated mouse
+IgG1 (clone MOPC-21); and APC-conjugated
+mouse IgG1 (clone MOPC-21) (BD Biosciences).
+
+Cell culture
+
+The HaCaT immortalized human keratinocyte cell
+line (kindly provided by Dr J Usta, Department of
+Biochemistry and Molecular Genetics, American
+University of Beirut, Lebanon) was cultured in
+Dulbecco’s modified Eagle’s medium (DMEM;
+Lonza, Slough, UK) supplemented with L-glu-
+tamine (Sigma-Aldrich, St. Louis, MO, USA),
+10% fetal bovine serum (FBS; Sigma), and peni-
+cillin (50 U/mL) and streptomycin (50 μg/mL)
+(Sigma). Cells were maintained in a
+humidified atmosphere at 37°C and 5% CO₂. Cells
+were passaged regularly with trypsin-EDTA
+(Sigma) upon reaching 70%–80% confluence and
+routinely checked for morphology. Cell viability
+was determined using the standard trypan blue dye
+exclusion method.
+
+Immunophenotyping of HaCaT cells
+
+HaCaT cells were seeded 1 day prior to stimula-
+tion at a density of 0.5 × 10⁵ viable cells per 25 cm²
+flask. The following day, cells were either left
+unstimulated or stimulated with IFN-γ (50 ng/mL;
+R&D Systems, Abingdon, UK), IL-4, TNF-α
+(50 ng/mL; CellGenix, Freiburg, Germany), or
+MDP (20 μg/mL; kindly provided by ISTAC-SA,
+Lille, France) for 3, 24, 48, and 72 h at 37°C in 5%
+CO₂ in a humidified incubator, unless otherwise
+mentioned. All stimulants were resuspended in
+Dulbecco’s phosphate-buffered saline (DPBS). At
+the end of each culture period, cells were washed
+twice with DPBS and then detached with Accutase
+solution (Gibco, Invitrogen, Karlsruhe, Germany).
+HaCaT cell suspensions were washed twice with
+staining buffer consisting of cell wash solution
+
+(BD Biosciences) supplemented with 2% FBS. A
+minimum of 1 × 10⁶ cells/100 μL were incubated
+with optimized concentrations of fluorochrome-
+conjugated monoclonal antibodies for 30 min at
+4°C in the dark. After washing with 2 mL staining
+buffer at 300g for 5 min, cells were fixed for
+20 min in 4% paraformaldehyde (Sigma). Cells
+were washed again and resuspended in a final vol-
+ume of 500 μL staining buffer to be then analyzed
+on a FACSCalibur flow cytometer (BD
+Biosciences). Flow cytometry data were analyzed
+by CellQuest Pro software (BD Biosciences) and
+for each sample, a minimum of 10,000 events
+were recorded. The expression of cell surface
+receptors was measured as total geometric mean
+fluorescence intensity (MFI) and was presented in
+histogram plots. Single color stained cells and
+Calibrite beads (BD Biosciences) were used to
+adjust fluorescence intensity and color compensa-
+tion. An isotype control antibody was used for
+each monoclonal antibody employed.
+
+Proliferation assay
+
+HaCaT cells were seeded in quadruplicates, in
+96-well flat bottom plates (Corning, New York,
+MA, USA) at a density of 10⁴ cells/well and were
+either left unstimulated or stimulated with IFN-γ
+(50 or 100 ng/mL), IL-4 (50 or 100 ng/mL), TNF-α
+(50 or 100 ng/mL), or MDP (20 μg/mL). Cultures
+were maintained for 24, 48, and 72 h at 37°C in
+5% CO₂ in a humidified incubator. The cultures
+were pulsed with tritiated thymidine (Perkin
+Elmer, San Jose, CA, USA) at a concentration of
+0.5 μCi/well for 18 h prior to cell harvesting. Cells
+were then transferred onto glass fiber filter disks
+(Connecterate AG, Diekikon, Switzerland) by
+means of a cell harvester (Inotech Biotechnologies,
+Basel, Switzerland) and the amount of incorpo-
+rated radioactivity was measured in a liquid scin-
+tillation counter (Packard). Unstimulated samples
+served as a control. The radioactivity of incorpo-
+rated tritiated thymidine was reported as counts
+per minute (cpm) and results are represented as
+mean cpm of quadruplicate wells.
+
+Detection of apoptosis
+
+Apoptosis was detected using the annexin V-FITC
+apoptosis detection kit II (BD Biosciences) follow-
+ing the manufacture’s protocol. Briefly, cells were

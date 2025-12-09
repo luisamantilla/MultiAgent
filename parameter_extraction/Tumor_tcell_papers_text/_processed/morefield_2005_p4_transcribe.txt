@@ -1,0 +1,100 @@
+15 min. The DCs were washed twice in flow buffer (from
+Section 2.9), resuspended in 0.2 ml of the antibody diluted
+1:200 in flow buffer and incubated for 30 min in the dark. The
+cells were washed twice in flow buffer and fixed in 0.6 ml of
+2% paraformaldehyde. Each sample was assayed for 4 min
+by flow cytometry (Epics XL, Coulter, Fullerton, CA) and
+the data were analyzed by WinMDI® (Joe Trotter, Scripps
+Institute, La Jolla, CA).
+
+The data were analyzed by first comparing the forward
+scatter versus side scatter density plots for adjuvant only
+and for media-treated DCs. These plots give an indication
+of where the adjuvant population and DC population will be
+located in the samples that contain both adjuvant particles
+and DCs. In general, the DCs have a higher intensity forward
+scatter than adjuvants. A density plot of forward scatter ver-
+sus side scatter of a sample of DCs treated with BODIPY
+FL labeled AC adsorbed to adjuvant was then constructed
+and a gate was made around the DC population. Next a plot
+of red fluorescence versus green fluorescence for the gated
+DC population was constructed. There were two populations
+observed; one at high red fluorescence and one at low red
+fluorescence. The high red fluorescence population were ac-
+tivated DCs who express high levels of MHCII. The low red
+fluorescence population were immature DCs which express
+low levels of MHC II [9]. Immature DCs are the cell popu-
+lation of interest in this experiment and the low fluorescence
+cells were gated for the gated population. This procedure was
+repeated for each time point of each sample.
+
+2.9. Degree of adsorption of AC in cell culture media
+
+The degree of adsorption of AC by each adjuvant follow-
+ing dilution with cell culture media was studied by adding
+0.6 ml of each model vaccine (from Section 2.5) to 2.4 ml
+of cell culture media in a six well plate and mixing by gen-
+tle agitation to uniformly distribute the adjuvant. Samples
+were incubated at 37 °C without mixing. After 3 h, super-
+natants (100 μl) were obtained by centrifuging at 10,000 rpm
+(16,750 × g) for 15 min. The concentration of AC in the su-
+pernatants was determined by ELISA. Sheep anti-bovine
+casein (Biodesign International, Saco, ME) was used as
+the coating antibody, rabbit anti-bovine casein (Immunol-
+ogy Consultants Laboratory, Newburg, OR) was used as
+the capture antibody and goat anti-rabbit IgG conjugated to
+horseradish peroxidase (Sigma, St. Louis, MO) was used as
+the detection antibody.
+
+2.10. Aggregate size
+
+The aggregate size of each adjuvant in cell culture me-
+dia was determined by adding 0.6 ml of each model vaccine
+(from Section 2.5) to 2.4 ml of cell culture media in a six
+well plate and mixing by gentle agitation to uniformly dis-
+tribute the adjuvant. Samples were incubated at 37 °C for
+3 h and examined by fluorescent microscopy (0 100, Nikon,
+Tokyo). The mean diameter of the adjuvant aggregates was
+determined by image analysis using Image-Pro Plus Version
+5.0 (MediaCybernetics, Silver Spring, MD).
+
+3. Results and discussion
+
+3.1. Surface charge of adjuvants
+
+Evidence for the adsorption of phosphate by AH in PTAH-
+1 and PTAH-2 is seen in Table 1 as the zeta potential of AH,
+which is normally positive [17], became increasingly nega-
+tive as the concentration of phosphate used to pretreat AH in-
+creased. The negative surface charge of PTAH-2 approached
+that of AP [17].
+
+3.2. Adsorption isotherms
+
+Adsorption isotherms of AC by the four adjuvants were
+determined because AC has an isoelectric point of 4.6 [18] and is nega-
+tively charged at pH 7.4. Therefore, an electrostatic attrac-
+tive force will exist between AC and AH while an electro-
+static repulsive force will operate between AC and PTAH-1,
+PTAH-2 and AP. As seen in Table 1, AC was adsorbed by
+each adjuvant although the adsorptive capacity decreased as
+the concentration of phosphate used in the pretreatment in-
+creased. The adsorption of negatively charged AC by neg-
+atively charged PTAH-1, PTAH-2 and AP occurred in spite
+of electrostatic repulsive forces. Iyer et al. [19] recently re-
+ported that AC is adsorbed by AH and phosphate-treated AH
+by ligand exchange of phosphate groups of AC with surface
+hydroxyls of the adjuvant. AC adsorption by the four adju-
+vants in this study was probably also by ligand exchange.
+Because the concentration of AC in the model vaccines
+(0.1 mg AC/mg Al) was below the adsorptive capacity of each
+
+| Table 1 |
+| Properties of aluminum-containing adjuvants |
+
+| Adjuvant | Zeta potential (mV) | Alpha casein adsorptive capacity (mg/mg Al) | Percentage alpha casein adsorption in cell culture media | Mean diameter of adjuvant aggregates in cell culture media (μm) |
+|-------------------------------|------------------|---------------------------------|---------------------------------|---------------------------------------------|
+| Aluminum hydroxide | +33.5 | 2.1 | 98 | 17 |
+| Phosphate-treated aluminum hydroxide -1 | -14.4 | 1.5 | 99 | 14 |
+| Phosphate-treated aluminum hydroxide -2 | -26.3 | 1.4 | 99 | 10 |
+| Aluminum phosphate | -29.4 | 0.4 | 98 | 3 |

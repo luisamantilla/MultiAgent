@@ -1,0 +1,56 @@
+(summarized in Box 1) have helped to further improve our 
+understanding of the cellular and molecular mechanisms of 
+T cell migration through LVs. In this review, we first introduce 
+the structure of the lymphatic vascular system and summarize 
+current knowledge of the cellular composition of efferent and 
+afferent lymph. We then review the mechanisms by which T cells 
+exit from lymph nodes (LNs) into efferent lymphatics as well as 
+emerging knowledge of T cell entry and migration within afferent 
+lymphatics. Finally, new insights regarding the overall relevance 
+of T cell circulation through the afferent lymphatic vasculature 
+are discussed.
+
+STRUCTURE OF THE LYMPHATIC 
+VASCULATURE
+
+The lymphatic system consists of central and peripheral lymphoid organs and a LV network that permeates most tissues 
+of the body (32, 33). In peripheral tissues, extravasated fluid, 
+macromolecules, and leukocytes, i.e., the main constituents of 
+lymph, are taken up by a network of blind-ended lymphatic 
+capillaries, which converge into larger collecting vessels that 
+
+drain into and through LNs (33). Upon passage through chains 
+of tissue-draining LNs (dLNs), connected by adjoining collecting 
+LVs, lymph is finally returned to the blood vasculature through 
+the thoracic duct, which merge into the subclavian vein (33) 
+(Figure 1A).
+
+Tissue fluid uptake and immune cell entry/transport into LVs 
+is thought to mainly occur at the level of the initial lymphatic 
+capillaries, where characteristic structural features support these 
+processes. Lymphatic capillaries are composed of partially overlapping, oak leaf-shaped lymphatic endothelial cells (LECs) that 
+are connected by discontinuous button-like cell–cell junctions 
+(Figure 1B). Moreover, lymphatic capillaries are surrounded by 
+a thin, highly fenestrated basement membrane (34, 35). Tissue 
+fluid and leukocytes (at best shown for dendritic cells (DCs)) 
+enter through the characteristic flaps between overlapping LECs 
+(34, 35). Collecting LVs are structurally more specialized for fluid 
+and immune cell transport (Figure 1C). Lymphatic sinuses are 
+composed of cuboidal LECs connected by continuous zipper-like 
+cell–cell junctions and are surrounded by a continuous basement 
+membrane and smooth muscle cell layer (34, 35). Intraluminal 
+valves prevent the backflow of lymph, while contraction of smooth 
+muscle cells helps to propagate lymph toward the dLN (36).
+
+BOX 1 | Tools to study T cell trafficking in vivo.
+
+| Tool | Description | Selected reference |
+|------|-------------|--------------------|
+| Cannulation studies | This technique involves the surgical insertion of cannula (tube) directly into an afferent or efferent vessel to drain the cisterna chyli, to collect lymph fluid. The cellular composition of lymph is subsequently analyzed, typically by flow cytometry or microscopy methods | (7) |
+| Adoptive transfer | In adoptive transfer experiments, cells are isolated from donor mice, fluorescently labeled (unless already marked by endogenous expression of a fluorochrome or a congenic marker) and intravenously or subcutaneously injected into a recipient mouse. In some cases, T cells are subjected to an in vitro culturing step (e.g., in vitro activation) prior to injection. At defined time points after transfer, T cell numbers in lymph nodes (LNs) (or other tissue) are quantified by flow cytometry, LN sectioning and microscopy, or other means. While this experimental setup is technically straightforward, the transferred cells may differ from the endogenously migrating populations. Also, typically only a small fraction of cells injected subcutaneously actually migrates to dLNs or beyond | (7–10, 13) |
+| Intravital microscopy (IVM) | This technique allows the study of migratory processes at the single-cell level and in real time. It involves fluorescence-based time-lapse imaging by, e.g., confocal/multiphoton- or stereomicroscopy. Several mouse reporter lines expressing a fluorescent protein in lymphatic vessels (LVs) have been generated (14–18). In the case of T cells, most studies have been performed with fluorescently labeled and adoptively transferred T cells, but endogenous models are also available (19–21) | (22–26) |
+| Intrathymic injection | Microinjection of T cells directly into a LV upstream of a draining lymph node. Similar to adoptive transfer but permits the study of T cell entry specifically across the LN subcapsular sinus. This represents an elegant yet technically challenging method complementing IVM studies | (25) |
+| LN egress studies | This experimental setup allows quantifying dwell time of T cells in LNs. In a typical experiment, fluorescently labeled T cells are first transferred intravenously into a recipient mouse. After an equilibration phase, further T cell ingress into LNs is blocked by administration of entry-blocking antibodies (e.g., directed against the integrin subunit α4 or against L-selectin). Antibody treatment allows the uncoupling of T cell entry from exit, which continues to occur. Exit rates, for example, can be calculated by comparing fluorescent T cell numbers in LNs at the time of antibody injection to a later time point (e.g., 24 h later) by flow cytometry-based quantification | (8, 22, 27, 26) |
+| Photoconvertible transgenic mice | The use of photoconvertible transgenic mice permits monitoring the migration of endogenously labeled cells in vivo. It requires transgenic mice expressing a photoconvertible fluorescent protein in all cell types, e.g., Kaede protein (28) or Kikume Green–Red protein (29). Upon illumination with violet light, fluorescent proteins undergo irreversible changes that alter their fluorescent spectrum (typically a green to red shift). By selectively illuminating the tissue at a particular site (e.g., skin), one can subsequently quantify the appearance of photoconverted T cells in other tissues (e.g., dLN) to gain insight about their trafficking behavior. The system can easily be combined with pharmacologic blockade of genes of interest. Alternatively, backcrossing onto a genetic knockout can be done | (28, 30, 31) |
+
+Frontiers in Immunology | www.frontiersin.org 2 December 2016 | Volume 7 | Article 613

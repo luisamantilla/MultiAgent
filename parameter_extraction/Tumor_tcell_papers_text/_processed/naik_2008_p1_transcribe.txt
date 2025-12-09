@@ -1,0 +1,87 @@
+```
+Immunology and Cell Biology (2008) 86, 439–452
+© 2008 Australasian Society for Immunology Inc. All rights reserved 0818-9641/08 $30.00
+www.nature.com/icb
+
+REVIEW
+
+Demystifying the development of dendritic cell
+subtypes, a little
+
+Shalin H Naik
+
+The broadest definition of dendritic cells (DCs) is white blood cells that can take up antigen, process it and then present
+antigen-derived peptides to activate cognate naive T cells. Although this definition is by no means perfect, it is nevertheless now
+textbook. The source of frustration more recently has focused on other issues, including the distinction of the DC subtypes, their
+differential roles in the immune system, their lineage relationship to each other (and other leukocytes) and whether the mouse
+and human DC findings overlap. Here, I condense the classification of DCs in both the steady state versus infection, with
+primary focus in the mouse. Emphasis is then given to debates surrounding the in vivo pathways of DC differentiation in
+different conditions, which culture models best represent these processes (fms-like tyrosine kinase 3 ligand versus granulocyte-
+macrophage colony-stimulating factor), and what the human and mouse DC subtype equivalents might be. In addition, a model
+termed ‘graded’ commitment is proposed that, as a departure from the classic binary models of hematopoiesis, attempts to
+explain the recent clonal data where subtype-specific DC precursors branch from this pathway.
+Immunology and Cell Biology (2008) 86, 439–452; doi:10.1038/icb.2008.28; published online 15 April 2008
+
+Keywords: BDCA3; Tip DC; GM-CSF; Flt3; graded commitment; subsets
+
+Prior to the 1970s, lymphocytes were regarded as an indistinguishable
+group of cells, primarily because they appeared identical under the
+light microscope. In fact, when Mitchell and Miller first wielded the
+distinction term into T versus B lymphocytes, they were ridiculed
+as ‘complicating the field’.1–3 In a case of history repeating, a similar
+sentiment was given to those whom first identified the existence and
+properties of the dendritic cell (DC) subtypes4–6—an exercise that was
+often referred to ignominiously as ‘stamp collecting’. However, arising
+from the early work of Shortman, Steinman, Moser, Hart, MacPher-
+son and their colleagues, it is clear that DCs are not just the one cell
+type simultaneously performing the entire repertoire of professional
+antigen-presenting cell (APC) functions.
+
+On the contrary, the DC subtypes appear to be distinct entities with
+different life histories. They differ not only in phenotype, but also in
+their genetic program, anatomic location, expression of receptors for
+pathogen molecules and abilities to influence T-cell fate (reviewed in
+Shortman and Naik7 and Villadangos and Schnorrer8). This speciali-
+zation and division of labor presumably allows the immune system to
+intricately ‘tailor’ an adaptive immune response appropriate for the
+breaching pathogen—like having different generals for the army, navy
+or air force. Yet despite clear differences in the DC subtypes and their
+functions, evidence of their unique origins has only recently been
+shown.
+
+This review attempts to introduce the immune system’s putative
+need for DC subtypes, briefly introduce the players, summarize some
+aspects and controversies surrounding their development, investigate
+the different culture models of DCs, introduce a new model to explain
+branching of DCs at various stages of hematopoiesis and address the
+potential human counterparts of the mouse DC subtypes. As this
+review cannot be exhaustive, the reader is directed to a past thesis
+available online for some further information.9
+
+WHY SO MANY SUBSETS?
+It may seem to those purveying the field that a new DC subtype is
+discovered almost seasonally. The question is often asked, ‘Why do
+models of the immune system require yet more DC subtypes?’ The
+question should instead be, ‘The DC subtypes do exist, and appear to
+have different functions—why might this be important?’ Otherwise,
+one potentially follows the same cynicism of those whom discredited
+the T- versus B-lymphocyte distinction. Granted, some phenotypic
+differences mean little in the context of differentiation or function.
+However, in other cases, such differences correlate to fundamentally
+distinct cell types whose functions are worthy of unraveling—for both
+understanding of the immune system, and for potential clinical
+benefits.
+
+As organisms become more complex throughout evolution, so too
+did their immune system in order to better defend themselves, and
+their ability to ‘play host’ to a greater range of microbes. Accordingly,
+only since the emergence of the jawed vertebrates did the adaptive
+immune system develop the important cytotoxic T and antibody-
+forming B lymphocytes.10,11 The processes that link the innate
+immune detection of pathogens to the instruction of the adaptive
+
+Immunology Division, The Netherlands Cancer Institute, Amsterdam, The Netherlands
+Correspondence: Dr SH Naik, Immunology Division, The Netherlands Cancer Institute, Plesmanlaan 121, Amsterdam, The Netherlands.
+E-mail: s.naik@nki.nl
+Received 20 February 2008; revised 26 February 2008; accepted 28 February 2008; published online 15 April 2008
+```

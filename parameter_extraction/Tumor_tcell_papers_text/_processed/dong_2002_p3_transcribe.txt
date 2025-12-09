@@ -1,0 +1,135 @@
+```
+© 2002 Nature Publishing Group http://www.nature.com/naturemedicine
+
+ARTICLES
+
+Table 1 Expression of B7-H1 in human cancer tissues
+
+| Diagnosis                | Specimen numbers, positive/total (%) | Cases with staining intensity* |
+|--------------------------|--------------------------------------|--------------------------------|
+|                          |                                      | –   +   ++   +++               |
+| Lung cancer              | 20/21 (95)                           | 1   9   10   1                 |
+| Adenocarcinoma           | 10/10                                | 0   5   5   0                 |
+| Squamous cell carcinoma  | 8/8                                  | 0   2   5   1                 |
+| Large cell carcinoma     | 1/2                                  | 1   0   0   0                 |
+| Neuroendocrine carcinoma | 1/1                                  | 0   1   0   0                 |
+| Ovarian cancer           | 20/23 (87)                           | 3   8   11  1                 |
+| Adenocarcinoma           | 19/22                                | 3   7   11  1                 |
+| Carcinosarcoma           | 1/1                                  | 0   1   0   0                 |
+| Melanoma                 | 22/22 (100)                          | 0   5   12  5                 |
+| Skin                     | 13/13                                | 0   4   6   3                 |
+| Lymph node metastasis    | 5/5                                  | 0   0   4   1                 |
+| Brain metastasis         | 1/1                                  | 0   0   1   0                 |
+| Axilla metastasis        | 2/2                                  | 0   1   0   1                 |
+| Breast metastasis        | 1/1                                  | 0   0   0   1                 |
+| Colon adenocarcinoma     | 10/19 (53)                           | 9   6   2   2                 |
+
+* Intensity of staining by monoclonal antibody against B7-H1: –; negative, +; focal expression in 10–40% of cancer tissues, ++; focal expression in 40–80% of cancer tissues, +++; diffuse expression in >80% of cancer tissues.
+
+H1/624mel cells to killing by T cells (Fig. 2e and f). To rule out 
+the possibility that the resistance of B7-H1/624mel cells to 
+M15 CTLs was due to decreased lysis of B7-H1/624mel rather 
+than the inhibition of their M15-mediated apoptosis, we 
+performed the study of mock/624mel and B7-H1/624mel cells. 
+Immediately in a 4-hour 51Cr-release cytotoxicity assay. Both 
+sets of cells were lysed by M15 CTLs (Fig. 2g). In addition, 
+there was no growth advantage of B7-H1/624mel over 
+mock/624mel cells when cultured in vitro (data not 
+shown). Our results thus support that the deletion of M15 CTL 
+clone by exposure to B7-H1 is responsible for the growth of 
+624mel cells.
+
+We also tested the ability of HBL-100, a human breast 
+cancer–derived cell line that constitutively expresses B7-H1 on its 
+cell surface, to induce T-cell apoptosis. HBL-100 cells express B7-
+H1, but not FasL or TRAIL, on their surface (Figs 4a and 3a). 
+HBL-100 cells, however, do express a CTL epitope (HQQYIFYL) 
+that is derived from carcinoembryonic antigen (CEA), is HLA-B7 
+restricted and is recognized by the CD8+ CTL clone 
+M99.1). Notably, M99 does not express PD-1 throughout the rest-
+ing and stimulatory cycle of the culture. However, B7-H1Ig could 
+still bind the cells after antigen stimulation (Fig. 3b). As was seen 
+with B7-H1-transfected 624mel cells, the number of antigen-
+specific M99 CTLs was reduced and CTLs underwent apoptosis 
+when they were incubated with HBL-100 cells, and T-cell death 
+was inhibited when monoclonal antibody against B7-H1 was in-
+cluded in the medium (Fig. 3c). The addition of PD-1Ig up to 10 
+µg/ml did not inhibit the apoptosis of T cells mediated by HBL-
+100 cells, a result consistent with lack of PD-1 expression by M99 
+T cells (Fig. 3d). Our result indicate that B7-H1 binds a non-PD-1 
+receptor on M99 T cells to transmit the apoptotic signal.
+
+To further dissect the mechanisms of B7-H1-mediated apop-
+tosis in human T cells, we used a system in which immobilized B7-
+H1Ig in the presence of optimal activation dose of monoclonal 
+antibody to CD3 rapidly induced apoptosis of purified human T 
+cells 48 hours after culture (Fig. 4a). Apoptosis of T cells could be 
+blocked significantly (P < 0.05) by a monoclonal antibody 
+against B7-H1 (data not shown) but not by PD-
+1Ig (Fig. 4a), indicating that PD-1 is not the re-
+ceptor for apoptotic effect of B7-H1 in this 
+system. Upon stimulation with anti-CD3 anti-
+body and B7-H1Ig, expression of Fas and FasL 
+were upregulated in activated T cells (Fig. 4b). In 
+addition, secretion of IL-10 upon B7-H1Ig liga-
+tion increased drastically12. As both Fas-FasL and 
+IL-10 are involved in the activation-induced T-
+cell death18,22, we determined the possible role of 
+these molecules in B7-H1-mediated apoptosis. 
+Inclusion of monoclonal antibody against FasL 
+or IL-10 had minimal effect on apoptosis in-
+duced by anti-CD3 monoclonal antibody alone 
+(Fig. 4c). Apoptosis of T cells stimulated by anti-
+CD3 antibody and B7-H1Ig could, however, 
+be significantly inhibited to the level of control 
+(P < 0.01) by the inclusion of antibodies to FasL, 
+IL-10 or both, but not by control antibody 
+(Fig. 4c). Inclusion of antibody against FasL in 
+the coculture system of B7-H1/624mel cells and 
+M15 CTLs (Fig. 4d) also inhibited the growth of 
+tumor cells by blocking the interaction of Fas 
+and FasL, leading to the inhibition of M15 CTL 
+apoptosis (Fig. 2f). Alone, however, antibody 
+against IL-10 did not affect tumor growth (Fig. 4d). Our results 
+indicate that the interaction of Fas and FasL is a component of 
+B7-H1-mediated apoptosis of activated T cells.
+
+Tumor-associated B7-H1 deleted activated T cells in vivo 
+To determine whether T-cell apoptosis in vitro correlates with ac-
+tivated T-cell deletion in vivo, we used a mouse adoptive transfer 
+model involving T cells containing a transgenic T-cell receptor 
+(TCR), which recognizes a P2Ca peptide in the context of the 
+L d MHC class I molecule on the P815 tumor line23. In this 
+model, we injected mock-transfected P815 cells (mock/P815) or 
+B7-H1-transfected P815 cells (B7-H1/P815) intraperitoneally 
+(i.p.) into immunodeficient RAG-1–/– mice to establish progres-
+sively growing tumors. We activated the CTL cells by incubation 
+in vitro with BALB/c spleen cells (H-2d) and then transferred 
+them by i.p. injection into the peritoneal cavity. By 18 hours 
+after injection, the number of 2C T cells greatly increased—ac-
+counting for nearly 10% of all peritoneal cells—in mice harbor-
+ing mock/P815 cells but not in those harboring B7-H1/P815 cells 
+(Fig. 5a). In addition, 2C T cells in mice harboring B7-H1/P815 
+tumor cells underwent significant apoptosis by 8 hours after 
+transfer (Fig. 5b). By 42 hours, the number of apoptotic cells had 
+decreased. The absence of 2C T-cell expansion in B7-H1/P815-
+bearing mice was evidence of the ligand specificity of the initial 
+expansion of the 2C T-cell population in mice bearing 
+mock/P815 cells. The rapid increase in T-cell apoptosis after 
+18 hours of exposure to B7-H1-transfected tumor cells was sug-
+gestive of in vivo deletion of activated T cells by tumor-associated 
+B7-H1. Examination of tumor cells in peritoneal cavities after 
+adoptive transfer of 2C T cells, indicated an increase in the num-
+ber of B7-H1/P815 tumor cells but a proliferation of mock/P815 
+cells was largely inhibited. Notably, infusion of a neutralizing 
+monoclonal antibody against mouse B7-H1 inhibited the 
+growth of B7-H1/P815 cells in vivo (Fig. 5c).
+
+To further evaluate the role of tumor-associated B7-H1 in eva-
+sion of tumor immunity, we transfected the plasmid encoding 
+mouse B7-H1 into B7-1/P815 cells to establish cell lines express-
+
+NATURE MEDICINE • VOLUME 8 • NUMBER 8 • AUGUST 2002
+
+795
+```

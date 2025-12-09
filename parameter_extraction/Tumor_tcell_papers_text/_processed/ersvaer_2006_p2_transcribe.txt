@@ -1,0 +1,29 @@
+14
+
+The heterodimeric IFNγR (CD119) complex (reviewed in [2, 10]) consists of the IFNγ-binding R1 or α chain (CDw119) and the signal-transducing R2 or β chain. Receptor ligation induces phosphorylation of Janus kinases 1 and 2 that mediate activation of signal transducer and activator of transcription (STAT) molecules as well as Stat1-independent pathways [2, 10]. In a recent study we demonstrated that downstream intracellular signalling events after ligation of CD119 can even be used in prognostic classification of AML patients [11]. In vitro effects of IFNγ on native human AML cells have also been investigated previously, but in these studies (1) relatively low numbers of patients have been included; (2) patient selection has not been described; (3) the clinical and biological characterization of the patients are incomplete; and (4) only the examination of proliferation and membrane molecule expression have been included [9, 12–18]. In the present study we therefore characterized CD119 receptor expression, intracellular events following CD119 ligation and a wide range of functional effects of IFNγ in native human AML derived from a large group of consecutive patients.
+
+Materials and methods
+
+Acute leukaemia patients
+
+The study was approved by the local ethics committee and samples were collected after informed consent. We included 63 consecutive patients with newly diagnosed native AML patients (39 females and 48 males; median age 63 years with range 26–84 years) and 9 acute lymphoblastic leukaemia (ALL) patients [19] with high peripheral blood blast counts. Sixty-nine patients had de novo AML, the remaining minority had AML relapse (4 patients), chronic myeloid leukaemia in blast phase (2 patients) or AML secondary to chemotherapy or primary myelodysplasia (4 and 12 patients, respectively). The patients showed the following FAB classification: M0/M1 24 patients, M2/M3 28 patients, M4/M5 34 patients and M6 1 patient. Forty-six patients had > 20% CD34+ blasts. Cytogenetic analysis was performed for 63 patients and the abnormalities classified as described by Wheatley et al. [20]: 38 patients had normal chromosomes whereas 5 patients had low-risk, 10 patients high-risk and 10 patients intermediate-risk abnormalities. Seventy-eight patients were tested for genetic Fl3 abnormalities [21]; 27 patients had internal tandem duplications and 9 patients D835 mutations.
+
+Nine ALL patients were examined (five females and four males; median age 24 years with range 18–74 years). One patient had T ALL, and eight had B ALL (three pro-ALL, two pre-ALL, three common B ALL).
+
+Preparation of native human leukaemia blasts
+
+Leukaemic peripheral blood mononuclear cells (PBMC) were isolated by density gradient separation (Ficoll-Hypaque; NyCoMed, Oslo, Norway; specific density 1.077) from the peripheral blood of patients with > 80% of AML blasts among blood leucocytes. Cells were stored frozen in liquid nitrogen [21]. The percentage of blasts among leukaemic PBMC generally exceed 95% [21, 22], the contaminating cells being mainly small lymphocytes.
+
+Nonleukaemic cells
+
+Endothelial cells Human lung microvascular endothelial cells were obtained as frozen vials (Cambrex Bio Science Walkersville, Walkersville, MD, USA) and stored in liquid nitrogen until used. The cells were derived from a healthy 16-year-old white male (product code CC-2527, lot no. 3F1056). These cells (1) showed a doubling time in culture of approximately 18; (2) stained positive for acetylated LDL uptake stain, factor VIII related antigen and PECAM staining; (3) stained negative for alpha actin expression; and (4) were negative when tested for mycoplasma, human immunodeficiency virus 1, hepatitis B and hepatitis C (polymerase chain reactions) (distributor’s information).
+
+Human fibroblasts The cell line HFL1 (ATCC, Vanessa, no. CCL-153) was derived from the lungs of a 16 to 18-week-old fetus, has a typical adherent growth pattern and a diploid karyotype (distributor’s information). Its functional profile has been described [21].
+
+Human osteoblasts The cell line Cal72 (Deutsche Sammlung von Zellkulturen und Mikroorganismen, Braunschweig, Germany) has previously been characterized in detail [25–28]. It has a phenotype close to normal osteoblasts with an adherent growth pattern and a broad cytokine release profile [21].
+
+Normal human bone marrow stromal cells These cells were delivered in frozen vials (Cambrex) and stored in liquid nitrogen until use in the coculture assay. The cells were derived from a healthy 20-year-old white female. Bone marrow mononuclear cells were then derived by gradient separation (specific density 1.077) and cultured in Myelocult growth medium (BioWhittaker) for 4 weeks. The stromal cells represent the adherent cell population of the cultured cells and are a heterogeneous population of fibroblasts, reticulum cells, endothelial cells, macrophages and fat cells. The cells showed a purity of 95% and tested negative for mycoplasma, human immunodeficiency virus 1, hepatitis B and hepatitis C (polymerase chain reaction) (distributor’s information).
+
+Flow cytometric analysis of membrane molecule expression
+
+Membrane molecule expression was analysed by flow cytometry (FCM) using either PE, FITC or

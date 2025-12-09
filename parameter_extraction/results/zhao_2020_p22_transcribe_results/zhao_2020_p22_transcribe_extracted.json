@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and their values from the provided text:\n\n1. **P values**:\n   - * = P ≤ 0.05\n   - ** = P ≤ 0.01\n   - *** = P ≤ 0.001\n   - **** = P < 0.0001\n\n2. **Peptide concentration**:\n   - OVA peptide: 10 μg/ml\n\n3. **Number of experiments and animals**:\n   - Data from 5–6 experiments\n   - Each symbol represents one animal (n = 8–9) from n = 3 independent experiments\n   - Data are from n = 6 animals, performed in 3 independent experiments\n\n4. **DNMT inhibitor concentration**:\n   - 20 μM\n\n5. **Cytokine concentrations**:\n   - IL-2: 20 U/ml\n   - IL-7/IL-15: 5 ng/ml each\n\nThese values are extracted from the context of experimental conditions and statistical analysis descriptions in the text."
+}

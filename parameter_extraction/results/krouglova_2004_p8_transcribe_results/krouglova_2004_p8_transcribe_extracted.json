@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and values from the text:\n\n1. **Flutax2 Concentration**: 13 nM (nanomolar concentration)\n2. **Tubulin Concentration Range**: Between 250 nM and 50 μM\n3. **Correction Factor (\\(\\alpha\\))**: 0.41\n4. **Association Constant (\\(K_{ass}\\))**:\n   - From Eq. 11: \\(0.12 \\pm 0.01\\) μM\\(^{-1}\\)\n   - From Eq. 13: 0.14 μM\\(^{-1}\\)"
+}

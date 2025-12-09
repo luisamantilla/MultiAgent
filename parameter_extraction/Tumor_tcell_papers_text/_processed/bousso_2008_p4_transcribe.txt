@@ -1,0 +1,124 @@
+```plaintext
+REVIEWS
+
+Finally, in a third approach, subcutaneous injection of 
+the CFSE (5,6-carboxyfluorescein diacetate succinimidyl 
+ester) fluorescent dye together with cytokines and anti-
+gen that is adsorbed to the adjuvant alum has been used 
+to deliver antigen to and label endogenous skin DCs that 
+subsequently traffic to the lymph nodes51. It should be 
+noted that each of these approaches targets subsets of 
+DCs that might differ in their ability to interact with and 
+activate antigen-specific naive T cells.
+
+Visualizing the antigen. In addition to methods for track-
+ing DCs, alternative approaches have been developed to 
+visualize the presence of antigen within APCs. For exam-
+ple, an autoquenched version of the ovalbumin protein 
+(OVA) that becomes fluorescent on proteolytic cleavage 
+inside APCs can be injected intravenously to visualize 
+the kinetics of antigen processing and presentation to 
+T cells52. In addition, Tang et al. used a mouse strain 
+in which green fluorescent protein (GFP) is expressed 
+under the control of the mouse insulin I promoter on the 
+non-obese diabetic (NOD)-genetic background to track 
+endogenous DCs that had engulfed GFP-positive cells53. 
+They noted the presence of 20–300 GFP-positive DCs 
+in the pancreatic lymph nodes of these mice and showed 
+that these cells were actively presenting islet antigens to 
+both CD4+CD25+ T-helper cells and regulatory T cells. 
+Finally, recombinant viruses expressing GFP molecules 
+were used to model antigenic peptide and the 
+influenza nucleoprotein to assess the kinetics and 
+virus-infected cells and to analyse their interactions with 
+antigen-specific CD8+ T cells54.
+
+Diversity of T-cell–DC contacts in vivo
+Results of in vitro experiments support the idea that anti-
+gen recognition by T cells is associated with T-cell arrest 
+on the APC (also referred to as the T-cell stop signal) 
+and the formation of long-lasting contacts27,28. This view 
+was challenged by the finding that naive T cells estab-
+lished multiple short contacts (less than 10 minutes in 
+duration) with antigen-bearing DCs when placed in a 
+collagen matrix, and became activated by this process28. 
+Two-photon imaging of T cell–DC contacts in vivo was 
+an ideal way to resolve this controversy and to determine 
+whether T-cell activation in vivo relies on interactions 
+with DCs that last for minutes or hours. However, instead 
+of providing the simple answer researchers were looking 
+for, experiments carried out by several groups in differ-
+ent experimental systems revealed that there is a high 
+degree of diversity in T-cell–DC contact dynamics. This 
+complexity raised the exciting hypothesis that the can-
+cellation of T-cell–DC contact dynamics was an essential 
+component of the T-cell activation process.
+
+Contacts in the absence of antigen. Owing to the vigor-
+ous intranodal motility of T cells, individual DCs in the 
+lymph node constantly experience new encounters with 
+T cells (see Supplementary information S2 (movie)). 
+Imaging of T-cell–DC contacts in the absence of anti-
+gen revealed that 500–5,000 distinct T cells were ‘seen’ 
+by each DC every hour15,21. Such impressive rates of 
+encounter provided a satisfactory explanation for how 
+a small number of antigen-bearing DCs can establish a 
+‘dialogue’ with rare antigen-specific T cells to initiate 
+an immune response. During an encounter with a DC 
+that is not presenting cognate antigen, a T cell does not 
+stop crawling but might experience a slight decelera-
+tion and remain in contact for 3–5 minutes. Although 
+calcium signals in T cells during these brief encounters 
+are infrequent15,30, these contacts might be functionally 
+important, as naive CD4+ T cells that are prevented from 
+engaging MHC class II molecules on the surface of APCs 
+progressively lose their motility in lymph nodes15.
+
+The rate of T-cell–DC contacts in the absence of 
+antigen recognition is not solely the result of random 
+collision events. CD8+ T cells tend to encounter DCs 
+that have already established a cognate interaction with 
+another CD4+ or a CD8+ T cell more frequently16,17,31. 
+Chemokines, such as CC-chemokine ligand 3 (CCL3) 
+and CCL4, are produced at the site of T-cell–DC 
+conjugates and increase the chance for migrating 
+CC-chemokine receptor (CCR5)-expressing CD8+ 
+T cells to contact DCs by a factor of 4 to 8 (REFS 16,32). 
+This mechanism could drive the recruitment of CD8+ 
+T cells by the most competent DCs and favour the for-
+mation of three-cell clusters as well as promote collabo-
+ration between T cells. Finally, T-cell behaviour can also 
+be influenced by the presence of chemokines that are 
+bound to the surface of DCs when T cells encounter 
+APCs that have been pulsed with CCR7 ligands17. 
+
+Transient contacts in the presence of antigen. T cell 
+interactions with antigen-bearing DCs can result in 
+transient, dynamic contacts that last no more than 10 
+minutes (TABLE 1). In fact, these contacts are hardly dis-
+tinguishable from those of T cells that are interacting 
+with DCs in the absence of antigen15,33. Conceivably, 
+these interactions could be completely unproductive, 
+with T cells simply ‘missing’ the detection of cognate 
+antigen on the DCs if, for example, limiting amounts 
+of peptide–MHC complexes were present at the contact 
+zone. However, data in the literature suggest that at least 
+a fraction of these interactions results in some level of 
+T-cell activation. For example, following immunization 
+with OVA that is conjugated to DEC-205-specific anti-
+body (anti-DEC-205–OVA), a regimen that induces an 
+initial state of activation followed by tolerance, the vast 
+majority of OVA-specific CD8+ T cells do not arrest on 
+DCs36. This observation indicates that T-cell activation 
+signals can be delivered in vivo in the absence of T-cell 
+arrest. A similar conclusion was drawn when studying 
+CD4+ T-cell activation and energy following administra-
+tion of a DEC-205-specific antibody that is conjugated 
+to a low potency ligand37. The first hours of CD8+ T cells 
+interacting with peptide-pulsed DCs can be dominated 
+by transient contacts, yet many T cells upregulate their 
+
+678 | SEPTEMBER 2008 | VOLUME 8                                                                 www.nature.com/reviews/immunol
+
+© 2008 Macmillan Publishers Limited. All rights reserved
+```

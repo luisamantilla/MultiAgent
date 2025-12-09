@@ -1,0 +1,112 @@
+and degradation (78, 79). CD69 expression by recently activated  
+T cells therefore serves to inhibit the egress promoting function  
+of S1P\textsubscript{1} (24, 78, 79). However, activated T cells only transiently  
+express CD69 (98). Accordingly, once activated T cells have  
+undergone several rounds of division and have downregulated  
+CD69, they start to re-express S1P\textsubscript{1} and appear in circulation  
+(8, 22). Akin to CD69 regulated surface expression of S1P\textsubscript{1} on  
+recently activated T cells, T cell receptor signaling (the first signal  
+of T cell activation) has been reported to induce transcriptional  
+downregulation of S1P\textsubscript{1} (89). Transcriptional restoration of S1P\textsubscript{1} is  
+also likely to regulate T cell egress during an immune response.
+
+Role of CCR7  
+In addition to S1P\textsubscript{1}, CCR7 expression levels in T cells also  
+impact the time T cells spend in LNs. Upon antigen recogni-  
+tion, activated T cells downregulate CCR7 (22). Fibroblastic  
+reticular cells within the LN produce CCL21 and help generate  
+a gradient where CCL21 levels are highest toward the LN center  
+and decrease toward the peripheral medullary areas (25, 99). In  
+addition to mediating intranodal positioning, migration, and  
+motility (75), CCR7 also confers T cell retention within LNs  
+(22). T cells devoid of CCR7 (CCR7\textsuperscript{−/−}) egressed more rapidly  
+than their wild-type (WT) counterparts, whereas transgenic  
+T cells overexpressing CCR7 were retained in the LN for longer  
+periods of time (22). Treatment with pertussis toxin restored  
+some competence of S1P\textsubscript{1}-deficient lymphocytes and mixed  
+bone marrow chimeras revealed that T cells in the absence of  
+CCR7 egressed more slowly in efferent lymphatics than their WT  
+counterparts (22). Collectively, these findings suggest that CCR7  
+on T cells promotes their retention in LNs and that egress occurs  
+through S1P\textsubscript{1} in part overcome CCR7-mediated retention (22).  
+Interestingly, more CCR7\textsuperscript{−/−} than WT T cells entered sinuses,  
+suggesting that the interplay between CCR7-mediated reten-  
+tion and S1P\textsubscript{1}-mediated egress occurs at the level of entry into  
+sinuses (22). More recently, it has also been reported that C–X–C  
+chemokine receptor 4 (CXCR4) on T cells synergizes with CCR7  
+to retain both naïve and activated T cells in LNs (80).
+
+Adhesion Molecules Involved in  
+Egress across Sinuses  
+While it is well established that adhesion molecules and their  
+integrin ligands play an important role in T cell entry into LNs  
+through HEVs (100), not much is known about their role in T cell  
+egress across lymphatic sinuses. A role for leukocyte function-  
+associated antigen 1 (LFA-1) in delaying egress of T cells across  
+lymphatic sinuses has recently been suggested. Following the  
+probing of the surface of LN sinuses, CD4\textsuperscript{+} T cells devoid of LFA-1  
+had a greater tendency to egress across sinuses and spent less time  
+in the LN than their WT counterparts (26). This distinction was  
+lost in mice lacking the major LFA-1 ligand intercellular adhesion  
+molecule 1 (ICAM-1) (26).  
+In addition to LFA-1, the common lymphatic endothelial and  
+vascular endothelial receptor-1 (CLEVER-1), as well as the mac-  
+rophage mannose receptor (MR) or its ligand L-selectin have been  
+implicated in T cell migration across lymphatic sinuses: when  
+performing adhesion assays on LN sections, antibody-mediated  
+blockade of CLEVER-1 or MR reduced binding of lymphocytes  
+to sinus endothelium (81, 82). However, the in vivo involvement  
+of these receptors in LN egress has not been demonstrated  
+thus far. On the other hand, a possible role for the integrin α9  
+subunit in lymphocyte egress from inflamed LNs has recently  
+been reported (83). Integrin α9β1 is a well-described binding  
+partner of the extracellular matrix component tenascin-C, and  
+both α9 and tenascin-C reportedly are upregulated in medullary  
+and cortical LN sinuses during inflammation. The study revealed  
+that tenascin-C binding to LEC-expressed α9β1 induced S1P  
+production in LECs, establishing a mechanistic link between  
+α9 integrin expression and S1P\textsubscript{1}-mediated T cell egress. In fact,  
+antibody-based blockade of α9 or tenascin-C deficiency resulted  
+in impairment of T cell egress from inflamed LNs, reminiscent  
+of treatment with FTY720 (83).
+
+Cellular Insights into Egress from Intravital  
+Microscopy (IVM)  
+T cell egress from LNs has not only been studied at the population  
+level but also at the single-cell level using IVM (see Box 1). Such  
+studies have confirmed previous histology-based studies showing  
+that T cell migration and egress occurs both at the level of the  
+cortical and medullary sinuses (23, 101). T cells were observed  
+entering sinuses at multiple locations, however, occasionally two  
+or more T cells entered at specific “hot spots” (23). In total, in  
+cortical sinuses without flow, T cells migrated at the same speed as  
+through the parenchyma, whereas in medullary sinuses, where  
+T cells were more rounded, shared fairly uniform velocities, and  
+were frequently observed to exit back into the parenchyma (23, 24)  
+T cells in the macrophage-rich medullary sinuses appeared to  
+become poorly mobile and occasionally exited the sinuses and  
+returned to the T cell zone (23). Following migration of T cells  
+through cortical and medullary sinuses, T cells were released into  
+the subcapsular region near the efferent vessel and moved off  
+rapidly with lymph flow (23). Overall, T cell transit time through  
+the LN appears to be determined by random walk encounters  
+with lymphatic sinuses (24). Only at the level of the sinus do S1P\textsubscript{1}-  
+expressing T cells start to sense S1P in lymph, which triggers their  
+exit into the lymphatic compartment (22–24).
+
+T CELL ENTRY AND MIGRATION  
+WITHIN AFFERENT LVs  
+In comparison to T cell egress from LNs, little is known about  
+T cell migration from peripheral tissue into afferent LVs. As  
+already suggested by the dominance of CD4\textsuperscript{+} over CD8\textsuperscript{+} T cells  
+in afferent lymph (43, 44, 62), CD4\textsuperscript{+} T cells migrate more effi-  
+ciently through afferent LVs. Indeed, adoptive transfer studies  
+(7), crawl-out experiments from murine skin explants (102), and  
+studies in Kaede mice (31) uniformly demonstrate that CD4\textsuperscript{+}  
+T cells more efficiently exit the tissue via afferent LVs. This is also  
+reflected by emerging findings from many laboratories showing  
+that under steady-state conditions most CD8\textsuperscript{+} T cells in periph-  
+eral organs form part of a slow-moving, skin-resident memory  
+population [T\textsubscript{RM} reviewed in Ref. (103, 104)]. Although recent  
+
+Frontiers in Immunology | www.frontiersin.org 6 December 2016 | Volume 7 | Article 613

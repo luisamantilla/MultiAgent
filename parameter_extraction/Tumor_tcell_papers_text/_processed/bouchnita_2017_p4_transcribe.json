@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "```plaintext\nBouchnita et al. BMC Immunology 2017, 18(Suppl 1):29                                                                 Page 14 of 65\n\nFig. 2 Scheme of the integration of TCR-, type I Interferon- and IL-2 signaling sequence by naïve T cells to adaptively program the balance of growth \nand differentiation\n\ndaughter cell will undergo clonal proliferation and differ- \nentiation resulting in the generation of terminally differ- \nentiated effector cells (mature CD8+ T cells) that leave \nthe lymph node for peripheral tissues to search and kill \ninfected cells. The distal daughter cell becomes a mem- \nory cell. The memory cells are capable of self-renewal by \nslowly dividing symmetrically in the absence of recurrent \ninfection.\n\nHybrid model of cell dynamics\nIn our model of cell dynamics, cells are considered as indi- \nvidual objects that can move, divide, differentiate and die.\n\nFig. 3 Scheme of the spatial regulation of the asymmetric T cell division in lymph nodes (elaborated from [23])\n```",
+  "model": "gpt-4o",
+  "page": 4,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 14.87,
+  "filename": "bouchnita_2017.pdf",
+  "doc_id": "bouchnita_2017"
+}

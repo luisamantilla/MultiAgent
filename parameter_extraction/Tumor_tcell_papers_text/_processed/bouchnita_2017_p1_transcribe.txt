@@ -1,0 +1,58 @@
+```
+Bouchnita et al. BMC Immunology 2017, 18(Suppl 1):29
+DOI 10.1186/s12865-017-0205-0
+
+BMC Immunology
+
+RESEARCH                                                                 Open Access
+
+Hybrid approach to model the spatial
+regulation of T cell responses
+
+Anass Bouchnita1,2,3, Gennady Bocharov4*, Andreas Meyerhans4,5,6 and Vitaly Volpert1,4,7
+
+Abstract
+Background: Moving from the molecular and cellular level to a multi-scale systems understanding of immune
+responses requires the development of novel approaches to integrate knowledge and data from different biological
+levels into mechanism-based integrative mathematical models. The aim of our study is to present a methodology for
+a hybrid modelling of immunological processes in their spatial context.
+
+Methods: A two-level hybrid mathematical model of immune cell migration and interaction integrating cellular and
+organ levels of regulation for a 2D spatial consideration of idealized secondary lymphoid organs is developed. It
+considers the population dynamics of antigen-presenting cells, CD4+ and CD8+ T lymphocytes in naive-,
+proliferation- and differentiated states. Cell division is assumed to be asymmetric and regulated by the extracellular
+concentration of interleukin-2 (IL-2) and type I interferon (IFN), together controlling the balance between proliferation
+and differentiation. The cytokine dynamics is described by reaction-diffusion PDEs whereas the intracellular regulation
+is modelled with a system of ODEs.
+
+Results: The mathematical model has been developed, calibrated and numerically implemented to study various
+scenarios in the regulation of T cell immune responses to infection, in particular the change in the diffusion coefficient
+of type I IFN as compared to IL-2. We have shown that a hybrid modelling approach provides an efficient tool to
+describe and analyze the interplay between spatio-temporal processes in the emergence of abnormal immune
+response dynamics.
+
+Discussion: Virus persistence in humans is often associated with an exhaustion of T lymphocytes. Many factors can
+contribute to the development of exhaustion. One of them is associated with a shift from a normal clonal expansion
+pathway to an altered one characterized by an early terminal differentiation of T cells. We propose that an altered T
+cell differentiation and proliferation sequence can naturally result from a spatial separation of the signaling events
+delivered via TCR, IL-2 and type I IFN receptors. Indeed, the spatial overlap of the concentration fields of extracellular
+IL-2 and IFN in lymph nodes changes dynamically due to different migration patterns of APCs and CD4+ T cells
+secreting them.
+
+Conclusions: The proposed hybrid mathematical model of the immune response represents a novel analytical tool
+to examine challenging issues in the spatio-temporal regulation of cell growth and differentiation, in particular the
+effect of timing and location of activation signals.
+
+Keywords: Immune system, T cell, Spatial dynamics, Multi-scale regulation, Hybrid model
+
+*Correspondence: bocharov@inm.ras.ru
+4Institute of Numerical Mathematics, Russian Academy of Sciences, Gubkina
+Street 8, 119333 Moscow, Russian Federation
+Full list of author information is available at the end of the article
+
+© The Author(s). 2017 Open Access This article is distributed under the terms of the Creative Commons Attribution 4.0
+International License (http://creativecommons.org/licenses/by/4.0/), which permits unrestricted use, distribution, and
+reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the
+Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver
+(http://creativecommons.org/publicdomain/zero/1.0/) applies to the data made available in this article, unless otherwise stated.
+```

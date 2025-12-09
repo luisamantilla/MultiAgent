@@ -1,0 +1,79 @@
+```plaintext
+doi:10.1038/nature06887                                                                                                           nature
+
+lymph node compartments, methanol-fixed cryosections were stained after 
+blocking with 1% BSA in PBS with pan-laminin antibodies (L9393, Sigma) and 
+secondary anti-rabbit Cy5 (Jackson). Three different layers of the T cell cortex of 
+each lymph node were documented using an Axio Imager upright microscope 
+(Zeiss). Quantification of DCs within the T cell cortex was performed with 
+MetaMorph (Molecular Devices). Using measuring thresholds, the greyscale 
+images of both fluorescence channels were separately binarized. DCs appeared 
+as spots in the greyscale channel using the morphometric function. The ratio of 
+migrated knockout DCs was calculated as the number of knockout cells divided 
+by the total number of DCs in the T cell cortex, with 0.5 as the value where 50% of 
+knockout cells and 50% wild-type cells located in the centre of the lymph node. 
+To confirm that fluorescent cells in the lymph node represent DCs that migrated 
+from the injection site (Supplementary Fig. 3), DCs were labelled with 3 µg ml^-1 
+Trace Oregon Green 488 (Invitrogen). 1 x 10^6 DCs of either wild-type or migra- 
+tin^2/2 DCs were injected as described above and 8 h later DCs were identified as 
+green cells expressing CD86 by flow cytometric analysis. 
+Ex vivo wide-field microscopy in ear dermis. Ears of killed C57BL/6 mice were 
+removed and mechanically split into dorsal and ventral halves. During separa- 
+tion the dermis detached from the cartilage layer that remained on one of the 
+two halves. The dermal half was left unfixed and incubated with a rabbit poly- 
+clonal anti-LYVE-1 antibody (R&D Systems), washed with PBS and stained with 
+A488 conjugated anti-rabbit secondary antibody (Molecular Probes). The 
+stained ears were mounted on custom-made migration chambers with the 
+dermal surface uppermost. Fluorescent images were recorded with 
+MetaMorph (Molecular Devices) as described above. For time-lapse analysis, 
+labelled DCs (see above) were re-suspended in culture medium, added on top of 
+the dermis and incubated for 30 min at 37 °C, 5% CO_2. After gently washing 
+away non-infiltrated DCs, the ear sheets were imaged in a custom-built migra- 
+tion chamber using a fully motorized upright Leica MZ 16 FA stereomicroscope 
+equipped with a Spot camera and operated via MetaMorph software (Universal 
+Imaging/Visitron Systems). For multiple immunofluorescence stainings 
+(Supplementary Fig. 5), ear sheets were fixed with 1% PFA after 10 min incuba- 
+tion of DCs and stained as described in the re-evacuation section. Sections of 
+the ear dermis were stained with anti-CD11b, anti-F4/80 and anti-LYVE-1 anti- 
+bodies to identify macrophages in lymph node homing. 
+In vitro chemotaxis assays. In vitro chemotaxis assays were performed in 
+24-well plates with 5-µm-pore-size Transwell inserts (Corning). DCs were 
+labelled with TAMRA and CFSE as above and 1 x 10^5 DCs were added to the 
+upper chamber. Chemokines were applied to the lower chamber. After 3 h, 
+migrated cells were collected and analysed using flow cytometry. 
+In vitro adhesion assays. Adhesion assays were performed in 96-well plates coated 
+with 10 µg ml^-1 fibronectin (Calbiochem) or 10 µg ml^-1 recombinant mouse 
+ICAM-1 (R&D). 3 x 10^5 DCs per well were seeded in RPMI medium containing 
+10% FCS in the presence of 200 ng ml^-1 LPS and incubated for 30 min at 5% CO_2, 
+37 °C. Small numbers of LPS-primed DCs were seeded in the presence of 
+200 ng ml^-1 polyclonal anti-β1-integrin antibody (Calbiochem) for 30 min. Cells were 
+washed normally 3 times with PBS, 1% BSA and subsequently photo-document- 
+ed manually. Time-lapse video microscopy of chemokine-induced migra- 
+tion of LPS-matured DCs (see Supplementary Video 4) was performed on 
+10 µg ml^-1 mouse CCL21 (R&D)-coated plates of cultured tissue. 
+References
+1. Bader, B. L., Rayburn, H., Crowley, D. & Hynes, R. O. Extensive vasculogenesis, 
+angiogenesis, and organogenesis precede lethality in mice lacking all alpha v 
+integrins. Cell 95, 507–519 (1998).
+2. Nagy, A., Rossant, J., Nagy, R., Abramow-Newerly, W. & Roder, J. C. Derivation of 
+completely cell culture-derived mice from early-passage Embryonic stem cells. 
+Proc. Natl Acad. Sci. USA 90, 8424–8428 (1993).
+3. Fässler, R., Asher-Padian, R., van der Hoeven, F., Gruss, P. & Stewart, A. F. Efficient 
+targeting of an embryonic stem cell locus, Genes & Dev. 5, 916–931 (2001).
+4. Bunagart, S. et al. Adult murine melanocytes can proceed to target without 
+beta1 integrins. Blood 103, 1857–1864 (2004).
+5. Lutz, M. B. et al. An advanced culture method for generating large quantities of 
+highly pure dendritic cells from mouse bone marrow. Immunol. Methods 223, 
+77–92 (1999).
+6. Fässler, R. & Meyer, M. Consequences of lack of beta 1 integrin gene expression in 
+mice. Genes & Dev. 8, 1896–1908 (1995).
+7. Worths, T., Mempel, T. R., Bolter, I., von Andrian, U. H. & Förster, R. CCR7 ligand 
+gradients are important for the intranodal motility of T lymphocytes in vivo. J. Exp. Med. 204, 
+489–495 (2007).
+8. Butcher, D. et al. Interleukin 10 but not interleukin 4 is a natural suppressant of 
+cutaneous inflammation responses. J. Exp. Med. 182, 1799–1809 (1995).
+9. Croft, D. et al. An essential role for the Fas ligand in the response to apoptotic 
+protein disintegration. J. Cell Biol. 168, 245–255 (2005).
+
+©2008 Nature Publishing Group
+```

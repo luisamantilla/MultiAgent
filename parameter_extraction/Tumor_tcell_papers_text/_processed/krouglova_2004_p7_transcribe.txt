@@ -1,0 +1,69 @@
+Tubulin Oligomer Formation Studied by FCS
+
+\[
+\begin{align*}
+&\text{5} \\
+&\text{4} \\
+&\text{3} \\
+&\text{2} \\
+&\text{1} \\
+&\text{0} \\
+\end{align*}
+\]
+
+\[
+\begin{align*}
+&\text{0} &\text{10} &\text{20} &\text{30} &\text{40} &\text{50} \\
+\end{align*}
+\]
+
+\[
+\frac{K}{(K_c f)}
+\]
+
+tubulin (\(\mu\)M)
+
+FIGURE 5 Binding plot for tubulin-tubulin interactions in the presence of 16 mM Mg\(^{2+}\). Values of the function \(K/(K_c f)\) for longitudinal (\(\blacktriangle\)) and lateral contacts (\(\bullet\)) calculated on the basis of the decreasing average diffusion coefficient (see text) as a function of tubulin concentration. The association constants are calculated from the slope and found to be equal to 0.091 ± 0.004 \(\mu\)M\(^{-1}\) and 0.108 ± 0.003 \(\mu\)M\(^{-1}\) for longitudinal (\(\blacktriangle\)) and lateral contacts (\(\bullet\)), respectively (at 20°C and in MES buffer with 1 mM GDP).
+
+0.003 \(\mu\)M\(^{-1}\) for a model with lateral associations (at room temperature and in MES buffer with 1 mM GDP). These values are in fair agreement with the results of Frigon and Timasheff (1975) and prove that the FCS method is able to analyze oligomer formation of tubulin and that the fluorescent labeling of tubulin does not interfere with the oligomerization process.
+
+Pure Flutax2 in the FCS measurements
+
+A fitting of a correlation curve resulting from the measurements of a solution containing only free Flutax2 gives a characteristic translational diffusion time \(\tau = 43 \, \mu s\). This diffusion time of the free fluorescent derivative is then fixed in the fitting of the correlation curve for the mixture of fluorescent paclitaxel and tubulin. The diffusion coefficient of Flutax2 is determined to be (2.2 ± 0.2) × 10\(^{-10}\) m\(^2\)/s. The autocorrelation curves of a solution containing free Flutax2 and a mixture of Flutax2 and tubulin (10 \(\mu\)M) are shown in Fig. 6.
+
+Binding of Flutax2 to the tubulin
+
+It is known that nonlabeled paclitaxel binds to microtubules in vitro with a maximum stoichiometry 1 mol of paclitaxel/mol of tubulin in microtubules and is supposed not to bind with high-affinity to unpolymerized tubulin (Parness and Horwitz, 1981; Ringel and Horwitz, 1991; Díaz et al., 1993). However, the fluorescent probe of paclitaxel such as Flutax2 that we use in this work binds to the free tubulin dimer at a concentration 0.25 \(\mu\)M of tubulin. In this experiment, Flutax2 at nanomolar concentration is added to different concentrations of tubulin (in micromolar range) and the diffusion coefficient, the fractions of free and bound fluorescent paclitaxel are determined from the autocorrelation curves. The best-fitting result of the autocorrelation function is obtained with a two-component model with a fixed value for the diffusion time of Flutax2.
+
+The diffusion coefficient of the tubulin-Flutax2 complex seems to be a function of the tubulin concentration as is shown in Fig. 4 and therefore is assumed to be an average diffusion coefficient of the complex itself and of an oligomeric species of the complex. The average diffusion coefficient of the tubulin-Flutax2 complex is calculated to be (4.1 ± 0.2) × 10\(^{-11}\) m\(^2\)/s at a concentration of tubulin of 0.25 \(\mu\)M. At concentrations of tubulin varying between 0.5 \(\mu\)M and 10 \(\mu\)M the average diffusion coefficient of Flutax2 in complex with tubulin decreases with increasing tubulin concentration, but as seen in Fig. 4, at concentrations of tubulin >10 \(\mu\)M, the average diffusion coefficient remains the same at \(\sim\)(1.6 ± 0.3) × 10\(^{-11}\) m\(^2\)/s. These changes in the average diffusion coefficient with increasing tubulin concentration suggest the recruitment of tubulin dimers by Flutax2 and at tubulin concentrations >10 \(\mu\)M, oligomers of defined size seem to be formed.
+
+\[
+\begin{align*}
+&\text{1.16} \\
+&\text{1.14} \\
+&\text{1.12} \\
+&\text{1.10} \\
+&\text{1.08} \\
+&\text{1.06} \\
+&\text{1.04} \\
+&\text{1.02} \\
+&\text{1.00} \\
+&\text{0.98} \\
+\end{align*}
+\]
+
+\[
+\begin{align*}
+&\text{1e-1} &\text{1e+0} &\text{1e+1} &\text{1e+2} &\text{1e+3} &\text{1e+4} &\text{1e+5} &\text{1e+6} &\text{1e+7} &\text{1e+8} \\
+\end{align*}
+\]
+
+\(G(\tau)\)
+
+Log time (\(\mu s\))
+
+FIGURE 6 Autocorrelation functions of Flutax2 and a mixture of Flutax2 and tubulin. The solid line represents the autocorrelation function of a solution containing 13 nM of Flutax2. The diffusion time is determined to be 43 \(\mu s\). This value is fixed in the fitting of the correlation curve for the mixture of Flutax2 and tubulin. The dashed line represents the autocorrelation function of a solution containing a mixture of Flutax2 and 10 \(\mu\)M tubulin. This autocorrelation function was fitted by a two-component model yielding 66% free Flutax2 and 34% bound Flutax2 to tubulin. The diffusion coefficient of the complex is determined to be (1.6 ± 0.3) × 10\(^{-11}\) m\(^2\)/s.
+
+Fig. 7 demonstrates the interaction between Flutax2 and tubulin, i.e., it shows the dependence on the concentration of tubulin of the ratio of the amplitude fractions of tubulin-Flutax2 complex/free Flutax2. The amplitude fraction of the tubulin-Flutax2 complex is changed from 2% to 87% when the concentration of the tubulin is varied from 0.25 \(\mu\)M up to 50 \(\mu\)M. The measured amplitude fractions of both species at each concentration of tubulin do not change during the time span of the experiment.
+
+Biophysical Journal 87(4) 2635–2646

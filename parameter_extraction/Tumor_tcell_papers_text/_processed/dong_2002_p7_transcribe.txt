@@ -1,0 +1,223 @@
+```plaintext
+ARTICLES
+
+a
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+0
+
+8
+
+12
+
+4
+
+6
+
+Hours after 2C T cell transfer
+
+b
+
+Apoptotic 12+ cells (%)
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+0
+
+8
+
+12
+
+4
+
+6
+
+Hours after 2C T cell transfer
+
+c
+
+Mock/P815
++control Ab
+
+B7-H1/P815
++control Ab
+
+B7-H1/P815
++anti-B7-H1
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+H-2D^d positive cells (%)
+
+d
+
+Mean tumor diameter (mm)
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+
+0
+
+5
+
+10
+
+15
+
+20
+
+Days after tumor inoculation
+
+Fig. 5  Expression of B7-H1 on P815 tumor promotes apoptosis of T cells
+and increases tumor growth in vivo. Female RAG-1^–/– mice in groups of 3 were
+inoculated i.p. with 1 × 10^7 mock/P815 or B7-H1/P815 cells. Three days later,
+pre-activated 2C T cells (2.5 × 10^7) were injected i.p. into each tumor-bearing
+mouse. a, Peritoneal cells were collected, and counted at each time point as
+indicated. b, The cells were then stained with phycoerythrin-conjugated 1B2
+monoclonal antibody and FITC-labeled annexin V. Apoptotic cells were calcu-
+lated as the percentage of annexin V+ cells gated in the 1B2+ fraction. Data are
+represented as means ± s.d. of cells from 3 mice of each point. Similar results
+were obtained in 3 experiments. *, significantly different from the Mock/P815
+group, P < 0.05. c, Mock/P815; B7-H1/P815; and for a and b, c, Survival of
+B7-H1/P815 tumor cells in vivo. Mock/P815 or B7-H1/P815 tumor cell s at
+1 × 10^7 were inoculated i.p. 3 d before the transfer of activated 2C T cells.
+Control antibody (Ab) or monoclonal antibody against B7-H1 was injected
+i.p. 2 h before the transfer of 2C T cells. One day after the transfer of 2C T
+cells, peritoneal cells were collected and stained with anti H-2D^d mAb
+7D4. The presence of P815 tumor was shown by the percentage of H-2D^d-
+positive cells. Data are represented as mean ± s.d. of cells from 3 mice. Similar
+results were obtained in
+two experiments. *, signifi-
+cantly different from the
+B7-H1/P815 + control an-
+tibody group, P < 0.05. d,
+B7-H1 expression pro-
+moted growth of im-
+munogenic B7-H1/P815
+cells in syngeneic mice.
+DBA/2 mice were inocu-
+lated subcutaneously with
+2 × 10^4 of mock/P815 (∆),
+B7-H1/P815 (O), or 5 ×
+10^4 of B7-H1/P815 (▲), B7-1/B7-H1/P815 (□) tumor cells. Tumor sizes were
+assessed by measuring 2 perpendicular diameters in millimeters (mm) by a
+caliper, and the results were expressed as mean ± s.d. of tumor diameter from
+5 mice. Similar results were obtained in 4 experiments. *, significantly differ-
+ent from the B7-1/P815 group, P < 0.01.
+
+Transfection. Human melanoma 624mel cells were transfected with the
+pcDNA3 plasmid (Invitrogen, Carlsbad, CA) encoding human B7-H1 gene^4 or
+H-2K^d/2m and the empty vector pcDNA3 (Mock/624mel), and were se-
+lected on the basis of G418 resistance. Mock/P815, B7-1/P815, B7-H1/P815,
+and B7-1/B7-H1/P815 tumors were transfected with the corresponding plas-
+mids as described previously^5, and the expression of surface molecules was
+confirmed by FACS analysis using specific monoclonal antibodies.
+
+Generation of antigen-specific CTLs. Tumor antigen–specific CD8+
+human T-cell lines were generated from peripheral blood mononuclear
+cells from a healthy HLA-A2–positive donor by in vitro stimulation using
+624mel cells loaded with corresponding peptide epitopes, as described^5.
+M15 is a human CTL line that specifically recognizes an HLA-A2–restricted
+epitope (IMDQVPFSV) of the gp100 antigen. M9 is an HLA-B7–restricted
+CTL clone that recognizes an epitope (RPHVQYLCI) of carcinoembryonic
+antigen. CTL activity was determined by a 4-h ^51Cr-release cytotoxicity
+assay. To activate 2C T cells, 4 × 10^7 CD8+ T cells were purified from spleen
+and lymph nodes using MACS beads (Miltenyi Biotec, Auburn, California)
+and subsequently stimulated with irradiated BALB/c splenocytes and
+10 IU/ml human IL-2 for 3 d. Viable 2C T cells were purified with
+Lympholyte-M (Cedarlane Laboratories, Hornby, Ontario, Canada).
+
+Cell apoptosis assays. Human CD8+ (CTLs or M9) and CD4+ (M15) T
+cells per well were cultured with irradiated tumor cells at 1 × 10^5 × 10^5
+cells per well for 4 d. Monoclonal antibodies, fusion proteins and control
+Ig were included from the start of culture. Cells were harvested at the indi-
+cated times and stained with annexin V and monoclonal antibodies against
+CD8. Apoptosis was calculated as the percentage of annexin V+ cells gated
+in the CD8+ fractions. To assay for apoptosis of 2C T cells, female RAG-1^–/–
+mice were inoculated i.p. with 1 × 10^7 Mock/P815 or B7-1/B7-H1/P815
+cells. Three days later, pre-activated 2C T cells (2.5 × 10^7) were injected i.p. into
+each mouse. Peritoneal cells were collected, counted at each time point as
+indicated and stained with 1B2 monoclonal antibody and annexin V.
+Apoptosis was calculated as the percentage of annexin V+ cells gated in the
+1B2+ fraction. Data are represented as means ± s.d. of cells from 3 mice for
+each point in at least 3 experiments.
+
+To induce apoptosis in polyclonal CT cells, purified human peripheral
+blood CD8+ (95% CD3+) at 2 × 10^7 per well were preeducated with tumor
+plates precoated with 0.5 µg/ml of monoclonal antibody against 2C3
+(PharMingen, San Diego, California) and 10 µg/ml of either immobilized B7-H1Ig
+or control Ig (mouse IgG2a) for 72 h. T cells at 1 × 10^7 per sample were
+stained with annexin V (5 µg per test) and propidium iodide (PI; 5 µg/ml;
+Sigma) and the samples were analyzed by FACS. Apoptosis was calcu-
+lated as the percentage of annexin V+ PI cells in the viable fraction.
+For blockade of apoptosis, the human PD-1Ig (30 µg/ml) and the neutral-
+izing monoclonal antibody against human IL-10 (5 µg/ml, JES3-9D7,
+PharMingen) or against human FasL (8 µg/ml, NOK-1, PharMingen) were
+added from the onset.
+
+Mouse studies. Female DBA/2 (H-2^d) and RAG-1^– mice (H-2^d) were pur-
+chased from the Jackson Laboratory (Bar Harbor, Maine). Mice (2–6) mice
+were used per study. F. Carbone. RAG-1^– mice (H-2^d) mice were inoculated
+with 1 × 10^7 mock/P815 or B7-H1/P815 cells i.p. After 3 d, 150 µg per mouse
+of control antibody (hamster IgG) or monoclonal antibody against mouse
+B7-H1 was injected i.p. 2 h before the transfer of activated 2C T cells. One
+day later, P815 tumor cells (H-2^d) were detected by staining the peritoneal
+cells with monoclonal antibody against H-2^d. DBA/2 mice were inoculated
+subcutaneously with Mock/P815, B7-H1/P815 at 2 × 10^4 or B7-1/P815, B7-
+1/B7-H1/P815 cells at 5 × 10^4 cells per mouse, and tumor sizes were moni-
+tored by measuring perpendicular diameters. All studies were approved by
+the Mayo Foundation’s Institutional Animal Care and Use Committee.
+
+Note: Supplementary information is available on the Nature Medicine website.
+
+Acknowledgments
+This study was supported in part by the US National Institutes of Health
+grants CA79719 and CA85231 (to L.C.), CA37343 (to V.A.L.), CA80782 and
+CA82677 (to E.G.) and CA15083 (Mayo Clinic Cancer Center). We thank
+L. Murphy for the processing of tissue samples; L.L. Hinkley for data
+processing; Z. Yu for facilitating a study on the expression of B7-H1 on a lung
+
+NATURE MEDICINE • VOLUME 8 • NUMBER 8 • AUGUST 2002
+
+799
+```

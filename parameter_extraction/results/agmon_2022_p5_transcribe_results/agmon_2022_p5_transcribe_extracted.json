@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and their values from the text:\n\n1. **Number of agents**:\n   - 1 agent\n   - 12 agents\n   - 25 agents\n   - 43 agents\n\n2. **Glucose flux**: \n   - Units: mmol/μ/s\n\n3. **Lactose flux**: \n   - Units: mmol/μ/s\n\n4. **Growth rate**: \n   - Units: fg/s\n\n5. **Final simulation state time**:\n   - 12.0 hours"
+}

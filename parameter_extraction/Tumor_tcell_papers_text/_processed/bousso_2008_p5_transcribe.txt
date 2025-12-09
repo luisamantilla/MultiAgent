@@ -1,0 +1,42 @@
+RE VIEWS
+
+Table 1 | Transient versus stable T-cell–DC interactions during antigen recognition in the lymph node
+
+| Transient contacts | Stable contacts |
+|--------------------|-----------------|
+| Duration | 3–11 minutes | Several hours |
+| T-cell behaviour during contact | Crawling | Sessile |
+| Calcium signals | Not detected to date | Persistent elevation, irregular spikes of Ca2+ |
+| Favoured by | High numbers of regulatory T cells, high precursor frequency of antigen-specific T cells, absence of DC maturation stimulus, PKCθ and the expression of CTLA4 | High peptide–MHC density on the surface of DCs, high potency antigenic signal, high level of DC maturation, ICAM1-mediated adhesion, chemokine bound to the DC surface and the time spent by the T cell in the lymph node |
+
+DC, dendritic cell; PKCθ, protein kinase C θ; CTLA4, cytotoxic T-lymphocyte antigen 4; ICAM1, intercellular adhesion molecule 1.
+
+Immunological synapse
+
+The specialized contact area that is formed between a T cell that is interacting with an antigen-presenting cell (APC); it consists of molecules required for adhesion and signalling. This structure is important for establishing T-cell adhesion and polarity. It influences the cytoskeleton and transduces highly controlled secretory signals, thereby allowing the directed release of cytokines or lytic granules towards the APC or target cell.
+
+L-selectin
+
+A cell adhesion molecule that is expressed at the surface of most circulating lymphocytes, including naive T cells. It permits lymphocyte homing to the lymph node through high endothelial venules.
+
+early T-cell activation marker CD69 during this period35. Collectively, these experiments indicate that transient contacts with antigen-bearing DCs are one of the distinct modes by which T cells can receive activation signals in vivo. Discriminating productive from non-productive short-lived T-cell–DC interactions remains a challenge for future studies.
+
+Stable T-cell–DC contacts in the presence of antigen. Stable, long-lasting interactions between T cells and DCs have been consistently observed in vivo using procedures that induce robust T-cell activation. In most instances, these interactions are maintained for the duration of the experiment (TABLE 1), which indicates that the average duration of T-cell–DC contacts largely exceeds the time frame of transient contacts (which is typically 30–60 minutes). The precise duration of these stable contacts is not known and might range from 2–24 hours. In vitro experiments support the idea that activation signals can be integrated by the T cell over many hours of TCR stimulation38–44. This theory was recently extended based on the results of an in vivo experiment that revealed that CD4+ T cells continue to receive signals after 6 hours of prolonged interactions with DCs45. Two studies have used calcium-sensitive dyes to detect Ca2+ signalling in T cells during interactions with DCs. Stable interactions were associated with an increase in cytosolic Ca2+ concentration37 that could take the form of a persistent occurrence of irregular Ca2+ spikes39. How this particular pattern of calcium signals affects T-cell activation remains unknown.
+
+Another area of intense research concerns the molecular dynamics at the T-cell–APC junction, also known as the immunological synapse. Antigen recognition by T cells in vitro induces the formation of supramolecular activation clusters and dynamic microclusters, which are thought to be important for T-cell activation (reviewed in REF. 46). In addition, a late phase of CD4+ T-cell polarization that occurs after more than 6 hours of stimulation has recently been identified, and was shown to be important for interferon-γ (IFNγ) and interleukin-22 production47. Whether or not some of these events are part of the early phase of T-cell–DC contact during stable (and possibly transient) T-cell–DC contacts has not been addressed in any of the existing techniques. Investigation of this issue requires the ability to detect the redistribution of relevant fluorescently tagged molecules at the T-cell–DC interface in intact lymph nodes. The need for better fluorescence signals and improved spatial resolution thus far has limited the ability to address this question.
+
+T-cell–DC contacts in the presence of antigen: swarms. Dynamic clusters of T cells ‘swarming’ around DCs represent another type of T-cell–DC contact dynamics, as observed by Cahalan and colleagues34. The swarms that were observed consisted of enlarged T cells that displayed looping patterns in their movements and intermittent contacts with DCs. CD4+ T-cell swarms were observed in the late stages of T-cell activation, following the phase characterized by stable interactions, and persisted for a few hours. Such behaviour might provide T cells with additional opportunities to collect signals from DCs.
+
+The sequences of T-cell activation
+
+By synchronizing T-cell activation in vivo (BOX 2), von Andrian and colleagues were the first to carefully examine the evolution of T-cell–DC contact dynamics over time35. They unexpectedly found that CD8+ T cells and peptide-pulsed DCs primarily establish transient interactions during the first 8 hours in the lymph node. It was only after this initial phase of dynamic interactions that stable T-cell–DC contacts were detected. Based on these results, the authors introduced the three
+
+Box 2 | Synchronizing T-cell activation
+
+Not all T cells encounter dendritic cells (DCs) at the same time, as new T cells and antigen-bearing DCs can continuously enter lymph nodes. Although this heterogeneity is part of a normal immune response and could have an important role in diversifying T-cell ‘fate’, it can complicate the interpretation of experiments that are aimed at imaging the kinetics of T-cell–DC interactions. For this reason, strategies have been developed that maximize the synchronization of T-cell activation by DCs. One approach consists of delaying the adoptive transfer of T cells until after antigen-bearing DCs have reached the draining lymph nodes48. Because T cells enter lymph nodes as early as 1 hour after transfer, when combined with early imaging, this protocol helps catch the first hours of T-cell activation. In addition, the injection of an antibody against L-selectin a few hours following T-cell transfer further blocks the homing of additional T cells to the lymph node, so that a single wave of T-cell activation can be followed over time35. An even more synchronous CD4+ T-cell activation event can be obtained by the transfer of OT-II T cells to MHC class II-deficient recipients49. To ‘switch on’ antigen presentation, the antigenic peptide is injected intravenously, resulting in the loading of the transferred DCs (which are the only MHC class II-expressing cells in the recipient) within minutes. This methodology has been used to track the very first minutes of CD4+ T-cell activation by DCs35.
+
+NATURE REVIEWS | IMMUNOLOGY
+
+VOLUME 8 | SEPTEMBER 2008 | 679
+
+© 2008 Macmillan Publishers Limited. All rights reserved

@@ -1,0 +1,106 @@
+```plaintext
+nature
+cancer
+
+ARTICLES
+https://doi.org/10.1038/s43018-020-0036-4
+
+Check for updates
+
+Long-distance modulation of bystander tumor
+cells by CD8+ T-cell-secreted IFN-γ
+
+Mirjam E. Hoekstra1,3, Laura Bornes2,3, Feline E. Dijkgraaf1, Daisy Philips1, Iris N. Pardieck1,
+Mireille Toebes1, Daniela S. Thommen1 ✉, Jacco van Rheenen2 and Ton N. M. Schumacher1 ✉
+
+T-cell-secreted interferon (IFN)-γ can exert pleiotropic effects on tumor cells that include induction of immune checkpoints and
+antigen presentation machinery components, and inhibition of cell growth. Despite its role as a key effector molecule, little is
+known about the spatiotemporal spreading of IFN-γ secreted by activated CD8+ T cells within the tumor environment. Using
+multidimensional imaging, we demonstrate that T cell recognition of a minor fraction of tumor cells leads to sensing of IFN-γ
+by a large part of the tumor mass. Furthermore, imaging of tumors in which antigen-positive and antigen-negative tumor cells
+are separated in space reveals spreading of the IFN-γ response, reaching distances of >800 μm. Notably, long-range sensing of
+IFN-γ can modify tumor behavior, as shown by both induction of PD-L1 expression and inhibition of tumor growth. Collectively,
+these data reveal how, through IFN-γ, CD8+ T cells modulate the behavior of remote tumor cells, including antigen-loss variants.
+
+CD8+ cytotoxic T lymphocytes (CTLs) play a central role in
+immune-mediated control of cancer in both preclinical
+models and cancer patients. First, CD8+ T cells that recog-
+nize either shared antigens or patient-specific neoantigens are fre-
+quently observed in cancer lesions1, and their intratumoral presence
+of CD8+ T cells forms a positive prognostic marker in many cancer
+types2,3. Second, interference with immune checkpoint molecules,
+such as CTLA-4 and PD-1, which mediate an inhibitory axis, often
+has resulted in prolonged clinical benefits in cancer patients4,5.
+Furthermore, evidence for a role of PD-1-blocking antibodies has
+been associated with the density of intratumoral CD8+ T cells before
+treatment, and proliferation of intratumoral CD8+ T cells has been
+observed in responding patients6. Third, and most directly, infu-
+sion of autologous, tumor-infiltrating, lymphocyte-derived T cell
+products, including CD8+ T cell products7, has shown benefit in
+approximately 50% objective response rate in metastatic melanoma8
+and has been demonstrated to induce regression of a subset of
+epithelial cancers9.
+
+The release of perforin- and granzymec-containing cytotoxic
+granules toward target tumor cells forms a relatively well-under-
+stood mechanism of action of CD8+ T cells in tumor control.
+However, it has been called into question whether such direct tumor
+cell killing can explain tumor control at the low T cell:tumor cell
+ratios that are observed in tumors10. Next to the secretion of perfor-
+in and granzymes, CTLs also respond to antigen encounter by the
+secretion of cytokines, such as IFN-γ and tumor necrosis factor α
+(TNF-α), which may modify the behavior of responding tumor cells.
+As an example, signaling through the IFN-γ receptor (IFN-γR) can
+induce the expression of the CXCL9, CXCL10 and CXCL11 che-
+mokines, which induce migration of activated T cells to the tumor
+site11. In addition, IFN-γR signaling leads to the enhanced expres-
+sion of immune checkpoint molecules, such as PD-L1 and PD-L2,
+but also increases the expression of components of the antigen pre-
+sentation machinery12. Finally, IFN-γ can have direct cytopathic
+and cytostatic effects on both cancer cells and stromal cells in the
+tumor mass, inducing cell cycle arrest, cellular senescence or cell
+
+death, depending on the (tumor) cell type involved12,14–16. Evidence
+that these downstream effects of IFN-γR signaling are of relevance
+in T-cell-mediated tumor control comes from several observa-
+tions. Early work in mice by Schreiber and colleagues demonstrated
+that tumor cells that lack the IFN-γR are much less sensitive to
+T-cell-mediated clearance because of their reduced major histocom-
+patibility complex (MHC) expression17. More recently, inactivation
+of the IFN-γR signaling pathway, such as Stat1, Jak1 and Jak2,
+IFN-γR1 and IFN-γR2, was shown to result in resistance to CD8+ T
+cell attack in a series of in vivo or in vitro CRISPR-based genetic
+screens18–20. In addition, enhanced sensitivity to CD8+ T cell attack
+was obtained on loss of a chromatin regulator that suppresses sensi-
+tivity of tumor cells to IFN-γ21. Importantly, inactivating mutations
+in the IFN-γR signaling pathway have been demonstrated to pro-
+mote tumor cell outgrowth in human tumors22,23 and such mutations
+have been identified in tumors that either relapsed after anti-PD-1
+treatment22 or showed upfront resistance to anti-CTLA-4 treatment24
+and anti-PD-1 treatment25. Next to the direct effects of IFN-γ on
+tumor cells themselves, T-cell-derived IFN-γ has also been shown to
+induce tumor regression in preclinical models by targeting stromal
+cells, such as endothelial cells in the tumor vasculature26–29.
+
+In spite of this evidence for a widespread role of IFN-γR signaling
+in tumor control, it is not well understood how different cells in the
+tumor microenvironment (TME) encounter CD8+ T-cell-derived
+IFN-γ. In particular, a number of studies have provided evidence
+that transfer of peptide antigens with MHC class I molecules on stro-
+mal cells (that is, through peptide cross-presentation) can result in
+the IFN-γ-mediated killing of these cells. However, in other studies
+it remains unclear whether IFN-γR signaling may also be induced
+on ‘bystander cells’ that are not directly recognized by T cells. Such a
+bystander effect of CD8+ T-cell-derived IFN-γ in tumor tissue would
+be of potential interest, because it would allow activated T cells to
+exert effects beyond the cells that they can directly contact, including
+tumor cell subclones that have lost T-cell-recognized antigens30.
+For CD4+ helper T cells, it has previously been established that
+secreted IFN-γ can induce expression of IFN-γ-responsive genes in
+
+1Division of Molecular Oncology & Immunology, Oncode Institute, the Netherlands Cancer Institute, Amsterdam, the Netherlands. 2Division of Molecular
+Pathology, Oncode Institute, the Netherlands Cancer Institute, Amsterdam, the Netherlands. 3These authors contributed equally: Mirjam E. Hoekstra,
+Laura Bornes. ✉e-mail: t.schumacher@nki.nl
+
+NATURE CANCER | www.nature.com/natcancer
+```

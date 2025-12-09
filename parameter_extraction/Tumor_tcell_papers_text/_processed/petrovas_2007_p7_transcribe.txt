@@ -1,0 +1,963 @@
+```plaintext
+934                                                                                               BLOOD, 1 AUGUST 2007 • VOLUME 110, NUMBER 3
+
+PETROVAS et al
+
+located in mucosa were found to express lower levels of PD-1 
+compared with these cells in other tissues (Figures 1B and 3B). 
+Since the gastrointestinal tract is a major site for SIV replication,59 
+one would have predicted higher PD-1 expression in this compart-
+ment. Because PD-1 expression is linked to antigen-specific TCR 
+stimulation, these findings suggest that antigen presentation of SIV 
+may be impaired at mucosal sites, possibly due to infection and 
+depletion of local dendritic cells.60 Alternatively, it is possible that 
+accelerated cell death of PD-1highCM9+CD8+ T cells occurs in situ 
+at mucosal sites, resulting in lower detection of these cells with 
+PD-1 in the live gate. A final possibility is that the techniques 
+needed to isolate T lymphocytes from mucosal samples affect the 
+expression of PD-1. Ultimately, immunocytochemistry studies will 
+be needed to determine whether PD-1 expression at mucosal sites is 
+lower than in the blood and lymph nodes, and whether it is 
+
+associated with high expression of PD-1 ligands and increased cell 
+death of CD8+ T cells. 
+
+Whether PD-1 expression on virus-specific CD8+ T cells is 
+directly associated with their capacity for cytokine production is 
+uncertain. Although the frequency of PD-1 expression on the 
+different virus-specific CD8+ T cells was found to correlate with 
+their ability to produce cytokines (IFN-γ, TNF-α, and IL-2),38-40 
+we have been unable to establish a direct link between these 2 
+parameters.39 In agreement with previous studies,34,36 we found 
+significantly higher frequencies of circulating CM9+CD8+ T cells 
+in vaccinated/SIV-challenged monkeys compared with unvaccin-
+ated/SIV-challenged animals.41 We further show that only the 
+PD-1highCM9+CD8+ T cells are capable of producing IFN-γ, 
+TNF-α, and IL-2, indicating that PD-1 expression is not directly 
+linked to this component of SIV-specific CD8+ T-cell exhaustion.
+
+Figure 5. PD-1highCM9+CD8+ T cells are characterized by low proliferative capacity. (A) Flow cytometry plots showing the CFSE profile of annexin V− CM9+CD8+ T cells. 
+Cells were cultured for 6 days in the absence or presence of CM9 peptide. A representative sample from 5 macaques tested is shown. (B) PD-1+CD3+ and PD-1−CD3+ cells 
+were sorted, labeled with CFSE (PD-1+:CD3+) or FarRed (PD-1−:CD3+), and cultured in the absence or presence of CM9 peptide. The PD-1 control (M10) and specific 
+staining in a preset sample is shown on the left. Cells were harvested on day 6 and stained for PD-1 expression. Histograms depict the CFSElow and FarRedlow populations in 
+the annexin V− CM9+CD8+ T cells. A representative example from 3 macaques analyzed is shown.
+
+A
+
+CM9-induced apoptosis
+
+Spontaneous apoptosis
+
+CM9 peptide
+
+No stimulation
+
+Total CD8+ T cells
+
+PBMC
+
+LNM
+
+MUCOSA
+
+CD8
+
+CD8
+
+CD8+CD8− cells
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Annexin V
+
+Ann

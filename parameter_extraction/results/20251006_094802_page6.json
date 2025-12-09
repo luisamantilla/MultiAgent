@@ -1,0 +1,58 @@
+{
+  "tables": [
+    {
+      "parameter": "Time step \u0394t",
+      "value": "1",
+      "units": "min. step\u207b\u00b9",
+      "context": "Chosen for numerical stability"
+    },
+    {
+      "parameter": "Lattice width",
+      "value": "2",
+      "units": "\u03bcm",
+      "context": "Chosen for epithelial cell size of 5 \u00d7 5 sites"
+    },
+    {
+      "parameter": "Intrinsic random motility 'r'",
+      "value": "10",
+      "units": null,
+      "context": "Chosen for model stability"
+    },
+    {
+      "parameter": "Secretion fraction",
+      "value": "1%",
+      "units": null,
+      "context": "Chosen to reflect local immune response"
+    },
+    {
+      "parameter": "Local fraction",
+      "value": "75%",
+      "units": null,
+      "context": "Macrophages, NK cells, and CD8\u207a T cells"
+    }
+  ],
+  "figures": [
+    {
+      "parameter": "Time progression",
+      "value": "0, 1, 2, 3, 4, 5",
+      "units": "hr",
+      "context": "Local immune cell dynamics over time"
+    }
+  ],
+  "text": [
+    {
+      "parameter": "Local scaling coefficient \u03b8",
+      "value": "4 \u00d7 10\u207b\u2075",
+      "units": "\u03bcm",
+      "context": "Calculated from total number of epithelial cells"
+    },
+    {
+      "parameter": "Lattice dimensions",
+      "value": "0.3, 1.0",
+      "units": "mm",
+      "context": "Dimensions of the lattice used in simulations"
+    }
+  ],
+  "equations": [],
+  "summary": "The page describes a model of local immune response to infection, detailing parameters such as time step, lattice width, and intrinsic random motility. The local scaling coefficient and lattice dimensions are calculated for simulation stability. Figures illustrate the progression of immune cell dynamics over time, highlighting macrophage, NK cell, and CD8\u207a T cell interactions."
+}

@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "Figure S5.\n\nA\n\n\\[\n\\begin{array}{l}\n\\text{T}_{1/2} \\, (0 - 24 \\, \\text{hours after drug addition}) \\\\\n\\text{T}_{1/2} \\, (24 - 48 \\, \\text{hours after drug addition})\n\\end{array}\n\\]\n\n\\[\n\\begin{array}{cccccccccc}\n\\text{CKS2} & \\textbf{RPL22} & \\text{RPA2} & \\text{DDX18} & \\text{VIL2} & \\text{CALM2} & \\text{VCL} & \\text{K-Alpha-1} & \\text{H2AFV} & \\text{NASP} \\\\\n\\end{array}\n\\]\n\n>50\n\n50\n\n40\n\n30\n\n20\n\n10\n\n0",
+  "model": "gpt-4o",
+  "page": 33,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 9.8,
+  "filename": "eden_2011.pdf",
+  "doc_id": "eden_2011"
+}

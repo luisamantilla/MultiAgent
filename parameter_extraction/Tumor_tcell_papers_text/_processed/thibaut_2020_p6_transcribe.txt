@@ -1,0 +1,263 @@
+```
+ARTICLES                                                                 NATURE CANCER
+
+Fig. 7a–d and Supplementary Video 3). To further demonstrate the 
+ability of T cell-derived IFN-γ to signal in distant tumor cells, we cre-
+ated mosaic tumors containing antigen-negative tumor that expressed 
+the STAT1–GFP reporter and fluorescently labeled antigen-positive 
+tumor cells. As shown in Extended data Fig. 7e–h, we detected 
+increased STAT1 activity in antigen-negative tumor cells when T cells 
+and antigen-positive tumor cells were present compared with controls 
+lacking antigen-positive tumor cells.
+
+These results establish that STAT1 activity occurs at the tissue 
+level rather than in discrete spots and indicate that STAT1 translo-
+cation does not require ongoing interactions with effector T cells.
+
+Sustained IFN-γ signaling is required for alteration of tumor cell 
+phenotype. Early events of IFN-γ signaling, including STAT1 phos-
+phorylation and STAT1 translocation, are typically detected within 
+minutes of cytokine exposure9. However, it is unclear whether 
+
+a
+
+Mosaic tumors
+
+OVA+ Eμ-myc
+
+Eμ-myc
+
+No T cells
+
+OT-I T cells
+
+No T cells
+
+OT-I T cells
+
+H-2Kb-PE/Cy7
+
+PD-L1-PE
+
+10^0 10^1 10^2 10^3 10^4 10^5 10^6 10^7
+
+10^0 10^1 10^2 10^3 10^4 10^5 10^6 10^7
+
+10^0 10^1 10^2 10^3 10^4 10^5 10^6 10^7
+
+10^0 10^1 10^2 10^3 10^4 10^5 10^6 10^7
+
+b
+
+P = 0.4
+
+P = 0.11
+
+40,000
+
+30,000
+
+20,000
+
+10,000
+
+0
+
+H-2Kb (MFI)
+
+No T cells
+
+OT-I T cells
+
+Eμ-myc only
+
+No T cells
+
+OT-I T cells
+
+Mosaic tumors
+
+OVA+ Eμ-myc
+
+Eμ-myc
+
+c
+
+P = 0.4
+
+P = 0.99
+
+20,000
+
+15,000
+
+10,000
+
+5,000
+
+0
+
+H-2Db (MFI)
+
+No T cells
+
+OT-I T cells
+
+Eμ-myc only
+
+No T cells
+
+OT-I T cells
+
+Mosaic tumors
+
+OVA+ Eμ-myc
+
+Eμ-myc
+
+d
+
+P = 0.11
+
+P = 0.66
+
+16,000
+
+12,000
+
+8,000
+
+4,000
+
+0
+
+PD-L1 (MFI)
+
+No T cells
+
+OT-I T cells
+
+Eμ-myc only
+
+No T cells
+
+OT-I T cells
+
+Mosaic tumors
+
+OVA+ Eμ-myc
+
+Eμ-myc
+
+e
+
+Local action model
+
+Low T cell density
+
+High T cell density
+
+Shared resource model
+
+Tumor cell
+
+T cell
+
+IFN-γ-responsive tumor cell
+
+Intensity of response to IFN-γ
+
+f
+
+10^0 10^1 10^2 10^3 10^4 10^5 10^6 10^7
+
+10^0 10^1 10^2 10^3 10^4 10^5 10^6 10^7
+
+H-2Db-APC
+
+H-2Kb-PE/Cy7
+
+No T cells
+
+2 × 10^6 OT-I T cells
+
+20 × 10^6 OT-I T cells
+
+g
+
+P = 0.48
+
+P = 0.48
+
+300,000
+
+225,000
+
+150,000
+
+75,000
+
+0
+
+H-2Kb (MFI)
+
+No T cells
+
+OT-I T cells
+
+OVA+ B16
+
+B16
+
+h
+
+P = 0.66
+
+120,000
+
+90,000
+
+60,000
+
+30,000
+
+0
+
+H-2Db (MFI)
+
+No T cells
+
+OT-I T cells
+
+OVA+ B16
+
+B16
+
+i
+
+P = 0.48
+
+P = 0.48
+
+40,000
+
+30,000
+
+20,000
+
+10,000
+
+0
+
+PD-L1 (MFI)
+
+No T cells
+
+OT-I T cells
+
+OVA+ B16
+
+B16
+
+NATURE CANCER | www.nature.com/natcancer
+```

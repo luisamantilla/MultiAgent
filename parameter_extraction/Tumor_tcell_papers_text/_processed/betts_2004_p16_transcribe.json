@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "512\n\nMichael R. Betts and Richard A. Koup\n\nSheehy, M. E., McDermott, A. B., Furlan, S. N., Klenerman, P., and Nixon, D. F. (2001). A novel\ntechnique for the fluorometric assessment of T lymphocyte antigen specific lysis. J. Immunol.\nMethods 249, 99–110.\n\nSilverstein, R. L., and Febbraio, M. (1992). Identification of lysosome-associated membrane protein-2\nas an activation-dependent platelet surface glycoprotein. Blood 80, 1470–1475.\n\nTrapani, J. A., Jans, D. A., Jans, P. J., Smyth, M. J., Browne, K. A., and Sutton, V. R. (1998).\nEfficient nuclear targeting of granzyme B and the nuclear consequences of apoptosis induced by\ngranzyme B and perforin are caspase-dependent, but cell death is caspase-independent. J. Biol.\nChem. 273, 27934–27938.\n\nWaldrop, S. L., Pitcher, C. J., Peterson, D. M., Maino, V. C., and Picker, L. J. (1997). Determination\nof antigen-specific memory/effector CD4+ T cell frequencies by flow cytometry: Evidence for a\nnovel, antigen-specific homeostatic mechanism in HIV-associated immunodeficiency. J. Clin. Invest.\n99, 1739–1750.\n\nYannelli, J. R., Sullivan, J. A., Mandell, G. L., and Engelhard, V. H. (1986). Reorientation and fusion\nof cytotoxic T lymphocyte granules after interaction with target cells as determined by high\nresolution cinemicrography. J. Immunol. 136, 377–382.",
+  "model": "gpt-4o",
+  "page": 16,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 17.17,
+  "filename": "betts_2004.pdf",
+  "doc_id": "betts_2004"
+}

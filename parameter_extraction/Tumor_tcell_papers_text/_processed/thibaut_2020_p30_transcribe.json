@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "```\nInstrument\nA majority of the data was acquired using a Cytoflex LX (serial number B4A2021). Some data were acquired using a BD Canto II\n\nSoftware\nBD FACS Diva was used for BD Canto II-acquired Data. For cytoflex-acquired data, CytExpert version 2.3 was used\n\nCell population abundance\nNo cell sorting was performed during experiments\n\nGating strategy\nFor experiments using B16.F10 melanoma cells, cell doublets were gated out based on SSC-A/SSC-H followed by an additional \ngating based on FSC-A/FSC-W. Live cells were isolated by FSC-/SSC-A gating. Injected OT-I T cells were distinguished based on \ntheir GFP expression. B16.F10 cells expressing OVA or not were then gated on based on their expression of TdTomato and \nmembrane CFP respectively. A back-gating on FSC-A/SSC-A was used to confirm the discrimination of B16.F10 cells.\n\nFor experiments using Eμ-myc B cell lymphoma in vivo, cell doublets were excluded as described above. CFP and GFP were used \nto detect Eμ-myc expressing OVA or not respectively. CD8 staining enabled further distinction of GFP+ OT-I T cells from GFP+ \ntumor cells. \nIn a distinct panel, CD45 enabled distinction of hematopoietic cells: OVA- Eμ-myc cells and OT-I T cells were gated out using GFP \nand CD8 expression as above. Likewise, OVA+ Eμ-myc cells were gated out by their CFP expression. Among remaining cells, \nmyeloid cells were distinguished by their CD11b expression and further divided into monocytes (Ly6C high Ly6G-) and \nneutrophils (Ly6C+ Ly6G+). Finally, NK cells were identified as CD45+ CD11b+ NK1.1+. A figure describing the gating strategy that \nwas used to identify tumor, NK, OT-I T cells, as well as monocytes and neutrophils, is provided in the manuscript.\n\n☒ Tick this box to confirm that a figure exemplifying the gating strategy is provided in the Supplementary Information.\n\nnature research | reporting summary\n\nOctober 2018\n\n4\n```",
+  "model": "gpt-4o",
+  "page": 30,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 29.59,
+  "filename": "thibaut_2020.pdf",
+  "doc_id": "thibaut_2020"
+}

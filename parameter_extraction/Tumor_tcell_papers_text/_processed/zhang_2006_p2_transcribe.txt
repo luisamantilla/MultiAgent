@@ -1,0 +1,163 @@
+Immunity  
+452  
+
+![Image](https://example.com/image.png)  
+
+A  
+Spic6 vector  
+H  
+H  
+S  
+S  
+5'  
+3'  
+GDNX  
+WT Spic6  
+H  
+H  
+S  
+S  
+5' probe  
+9.8  
+3' probe  
+M Spic6 Neo  
+H  
+H  
+S  
+S  
+5' probe  
+6.9  
+Cre  
+5.8  
+3' probe  
+M Spic6 Δ Neo  
+S  
+5' probe  
+5.8  
+
+B  
+5' probe  
++/+  
++/-  
+-/-  
+7.2 WT  
+6.9 M  
+3' probe  
++/+  
++/-  
+-/-  
+9.8 WT  
+5.8 M  
+37 68 389  
+37 68 389  
+
+C  
++/+  
++/-  
+-/-  
+7.2 WT  
+6.9 M neo  
+5.8 M Δneo  
+389 389Δneo  
+
+D  
++/+  
++/-  
+-/-  
++/+  
+7.2 WT  
+5.8 M  
+
+E  
+Thymocytes  
+CD4 T cells  
+CD8 T cells  
+B cells  
+NK cells  
+Dendritic cells  
+Macrophages  
+Neutrophils  
+
+0 0.2 0.4 0.6 0.8  
+Relative Spic6 mRNA  
+
+B6  
+Thymocytes  
+CD4 T cells  
+CD8 T cells  
+B cells  
+NK cells  
+Dendritic cells  
+Macrophages  
+Neutrophils  
+
+0 0.2 0.4 0.6 0.8  
+Relative Spic6 mRNA  
+
+Spic6 KO  
+
+F  
+Spi3  
+Spic6  
+
+0 0.2 0.4 0.6 0.8 1.0  
+Relative mRNA  
+
+B6  
+Spic6 KO  
+
+Figure 1. Spic6-Deficient Mice  
+(A) Homologous recombination between the Spic6 targeting vector and wild-type allele in ES cells as detected by altered restriction fragments  
+(Hind III (H), Spe I (S)) using 5' and 3' external probes. Cre-induced loxP (filled triangle) mediated excision of neo, resulting in restriction fragments  
+of altered size (kb).  
+(B) Southern blots of two ES cell clones with wild-type (WT): 37 or mutant (M: 69 and 389) Spic6 neo alleles.  
+(C) A clone derived from 389 harboring an allele in which neo has been excised (Spic6 Δneo).  
+(D) Spic6-/- mice were intercrossed and progeny genotyped by Southern blot.  
+(E) Spic6 mRNA expression determined by real-time PCR and expressed as a ratio compared with the control cyclophilin A. Cells were purified from  
+four mice and pooled and mRNA was prepared. Histograms are the mean of three determinations.  
+(F) Spic3 and Spic6 mRNA levels determined from splenocytes by real-time PCR as in (E). Histograms are the mean of two determinations from four  
+mice (±SEM). There was no significant difference between the levels of Sp3 mRNA in splenocytes from B6 compared to Spic6 KO mice (p = 0.85).  
+
+CTLs specific for LCMV or LM was drastically impaired  
+due to increased GrB-mediated apoptosis. Spic6 pro-  
+tected CTLs from apoptosis by inactivating GrB in the  
+cytoplasm through the formation of SDS-stable com-  
+plexes indicative of a serpin:protease interaction. To  
+our surprise, Spic6 was required to ensure the integrity of  
+exocytotic cytotoxic granules through the inhibition of GrB-  
+mediated breakdown. These findings demonstrate the  
+requirement for an endogenous inhibitor of GrB to pro-  
+tect CTLs from suicide caused by granule breakdown.  
+
+Results  
+
+Impaired Survival of Spic6-Deficient CTLs  
+To address the role of the GrB inhibitor Spic6 (Serpin b9)  
+(Sun et al., 1997) in the protection of CTLs from self-  
+inflicted damage, we generated Spic6-deficient mice.  
+By means of homologous recombination in ES cells  
+from C57BL/6 mice (B6 mice), deleted exon 7, which  
+encodes 60% of Spic6 and includes the critical reactive  
+center loop (RCL), which is required for target protease  
+
+inhibition (Sun et al., 1997) (Figures 1A and 1B). By Cre-  
+mediated recombination, the G418-resistance cassette  
+was removed (Figure 1C) to avoid affecting the tran-  
+scription of closely linked serpin genes such as Spic3  
+(Serpin b6a) (Sun et al., 1997; Kaiserman et al., 2002).  
+Mice homozygous for Spic6 mutant alleles in the B6  
+background (Spic6 KO mice) were generated (Figure 1D).  
+Real-time PCR for the Spic6 RCL region revealed the ex-  
+pression of Spic6 mRNA in both myeloid and lymphoid  
+cells from B6 but not Spic6 KO mice (Figure 1E). The mu-  
+tation of the Spic6 locus did not affect the expression of  
+Spic3 mRNA in Spic6 KO splenocytes (Figure 1F). The de-  
+velopment of leukocytes was not affected by the Spic6  
+mutation because Spic6 KO mice did not display any sig-  
+nificant difference in the number of myeloid or lymphoid  
+cells in the thymus or blood (see Tables S1 and S2 in the  
+Supplemental Data available with this article online).  
+Spic6 is upregulated in CTLs, and overexpression can  
+inhibit GrB-mediated apoptosis in vitro (Phillips et al.,  
+2004). To examine the physiological role of Spic6, we ex-  
+amined the CTL response of Spic6 KO mice to infection.

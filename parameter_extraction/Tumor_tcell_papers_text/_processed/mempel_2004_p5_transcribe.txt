@@ -1,0 +1,158 @@
+```plaintext
+letters to nature
+
+cells spontaneously produced IL-2 (18.6%) and IFN-γ (18.8%) at 
+20 h, and most secreted cytokines after brief restimulation (Fig. 3b). 
+Almost all T cells expressed abundant activation markers, including 
+CD25, but no cells had divided. The frequency of T-cell–DC 
+interactions in phase two is consistent with the formation of a 
+mature synapse-like contact zone18. Recent studies on CD4+ T-cell 
+interactions with DCs in excised LNs found that at 23 h after T-cell 
+transfer the salmonella CD34 was excluded from the contact zone of 
+interacting cells, implying the formation of a synapse-like interface19. 
+However, this study imaged T cells in the superficial cortex where 
+they formed only one-to-one associations with DCs. In the present 
+analysis of the deep paracortex we frequently observed several T cells 
+engulfing against the same DC (Supplementary Information 9).
+
+The formation of CD8+ T-cell clusters around single DCs was 
+also detected in explanted LNs that were imaged 20 h after T-cell 
+transfer7. Consistent with T-cell–DC behaviour during phase two 
+in vivo was the observation that conjugates in excised LNs were 
+stable, whereas interactions without antigen were short-lived7. 
+Clustering of antigen-specific CD4+ T cells around DCs in LNs 
+was also observed histologically20–23. Because these observations 
+indicated that CD4+ and CD8+ T cells might behave similarly 
+in vivo, we performed experiments with DO11.10 T cells expressing 
+a MHC class-II restricted TCR24. T cells formed stable clusters with 
+peptide-pulsed DCs when observed at 10 h, but engaged preferen-
+tially in short contacts at 3 and 47 h after injection (Supplementary 
+Information 11), indicating that the three-phase model also applies 
+to CD4+ T cells.
+
+Whereas there began a delay for marking, T cells dissociated from 
+DCs, migrated rapidly and proliferated vigorously. Dividing T cells 
+expressed CD25 and CD69, but remained CD44high (Fig. 3c). 
+During the first 24 h, the number of T cells in the LN increased 
+by a factor of 2, the actual number of intranodal TCR transcribing 
+cells was higher, because T cells divided up to five times during 
+the preceding day and kept proliferating thereafter, resulting in the 
+dilution of carboxyfluorescein succinimidyl ester (CFSE) to 
+undetectable concentrations (not shown). T cells engaged in 
+brief contacts with DCs at 44–48 h, but the relevance of these 
+interactions is uncertain, because it is possible that DCs retained 
+little or no peptide antigen at this time point (more than 60 h after 
+DC injection).
+
+Even when DCs did not present antigen, T cells underwent 
+prolonged interactions during the 8–12 h interval, whereas earlier 
+and later contacts were short-lived (Fig. 3b). This indicates that 
+recruiting T cells follow a three-phase itinerary by default when 
+they survey lymphoid tissues. Without antigen, phase two is 
+abbreviated, and although T-cell–DC contacts are shorter than in 
+the presence of antigen, they are still longer than in phase one. T-cell 
+contacts without CD3 do not result in detectable changes in 
+activation markers (Fig. 3g) or cytokine production (not shown). 
+Nevertheless, TCR signalling probably occurred, because naive T 
+cells in LNs contain partly phosphorylated CD3ζ, even in the 
+absence of antigen, whereas blood-borne T cells do not carry this 
+indicator of early TCR signalling25. Antigen-independent TCR 
+stimulation in LNs depends on self-MHC molecules and facilitates 
+T-cell responses to foreign antigens26.
+
+The intermittent period of antigen-independent, prolonged 
+contacts might be indicative of physiological self-MHC recognition. 
+If T cells fail to perceive an activating signal, even during this phase 
+when they scrutinize DCs most intensely, they might be prompted to 
+seek another lymphoid tissue. The three-phase itinerary might be 
+aborted. There might signify their search for an exit into lymph 
+sinuses. Indeed, most lymphocytes appear in thoracic duct lymph 
+34–48 h after intravenous bolus injection27. Accordingly, we found 
+that after anti-1L-selectin treatment the number of homed T cells in 
+LNs that did not contain antigen pulsed DCs remained initially 
+constant. But there was a 60% decrease between 20 and 44 h (not 
+shown). Recirculating lymphocytes therefore spend just enough 
+
+time in LNs to go through all three phases before leaving through 
+efferent lymphatics.
+
+It will be important to determine the mechanisms that cause the 
+transition from one phase to the next. Although this could involve 
+changes in both T cells and DCs, several observations indicate 
+that adaptive T-cell responses might be chiefly responsible. T-cell 
+velocity and motility were dependent on antigens and paralleled the 
+differential dynamics of conjugate formation, whereas DC motility 
+gradually declined by default and was minimally affected by antigen 
+presentation. During the transition period before and after phase 
+two, numerous DCs interacted stably with some T cells and 
+simultaneously engaged in brief contacts with others (Supplemen-
+tary Information 10). If contact duration was determined by DCs, 
+then individual DCs should support either brief encounters or 
+stable conjugation, but not both. Moreover, when T-cell dwell time 
+was not synchronized by anti-L-selectin, stable contacts were 
+prominent at 10 h after T-cell injection, but short-lasting contacts 
+were more frequent than after treatment with antibody, presumably 
+owing to recirculating immigrants displaying phase-one-like behaviour 
+(Supplementary Information 11, 12).
+
+How do intranodal T cells keep track of time and what are the 
+immunological consequences of each interactive phase? In vitro, 
+T cells can integrate multiple brief signals to reach a threshold for 
+full-fledged activation11,12. Conceivably, this is how T cells gather 
+information from DCs during phase two. However, the ability of 
+in vitro primed CD8+ T cells to secrete IL-2 and to exert effector 
+activities after adoptive transfer depends on the formation of stable 
+T-cell–DC conjugates and the duration of T-cell stimulation, 
+respectively27,28. Thus, phase two interactions might also be impor-
+tant for the progressive increase of T-cell priming by DCs occupi-
+ed in stable conjugates, whereas brief contacts might be important 
+for the recruitment of naive T cells.
+
+Methods
+
+Mice
+
+Female BALB/c, C57BL/6 and congenic C57BL/6 (CD45.1) mice were purchased from 
+Jackson Laboratories and used at the age of 12 weeks. DO11.10 and P14 mice, which 
+carry a transgenic TCR specific for OVA323–339 and LCMV gp33–41 in H-2d, 
+respectively, were obtained from Jackson Laboratories. All experiments were 
+performed in accordance with National Institute of Health guidelines approved by the 
+Committee on Animal Care at both Harvard Medical School and the CBR 
+Institute for Biomedical Research.
+
+Reagents
+
+OVA323–339 peptide (ISQAVHAAHAEINEAGR) was a gift from H. Ploegh. LCMV 
+gp33–41 peptide (KAVYNFATC) was purchased from Biosource. Anti-L-selectin 
+antibody (clone Mel-14) was grown and purified according to standard procedures. 
+All other monoclonal antibodies were from BD Pharmingen.
+
+Cells
+
+DCs were immunomagnetically purified (95% CD11c+) from spleens of donor mice that 
+had been implanted with a FL-st secreting mouse melanoma cell line as described29. 
+CD4+ and CD8+ T cells from LN and spleen of DO11.10 and P14 mice were purified by 
+negative immunomagnetic cell sorting (Miltenyi Biotec). Purity was typically more than 
+90%.
+
+Flow cytometry
+
+Phenotypic characterization of DCs and T cells was performed on a FACSCalibur (Becton 
+Dickinson). The secretion of IL-2 and IFN-γ was measured by surface capture (Miltenyi 
+Biotec). For restimulation, T cells were incubated for 3 h with 10 mg ml–1 gp33–41 peptide 
+or 1 mg ml–1 in medium at 37 °C containing 10% mouse serum. For the measurement 
+of spontaneous cytokine release, antigenic peptide was omitted. Phorbolmyristate-bu-
+tyrate (PMA) plus ionomycin (4–6) or PE-KAVYNFATC specific for the P14 TCR 
+(Beckman Coulter) was used to assess TCR expression on adoptively transferred T cells. 
+T-cell proliferation was assessed by CFSE dilution.
+
+Intravital two-photon microscopy
+
+DCs were pulsed with gp33–41 peptide or OVA323–339 or with medium as control, and 
+labelled for 15 min at 37 °C with 10 mM 5-(and 6)-{4,4-difluoro-5,7-dimethyl-4-bora-
+3a,4a-diaza-s-indacene-3-propionyl} methylester (Molecular Probes). 5 x 105 TDCs in 100 ml RPMI 
+containing 10 mg of LPS (Sigma) were injected i.p. the following morning. T cells were 
+labelled for 15 min at 37 °C with 5-(and 6)-{5-(and 6)-{5-chloromethylfluorescein 
+diacetate (CMFDA, Molecular Probes) and 5–10 x 106 cells were given to recipients by 
+intravenous injection. For details of the microscope, see ref. 2 and b, animals were anaesthetized 
+```

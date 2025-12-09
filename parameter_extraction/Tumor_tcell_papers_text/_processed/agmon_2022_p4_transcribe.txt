@@ -1,0 +1,158 @@
+```plaintext
+1975
+
+Vivarium: an interface and engine for integrative multiscale modeling
+
+the bigraph. This contrasts with the standard ‘flat’ network that has 
+all nodes at a single level, and with fixed connectivity. A compart-
+ment is a store node with internal nodes, which can include its own 
+internal processes and the standard variable-containing stores 
+(Fig. 1d). A hierarchy is a place graph, and a hierarchy structure, with 
+hierarchies nesting recursive relations between compartments 
+(Fig. 1e). Boundary stores connect processes across compartments in 
+a hierarchy—these compartments themselves imply biological 
+models that can be embedded in a hierarchy. Just as with biological 
+systems, compartments are the key to a modelled complexity—they 
+organize systems into hierarchies of compartments within compart-
+ments, with modules that can be reconfigured and recombined.
+
+In practical terms, this means that Vivarium facilitates collabora-
+tive model development by simplifying the incorporation of alter-
+nate sub-models. This allows users to (i) write their own processes, 
+composites and update methods, (ii) import libraries with processes 
+developed for different projects, (iii) reconfigure and recombine 
+existing processes and (iv) make incremental changes (add, remove, 
+swap, reconfigure) iterate on model designs that build upon pre-
+vious work. Auxiliary processes are provided to offload complexity 
+from the main processes.
+
+The Vivarium engine is provided with the processes and a top-
+ology, it constructs the stores based on the processes’ declared sche-
+mas for each, and executes the processes in the order specified in the 
+hierarchy, and executes their interactions in time (Fig. 2a). Vivarium 
+is able to support large models with thousands of states and numer-
+ical equations. To accommodate these demands, Vivarium dis-
+tribute processes onto different OS processes (not to be confused 
+with a Vivarium process) (Fig. 2b). Communication between pro-
+cesses on separate OS processes is mediated by message passing with 
+Python’s multiprocessing library. Simulations have run on Google 
+Compute Engine with hundreds of CPUs (Sukanl, et al., 
+2021)—which scale the computation without any additional run-
+time configuration. The Vivarium engine can dynamically reassign 
+processes to be run sequentially.
+
+The engine is a discrete-event simulator—it advances the simula-
+tion forward by iterating the global time, triggering each process to 
+iterate at its respective time step, retrieving updates at the end of 
+the time step, and passing these updates to the connected stores 
+(Fig. 2c). Processes can declare their own required time step, and 
+can update their states during runtime to support adaptive time 
+steps. The structure of a hierarchy is also dynamic and allows for 
+stores, processes and entire compartments to be created, destroyed 
+or moved during runtime. This allows for modeling important 
+biological mechanisms, such as cell forming, destroying, merging, 
+division, engulfing and expelling of subcompartments (Fig. 2d).
+
+3 Multipartagrand composites
+
+In this section, we demonstrate the power of Vivarium by apply-
+ing it to complex, real-world examples. Specifically, we use Vivarium 
+to integrate several modeling paradigms, building wrapper proc-
+esses around existing libraries and wiring them together in a 
+composite simulation. COBRA is used for flux-balance analysis 
+(Ebrahim et al., 2013), Bioscrape is used to simulate chemical reac-
+tion networks (Swaminathan et al., 2017), and multibody is used as a 
+solid-body physics engine for spatial multicell physics (Blowgmi, 
+2019). The implementation of each of these separate processes is 
+briefly described here, and in greater detail in Supplementary 
+Materials; however, our primary aim in this section is to highlight 
+the integrated, multipartagrand model of an Escherichia coli colony 
+with many individual cells in a spatial environment, that collectively 
+try to undergo a lactose shift in response to glucose depletion. For 
+interested readers, we recommend the Supplementary python note-
+books, which show the incremental development steps, describe 
+strategies for their integration, and display the resulting emergent 
+behavior.
+
+When grown in media containing the two sugars glucose and lac-
+tose, a colony of E.coli will first consume only the glucose until it is 
+depleted; the colony will then enter a lag phase of reduced growth, 
+which is followed by a second phase of growth from lactose uptake.
+
+During the glucose growth phase, the expression of the lac operon is 
+inhibited while glucose transporters GalP and PTS are expressed. 
+When external glucose is depleted, cells at first do not have 
+the capacity to import lactose. The lac operon controls the genes lacZ 
+(lactose lyase) whose activity allows lactose to enter the cell, lacZ 
+(β-Galactosidase) which degrades the lactose, and lacA (Galactoside 
+acetyltransferase) which enables downstream lactose metabolism. 
+Once the operon is activated and proteins are expressed, the metabol-
+olism shifts to lactose and growth resumes. See Santillan and 
+Mackey (2008) for a more comprehensive overview. For this ex-
+ample, a flux-balance model of E.coli is used to model overall cellu-
+lar metabolism, while the details of the glucose-lactose regulatory, 
+transport and metabolic circuit are represented by a chemical reac-
+tion network.
+
+3.1 Individual paradigms
+
+The individual processes were built with wrappers around existing 
+modeling libraries, which were imported from this article’s project 
+repository and were in a large integrative model. These are 
+separately available for re-use in the libraries vivarium-core, vivar-
+ium-bioscrape and vivarium-multibody. Supplementary Material 
+provides additional details on each of the processes, and shows each 
+being run on its own.
+
+Flux-balance analysis with COBRA. Flux balance analysis (FBA) 
+is an optimization-based modeling approach that takes a 
+network of stoichiometric biochemical systems, represented as a 
+matrix of stoichiometric coefficients and a set of flux constraints, 
+and applies linear programming to determine flux distributions 
+(Orth et al., 2010). FBA is made dynamic (called dFBA) by iterat-
+ively re-optimizing the objective with updated constraints at every time 
+step (Varma and Palsson, 1994); these constraints can include 
+environmental nutrient availability, gene regulation or enzyme kinet-
+ics. We developed a Vivarium process that provides a wrapper 
+around COBRA (Ebrahim et al., 2013), which allows any 
+constraint-based model to be used in a Vivarium composite. We 
+used a published E.coli model that includes 2382 reactions and 
+includes the activity of 7 molecules (Feist et al., 2010).
+
+Chemical reaction networks with Bioscrape. To add a chemical 
+reaction network (CRN) model of transcription, translation, regula-
+tion and the enzymatic activity of the lac operon and its resulting 
+proteins, we turned to a published model (Santillan and 
+Mackey, 2008) that describes the lac operon control. We converted 
+the model to an SBML format using BioCRNpyler—an open source tool 
+for specifying CRNs (Poole et al., 2020). With the model in SBML, 
+we ran simulations with a Vivarium process built with Bioscrape 
+(Swaminathan et al., 2017)—a framework that supports deter-
+ministic and stochastic simulations.
+
+Multicell physics with Multicell. The environment is implemented 
+using a custom called lattice. The environment is a multi-body 
+library that includes multibody and diffusion processes. Multibody is 
+a wrapper around the physics engine pymunk (Blowgmi, 2019), 
+which models individual agents as capsule-shaped rigid bodies that 
+can move, grow and collide. Multibody tracks boundary variables 
+for each agent: location, length, width, angle, mass, thrust and tor-
+que. It applies these to the physics engine, runs it and returns a new 
+location for each agent. Agents can update their volume, mass and 
+thrust vectors. Upon division, a custom thrust profile is used to 
+generate location of agents, so that daughters are placed end-
+to-end in the same orientation as the mother. Diffusion simulates 
+the continuous-dimensional fields of molecular concentrations. Each 
+lattice location holds the local concentrations of any number of mol-
+ecules, and diffusion solves how they homogenize across local 
+sites. Agents can update and access molecule at their position in 
+the field using the same process ‘local field’.
+
+Adaptor processes. Each process described above focuses on a 
+different aspect of cellular behavior, applies a differ-
+ent mathematical representation, and formats its data by different 
+standards. Integrating them requires data conversions and complex 
+mapping of assumptions about their shared variables. This is 
+achieved with a set of adaptor processes which convert between the 
+Downloaded from https://academic.oup.com/bioinformatics/article/38/17/1972/6621200 by guest on 09 July 2025
+```

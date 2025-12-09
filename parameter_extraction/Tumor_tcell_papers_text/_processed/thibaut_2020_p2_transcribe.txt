@@ -1,0 +1,115 @@
+```
+ARTICLES                                                                                              NATURE CANCER
+
+and melanoma models. Using distinct approaches including mosaic
+tumors and intravital imaging with a real-time reporter of sig-
+nal transducer and activator of transcription 1 (STAT1) nuclear
+translocation, we show that IFN-γ signaling occurs with extensive
+bystander activity throughout the tumor microenvironment, affect-
+ing both tumor and tumor-infiltrating immune cells. Although
+STAT1 activity in tumor cells was sufficient, it did not require con-
+tinuous interaction with T cells, confirming the extensive bystander
+activity of intratumoral IFN-γ. We provide evidence that prolonged
+IFN-γ exposure is in fact needed to alter overall cell phenotype. Our
+results support a model in which IFN-γ regulates the tumor micro-
+environment by acting as a widespread and sustained cytokine field,
+which concentration is dependent on the collective T cell activity.
+
+Results
+T cell-derived IFN-γ profoundly modifies the tumor microenvi-
+ronment. To characterize how intratumoral IFN-γ acts on tumor
+cells, we examined the expression of several markers, including
+MHC class I and PD-L1, in distinct tumor cell lines, in response
+to various concentrations of IFN-γ. Using models for Myc-driven
+B cell lymphoma (Eμ-myc)9, melanoma (B16.F10)10 and mammary
+tumor (EO771)11, we observed a dose-dependent upregulation of
+these markers for all cell lines (Fig. 1a,b, and see Extended data
+Fig. 1a). Phenotype changes on IFN-γ treatment followed an analog,
+rather than a digital, pattern with a concentration-dependent shift
+in expression of the whole population rather than a bimodal distri-
+bution (see Extended data Fig. 1b). At high concentrations, IFN-γ
+also induced substantial cell death of B16.F10 tumor cells, an effect
+even more pronounced after cells combined with tumor necrosis
+factor (TNF)-α (see Extended data Fig. 1c). By contrast, IFN-γ did
+not affect the viability of Eμ-myc cells (Extended data Fig. 1d).
+
+To test whether these phenotypic changes also occur in response
+to intratumoral T cell-derived IFN-γ in vivo, we transferred Eμ-myc-
+derived OT-I CD8+ T cells into Rag2−/− mice bearing the OVAhi
+(Eμ-myc) lymphoma9 and measured phenotypic changes in
+the bone marrow, a primary site of tumor growth (Fig. 1c, and see
+Extended data Fig. 2). We used recipients devoid of endogenous
+T cells for better control of the source of IFN-γ production. Trans-
+fer of OT-I T cells at the tumor site was found to produce IFN-γ
+(Fig. 1d). As shown in Fig. 1e, the transfer of T cells resulted
+in an increased expression of MHC class I and PD-L1 on tumor
+cells. Phenotypic changes were also detected in tumor-infiltrating
+immune cells that expressed increased levels of MHC class I on
+their surface (Fig. 1f). All these effects appeared to be dependent
+
+on T cell-derived IFN-γ because they were abolished when IFN-γ-
+deficient OT-I T cells were transferred. Importantly, these results
+were recapitulated in Rag2−/−γ−/− recipients that lack NK cells, sug-
+gesting that T cell-derived IFN-γ is sufficient to directly mediate
+phenotypic changes in tumor cells (Extended data Fig. 3). To extend
+these findings in a setting of chimeric antigen receptor (CAR) T cell
+therapy, we analyzed the phenotypic changes in lymphoma cells on
+transfer of IFN-γ either sufficient or deficient in anti-CD19 CAR
+T cells. The presence of wild-type (WT) but not IFN-γ-deficient
+CAR T cells resulted in a substantial increase in MHC class I and
+PD-L1 expression (Fig. 1h). Altogether, these results indicate that
+IFN-γ produced by T or CAR T cells has a broad impact on tumor
+and tumor-infiltrating immune cells.
+
+Tumor-infiltrating T cells selectively accumulate and arrest
+in tumor areas with cognate antigen expression. Production of
+IFN-γ by T cells has been associated with stable interactions with
+antigen-presenting targets12. However, it is unclear whether IFN-γ
+produced by T cells acts on engaged targets or their close neighbors
+or more extensively in the tumor microenvironment. To address
+this question, we needed to create mosaic tumors in which only
+selective regions express a tumor antigen to spatially restrict IFN-γ
+production (Fig. 2a). We took advantage of our previous observa-
+tion that tumor subclones tend to grow as anatomically segregated
+patches to create these disparate environments13. When we injected
+a mixture of antigen-positive (OVA+) and antigen-negative Eμ-myc
+tumors expressing distinct fluorescent proteins, we observed tumor
+patches with a typical radius of 500 μm and a clear boundary
+(Fig. 2b). Using intravital imaging, we found that most OT-I T cells
+selectively accumulated in and arrested in antigen-positive areas
+(see Extended data Fig. 4 and Supplementary Video 1). Tumor
+regions bearing T cells seen in antigen-negative tumors were rapidly
+cleared of T cells, indicating a spatially restricted IFN-γ production
+(see Extended data Fig. 4 and Supplementary Video 1). Some
+of the stable contacts with antigen-positive tumors may reflect
+persistent sites of cytokine secretion because previous studies have
+linked T cell arrest to IFN-γ secretion12. Even if it remains formally
+possible that migrating T cells also released small amounts of cyto-
+kine, the increased T cell numbers and residence time in antigen-
+positive areas are consistent with cytokine release in these regions.
+Of note, T cell arrest in antigen-positive areas was largely IFN-γ-
+independent because prolonged interactions were also observed
+with IFN-γ-deficient T cells (see Extended data Fig. 4). In sum, this
+strategy provides a means to spatially control cognate interactions
+
+Fig. 1 | T cell-derived IFN-γ induces phenotypic changes in the tumor microenvironment. a,b, IFN-γ induces phenotypic changes in tumor cells in vitro.
+Eμ-myc B lymphoma (a) or B16.F10 melanoma (b) cells were stimulated with indicated IFN-γ concentrations in vitro for 24 h. H-2K+ (left), H-2D+ (middle)
+and PD-L1 (right) surface expression was then analyzed by flow cytometry. Each dot represents the mean of three technical replicates, representing two
+(B16.F10) or three (Eμ-myc) independent experiments; gMFI, geometric mean fluorescence intensity. c-g, T cell-derived IFN-γ increases MHC class I and
+PD-L1 levels in tumor and tumor-infiltrating immune cells. c, Experimental setup. Rag2−/− mice were injected i.v. with OVA-expressing Eμ-myc B lymphoma
+cells. On days 12–13, mice were activated WT or IFN-γ-deficient OT-I CD8+ T cells were injected i.v. After 2d, the recipient bone marrow was harvested and
+analyzed by flow cytometry. d, Intracellular IFN-γ staining was performed in the absence of in vitro restimulation. Dot plots showing IFN-γ production
+by intratumoral WT, but not IFN-γ-deficient, OT-I T cells (data represent n = 6 mice per group). e, Representative example of histograms showing H-2K+
+surface expression on tumor cells isolated from the bone marrow of mice that were left untreated (filled gray) or injected with either WT OT-I T cells (line,
+blue) or IFN-γ-deficient OT-I T cells (line, red). Data represent two independent experiments with n = 6 mice per group. f, H-2K+ (left), H-2D+ (middle)
+and PD-L1 (right) surface expression on tumor cells isolated from mice either treated or not treated with the indicated OT-I T cell population, as assessed
+by flow cytometry. Each dot represents one mouse. Red lines indicate mean values. Data represent two independent experiments with n = 6 mice per
+group (**P < 0.001, two-tailed Mann-Whitney U-test). g, H-2K+ surface expression on NK cells (left), monocytes (middle) and neutrophils (right) isolated
+from mice either treated or not treated with the indicated OT-I T cells, as assessed by flow cytometry. Red lines indicate mean values. Data represent two
+independent experiments with n = 6 mice per group (*P < 0.05, **P < 0.001, two-tailed Mann-Whitney U-tests). h, Recipients with established Eμ-myc B
+lymphoma were treated with anti-CD19 CAR T cells and analyzed 2d later. H-2K+ (left) and PD-L1 (right) surface expression on tumor cells isolated from
+mice left untreated or treated with WT or IFN-γ-deficient CAR T cells. Red lines indicate mean values. Data represent two independent experiments with
+n = 3 mice per group (****P < 0.0001 using ANOVA, with Tukey’s test for multiple comparisons).
+
+                                                                                                                NATURE CANCER | www.nature.com/natcancer
+```

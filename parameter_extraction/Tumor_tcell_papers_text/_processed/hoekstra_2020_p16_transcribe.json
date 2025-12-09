@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "```plaintext\nARTICLES                                                                                     NATURE CANCER\n\na\n\nAg⁻ IGS                                      Ag⁺\n100                                           100\nNormalized cell count                         Normalized cell count\n80                                            80\n60                                            60\n40                                            40\n20                                            20\n0                                             0\n    0    10⁴   10⁵                                0    10⁴   10⁵\n        Katushka                                      Katushka\n\n                                HBSS\n                                T cells\n\nb\n\nT cells                                       HBSS\nKatushka                                      Katushka\nAg⁻ Ag⁺ Katushka SHG                          Ag⁻ Ag⁺ Katushka SHG\n\n0h\n\n120h\n\nExtended Data Fig. 4 | CD8⁺ T-cell dependent Katushka signaling in IGS reporter cells in vivo. a, Flow cytometric analysis of Katushka expression in CFP⁺ \nIGS reporter (left panel) and GFP⁺ Ag⁺ (right panel) cells derived from mixed tumors described in Fig. 2b. Data from mice treated with HBSS are depicted \nin blue, data from mice treated with CDK4R24C-specific CD8⁺ T cells are depicted in red, n=4 mice per condition, data obtained from one experiment. \nb, Representative images of tumors before and 120h after injection of CDK4R24C-specific CD8⁺ T cells (left panel, three independent experiments with n=1 \nmouse each) or HBSS (right panel, two independent experiments with n=1 mouse each), for the imaging experiments described in Fig. 3. SHG: Second-\nharmonic generation. Scale bar is 200 μm.\n\n                                                                                             NATURE CANCER | www.nature.com/natcancer\n```",
+  "model": "gpt-4o",
+  "page": 16,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 15.03,
+  "filename": "hoekstra_2020.pdf",
+  "doc_id": "hoekstra_2020"
+}

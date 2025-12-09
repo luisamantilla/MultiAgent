@@ -1,0 +1,74 @@
+```
+REVIEWS
+
+a
+
+DCs
+
+T cells
+
+Anaesthetized
+mouse
+
+Surgically exposed
+popliteal LN
+
+Plaster
+bandages
+
+b
+
+z
+
+Time (min)
+
+Time-lapse movie
+
+c
+
+3D cell tracking
+
+Individual T cells
+
+Time (min)
+
+No contact
+
+Contact
+
+T-cell velocity (µm/min)
+
+Condition A
+
+Condition B
+
+T-cell confinement index
+
+Condition A
+
+Condition B
+
+Contact duration (min)
+
+Condition A
+
+Condition B
+
+Figure 1 | Intravital two-photon imaging of T-cell–DC interactions. a | The popliteal lymph node of an
+anaesthetized mouse that contains fluorescently labelled T cells and dendritic cells (DCs) is surgically exposed. The
+mouse leg is immobilized with plaster bandages and a heated metal ring is placed around the sample to maintain it at
+physiological temperature. The animal is then placed under an upright two-photon microscope (for more details, see
+REF. 63). b | For image acquisition, the area of interest is scanned by a near infrared-pulsed laser to generate x–y images.
+The process is carried out at different z planes and repeated every 10–30 seconds. The multidimensional data set is
+then used to generate a time-lapse movie. c | For data extraction, mean cell velocities and confinements are obtained
+and graphed for individual T cells after automated 3D cell tracking. In addition, DC interactions that are experienced
+by individual T cells can be monitored over time. These data can be used, for example, to generate graphs that compile
+information regarding T-cell–DC contact durations. Part a (right panel) modified, with permission, from REF. 63 © (2007)
+Springer Science + Business Media.
+
+NATURE REVIEWS | IMMUNOLOGY
+
+VOLUME 8 | SEPTEMBER 2008 | 677
+
+© 2008 Macmillan Publishers Limited. All rights reserved
+```

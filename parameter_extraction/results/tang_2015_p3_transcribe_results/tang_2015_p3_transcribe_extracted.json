@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and values from the text:\n\n1. **Culture Conditions:**\n   - Fetal bovine serum concentration: 10% (v/v)\n   - L-glutamine concentration: 2 mM\n   - CO2 concentration in atmosphere: 5%\n   - Temperature: 37°C\n\n2. **Lentiviral Vector Titer:**\n   - Titer: >10^7 infectious units/mL\n\n3. **PBMC Activation:**\n   - Anti-CD3 concentration: 100 ng/ml\n   - IL-2 concentration: 100 IU/ml\n   - Activation duration: 2 days\n\n4. **Transduction Conditions:**\n   - Multiplicity of infection (MOI): ~5\n   - Transduction duration: 4 hours\n   - Protamine sulphate concentration: 10 μg/ml"
+}

@@ -1,0 +1,36 @@
+```plaintext
+NATURE CANCER                                                                                              ARTICLES
+
+and members of the Schumacher and van Rheenen laboratories for discussions.
+This work was supported by a Boehringer Ingelheim Fonds PhD Fellowship (to M.E.H.),
+a Swiss National Science Foundation AMBIZIONE (no. PZ00P3_177188; to D.S.T.),
+ERC CoG Cancer-recurrence (grant no. 648804), Cancer Genomics Netherlands and the
+Doctor Josef Steiner Foundation (to J.v.R.) and ERC AdG SENSIT (to T.N.M.S.).
+
+Author contributions
+M.E.H., L.B., D.P. and I.N.P. performed experiments and analyzed data. L.B. performed
+multiphoton imaging. F.E.D. and M.E.H. designed and tested the ICG reporter. I.B.
+and M.E.H. designed imaging analyses. M.E.H. and M.T. performed ICK inhibitor
+experiments. D.S.T. provided and analyzed human tumor samples. M.E.H., L.B., F.E.D.,
+J.v.R. and T.N.M.S. contributed to experimental design. M.E.H., I.B., J.v.R. and T.N.M.S.
+prepared the manuscript with input from all the coauthors.
+
+Competing interests
+The authors declare no competing interests.
+
+Additional information
+Extended data is available for this paper at https://doi.org/10.1038/s43018-020-0036-4.
+Supplementary information is available for this paper at https://doi.org/10.1038/
+s43018-020-0036-4.
+
+Correspondence and requests for materials should be addressed to T.N.M.S.
+
+Reprints and permissions information is available at www.nature.com/reprints.
+
+Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in
+published maps and institutional affiliations.
+
+© The Author(s), under exclusive licence to Springer Nature America, Inc. 2020
+
+NATURE CANCER | www.nature.com/natcancer
+```

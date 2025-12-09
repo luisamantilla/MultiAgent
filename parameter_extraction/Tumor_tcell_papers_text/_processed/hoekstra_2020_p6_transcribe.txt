@@ -1,0 +1,166 @@
+```plaintext
+ARTICLES                                                                                                        NATURE CANCER
+
+to quantify spreading at greater distances. To be able to measure 
+long-distance sensing of CD8+ T-cell-derived IFN-γ, we gener- 
+ated tumors that consist of large islands of Ag+ cells and Ag- RGS 
+reporter cells (Fig. 4d), using Matrigel-embedded Ag+ IGFP reporter 
+cell spheres, which were then injected with a low number of Ag- 
+cells (Methods). After tumor outgrowth and antigen-specific T cell 
+transfer, the resulting tumors showed strictly defined Ag+ and Ag- 
+areas, with antigen-reactive CD8+ T cells locating preferentially at 
+the Ag+ areas of these tumors (representative tumor in Fig. 4e and 
+Extended data Fig. 6a,b). This tumor setup resembles the islands 
+of distinct tumor cell populations seen in human tumors as read 
+by β2m expression (representative images in Extended data Fig. 7), 
+with increased CD8+ T cell counts in the β2m+ areas (Extended 
+data Fig. 7; discrete β2m+ and β2m- areas observed in 16/51 tumors 
+analyzed). Strikingly, analysis of the Katushka reporter signal in the 
+Ag- tumor lobe after T cell transfer revealed a pronounced IFN-γ 
+response that started at the interface between the Ag+ and Ag- 
+tumor lobes and extended more than 800 μm into bystander tumor 
+territory (n=7 mice, 4 independent, whereas the GFP signal (present 
+in all Ag- IGFS reporter cells, irrespective of reporter activation) was 
+constant over distance, analysis of specific cytokine mRNAs bystander 
+tumor tissue showed a gradual waning of Katushka reporter signal 
+over distance, in addition to the Ag+ tumor compartment (Fig. 4e,f). 
+Based on the observation that T cell density is higher in the Ag+ 
+tumor area than in the Ag- area, and the observation that T cells 
+cease to produce IFN-γ within hours of TCR signaling in vitro 
+(with a reduction of more than 80% in the first 12 h; Extended data 
+Fig. 6c,d), we investigated whether a gradient in Katushka signal 
+to occur as a consequence of IFN-γ diffusion. However, this gradient 
+was not significantly altered by an approach to tumor-specific 
+T cells in the Ag- area, suggesting that the gradient is not due to 
+a waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to 
+waning of IFN-γ production by T cells, but rather due to IFN-γ 
+diffusion. This is in line with the observation that T cells preferen- 
+tially locate at the Ag+ area, and that the gradient is not due to

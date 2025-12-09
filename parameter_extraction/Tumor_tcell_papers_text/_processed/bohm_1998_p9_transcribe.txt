@@ -1,0 +1,83 @@
+```plaintext
+904                                                                                              IMMUNE REJECTION MECHANISMS OF MURINE B16 MELANOMAS
+
+Table I. Subcutaneous growth of transfected B16 cells in syngeneic hosts
+
+| Group | Cell Linea | No. of Cells Transferredb | Tumor Incidencec | Comparison of p valued |
+|-------|------------|---------------------------|------------------|------------------------|
+|       |            |                           | Tumor-bearing/   |                        |
+|       |            |                           | % transplanted   |                        |
+|       |            |                           | mice             |                        |
+| 1     | B16.F10    | 106                       | 60/10            |                        |
+| 2     | B16.F10    | 104                       | 100              | 10/10                  |
+| 3     | B16.F10    | 105                       | 100              | 10/10                  |
+| 4     | B16.F10    | 107                       | 100              | 10/10                  |
+| 5     | B16.F10/S  | 105                       | 50               | 5/10                   | 1.000                  |
+| 6     | B16.F10/S  | 104                       | 70               | 7/10                   | 6/2                    | 0.003* |
+| 7     | B16.F10/S  | 106                       | 100              | 10/10                  | 7/3                    |
+| 8     | B16.F10/S  | 107                       | 100              | 10/10                  | 8/4                    |
+| 9     | B16.F10/T  | 105                       | 50               | 5/10                   | 9/1                    | 1.000  |
+| 10    | B16.F10/T  | 104                       | 100              | 10/10                  | 10/2                   |
+| 11    | B16.F10/T  | 106                       | 100              | 10/10                  | 11/3                   |
+| 12    | B16.F10/T  | 107                       | 100              | 10/10                  | 12/4                   |
+
+a Nontransfected B16 cells (B16.F10) or B16 cells transfected with HB8Ag-encoding BMG/HBS plasmid DNA (B16.F10/S) or BMG/T-Ag plasmid DNA (B16.F10/T) were transplanted into C57BL/6 mice.
+b 103, 104, 105, or 106 cells suspended in 0.05 ml PBS were injected s.c. into the left lateral flank.
+c Tumor growth was monitored every second or third day. The percentage (%) of mice developing a tumor and the number of tumor-bearing mice/number of transplanted mice are listed. Data from the experiment plotted in Figure 8 are shown.
+d p values were calculated using Fisher’s exact test; *, statistically significant.
+
+low and MHC-II surface expression is undetectable in FCM anal-      Rejection of transfected B16.F10 melanomas by immune
+yses of noninduced B16 cells, tumor eradication operated effi-      hosts required CD4+ and CD8+ T cells. The CD4+ T cell subset,
+ciently in immune hosts.                                            the CD8+ T cell subset, or both subsets were in vivo deleted in
+
+DNA vaccination
+
+B16.F10
+
+pCI/S plasmid
+
+% percent tumor-free mice
+
+0  20  40  60  80  100
+
+0  10  20  30  40  50
+
+A
+
+B16.F10/S
+
+0  20  40  60  80  100
+
+0  10  20  30  40  50
+
+B
+
+10^3
+10^4
+10^5
+10^6
+
+B16.F10
+
+pCMV/T plasmid
+
+% percent tumor-free mice
+
+0  20  40  60  80  100
+
+0  10  20  30  40  50
+
+C
+
+B16.F10/T
+
+0  20  40  60  80  100
+
+0  10  20  30  40  50
+
+D
+
+days after tumor challenge
+
+FIGURE 7. Subcutaneous growth of nontransfected and transfected B16.F10 melanoma cells in immune, syngeneic hosts. C57BL/6 mice were DNA vaccinated against HB8Ag or T-Ag. These mice showed efficient, MHC-I-restricted CTL reactivity against the respective viral Ags. These mice were transplanted with 103, 104, 105, or 106 nontransfected B16.F10 or transfected B16.F10/S or B16.F10/T tumor cells. The fraction of tumor-free/tumor-bearing mice was scored for 50 days posttransplantation. Mice with tumors of a diameter >1 cm were sacrificed.
+```

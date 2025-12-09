@@ -1,0 +1,116 @@
+```plaintext
+be adsorbed by aluminum-containing adjuvants in the vac-
+cine [2].
+
+Vaccines experience two different environments during
+their manufacture and use: the formulation prior to adminis-
+tration and interstitial fluid following intramuscular or sub-
+cutaneous administration [3]. Chen et al. [4] performed a
+study to determine how adsorption in the formulation af-
+fects antibody production in rabbits. The surface charge of
+aluminum-containing adjuvant was modified to produce vac-
+cines in which 3, 35 or 85% of the 4.8 mg dose of lysozyme
+was adsorbed. The three vaccines induced much higher an-
+tibody titers than a 4.8 mg lysozyme solution but all three
+vaccines induced the same antibody titer. When the three vac-
+cines were mixed with sheep lymph fluid to simulate intersti-
+tial fluid, the degree of lysozyme adsorption in each vaccine
+changed to 40% within 1 h. Because all of the vaccines had
+the same degree of lysozyme adsorption in interstitial fluid
+and induced the same degree of immunopotentiation, it was
+concluded that immunopotentiation by aluminum-containing
+adjuvants correlates with the degree of antigen adsorption in
+interstitial fluid following administration rather than the de-
+gree of antigen adsorption in the vaccine.
+
+A recent study [5] investigated whether it was neces-
+sary for the antigen to elute or remain adsorbed to alu-
+minum hydroxide adjuvant (AH) in order to produce im-
+munopotentiation. Antigen was adsorbed to AH or to a
+dextran phosphate anion exchange complexed with aluminum
+(DPAC), which completely adsorbed to AH by electro-
+static attraction [6]. After exposure to interstitial fluid for 1 h,
+100% of the AC remained adsorbed to AH while only 10%
+of the DPAC remained adsorbed. All of the AC remained
+adsorbed to AH even after 24 h of exposure to interstitial
+fluid. In comparison, the DPAC was completely eluted af-
+ter 6 h of exposure to interstitial fluid. It was concluded that
+the strong ligand exchange adsorption mechanism, whereby
+a phosphate in AC displaced a surface hydroxyl to form an
+inner sphere complex with AH [7], maintained complete ad-
+sorption of AC in interstitial fluid [8]. However, since DPAC
+adsorbed to AH by forming an outer sphere complex by elec-
+trostatic attraction [7], it completely eluted from AH during
+exposure to interstitial fluid. It was found that AH potentiated
+the immune response in mice for both AC and DPAC. The
+results indicated that aluminum-containing adjuvants poten-
+tiate the immune response when the antigen elutes from the
+adjuvant following administration as well as when the antigen
+remains adsorbed following administration.
+
+An important step in the induction of the immune response
+is the internalization of the antigen by antigen presenting
+cells, such as dendritic cells (DCs). Macropinocytosis and
+phagocytosis are two mechanisms of antigen internalization
+by DCs [9–14]. Antigens that elute from the adjuvant surface
+are internalized by DCs by macropinocytosis while those that
+remain adsorbed are internalized by phagocytosis.
+
+While the study with AC and DPAC [5] demonstrated that
+antigen internalization by antigen presenting cells occurs by
+both macropinocytosis and phagocytosis, the relative effi-
+ciency of each route was not studied. Thus, this study was un-
+dertaken to compare antigen internalization by macropinocy-
+tosis and phagocytosis. AC labeled with a green fluorescent
+dye was chosen as the model antigen. AC contains eight phos-
+phate groups, is adsorbed to AH by ligand exchange and
+does not elute from AH when exposed to interstitial fluid [5].
+Dendritic cells were incubated with a solution of fluorescent-
+labeled AC to model antigens that elute from the adjuvant
+surface following administration. Dendritic cells were also
+incubated with fluorescent labeled AC adsorbed to AH to
+model antigens that do not elute following administration.
+In addition, the effect of the aggregate size of the adjuvant
+on the internalization of AC by phagocytosis was studied.
+The efficiency of antigen internalization was monitored by
+confocal microscopy and flow cytometry.
+
+2. Materials and methods
+
+2.1. Adjuvants
+
+Aluminum hydroxide adjuvant (Rehydragel HPA, Reheis,
+Berkeley Heights, NJ) and aluminum phosphate adjuvant
+(AP) (Aduj-Phos, Brenntag Biosector, Elsenbakken, Den-
+mark) were used in this study. The AP was prepared by
+precipitation with phosphate and AH at molar ratios of 1:1,
+2:1 or 2:1. For 1:1 phosphate-treated AH (PTAH-1), 769 μl
+of commercial AH containing 13 mg Al/ml was diluted to
+10 ml with 3.7 ml of 0.1 M Na3PO4 adjusted to pH 7.4 and
+5.53 ml of doubly distilled water adjusted to pH 7.4 and
+mixed with a magnetic stirrer for 1 h. The 2:1 phosphate-
+treated AH (PTAH-2) was prepared similarly except 7.4 ml
+of 1 M Na3 PO4 was used. PTAH-1 and PTAH-2 contained
+1 mg Al/ml.
+
+The zeta potential of each adjuvant was determined by
+Doppler electrophoretic light scattering analysis (DELSA
+440, Coulter, Hialeah, FL). Each adjuvant was diluted 1:80
+with the supernatant of the adjuvant obtained by centrifuga-
+tion.
+
+2.2. Adsorption isotherms
+
+Each adjuvant prepared in Section 2.1 was diluted to
+0.1 mg Al/ml with 10 μM veronal buffer (Sigma, St. Louis,
+MO) and adjusted to pH 7.4 with 0.1 M HCl. AC solutions
+ranging from 100-300 μg/ml were prepared and adjusted to
+pH 7.4 with 0.1 M NaOH or 0.1 M HCl. The adsorption
+isotherms were prepared by combining 100 μl of the diluted
+adjuvant and 100 μl of the appropriate AC solution and mix-
+ing using a vortex mixer at room temperature for 1 h. A pre-
+liminary experiment indicated that equilibrium was reached
+in less than 30 min. The mixtures were then centrifuged and
+the AC concentration of the clear supernatant determined by
+the BCA assay (Pierce, Rockford, IL). The adsorptive capac-
+```

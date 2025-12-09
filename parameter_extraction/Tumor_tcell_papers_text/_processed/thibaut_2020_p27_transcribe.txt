@@ -1,0 +1,72 @@
+```plaintext
+nature research
+
+Reporting Summary
+
+Corresponding author(s): Philippe Bousso
+Last updated by author(s): Jan 8, 2020
+
+Nature Research wishes to improve the reproducibility of the work that we publish. This form provides structure for consistency and transparency in reporting. For further information on Nature Research policies, see Authors & Referees and the Editorial Policy Checklist.
+
+Statistics
+
+For all statistical analyses, confirm that the following items are present in the figure legend, table legend, main text, or Methods section.
+
+n/a Confirmed
+
+☐ ☒ The exact sample size (n) for each experimental group/condition, given as a discrete number and unit of measurement
+
+☐ ☒ A statement on whether measurements were taken from distinct samples or whether the same sample was measured repeatedly
+
+☐ ☒ The statistical test(s) used AND whether they are one- or two-sided
+Only common tests should be described solely by name; describe more complex techniques in the Methods section.
+
+☐ ☒ A description of all covariates tested
+
+☐ ☒ A description of any assumptions or corrections, such as tests of normality and adjustment for multiple comparisons
+
+☐ ☒ A full description of the statistical parameters including central tendency (e.g. means) or other basic estimates (e.g. regression coefficient) AND variation (e.g. standard deviation) or associated estimates of uncertainty (e.g. confidence intervals)
+
+☐ ☒ For null hypothesis testing, the test statistic (e.g. F, t, r) with confidence intervals, effect sizes, degrees of freedom and P value noted
+Give P values as exact values whenever suitable.
+
+☐ ☒ For Bayesian analysis, information on the choice of priors and Markov chain Monte Carlo settings
+
+☐ ☒ For hierarchical and complex designs, identification of the appropriate level for tests and full reporting of outcomes
+
+☐ ☒ Estimates of effect sizes (e.g. Cohen’s d, Pearson’s r), indicating how they were calculated
+
+Our web collection on statistics for biologists contains articles on many of the points above.
+
+Software and code
+
+Policy information about availability of computer code
+
+Data collection
+For FACS experiments, samples were acquired using either BD FACSDiva software (BD Biosciences) or Cytexpert 2.3 software (Beckman Coulter).
+For microscopy experiments, movies were acquired using FV31S-SW software (Olympus)
+
+Data analysis
+Flow cytometry data were analyzed using FlowJo v10.4.1 (Tree Star). Microscopy movies were created from raw data and analyzed using Fiji software (Image J v1.50i). Alternatively, analysis was performed on Imaris 7.4.2 (Bitplane) or Matlab2019b(R). Data were represented using GraphPad Prism v6.
+For RNAseq data, Bowtie2 was used to determine rRNA abundance. Quality control was performed using Picard and RSeQC. Reads were aligned using STAR (version 2.5.2a) and quantified with featureCounts (version 1.4.3-p1). Further analysis was performed using R (version 3.4.3) with the DESeq2 package (Version 1.18.1). Enrichment of specific transcription factors motifs was analyzed using the Rigeulon Cytoscape plugin.
+For single-cell RNAseq data, data were analyzed using R once again, with the GEOquery (version 2.48.0), Pagoda2, igraph packages.
+
+For manuscripts utilizing custom algorithms or software that are central to the research but not yet described in published literature, software must be made available to editors/reviewers. We strongly encourage code deposition in a community repository (e.g. GitHub). See the Nature Research guidelines for submitting code & software for further information.
+
+Data
+
+Policy information about availability of data
+
+All manuscripts must include a data availability statement. This statement should provide the following information, where applicable:
+- Accession codes, unique identifiers, or web links for publicly available datasets
+- A list of figures that have associated raw data
+- A description of any restrictions on data availability
+
+Already published Single-cell RNAseq data were downloaded from GEO, accession number GSE123139
+
+nature research | reporting summary
+
+October 2018
+
+1
+```

@@ -1,0 +1,3 @@
+{
+  "text_output": "Here are the extracted quantitative parameters and values from the text:\n\n1. **Tumor Analysis**:\n   - Number of tumors analyzed: 4\n   - Original magnification of photomicrographs: x400\n\n2. **Expression and Stimulation**:\n   - Percentage of B16.F10 cells expressing CD95 after IFN-γ stimulation: ~90%\n   - IFN-γ stimulation duration: 12 hours\n   - IFN-γ concentration: 30 IU/ml\n   - Subset of IFN-γ-stimulated B16.F10 cells coexpressing CD95L and CD95: 30 to 40%\n\n3. **Apoptosis**:\n   - Fraction of unstimulated B16.F10 cells eliminated by suicide under serum-free conditions: 10 to 20%\n\nThese values provide insights into the experimental conditions and results related to the immune rejection mechanisms of murine B16 melanomas."
+}

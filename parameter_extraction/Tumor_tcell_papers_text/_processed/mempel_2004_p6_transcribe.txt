@@ -1,0 +1,161 @@
+```
+letters to nature
+
+anti-L-selectin monoclonal antibody MEL-14 (100 µg per mouse). At various time points 
+during the following 48 h, mice were anaesthetized by an initial intraperitoneal injection of 
+ketamine (50 mg kg-1) and xylazine (10 mg kg-1). The right popliteal LN was prepared 
+microsurgically for intravital microscopy and positioned on a custom-built microscope 
+stage. Care was taken to spare blood vessels and afferent lymph vessels. The mouse 
+was submerged in normal saline and covered with a glass coverslip. A thermocouple was 
+placed next to the LN to monitor local temperature, which was maintained at 36 °C. In 
+some experiments the LN microcirculation was revealed by intravenous injection of 70 
+kDa tetramethylrhodamine-5-isothiocyanate-dextran or fluorescein isothiocyanate-dextran 
+(Sigma; 50 µg 200 µl-1 Molecular Probes). Two-photon imaging was performed with an 
+Olympus BX50WI fluorescence microscope equipped with a 20x, 0.5 numerical aperture 
+objective (Olympus) and a Bio-Rad Radiance 2000MP Confocal/Multiphoton microscopy 
+system, controlled by LaserSharp software (Bio-Rad). For two-photon excitation and 
+second harmonic generation, a Tsunami Ti:sapphire laser with a 10-W MillenniaX pump 
+laser (Spectra-Physics) was tuned to 900 nm. 
+For four-dimensional analysis of cell migration, stacks of six square x-y sections with 
+2 µm z spacing were acquired every 15 s with electronic zooming up to 4x to provide 
+image volumes 30 µm in depth and 115–648 µm in width. Emitted light and second 
+harmonic signals were detected through 607-nm, 525/50-nm and 620/60-nm band- 
+pass filters with non-descanned detectors to gather colour images. Successive image 
+stacks were transformed into volume-rendered four-dimensional movies using 
+Velocity software (Improvision), which was used for semi-automatic tracking of cells 
+in three dimensions. Tracks x, y and z coordinates of selected cells were exported for 
+further analysis either calculated by custom scripts in Matlab (MathWorks). As a 
+measure of the motility coefficient to plot motility data, an autocorrelation of original 
+cell velocity results for every unique moving path was calculated, and weight was 
+computed of the time interval during which displacement occurred.1 Interactions 
+between T cells and DCs were defined as physical contact lasting more than 1 min. 
+Contacts of notable duration were defined as sustained interactions and those 
+lasting less than 60 min were included in the analysis.
+
+Statistical analysis
+All statistical data were presented as medians and compared with the 
+Mann–Whitney U-test (two groups) or the Kruskal–Wallis test followed by Dunn’s test 
+(three or more groups). Throughout the analysis, P values of less than 0.05 were 
+considered significant. All statistical analyses were performed using Prism software 
+(GraphPad).
+
+Received 11 August; accepted 19 November 2003; doi:10.1038/nature02286.
+
+1. Stoll, S., Delon, J., Brotz, T. M. & Germain, R. N. Dynamic imaging of T cell–dendritic cell interactions 
+in lymph nodes. Science 296, 1873–1876 (2002).
+2. Miller, M. J., Wei, S. H., Parker, I. & Cahalan, M. D. Two-photon imaging of lymphocyte motility and 
+antigen response in intact lymph nodes. Science 296, 1869–1873 (2002).
+3. Mempel, T. R., Henrickson, S. E. & von Andrian, U. H. T-cell priming by dendritic cells in lymph nodes 
+occurs in three distinct phases. Nature 427, 154–159 (2004).
+4. Gowans, J. L. & Knight, E. J. The route of re-circulation of lymphocytes in the rat. Proc. R. Soc. Lond. B 
+159, 257–282 (1964).
+5. Cahalan, M. D. & Parker, I. Imaging the T cell activation in situ. Curr. Opin. Immunol. 15, 316–321 
+(2003).
+6. Cahalan, M. D., Parker, I., Wei, S. H. & Miller, M. J. Two-photon tissue imaging: seeing the immune 
+system in a fresh light. Nat. Rev. Immunol. 2, 872–880 (2002).
+7. von Andrian, U. H. & Mempel, T. R. Homing and cellular traffic in lymph nodes. Nature Rev. 
+Immunol. 3, 867–878 (2003).
+8. Sixt, M. et al. Endothelial cell laminin isoforms guide podocyte and lymph node microcirculation in vivo. 
+Microcirculation 7, 237–240 (1996).
+9. Miller, M. J., Wei, S. H., Cahalan, M. D. & Parker, I. Autonomous T cell trafficking examined in vivo 
+with intravital two-photon microscopy. Proc. Natl Acad. Sci. USA 100, 2604–2609 (2003).
+10. Gallatin, W. M., Weissman, I. L. & Butcher, E. C. A cell-surface molecule involved in organ-specific 
+homing of lymphocytes. Nature 304, 30–34 (1983).
+11. Gunn, M. D. et al. Mice lacking expression of secondary lymphoid organ chemokine have defects in 
+lymphocyte homing and dendritic cell localization. J. Exp. Med. 189, 451–460 (1999).
+12. Sallusto, F. et al. Impaired accumulation of skin-homing receptor-expressing circulating dendritic 
+cells in L-selectin-deficient mice. J. Exp. Med. 192, 759–766 (2000).
+13. Bousso, P., Garanger, S. & Scarpellino, L. The strategy of T cell antigen presenting cell encounter in 
+antigen-presenting lymph nodes revealed by imaging of initial T cell activation. J. Exp. Med. 198, 
+715–724 (2003).
+14. Lindquist, R. L., Shakhar, G. & McLellan, S. Kinetics of dendritic cell migration and T cell interac- 
+tion on priming of Th1, Th2 and non-polarized T cells. Nature Immunol. 1, 311–316 (2000).
+15. Stoll, S. M. & Bousso, P. Single-particle tracking: applications to membrane domains. Annu. Rev. 
+Biophys. Biomol. Struct. 26, 373–399 (1997).
+16. Tang, H. L. & Cyster, J. G. Chemokine up-regulation and activated T cell attraction by maturing 
+dendritic cells. Science 284, 819–823 (1999).
+17. Miller, M. J., Wei, S. H., Parker, I., Peterson, D. A. & Urano, E. L. Antigen receptor engagement 
+modulates dynamic step a signal in migrating T lymphocytes. Proc. Natl Acad. Sci. USA 94, 
+3699–3703 (1997).
+18. Miller, M. J., Wei, S. H., Parker, I., Kallip, S. & Kupfer, A. Three-dimensional imaging of T cell 
+dynamics and interactions in culture. In: T cells. Nature 94, 84–86 (1998).
+19. Grakou, A. et al. The immunological synapse: a molecular machine controlling T cell activation. 
+Science 285, 221–227 (1999).
+20. Kaye, K. M. et al. T cell receptor signaling precedes immunological synapse formation. Science 295, 
+1594–1598 (2002).
+21. Allen, P. M. et al. T cell interactions in extracellular matrix intersections of T cells with dendritic 
+cells are governed by a novel appendage. Immunity 13, 323–332 (2003).
+22. Ingulli, E., Medina, K., Abovitz, A. & Jenkins, M. K. In vivo detection of dendritic cell antigen 
+presentation to CD4+ T cells. J. Exp. Med. 183, 2113–2121 (1996).
+
+23. Norbury, C. C., Malide, D., Gibbs, J. S., Bennink, J. R. & Yewdell, J. W. Visualizing priming of virus- 
+specific CD8+ T cells by infected dendritic cells in vivo. Nature Immunol. 3, 265–271 (2002).
+24. Murphy, K. M., Heimberger, A. B. & Loh, D. Y. Induction by antigen of intrathymic apoptosis of CD4+ 
+CD8+ TCR+ thymocytes in vivo. Science 250, 1720–1723 (1990).
+25. Schenkel, J., DeMaria, T. R. & Germain, R. N. Real-time video promotes the foreign antigen 
+sensitivity of naive T lymphocytes. Nature 420, 424–428 (2002).
+26. Friedl, M., Zaru, R., Rapale, S., Muller, S. & Valitutti, S. Cutting edge: T lymphocyte activation by 
+sustained immunological synapse formation and intermittent signaling. J. Immunol. 171, 1123–1128 
+(2003).
+27. van Spijk, M. J. et al. Dynamic programming of CD8+ T lymphocyte responses. Nature Immunol. 
+4, 361–365 (2003).
+28. Hurez, V. et al. Restricted clonal expansion of IL-2 naive T cells reflects differential dynamic 
+interactions with dendritic cells. J. Exp. Med. 183, 1213–1223 (2003).
+29. Prichard, H., Ruf, K., Lang, R., Hengartner, H. & Zinkernagel, R. M. Tolerance induction in double 
+specific T cell receptor transgenic mice varies with antigen. Nature 342, 559–561 (1989).
+30. Moza, R. J. et al. Selective imprinting of long-term T cells by Peyer’s patch dendritic cells. Nature 424, 
+88–93 (2003).
+
+Supplementary Information accompanies the paper on www.nature.com/nature.
+
+Acknowledgements We thank T. Buschman for software programming, H. Leung and 
+B. Reinhardt for technical assistance, and M. Dufort, S. Lehman and H. Field for critical 
+reading of the manuscript. This work was supported by grants from the NIH and the Dana 
+Foundation to Immuno Imaging Program.
+
+Competing interests statement The authors declare that they have no competing financial 
+interests.
+
+Correspondence and requests for materials should be addressed to U.H.v.A. 
+(e-mail: uva@cbr.med.harvard.edu).
+
+Vernalization in Arabidopsis thaliana 
+is mediated by the 
+PHD finger protein VIN3
+
+Sibum Sung & Richard M. Amasino
+
+Department of Biochemistry, University of Wisconsin–Madison, 
+433 Babcock Drive, Madison, Wisconsin 53706, USA
+
+In biennials and winter annuals, flowering is typically blocked 
+in the first growing season. Exposure to the prolonged cold of 
+winter, through a process called vernalization, is required to 
+alleviate this block and permit flowering in the second growing 
+season1. In winter-annual types of Arabidopsis thaliana, a flower- 
+ing repressor, FLOWERING LOCUS C (FLC), is expressed at 
+levels that inhibit flowering in the first growing season2. Vernal- 
+ization promotes flowering by causing a repression of FLC that is 
+mitotically stable after return to warm growing conditions3. Here 
+we identify a gene with a function in the measurement of the 
+duration of cold exposure and in the establishment of the 
+vernalized state. We show that this silencing involves changes 
+in the modification of histones in FLC chromatin.
+
+In winter-annual types of Arabidopsis, flowering is delayed unless 
+plants are vernalized. The delayed flowering is due to dominant 
+alleles of FRIGIDA (FRI) and FLC4. FRI elevates expression of the 
+MADS-box transcriptional regulator FLC to levels that suppress 
+flowering5,6. Vernalization promotes flowering primarily by sup- 
+pressing FLC expression7,8. The repressed state of FLC is maintained 
+through mitotic cell divisions after a return to warm growing 
+conditions9. Many summer-annual accessions of Arabidopsis flower 
+rapidly without vernalization because such accessions lack an active 
+FRI allele9 or have a weak FLC allele10 and thus have low levels of 
+FLC expression. 
+To investigate the molecular mechanism of vernalization, we 
+mutagenized a winter-annual Arabidopsis line (the Columbia acces- 
+sion into which an active FRI allele had been introgressed) and 
+NATURE | VOL 427 | 1 JANUARY 2004 | www.nature.com/nature 159
+©2004 Nature Publishing Group
+```

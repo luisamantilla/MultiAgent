@@ -1,0 +1,102 @@
+washed twice with cold DPBS then resuspended in 
+1× binding buffer at a concentration of 1 × 10^6 cells/ 
+mL. A total of 100 μL of the cell suspension con- 
+taining 1 × 10^5 cells was incubated with 5 μL of 
+each annexin V-FITC and propidium iodide (PI) 
+for 15 min at room temperature in the dark. 
+Following incubation, 400 μL of 1× binding buffer 
+was added to each sample and cells were analyzed 
+on a FACSCalibur flow cytometer within 30 min. 
+Unstained cells and single stained cells with either 
+annexin V-FITC or PI were used as controls. Cells 
+incubated at 70°C for 15 min served as a positive 
+control for cell death, while cells treated with betu- 
+linic acid (16 μg/mL; Sigma) for 24 h served as a 
+positive control for apoptosis induction.26
+
+Detection of NOD2
+
+The detection of NOD2 protein expression in 
+HaCaT cells was attempted by western blot using 
+either total cell lysate or immunoprecipitated 
+NOD2. For protein extraction, cells were washed 
+twice with PBS, detached with Accutase solution, 
+and lysed for 30 min on ice in 1% NP-40 lysis buffer 
+supplemented with protease inhibitor 
+cocktail (Roche Diagnostics, Indianapolis, IN, 
+USA); the tube was left on ice for 20 min with peri- 
+odic vortexing. Lysates were then passed through a 
+21-gauge needle up to 10 times, followed by cen- 
+trifugation at 10,000g for 20 min at 4°C. The super- 
+natant was carefully transferred to a new tube and 
+the concentration was determined by DC Protein 
+Assay Kit (Bio-Rad, Hercules, CA, USA). For 
+western blot detection, a range (5–50 μg) of HaCaT 
+total protein lysate was resolved on 4%–10% 
+sodium dodecyl sulfate (SDS) Tris-glycine gels. 
+Proteins were transferred onto a protran-nitrocellu- 
+lose membrane (GE Healthcare Life Sciences, 
+Freiburg, Germany), blocked in tris-buffered saline 
+(TBS) containing 5% bovine serum albumin (BSA; 
+Sigma) and 0.05% Tween 20 (Sigma) for 1.5 h, and 
+incubated overnight in TBS containing 1% BSA, 
+0.05% Tween 20, and 0.25 μg/mL of anti-NOD2 
+mouse monoclonal antibody (clone NOD-15) or its 
+matching isotype control (BioLegend, San Diego, 
+CA, USA). The membrane was washed six times in 
+TBS with 0.1% Tween 20 and incubated for 1 h in 
+1% BSA containing 1:20,000 rabbit anti-mouse 
+IgG horseradish peroxidase conjugate (Santa Cruz 
+Biotechnology, Dallas, TX, USA). The membrane 
+was washed once again and incubated for 5 min 
+with chemiluminescent peroxidase substrate (GE 
+Healthcare Life Sciences) and detected on film (GE 
+Healthcare Life Sciences). For immunoprecipita- 
+tion, protein extracts from 2 or 3 × 10^6 HaCaT cells 
+were precipitated with 3-μL NOD2-specific rabbit 
+anti-serum (Cayman Chemical, Ann Arbor, MI, 
+USA) or NOD2-specific mouse monoclonal anti- 
+body (BioLegend) using Protein G immunoprecipita- 
+tion kit (Roche Diagnostics), following the 
+manufacturer’s instructions. Immunoprecipitated 
+proteins were resolved by western blot analysis and 
+probed using 3:10,000 of rabbit NOD2 anti-serum 
+(Cayman Chemical) or 5 μg/mL mouse monoclonal 
+antibody (BioLegend). RAW 264.7 total cell lysate 
+(Santa Cruz Biotechnology) was used as a positive 
+control for NOD2 detection.
+
+Statistical analysis
+
+Data are presented as mean ± standard error of 
+the mean (SEM) from, at least, three independ- 
+ent experiments. Statistical analyses were per- 
+formed with GraphPad Prism software version 
+5.0 (GraphPad Software, San Diego, CA, USA). 
+Differences were considered statistically signifi- 
+cant at P values <0.05.
+
+Results
+
+Cell surface receptor expression on HaCaT 
+cells following stimulation with IFN-γ, IL-4, 
+TNF-α, or MDP
+
+The effect of IFN-γ, IL-4, TNF-α, and MDP on the 
+phenotype of HaCaT cells was evaluated through 
+the analysis of the variations in expression of a bat- 
+tery of cell surface receptors after stimulation with 
+the above-mentioned immunomodulators at four 
+time points: 3, 24, 48, and 72 h. The employed con- 
+centrations of the immunomodulators are adopted 
+from previous, well-established, and optimized 
+protocols.27–29 The chosen panel of receptors fall 
+under three categories: adhesion, antigen presenta- 
+tion, and cytokine receptors. A representative flow 
+cytometry chart of the MFI for three receptors, 
+before and after stimulation, is shown in Figure 1. 
+In the absence of stimulation, HaCaT cells 
+expressed low to moderate levels of the two adhe- 
+sion receptors tested, CD49d and CD54 (ICAM-1). 
+Stimulation with IL-4 notably decreased the level 
+of CD49d below baseline expression, while IFN-γ,

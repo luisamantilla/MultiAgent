@@ -1,0 +1,34 @@
+SOM References
+
+1. J. Monod, A. M. Pappenheimer, Jr., G. Cohen-Bazire, Biochim Biophys Acta 9, 648 (Dec, 1952).
+2. U. Alon, An introduction to systems biology : design principles of biological circuits. Chapman & Hall/CRC mathematical and computational biology series (Chapman & Hall/CRC, Boca Raton, FL, 2007), pp. xvi, 301 p., 4 p. of plates.
+3. J. W. Jarvik, S. A. Adler, C. A. Telmer, V. Subramaniam, A. J. Lopez, Biotechniques 20, 896 (May, 1996).
+4. J. W. Jarvik, C. A. Telmer, Annu Rev Genet 32, 601 (1998).
+5. J. W. Jarvik et al., Biotechniques 33, 852 (Oct, 2002).
+6. A. Sigal et al., Nat Protoc 2, 1515 (2007).
+7. A. A. Cohen et al., Science 322, 1511 (Dec 5, 2008).
+8. X. Morin, R. Daneman, M. Zavortink, W. Chia, Proc Natl Acad Sci U S A 98, 15050 (Dec 18, 2001).
+9. P. J. Clyne, J. S. Brotman, S. T. Sweeney, G. Davis, Genetics 165, 1433 (Nov, 2003).
+10. W. K. Huh et al., Nature 425, 686 (Oct 16, 2003).
+11. A. Sigal et al., Nat Methods 3, 525 (Jul, 2006).
+12. D. Axelrod, D. E. Koppel, J. Schlessinger, E. Elson, W. W. Webb, Biophys J 16, 1055 (Sep, 1976).
+13. J. Lippincott-Schwartz, N. Altan-Bonnet, G. H. Patterson, Nat Cell Biol Suppl, S7 (Sep, 2003).
+14. R. Ando, H. Hama, M. Yamamoto-Hino, H. Mizuno, A. Miyawaki, Proc Natl Acad Sci U S A 99, 12651 (Oct 1, 2002).
+15. G. H. Patterson, J. Lippincott-Schwartz, Science 297, 1873 (Sep 13, 2002).
+16. M. Buszczak et al., Genetics 175, 1505 (Mar, 2007).
+17. E. Eden, D. Lipson, S. Yogev, Z. Yakhini, PLoS Comput Biol 3, e39 (Mar 23, 2007).
+18. E. Eden, R. Navon, I. Steinfeld, D. Lipson, Z. Yakhini, BMC Bioinformatics 10, 48 (2009).
+19. A. Tzur, R. Kafri, V. S. LeBleu, G. Lahav, M. W. Kirschner, Science 325, 167 (Jul 10, 2009).
+20. R. Y. Hampton, A. Koning, R. Wright, J. Rine, Proc Natl Acad Sci U S A 93, 828 (Jan 23, 1996).
+21. X. Li et al., J Biol Chem 274, 21244 (Jul 23, 1999).
+22. L. Zhang et al., Biotechniques 42, 446 (Apr, 2007).
+23. S. Bellanger, C. Demeret, S. Goyat, F. Thierry, J Virol 75, 7244 (Aug, 2001).
+24. S. Ghaemmaghami et al., Nature 425, 737 (Oct 16, 2003).
+25. A. Belle, A. Tanay, L. Bitincka, R. Shamir, E. K. O'Shea, Proc Natl Acad Sci U S A 103, 13004 (Aug 29, 2006).
+26. A. Ciechanover, A. L. Schwartz, Trends Biochem Sci 14, 483 (Dec, 1989).
+27. A. Varshavsky, Genes Cells 2, 13 (Jan, 1997).
+28. J. A. Megerle, G. Fritz, U. Gerland, K. Jung, J. O. Radler, Biophys J 95, 2103 (Aug, 2008).
+29. R. Y. Tsien, Annu Rev Biochem 67, 509 (1998).
+30. T. Nagai et al., Nat Biotechnol 20, 87 (Jan, 2002).
+
+27

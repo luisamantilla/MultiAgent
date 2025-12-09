@@ -1,0 +1,49 @@
+```plaintext
+33. Kurts, C., Miller, J.F., Subramanian, R.M., Carbone, F.R. & Heath, W.R. Major 
+histocompatibility complex class I-restricted cross-presentation is biased towards 
+high dose antigens and those released during cellular destruction. J. Exp. Med. 188, 
+409–414 (1998). 
+34. Shi, Y. & Rock, K.L. Cell death releases endogenous adjuvants that selectively enhance 
+immune surveillance of particulate antigens. Eur. J. Immunol. 32, 155–162 
+(2002). 
+35. Tabeta, K. et al. The Unc93B1 mutation 3d disrupts exogenous antigen presentation 
+and signaling via Toll-like receptors 3, 7 and 9. Nat. Immunol. 7, 156–164 
+(2006). 
+36. Janssen, E. et al. Efficient T cell activation via a Toll-Interleukin 1 Receptor-independent 
+pathway. Immunity 24, 787–799 (2006). 
+37. Shi, Y., Evans, J.E. & Rock, K.L. Molecular identification of a danger signal that alerts 
+the immune system to dying cells. Nature 425, 516–521 (2003). 
+38. Inaba, K. et al. Extracellular ATP induces a distinct maturation of dendritic cells and 
+potentiates their capacity to initiate Th1 responses. J. Immunol. 166, 1611–1617 
+(2001). 
+39. Marshak-Rothstein, A. Toll-like receptors in systemic autoimmune disease. Nat. Rev. 
+Immunol. 6, 823–835 (2006). 
+40. Bauer, A.K. et al. Toll-like receptor 4 in butylated hydroxytoluene-induced mouse 
+pulmonary inflammation and tumorigenesis. J. Natl. Cancer Inst. 97, 1778–1781 
+(2005). 
+
+41. Gardella, S. et al. The nuclear protein HMGB1 is secreted by monocytes via a 
+non-classical, vesicle-mediated secretory pathway. EMBO Rep. 3, 995–1001 
+(2002). 
+42. Messmer, D. et al. High mobility group box protein 1: an endogenous signal for 
+dendritic cell maturation and Th1 polarization. J. Immunol. 173, 307–313 (2004). 
+43. Dumitriu, I.E., Bianchi, M.E., Bacci, M., Manfredi, A.A. & Rovere-Querini, P. The 
+secretion of HMGB1 is required for the migration of maturing dendritic cells. 
+J. Leukoc. Biol. 81, 84–91 (2007). 
+44. Hoshino, K. et al. Cutting edge: Toll-like receptor 4 (TLR4)-deficient mice are 
+hyporesponsive to lipopolysaccharide: evidence for TLR4 as the Lps gene product. 
+J. Immunol. 162, 3749–3752 (1999). 
+45. Granda, T.G. et al. Circadian optimization of irinotecan and oxaliplatin efficacy in mice 
+with Glasgow osteosarcoma. Br. J. Cancer 86, 999–1005 (2002). 
+46. Lutz, M.B. et al. An advanced culture method for generating large quantities of highly 
+pure dendritic cells from mouse bone marrow. J. Immunol. Methods 223, 77–92 
+(1999). 
+47. Daggard, A., Yewdell, J.W., Deng, Y., Bennink, J.R. & Germain, R.N. Localization, 
+quantitation, and in situ detection of specific peptide-MHC class I complexes using a 
+monoclonal antibody. Immunity 6, 715–726 (1997). 
+48. Santini, B.B., Rosti, M., Frank, A., Bruyns, I.W. & Woorbij, H.A. Single step high- 
+throughput determination of Toll-like receptor 4 polymorphisms. J. Immunol. Methods 
+289, 81–87 (2004). 
+
+NATURE MEDICINE VOLUME 13 | NUMBER 9 | SEPTEMBER 2007 1059
+```

@@ -1,0 +1,139 @@
+```plaintext
+genic functions attributed to this subtype in rodents.8 Also, due to a 
+chasm between murine and human DC research that is only now 
+being bridged, there has never been a good answer. Here, an 
+inadequately brief summary of human DC subtype findings and 
+recent developments is presented. 
+As mentioned earlier, CD8+ DCs are barely detectable in the blood 
+of a steady-state mouse and are instead found in the T-cell areas of 
+lymphoid organs. As researchers of human DCs have generally focused 
+on blood DCs or blood precursor derived (with GM-CSF) DCs, it is 
+perhaps no surprise that they have not yet been ‘discovered’ in our 
+species. Moreover, as described earlier, GM-CSF-derived DCs are not 
+the best model for dissection of the CD8+ DC equivalent. 
+Some early potential clues for a human CD8+ DC equivalent can be 
+found when combining the description of (1) DC heterogeneity in 
+human spleen,243 (2) an interdigitating DC (not an LC) in the 
+T-cell areas of tonsillar tissue that was CD1c+ MHCII+ DRC-1– 
+(R4/23–) and CD1a– (Langerin–)244 and (3) an IL-12 p70-producing 
+CD11b+CD45RO thymic DC subtype.245 Hart and colleagues also 
+thoroughly investigated human DCs and identified several 
+subtypes,246 including a CD13hiCD45ROhi population that shares 
+some characteristics with mouse CD8+ DCs247 and BDCA3+ DCs 
+(see below). 
+More recently, the new BDCA (blood DC antigen) markers (1–4) 
+from Miltenyi248 have facilitated a clearer dissection of human DCs, 
+and identified a rare BDCA3-expressing cell in blood that was not a 
+pDC, LC or myeloid DC128,246–248 at that stage, no further subdissec- 
+tion as to its function was explored. Two more recent publications, 
+one from the group of Haniffa et al.249 and the other from 
+Schreibelt et al.,250 have identified a BDCA3+ DC subset in human 
+blood and skin, respectively. The latter study demonstrated that 
+BDCA3+ DCs were superior at cross-presentation of soluble antigen 
+compared with other DC subsets. In a similar vein, Poulin et al.251 
+at the University of Nantes, in collaboration with the group of 
+Haniffa et al.,249 have recently published a comprehensive study of 
+human DC subsets, identifying a BDCA3+ DC subset in blood, 
+dermis and lung that was distinct from pDCs and CD1c+ DCs. 
+Furthermore, they demonstrated that BDCA3+ DCs were superior 
+at cross-presentation of soluble antigen compared with other DC 
+subsets. 
+In a similar study, scientists at Amgen further characterized the 
+BDCA3+ DC subtype that expanded in patients injected with FL, a 
+treatment known to expand DCs in humans and especially CD8+ DCs 
+in mice.21,249 Using phage display and the ‘immune synix’ 
+(acknowledgements in Collin et al.242), they identified a rare reactive 
+peptide that recognized the antigen nectin-like protein 2 (or Necl2) 
+not only on BDCA3+ human DCs, but more importantly also on 
+CD8+ mouse spleen DCs. Like murine CD8+ DCs,250 they were also 
+CD11c+MHCII+CD2+CD31+CD36–Robbins et al. (CD141hiCD11b–HLA- 
+DRlo) and in the T-cell areas of spleen. 
+Another landmark study from Robbins et al.211 went further and 
+compared gene expression profiles with and between mouse and 
+human DC subtypes using microarrays, and found some striking 
+patterns and close matches. Although unexpected, they nicely 
+demonstrated correlations between mouse versus human pDCs, and 
+mouse versus human GM-CSF-derived DCs.211 They also demon- 
+strated a hierarchical relationship within the species’ DC subtypes; for 
+example, murine CD8+ and CD8– DC subtypes were most related, 
+followed by their relationship to pDC. The relationship of these DC 
+subtypes, however, was relatively distant from the interrelated myeloid 
+lineages including monocytes, monocyte-derived DCs (with GM- 
+CSF), macrophages and granulocytes. This fits nicely with our findings 
+of late-branching between the DC subtypes, their proximity within the 
+pDC pathway, but their distinction from the myeloid pathway (see 
+above and references7,9,59,174,210). Another exciting observation was 
+that BDCA3+ human DCs and CD8+ mouse DCs showed a ‘partial 
+functional equivalence’. Many genes that were common had not yet 
+been ascribed a function. The exceptions were TLR3, also identified as 
+unique within BDCA3+ DC and CD8+ cDC-specific in prior stu- 
+dies,23251 and Necl2, as described above. Undoubtedly, any future 
+study that potentially correlates the unique functional attributes of 
+
+CD8+ DCs in the mouse to the BDCA3+ DCs in human will be a 
+seminal publication. 
+
+WHERE TO NOW? 
+Like always, there are many unanswered questions, and novel tech- 
+nologies may help to address some of these. Currently, lineage 
+determination in vivo involves the transfer of a cell population. 
+Although single cell in vivo assays are possible but difficult, they, or 
+a cell-tracing technology to mimic this, are ultimately required to 
+create meaningful maps of developmental pathways. Also of impor- 
+tance will be the ability to selectively deplete individual subtypes in 
+vivo. Whether through a diphtheria toxin-based system,252 or other 
+methods, such tools could dissect the importance of the subtypes in 
+various immune reactions, including the generation of Th1, Th2, 
+Th17 and Treg generation, in the clearance of various pathogens and 
+cancer, in their contribution to autoimmune pathology and other 
+physiological homeostases. In terms of understanding DC develop- 
+ment from precursors, the pathways still under debate will, of course, 
+need to be clarified. However, we must eventually move away from 
+protocols that involve extracting, sorting and injecting precursors 
+intravenously, and explore other models where the real contributions 
+of progenitors in an unperturbed in vivo situation are at work. 
+Although the picture emerging for the precise pathways in steady- 
+state hematopoiesis are becoming clearer, the changes in emergency 
+hematopoiesis and DC development that occur upon infection/ 
+inflammation is still in its infancy253–255 but will be important to 
+understand. The role of microenvironments and in vivo niches that dictate 
+differentiation and function of DCs, and the molecules that instruct 
+these processes, are also largely unknown. Whether these are 
+cytokines, secreted hormones or the like, our accrued understanding 
+of the field of immunology hopefully will also lead to novel 
+therapeutic options, which are already well under way. 
+
+ACKNOWLEDGEMENTS 
+I am indebted to the Shortman, Wu and Villadangos labs of the Walter and 
+Eliza Hall Institute (WEHI) for my DC training. Also many thanks to Meredith 
+O’Keeffe, Hubertus Hochrein and Dalia Rottschafer for useful discussions and 
+critique in preparation of this paper. This does not imply that these colleagues 
+necessarily concur with all statements in this review. Support by Marie Curie 
+Fellowship funded by the FP6 program of the European Union is also 
+acknowledged. 
+
+REFERENCES 
+1 Van Epps HL. Discerning lymphocyte subsets. J Exp Med 2005; 201: 5. 
+2 Miller JF, Mitchell GF. Cell to cell interaction in the immune response. I. Hemolysin- 
+forming cells in neonatally thymectomized mice reconstituted with thymus or thoracic 
+duct lymphocytes. J Exp Med 1968; 128: 801–820. 
+3 Mitchell GF, Miller JF. Cell to cell interaction in the immune response. II. The source of 
+hemolysin-forming cells in irradiated mice given bone marrow and thymus or thoracic 
+duct lymphocytes. J Exp Med 1968; 128: 821–837. 
+4 Crowley M, Inaba K, Witmer-Pack M, Steinman RM. The cell surface of mouse 
+dendritic cells: FACS analysis of dendritic cells from different tissues including 
+thymus. Cell Immunol 1989; 118: 108–125. 
+5 Vremec D, Pooley J, Hochrein H, Wu L, Shortman K. CD4 and CD8 expression 
+by dendritic cell subtypes in mouse thymus and spleen. J Immunol 2000; 164: 
+2978–2986. 
+6 Vremec D, Zorbas M, Scollay R, Saunders DJ, Ardavin C, Wu L et al. The surface 
+phenotype of dendritic cells purified from mouse thymus and spleen: investigation 
+of the CD8 expression by a subpopulation of dendritic cells. J Exp Med 1992; 176: 
+47–58. 
+7 Shortman K, Naik SH. Steady-state and inflammatory dendritic-cell development. Nat 
+Rev Immunol 2007; 7: 19–30. 
+8 Villadangos JA, Schnorrer P. Intrinsic and cooperative antigen-presenting functions of 
+dendritic-cell subsets in vivo. Nat Rev Immunol 2007; 7: 543–555. 
+
+Immunology and Cell Biology
+```

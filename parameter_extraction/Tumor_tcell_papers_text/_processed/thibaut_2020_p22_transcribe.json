@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "```\nARTICLES                                                                                      NATURE CANCER\n\na\n\nSTAT1-GFP-expressing\nOVA+ Eμ-myc B lymphoma cells\n\n± GFP-expressing\nactivated OT-I T cells\n\n3 weeks\n\nintravital\nimaging\n\nb\n\nc\n\nd\n\nTranslocation score\n\n1.0\n\n0.5\n\n0\n\n-0.5\n\nno T cell\n\n+OT-I T cells\n\n***\n\ne\n\nEμ-myc tumors\n\nSTAT1-GFP\nnuclear mCherry\n\nOVA+ mCFP\n\n+/-\n\nGFP-expressing\nactivated OT-I T cells\n\n2 weeks\n\nIntravital\nimaging\n\nf\n\ng\n\nh\n\nTranslocation score\n\n1.0\n\n0.5\n\n0\n\n-0.5\n\nSTAT1-GFP\ntumors\n\nSTAT1-GFP\ntumors\n\nOVA+ mCFP\ntumors\n\n**\n\nOT-I T cells\n\nOT-I T cells\n\nExtended Data Fig. 7 | See next page for caption.\n\nNATURE CANCER | www.nature.com/natcancer\n```",
+  "model": "gpt-4o",
+  "page": 22,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 13.53,
+  "filename": "thibaut_2020.pdf",
+  "doc_id": "thibaut_2020"
+}

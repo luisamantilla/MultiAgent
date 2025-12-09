@@ -1,0 +1,38 @@
+```plaintext
+Bouchutina et al. BMC Immunology 2017, 18(Suppl 1):29                                                                                      Page 18 of 65
+
+![Graphs showing the numbers of CD4+ and CD8+ T cells over time.](image)
+
+Fig. 5 The numbers of CD4+ and CD8+ T cells in time in the case of equal diffusion coefficients (left panel) and for the diffusion coefficient of IFN 10 times larger than the diffusion coefficient of IL-2 (right panel)
+
+virus infection is not cleared, the cell populations fluc-       in particular the effector T cells in the peripheral organs
+tuate around some constant values. Overall, the model            (by ∼ 10%) and a rise in the infection level (by ∼ 20%).
+reproduces the qualitative patterns of long-term persis-         The changes in the clonal T cell expansion are the con-
+tent infection (experimental infections and in humans)           sequence of the differences in the cytokine concentration
+dynamics (e.g., [34–38]). The primary clonal expansion           fields, which in turn alter the timing and the sequence of
+takes about seven days and is followed by an enhanced            the IL-2 and type I IFN signalling.
+long-term T cell response to the persistent infection.           The types and the relative densities of immune cells
+The increase in the spread of type I IFN changes the             considered in the model essentially correspond to the
+relative distributions pattern of IL-2 and IFN, so that          clonal, APC-induced expansion of T cells activated by
+the resulting alteration in the cytokine signalling reduces      virus infections (see, e.g., [39]). The motility of T cells in
+the clonal expansion and increases the overall level of          the lymph node is determined by their random motion
+the virus infection.                                             and mechanical cell-cell interactions [40]. The spatial dis-
+                                                                 tribution of cytokines considered in the model (IL-2 and
+The cumulative numbers of CD4+ and CD8+ T cells                  type I IFN), though it requires more detailed investiga-
+and virus infection load. As single simulation runs of           tion, corresponds to the actual understanding of the role
+the stochastic model are characterized by a fluctuating          of these cytokines. In order to reveal their impact on cell
+and overlapping dynamics, we quantified integrative char-        distribution, we show in Fig. 8 the spatial cell distribu-
+acteristics of the model behavior. To describe the effect        tions and the concentrations of cytokines separately. We
+of the diffusion coefficient \(D_{IFN}\) on the T-cells produc-  can clearly see the role of the cytokine diffusivity on their
+tion, we compared the cumulative numbers of CD4+ and             distributions and on the cell distributions.
+CD8+ T cells as well as the infection load over the over-
+all time of the simulation for the two scenarios. We also        Discussion
+show the cumulative numbers of effector T-cells in the           The activation of T cell division and death is regulated
+body \(N_{ef}\). The results are shown in Table 2.               by a set of signals coming from the interactions of TCRs
+The net effect of the increase in the diffusion rate of type     with the MHC class I and II presented peptides, IFN and
+I IFN is a reduction in the clonal expansion of the T cells,     IL-2 receptors. However, the effect of type I interferon
+
+![Graphs showing the numbers of APC cells and effector T cells over time.](image)
+
+Fig. 6 The numbers of APC cells (left panel) and effector T cells (right panel) in time in the case of equal diffusion coefficients (black curve) and for the diffusion coefficient of IFN 10 times larger than the diffusion coefficient of IL-2 (grey curve)
+```

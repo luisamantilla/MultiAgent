@@ -1,0 +1,11 @@
+{
+  "success": true,
+  "content": "```markdown\n1.12 Derivation of reduced dilution model\n\nIn this section we derive Eq. 5 in Fig. 3C, that captures the expected change in \nhalf-life, \\( T_{1/2}^* \\), as a function of the half-life prior to the change, \\( T_{1/2} \\), the cell cycle \nduration, \\( T_{CC} \\), and the fold change in growth rate, \\( k \\). By applying Eq. 1-3 in Box S1, it \nfollows that:\n\n\\[\n\\text{Eq. (11)} \\quad T_{1/2} = \\frac{\\ln(2)}{\\alpha_{\\text{deg}} + \\alpha_{\\text{dil}}} ,\n\\]\n\n\\[\n\\text{Eq. (12)} \\quad T_{1/2}^* = \\frac{\\ln(2)}{\\alpha_{\\text{deg}} + k \\cdot \\alpha_{\\text{dil}}} ,\n\\]\n\n\\[\n\\text{Eq. (13)} \\quad T_{CC} = \\frac{\\ln(2)}{\\alpha_{\\text{dil}}} .\n\\]\n\nSubstituting Eq. 11 and 13 into Eq. 12 yields:\n\n\\[\nT_{1/2}^* = \\frac{\\ln(2)}{\\alpha_{\\text{deg}} + \\alpha_{\\text{dil}} + (k - 1) \\cdot \\alpha_{\\text{dil}}} = \\frac{\\ln(2)}{\\frac{\\ln(2)}{T_{1/2}} + (k - 1) \\frac{\\ln(2)}{T_{CC}}} ,\n\\]\n\nand hence we derive Eq. 5 in Fig. 3C:\n\n\\[\nT_{1/2}^* = \\frac{T_{1/2}}{1 + (k - 1) \\frac{T_{1/2}}{T_{CC}}}\n\\]\n\n1.13 Translation inhibition protocol for measuring protein half-lives\n\nWe sought to compare our bleach-chase and pulse-chase half-life measurements \nto translation inhibition based measurements (for details see Section 5.2 in the \nSupporting text). This section describes the experimental protocol of the latter. \nCyclohexamide (CHX, C4859 – Ready-made solution, 100mg/ml in DMSO, Sigma) was \ndiluted in transparent growth medium to 10μM. Normal transparent growth medium \n(2ml, without CHX) was replaced by the 2ml diluted CHX under the microscope after at \nleast one round without the CHX. The dynamic profiles of the proteins were then \nmeasured for 20 hours (20 minutes resolution) using time-lapse microscopy as \ndescribed in previous sections.\n\nMeasurements were done on 11 proteins (DDX5, CKS2, ENO1, JAGN1, DNCH1, \nRPS3, LMNA, MAP2K2, NCBP2, PSMB4 and RPL22) with at least two replicates. Assuming\n```",
+  "model": "gpt-4o",
+  "page": 9,
+  "note": "Mode: transcribe (all pages)",
+  "mode": "transcribe",
+  "processing_time_sec": 28.41,
+  "filename": "eden_2011.pdf",
+  "doc_id": "eden_2011"
+}

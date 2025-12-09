@@ -1,0 +1,165 @@
+```plaintext
+ARTICLES                                                                                      NATURE CANCER
+
+did not know the timepoints corresponding to the data. Tumor analysis by flow 
+cytometry was blinded with the person performing the analysis not knowing the 
+treatments given.
+
+Reporting summary. Further information on research design is available in the 
+Nature Research Reporting Summary linked to this article.
+
+Data availability
+Statistical source data for all figures and extended data figures including all 
+independent repeats are provided online. 
+All other data during the study are included in this study are available from the 
+corresponding author upon reasonable request.
+
+Online content
+Any methods, additional references, Nature Research reporting summaries, 
+source data, extended data, supplementary information, acknowledgements, peer 
+review information; details of author contributions and competing interests; and 
+statements of data and code availability are available at https://doi.org/10.1038/ 
+s43018-020-0036-4.
+
+Received: 28 May 2019; Accepted: 28 January 2020; 
+Published online: 09 March 2020
+
+References
+1. Durgeau, A., Virk, Y., Corgnac, S. & Mami-Chouaib, F. Recent advances in 
+   targeting CD8+ T-cell immunity for more effective cancer immunotherapy. 
+   Front. Immunol. 9, 14 (2018).
+2. Hadrup, S., Donia, M. & Thor Straten, P. Effector CD4 and CD8 T cells 
+   and their role in the tumor microenvironment. Cancer Microenviron. 6, 
+   123–133 (2013).
+3. Galon, J. et al. Type, density, and location of immune cells within human 
+   colorectal tumors predict clinical outcome. Science 313, 1960–1964 (2006).
+4. Blakas, A. & Wolchok, J. D. Cancer immunotherapy using checkpoint 
+   blockade. Science 359, 1351–1358 (2018).
+5. Ribas, A. & Wolchok, J. D. Cancer immunotherapy using checkpoint 
+   blockade. Science 359, 1351–1358 (2018).
+6. Sharma, P. & Allison, J. P. The future of immune checkpoint therapy. 
+   Science 348, 56–61 (2015).
+7. Rosenberg, S. A. et al. Durable complete responses in heavily pretreated 
+   patients with metastatic melanoma using T-cell transfer immunotherapy. 
+   Clin. Cancer Res. 17, 4550–4557 (2011).
+8. Yang, J. C. & Rosenberg, S. A. Adoptive T-cell therapy for cancer. Adv. 
+   Immunol. 130, 279–294 (2016).
+9. Borch, W. W. van den Berg, J. H., Kvistborg, P. & Haanen, J. Adoptive 
+   transfer of tumor-infiltrating lymphocytes in melanoma: a viable treatment 
+   option. J. Immunother. Cancer 6, 102 (2018).
+10. Spiotto, M. T., Yu, P. & Rowley, D. A. Bystander elimination of antigen loss 
+    variants in established tumors. Nat. Med. 10, 294–299 (2004).
+11. Spiotto, M. T. & Schreiber, H. Rapid destruction of the tumor 
+    microenvironment by CTLs recognizing cancer-specific antigens cross-
+    presented by stromal cells. Cancer Immun. 5, 8 (2005).
+12. Zhang, B. et al. Induced sensitization of tumor stroma leads to eradication of 
+    established cancer by T cells. J. Exp. Med. 204, 49–55 (2007).
+13. Bhutia, A. & Kumar, Y. Cellular and molecular mechanisms in cancer 
+    immune escape: a comprehensive review. Exp. Mol. Immunol. 10, 
+    41–60 (2012).
+14. Muller, I. A. et al. CD4+ T cells rely on cytokine gradient to control 
+    intracellular pathogens beyond sites of antigen presentation. Immunity 37, 
+    137–147 (2012).
+15. Perona Wright, G., Mohrs, K. & Mohrs, M. Sustained signaling by canonical 
+    helper-T cell cytokines through the reactive lymph node. Nat. Immunol. 
+    11, 520–526 (2010).
+16. Barcia, C. et al. In vivo polarization of IFN-gamma at Kupffer and non-Kupffer 
+    sinusoidal synapses during the clearance of virally infected brain cells. 
+    J. Immunol. 180, 1344–1352 (2008).
+17. Anderson, N. S. et al. CD4+ cytotoxic lymphocytes do not restrict the 
+    growth of B16-F10 melanoma tumors in mice. Cancer Immunol. Res. 
+    309, 785–7840 (2012).
+18. Schreiber, R. D. Targeting of cancer immunotherapy to the tumor 
+    microenvironment. Nature 482, 405–409 (2012).
+19. Gajewski, T. F. et al. Cancer immunotherapy strategies based on 
+    overcoming barriers within the tumor microenvironment. Curr. Opin. 
+    Immunol. 25, 268–276 (2013).
+20. Kershaw, M. H. et al. Gene-engineered T cells as cancer therapy. Nat. Rev. 
+    Immunol. 12, 383–393 (2012).
+21. Kershaw, M. H. et al. Gene-engineered T cells as cancer therapy. Nat. Rev. 
+    Immunol. 12, 383–393 (2012).
+22. Zaretsky, J. M. et al. Mutations associated with acquired resistance to PD-1 
+    blockade in melanoma. N. Engl. J. Med. 375, 819–829 (2016).
+23. Sucker, A. et al. Acquired IFNgamma resistance impairs anti-tumor immunity 
+    and gives rise to T-cell-resistant melanoma lesions. Nat. Commun. 8, 
+    15440 (2017).
+24. Gao, J. et al. Loss of IFN-gamma pathway genes in tumor cells as a 
+    mechanism of resistance to anti-CTLA-4 therapy. Cell 167, 
+    397–404 e399 (2016).
+25. Shin, D. S. et al. Primary resistance to PD-1 blockade mediated by JAK1/2 
+    mutations. Cancer Discov. 7, 188–201 (2017).
+26. Briesemeister, D. et al. Tumor rejection by local interferon gamma induction 
+    in established tumors is associated with blood vessel destruction and necrosis. 
+    Int. J. Cancer 128, 371–378 (2011).
+27. Spiotto, M. T., Rowley, D. A. & Schreiber, H. Bystander elimination of antigen 
+    loss variants in established tumors. Nat. Med. 10, 294–299 (2004).
+28. Spiotto, M. T. & Schreiber, H. Rapid destruction of the tumor 
+    microenvironment by CTLs recognizing cancer-specific antigens cross-
+    presented by stromal cells. Cancer Immun. 5, 8 (2005).
+29. Zhang, B. et al. Induced sensitization of tumor stroma leads to eradication of 
+    established cancer by T cells. J. Exp. Med. 204, 49–55 (2007).
+30. Bhutia, A. & Kumar, Y. Cellular and molecular mechanisms in cancer 
+    immune escape: a comprehensive review. Exp. Mol. Immunol. 10, 
+    41–60 (2012).
+31. Muller, I. A. et al. CD4+ T cells rely on cytokine gradient to control 
+    intracellular pathogens beyond sites of antigen presentation. Immunity 37, 
+    137–147 (2012).
+32. Perona Wright, G., Mohrs, K. & Mohrs, M. Sustained signaling by canonical 
+    helper-T cell cytokines through the reactive lymph node. Nat. Immunol. 
+    11, 520–526 (2010).
+33. Barcia, C. et al. In vivo polarization of IFN-gamma at Kupffer and non-Kupffer 
+    sinusoidal synapses during the clearance of virally infected brain cells. 
+    J. Immunol. 180, 1344–1352 (2008).
+34. Anderson, N. S. et al. CD4+ cytotoxic lymphocytes do not restrict the 
+    growth of B16-F10 melanoma tumors in mice. Cancer Immunol. Res. 
+    309, 785–7840 (2012).
+35. Schreiber, R. D. Targeting of cancer immunotherapy to the tumor 
+    microenvironment. Nature 482, 405–409 (2012).
+36. Gajewski, T. F. et al. Cancer immunotherapy strategies based on 
+    overcoming barriers within the tumor microenvironment. Curr. Opin. 
+    Immunol. 25, 268–276 (2013).
+37. Kershaw, M. H. et al. Gene-engineered T cells as cancer therapy. Nat. Rev. 
+    Immunol. 12, 383–393 (2012).
+38. Kershaw, M. H. et al. Gene-engineered T cells as cancer therapy. Nat. Rev. 
+    Immunol. 12, 383–393 (2012).
+39. Wang, W. et al. CD8+ T cells regulate tumor ferroptosis during cancer 
+    immunotherapy. Nature 569, 270–274 (2019).
+40. Boukoune, J., Rivan, R. & Norseth, C. A. Vascularization in 
+    tissue engineering. Trends Biotechnol. 33, 434–441 (2015).
+41. Benci, J. et al. Tumor interferon signaling regulates a multigenic 
+    resistance program to immune checkpoint blockade. Cell 178, 
+    1504–1512 e1512 (2016).
+42. Pai, C. S. et al. Clonal deletion of tumor-specific T cells by interferon-gamma-
+    dependent, tumor-specific resistance to combination checkpoint blockade. 
+    Cancer Cell 37, 422–429 (2019).
+43. Benci, J. et al. Opposing functions of interferon coordinate adaptive and 
+    innate immune responses to immune checkpoint blockade. Cell 178, 
+    933–948 e914 (2019).
+44. Workel, H. H. et al. A transcriptionally distinct CXCL13+CD103+CD8+ T-cell 
+    population is associated with B-cell recruitment and reengagement in head 
+    and neck cancer. Cancer Immunol. Res. 7, 784–796 (2019).
+45. Tohmann, D. S. et al. A transcriptionally and functionally distinct PD-1+ 
+    CD8+ T cell pool with predictive potential in non-small-cell lung cancer 
+    treated with PD-1 blockade. Nat. Med. 24, 994–1004 (2018).
+46. Farhood, B., Najafi, M. & Mortezaee, K. CD8+ cytotoxic T lymphocytes in 
+    cancer immunotherapy: a review. J. Cell. Physiol. 234, 8509–8521 (2019).
+47. Nagarsheth, N., Wicha, M. S. & Zou, W. Chemokines in the cancer 
+    microenvironment and their relevance in cancer immunotherapy. Nat. Rev. 
+    Immunol. 17, 559–572 (2017).
+48. Plantana, L. C. Mechanisms of type-I and type-II-interferon-mediated 
+    signalling. Nat. Rev. Immunol. 5, 375–386 (2005).
+49. Rosanov, N. et al. Tumor escape mechanisms in antigen-specific T-cell 
+    therapy in a platinum-responsive melanoma. J. Clin. Oncol. 31, 
+    e439–e442 (2013).
+50. Insmirma, A. et al. Selecting highly affine and well-expressed TCRs for gene 
+    therapy of melanoma. Blood 110, 3564–3572 (2007).
+51. Insmirma, C. et al. High-throughput identification of antigen-specific TCRs 
+    by TCR gene capture. Nat. Med. 19, 1534–1541 (2013).
+
+Acknowledgements
+We thank E. Berling, M. Hertz, P. van den Broek, L. Fanchi, R. Mazzola, D. Peters, 
+A. Brooks and the staff at the NKI Animal facility, Flow Cytometry facility, Bioimaging 
+facility and Molecular Pathology & Biobanking facility for technical support and input.
+
+NATURE CANCER | www.nature.com/natcancer
+```

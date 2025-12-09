@@ -1,0 +1,111 @@
+To make certain whether HMGB1-induced maturation of 
+DCs was reflected at the functional level, rhHMGB1-treated 
+DCs were analyzed for their capacity to stimulate the prolifera-
+tion of T cells in an allogeneic, MLR setting using sham-
+treated DCs as a control (Fig. 6). At the DC:T ratio tested, 
+sham-treated DCs did not stimulate the proliferation of alloge-
+neic T cells, as judged by no significant increase in 3H-TdR 
+incorporation. DCs treated with rhHMGB1, however, began to 
+stimulate the proliferation of allogeneic T cells when used at a 
+DC:T ratio higher than 1:6250, suggesting that HMGB1-treated 
+DCs exhibited a remarkably enhanced capacity for presenting 
+antigen to T cells for the stimulation of cell proliferation and 
+activation. Thus, HMGB1 treatment results in full activation of 
+DCs, which not only acquire a mature phenotype (Fig. 5) but 
+also become capable of antigen presentation and T cell stimu-
+lation (Fig. 6).
+
+DISCUSSION
+
+One of the major observations in this study is the identification 
+of HMGB1 as a chemoattractant selective for iDCs but not 
+mDCs. This is based on the bell-shaped, dose-response curve 
+of HMGB1-induced migration of iDCs (Fig. 2) and selective 
+inhibition of HMGB1-induced iDC migration by addition of an 
+identical concentration of HMGB1 into the upper wells of the 
+chemotaxis assay (Fig. 3). Previously, Bianchi’s group [20, 21] 
+has shown that HMGB1 is chemotactic for smooth muscle 
+cells, monocytes, and neutrophils but not for lymphocytes 
+[20, 21]. Our data showing that HMGB1-induced migration of 
+iDCs was also inhibited by PTX and anti-RAGE antibody (Fig. 
+4) indicate that HMGB1 induced iDC migration is also 
+mediated by RAGE in a Gi protein-dependent manner. The 
+failure of mDCs to migrate in response to HMGB1 can be the 
+consequence of several reasons. One possibility is the down-
+regulation of the receptor(s) that mediates the chemotactic 
+effect of HMGB1, as DCs matured by LPS, in comparison with 
+iDCs, exhibited a decrease in RAGE expression on the surface 
+(Fig. 4C).
+
+Another major observation of this study is that rhHMGB1 has 
+the capacity to stimulate the activation of Mo-DCs. Activated 
+(or fully matured) DCs, in comparison with iDCs, demonstrate 
+a mature phenotype and the capacity to stimulate the prolifera-
+tion and activation of T cells [25, 37]. rhHMGB1 was shown 
+previously to stimulate the maturation of DCs [23]. The data 
+showing that DCs, upon treatment with rhHMGB1, up-regulate 
+the expression of costimulatory molecules (CD80 and CD86), 
+HLA-A,B,C, and the maturation marker CD83 enhance the 
+production of proinflammatory cytokines including IL-12 and a 
+shift from CCL5-responsive to CCL21-responsive and acquire 
+the capacity to stimulate the proliferation of T cells, indicating 
+that rhHMGB1 is also capable of stimulating the maturation of 
+activation of DCs (Figs. 5 and 6).
+
+How are the dual DC-attracting and -activating effects of 
+HMGB1 mediated? As HMGB1 induction of neurite outgrowth 
+[17, 18], monocyte movement [19], the migration of smooth 
+muscle cells [20, 21], and DCs (Fig. 4) can be inhibited by 
+blockade of RAGE, RAGE appears to be the major receptor 
+mediating the effect of HMGB1 on the migration of various 
+cells including DCs. However, HMGB1-induced migration of 
+DCs (Fig. 4) and smooth muscle cells [20] can be inhibited by 
+PTX, suggesting a Gi protein is also involved in HMGB1-
+induced signaling. As Gi proteins are known to mediate 
+migration, the involvement of Gi protein in HMGB1 signaling 
+cannot be ruled out that HMGB1 may elicit migration by 
+interacting with an unidentified Gi protein-coupled seven-
+transmembrane domain receptor, while its binding to RAGE 
+helps presenting HMGB1 to its receptor.
+
+In addition to stimulating DC activation (the present study 
+and refs. [10, 14, 22, 23]), HMGB1 activates macrophage and 
+neutrophils [8, 38–40]. The capacity of HMGB1 to activate 
+macrophages and to mediate septic shock can be suppressed 
+by blockade of RAGE [39, 41, 42], suggesting that RAGE also 
+participate in the cell-activating effect of HMGB1. Neverthe-
+less, the suppression of HMGB1-induced macrophage activa-
+tion by anti-RAGE antibodies is often incomplete. Other recep-
+tor(s), such as TLR2 and TLR4, are also suggested to 
+mediate HMGB1-induced macrophage activation and intracel-
+lular signaling [38]. Most recently, using fluorescence reso-
+nance energy transfer, coimmunoprecipitation, and human em-
+bryonic kidney (HEK)293 cells transfected to express TLR2, 
+TLR4, or RAGE, Park et al. [43] have shown physical inter-
+action between HMGB1 and TLR2 and -4 (but not RAGE) on 
+the cell membrane of macrophages and transfected HEK293 
+cells. Moreover, they have also demonstrated the dependence 
+of HMGB1-induced NF-κB activation in transfected HEK293 
+cells on TLR2 and -4 rather than RAGE [43]. Thus, the 
+basis for HMGB1-induced activation of cells including DCs 
+may involve the use of multiple receptors, including RAGE 
+and TLRs.
+
+Many endogenous mediators such as defensins, cathelici-
+dins, eosinophil-associated RNases, granulysin, and certain 
+
+\begin{figure}[h]
+\centering
+\includegraphics[width=0.5\textwidth]{figure6.png}
+\caption{Fig. 6 . Simulation of the proliferation of allogeneic, human peripheral blood 
+T lymphocytes by HMGB1-treated DCs. T cells (10^5/well) were cultured in 
+triplicate in the absence or presence of DCs at concentrations specified in 
+96-well plates for 6 days with the addition of 3H-TdR (0.5 μCi/well) in the last 
+18 h of incubation. The cells were harvested and measured for the incorpora-
+tion of 3H-TdR (mean±SD). DCs were treated with or without (sham) 1 μg/ml 
+rhHMGB1 for 48 h at 37°C in humidified air with 5% CO2 for 48 h before used 
+in the allogeneic MLR experiments. *, P < 0.01, when compared with the 
+corresponding sham group.}
+\end{figure}
+
+64 Journal of Leukocyte Biology Volume 81, January 2007 http://www.jleukbio.org
